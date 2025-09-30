@@ -7,6 +7,7 @@
 
 
 import json
+import sys
 from datetime import datetime
 from datetime import timezone
 from pathlib import Path
@@ -81,6 +82,6 @@ class NuGetCatalogMirror(BasePipeline):
 
 
 if __name__ == "__main__":
-    error, error_msg = NuGetCatalogMirror().execute()
-    if error:
-        print(error_msg)
+    status_code, error_msg = NuGetCatalogMirror().execute()
+    print(error_msg)
+    sys.exit(status_code)
