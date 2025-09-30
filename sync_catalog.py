@@ -10,6 +10,7 @@ import json
 from datetime import datetime
 from datetime import timezone
 from pathlib import Path
+from urllib.parse import urljoin
 
 import requests
 
@@ -34,7 +35,7 @@ class NuGetCatalogMirror(BasePipeline):
 
     def check_new_catalog(self):
         start_page = self.get_catalog_page_count()
-        self.fetch_and_write(f"{self.url}/index.json", CATALOG_INDEX)
+        self.fetch_and_write(urljoin(self.url, "index.json"), CATALOG_INDEX)
         end_page = self.get_catalog_page_count()
         self.pages_to_collect = range(start_page, end_page)
 
@@ -47,10 +48,10 @@ class NuGetCatalogMirror(BasePipeline):
             logger=self.log,
         )
         for page in progress.iter(latest_pages):
-            page_id = f"page{page}"
+            page_id = f"page{page}.json"
             self.fetch_and_write(
-                url=f"{self.url}{page_id}.json",
-                path=PAGE_DIRECTORY / f"{page_id}.json",
+                url=urljoin(self.url, page_id),
+                path=PAGE_DIRECTORY / page_id,
             )
 
     def log(self, message):
