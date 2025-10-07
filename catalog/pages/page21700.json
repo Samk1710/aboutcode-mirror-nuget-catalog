@@ -1,0 +1,1177 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21700.json",
+  "@type": "CatalogPage",
+  "commitId": "9b2e1564-ae89-442c-9706-e1e83fb36145",
+  "commitTimeStamp": "2025-10-07T11:06:59.40913Z",
+  "count": 143,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.11.06.59/vorn.files.client.8.1.0-rc2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9b2e1564-ae89-442c-9706-e1e83fb36145",
+      "commitTimeStamp": "2025-10-07T11:06:59.40913Z",
+      "nuget:id": "Vorn.Files.Client",
+      "nuget:version": "8.1.0-rc2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.11.06.59/sourcecodebuilder.html.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9b2e1564-ae89-442c-9706-e1e83fb36145",
+      "commitTimeStamp": "2025-10-07T11:06:59.40913Z",
+      "nuget:id": "SourceCodeBuilder.Html",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.11.06.25/bsynchro.common.8.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9d4725f2-19ad-4151-915a-df4176d7d467",
+      "commitTimeStamp": "2025-10-07T11:06:25.1745543Z",
+      "nuget:id": "BSynchro.Common",
+      "nuget:version": "8.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.11.05.48/codegeneratorbuilder.1.0.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3b8d1874-d418-4129-a0f0-99f063fbeea0",
+      "commitTimeStamp": "2025-10-07T11:05:48.5962848Z",
+      "nuget:id": "CodeGeneratorBuilder",
+      "nuget:version": "1.0.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.11.03.53/intent.softwarefactory.cli.4.5.21-pre.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc3b20cd-3a8e-4e3d-85f0-fd96de4836d6",
+      "commitTimeStamp": "2025-10-07T11:03:53.3478551Z",
+      "nuget:id": "Intent.SoftwareFactory.CLI",
+      "nuget:version": "4.5.21-pre.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.11.03.53/feliz.3.0.0-rc.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc3b20cd-3a8e-4e3d-85f0-fd96de4836d6",
+      "commitTimeStamp": "2025-10-07T11:03:53.3478551Z",
+      "nuget:id": "Feliz",
+      "nuget:version": "3.0.0-rc.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.11.03.13/intent.packager.cli.4.5.21-pre.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eef30fd7-ffd5-4179-958a-4d3958396f0c",
+      "commitTimeStamp": "2025-10-07T11:03:13.156864Z",
+      "nuget:id": "Intent.Packager.CLI",
+      "nuget:version": "4.5.21-pre.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.11.03.13/mesch.realtree.0.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eef30fd7-ffd5-4179-958a-4d3958396f0c",
+      "commitTimeStamp": "2025-10-07T11:03:13.156864Z",
+      "nuget:id": "Mesch.RealTree",
+      "nuget:version": "0.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.11.00.28/blc.bluecrm.bluemembership.crm.objects.2025.10.7.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "01347f54-3c6f-47bc-98b7-a3393c17bb66",
+      "commitTimeStamp": "2025-10-07T11:00:28.9834504Z",
+      "nuget:id": "BLC.BlueCrm.BlueMembership.CRM.Objects",
+      "nuget:version": "2025.10.7.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.11.00.28/plccomfors7.15.6.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "01347f54-3c6f-47bc-98b7-a3393c17bb66",
+      "commitTimeStamp": "2025-10-07T11:00:28.9834504Z",
+      "nuget:id": "PLCcomForS7",
+      "nuget:version": "15.6.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.59.46/omnidataaccess.sqldatabases.1.2.0-rc.2.251007.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a927330-49ae-4a4f-98a3-276875bae007",
+      "commitTimeStamp": "2025-10-07T10:59:46.6966084Z",
+      "nuget:id": "OmniDataAccess.SqlDatabases",
+      "nuget:version": "1.2.0-rc.2.251007"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.58.27/gentr.1.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a383688d-cac1-4906-b75a-8ccb26889774",
+      "commitTimeStamp": "2025-10-07T10:58:27.6984309Z",
+      "nuget:id": "GenTr",
+      "nuget:version": "1.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.57.12/linn.cloud.common.logging.amazonlambda.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6c2668a6-bc52-459e-9b39-262118f8fda1",
+      "commitTimeStamp": "2025-10-07T10:57:12.446522Z",
+      "nuget:id": "Linn.Cloud.Common.Logging.AmazonLambda",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.application.storage.jobs.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Application.Storage.Jobs",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.infrastructure.entityframework.eventsourcing.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Infrastructure.EntityFramework.EventSourcing",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.infrastructure.entityframework.eventsourcing.sqlserver.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Infrastructure.EntityFramework.EventSourcing.SqlServer",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.common.serialization.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Common.Serialization",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.infrastructure.entityframework.postgres.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Infrastructure.EntityFramework.Postgres",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.infrastructure.azure.servicebus.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Infrastructure.Azure.ServiceBus",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.infrastructure.entityframework.sqlite.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Infrastructure.EntityFramework.Sqlite",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.application.entities.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Application.Entities",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.presentation.configuration.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Presentation.Configuration",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.application.utilities.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Application.Utilities",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.common.extensions.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Common.Extensions",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.application.notifications.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Application.Notifications",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.presentation.web.client.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Presentation.Web.Client",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.presentation.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Presentation",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.common.abstractions.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Common.Abstractions",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.domain.outbox.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Domain.Outbox",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.application.queries.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Application.Queries",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.application.commands.outbox.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Application.Commands.Outbox",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.53/bridgingit.devkit.presentation.serilog.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d71ad1c-f500-4766-8af5-537acbcb21ac",
+      "commitTimeStamp": "2025-10-07T10:55:53.0626917Z",
+      "nuget:id": "BridgingIT.DevKit.Presentation.Serilog",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.infrastructure.litedb.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Infrastructure.LiteDb",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.infrastructure.windows.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Infrastructure.Windows",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.common.options.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Common.Options",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.application.storage.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Application.Storage",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.application.commands.eventsourcing.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Application.Commands.EventSourcing",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.common.modules.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Common.Modules",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.infrastructure.entityframework.outbox.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Infrastructure.EntityFramework.Outbox",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.application.messaging.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Application.Messaging",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.application.jobscheduling.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Application.JobScheduling",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.common.rules.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Common.Rules",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.application.identity.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Application.Identity",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.domain.eventsourcing.outbox.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Domain.EventSourcing.Outbox",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.domain.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Domain",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.common.utilities.tracing.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Common.Utilities.Tracing",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.application.commands.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Application.Commands",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.application.entities.messaging.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Application.Entities.Messaging",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/mooho.base.2.10.14.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "Mooho.Base",
+      "nuget:version": "2.10.14"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.domain.mediator.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Domain.Mediator",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.domain.eventsourcing.mediator.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Domain.EventSourcing.Mediator",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.55.11/bridgingit.devkit.infrastructure.azure.cosmos.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28a695ca-0c28-4925-a3e4-d6ef86b170d1",
+      "commitTimeStamp": "2025-10-07T10:55:11.4661157Z",
+      "nuget:id": "BridgingIT.DevKit.Infrastructure.Azure.Cosmos",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.54.30/bridgingit.devkit.infrastructure.rabbitmq.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc14e81e-c8cb-4432-a9bc-03a879528220",
+      "commitTimeStamp": "2025-10-07T10:54:30.7838504Z",
+      "nuget:id": "BridgingIT.DevKit.Infrastructure.RabbitMQ",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.54.30/bridgingit.devkit.common.caching.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc14e81e-c8cb-4432-a9bc-03a879528220",
+      "commitTimeStamp": "2025-10-07T10:54:30.7838504Z",
+      "nuget:id": "BridgingIT.DevKit.Common.Caching",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.54.30/bridgingit.devkit.common.extensions.web.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc14e81e-c8cb-4432-a9bc-03a879528220",
+      "commitTimeStamp": "2025-10-07T10:54:30.7838504Z",
+      "nuget:id": "BridgingIT.DevKit.Common.Extensions.Web",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.54.30/bridgingit.devkit.infrastructure.entityframework.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc14e81e-c8cb-4432-a9bc-03a879528220",
+      "commitTimeStamp": "2025-10-07T10:54:30.7838504Z",
+      "nuget:id": "BridgingIT.DevKit.Infrastructure.EntityFramework",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.54.30/bridgingit.devkit.common.utilities.xunit.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc14e81e-c8cb-4432-a9bc-03a879528220",
+      "commitTimeStamp": "2025-10-07T10:54:30.7838504Z",
+      "nuget:id": "BridgingIT.DevKit.Common.Utilities.Xunit",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.54.30/bridgingit.devkit.common.utilities.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc14e81e-c8cb-4432-a9bc-03a879528220",
+      "commitTimeStamp": "2025-10-07T10:54:30.7838504Z",
+      "nuget:id": "BridgingIT.DevKit.Common.Utilities",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.54.30/bridgingit.devkit.infrastructure.entityframework.sqlserver.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc14e81e-c8cb-4432-a9bc-03a879528220",
+      "commitTimeStamp": "2025-10-07T10:54:30.7838504Z",
+      "nuget:id": "BridgingIT.DevKit.Infrastructure.EntityFramework.SqlServer",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.54.30/bridgingit.devkit.presentation.web.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc14e81e-c8cb-4432-a9bc-03a879528220",
+      "commitTimeStamp": "2025-10-07T10:54:30.7838504Z",
+      "nuget:id": "BridgingIT.DevKit.Presentation.Web",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.54.30/bridgingit.devkit.domain.eventsourcing.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc14e81e-c8cb-4432-a9bc-03a879528220",
+      "commitTimeStamp": "2025-10-07T10:54:30.7838504Z",
+      "nuget:id": "BridgingIT.DevKit.Domain.EventSourcing",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.54.30/gentr.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc14e81e-c8cb-4432-a9bc-03a879528220",
+      "commitTimeStamp": "2025-10-07T10:54:30.7838504Z",
+      "nuget:id": "GenTr",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.54.30/bridgingit.devkit.infrastructure.eventsourcing.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc14e81e-c8cb-4432-a9bc-03a879528220",
+      "commitTimeStamp": "2025-10-07T10:54:30.7838504Z",
+      "nuget:id": "BridgingIT.DevKit.Infrastructure.EventSourcing",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.54.30/bridgingit.devkit.infrastructure.azure.storage.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc14e81e-c8cb-4432-a9bc-03a879528220",
+      "commitTimeStamp": "2025-10-07T10:54:30.7838504Z",
+      "nuget:id": "BridgingIT.DevKit.Infrastructure.Azure.Storage",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.54.30/bridgingit.devkit.domain.codegen.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc14e81e-c8cb-4432-a9bc-03a879528220",
+      "commitTimeStamp": "2025-10-07T10:54:30.7838504Z",
+      "nuget:id": "BridgingIT.DevKit.Domain.CodeGen",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.54.30/bridgingit.devkit.infrastructure.entityframework.cosmos.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc14e81e-c8cb-4432-a9bc-03a879528220",
+      "commitTimeStamp": "2025-10-07T10:54:30.7838504Z",
+      "nuget:id": "BridgingIT.DevKit.Infrastructure.EntityFramework.Cosmos",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.54.30/bridgingit.devkit.common.mapping.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc14e81e-c8cb-4432-a9bc-03a879528220",
+      "commitTimeStamp": "2025-10-07T10:54:30.7838504Z",
+      "nuget:id": "BridgingIT.DevKit.Common.Mapping",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.53.54/bridgingit.devkit.common.results.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8aa245a-cb2b-4f74-b47b-2372afb1686c",
+      "commitTimeStamp": "2025-10-07T10:53:54.2384779Z",
+      "nuget:id": "BridgingIT.DevKit.Common.Results",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.53.54/bridgingit.devkit.presentation.web.jobscheduling.9.0.21-preview.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8aa245a-cb2b-4f74-b47b-2372afb1686c",
+      "commitTimeStamp": "2025-10-07T10:53:54.2384779Z",
+      "nuget:id": "BridgingIT.DevKit.Presentation.Web.JobScheduling",
+      "nuget:version": "9.0.21-preview.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.53.18/gentr.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "de66c0a3-9d9b-4b63-823c-47377b0a1030",
+      "commitTimeStamp": "2025-10-07T10:53:18.4928473Z",
+      "nuget:id": "GenTr",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.52.42/aspose.imaging.heic.adapter.25.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c08f4965-99fd-4584-ba99-565af4d539ef",
+      "commitTimeStamp": "2025-10-07T10:52:42.9264574Z",
+      "nuget:id": "Aspose.Imaging.HEIC.Adapter",
+      "nuget:version": "25.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.50.09/n3o.umbraco.storage.azure.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae985e04-9979-4106-8099-25d1fc02dded",
+      "commitTimeStamp": "2025-10-07T10:50:09.6859417Z",
+      "nuget:id": "N3O.Umbraco.Storage.Azure",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.50.09/dmetestutility.1.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae985e04-9979-4106-8099-25d1fc02dded",
+      "commitTimeStamp": "2025-10-07T10:50:09.6859417Z",
+      "nuget:id": "DMETestUtility",
+      "nuget:version": "1.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.50.09/n3o.umbraco.cells.staticassets.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae985e04-9979-4106-8099-25d1fc02dded",
+      "commitTimeStamp": "2025-10-07T10:50:09.6859417Z",
+      "nuget:id": "N3O.Umbraco.Cells.StaticAssets",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.50.09/belkawow.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae985e04-9979-4106-8099-25d1fc02dded",
+      "commitTimeStamp": "2025-10-07T10:50:09.6859417Z",
+      "nuget:id": "BelkaWOW",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.50.09/n3o.umbraco.cropper.data.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae985e04-9979-4106-8099-25d1fc02dded",
+      "commitTimeStamp": "2025-10-07T10:50:09.6859417Z",
+      "nuget:id": "N3O.Umbraco.Cropper.Data",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.50.09/n3o.umbraco.maps.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae985e04-9979-4106-8099-25d1fc02dded",
+      "commitTimeStamp": "2025-10-07T10:50:09.6859417Z",
+      "nuget:id": "N3O.Umbraco.Maps",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.50.09/n3o.umbraco.uploader.data.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae985e04-9979-4106-8099-25d1fc02dded",
+      "commitTimeStamp": "2025-10-07T10:50:09.6859417Z",
+      "nuget:id": "N3O.Umbraco.Uploader.Data",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.50.09/n3o.umbraco.data.perplexblocks.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae985e04-9979-4106-8099-25d1fc02dded",
+      "commitTimeStamp": "2025-10-07T10:50:09.6859417Z",
+      "nuget:id": "N3O.Umbraco.Data.PerplexBlocks",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.50.09/n3o.umbraco.payments.directdebituk.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae985e04-9979-4106-8099-25d1fc02dded",
+      "commitTimeStamp": "2025-10-07T10:50:09.6859417Z",
+      "nuget:id": "N3O.Umbraco.Payments.DirectDebitUK",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.50.09/n3o.umbraco.serpeditor.staticassets.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae985e04-9979-4106-8099-25d1fc02dded",
+      "commitTimeStamp": "2025-10-07T10:50:09.6859417Z",
+      "nuget:id": "N3O.Umbraco.SerpEditor.StaticAssets",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.50.09/dmetestutility.1.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae985e04-9979-4106-8099-25d1fc02dded",
+      "commitTimeStamp": "2025-10-07T10:50:09.6859417Z",
+      "nuget:id": "DMETestUtility",
+      "nuget:version": "1.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.50.09/n3o.umbraco.cropper.staticassets.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae985e04-9979-4106-8099-25d1fc02dded",
+      "commitTimeStamp": "2025-10-07T10:50:09.6859417Z",
+      "nuget:id": "N3O.Umbraco.Cropper.StaticAssets",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.uploader.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.Uploader",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.data.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.Data",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.uibuilder.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.UIBuilder",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.crowdfunding.perplexblocks.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.Crowdfunding.PerplexBlocks",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.serpeditor.data.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.SerpEditor.Data",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/kztek.invoice.sdks.1.6.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "KZTEK.Invoice.SDKs",
+      "nuget:version": "1.6.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.uploader.staticassets.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.Uploader.StaticAssets",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.editorjs.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.EditorJs",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.maps.google.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.Maps.Google",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.taxrelief.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.TaxRelief",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.payments.opayo.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.Payments.Opayo",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.cells.data.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.Cells.Data",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.textresourceeditor.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.TextResourceEditor",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.workflows.staticassets.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.Workflows.StaticAssets",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.maps.google.staticassets.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.Maps.Google.StaticAssets",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.monitoring.sentry.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.Monitoring.Sentry",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.serpeditor.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.SerpEditor",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.cells.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.Cells",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.vacancies.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.Vacancies",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.49.32/n3o.umbraco.textresourceeditor.staticassets.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8c749ea-fa7e-4972-8ed8-e1d0b2ff571e",
+      "commitTimeStamp": "2025-10-07T10:49:32.9741624Z",
+      "nuget:id": "N3O.Umbraco.TextResourceEditor.StaticAssets",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.messagebus.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.MessageBus",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.cloud.platforms.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.Cloud.Platforms",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.scheduler.staticassets.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.Scheduler.StaticAssets",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.cropper.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.Cropper",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.markup.markdown.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.Markup.Markdown",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.analytics.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.Analytics",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.forms.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.Forms",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.cdn.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.Cdn",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.marketing.staticassets.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.Marketing.StaticAssets",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.marketing.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.Marketing",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.storage.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.Storage",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.welcomedashboard.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.WelcomeDashboard",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.crowdfunding.staticassets.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.Crowdfunding.StaticAssets",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.blazor.backoffice.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.Blazor.BackOffice",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.telemetry.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.Telemetry",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.taxrelief.unitedkingdom.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.TaxRelief.UnitedKingdom",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.payments.authorizenet.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.Payments.AuthorizeNet",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/klimovskayakp.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "KlimovskayaKP",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.plugins.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.Plugins",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.55/n3o.umbraco.welcomedashboard.staticassets.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3413cfe3-6c73-49a3-9439-2c84b5ef73c0",
+      "commitTimeStamp": "2025-10-07T10:48:55.208272Z",
+      "nuget:id": "N3O.Umbraco.WelcomeDashboard.StaticAssets",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.email.smtp.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Email.Smtp",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.giving.allocations.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Giving.Allocations",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.payments.bambora.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Payments.Bambora",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/demosite.core.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "DemoSite.Core",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.giving.checkout.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Giving.Checkout",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.payments.gocardless.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Payments.GoCardless",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.forex.cloud.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Forex.Cloud",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.search.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Search",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.payments.totalprocessing.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Payments.TotalProcessing",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.templates.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Templates",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.payments.paypal.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Payments.PayPal",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.geoip.maxmind.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.GeoIP.MaxMind",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.workflows.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Workflows",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.video.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Video",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.crowdfunding.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Crowdfunding",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.giving.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Giving",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.scheduler.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Scheduler",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.search.typesense.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Search.Typesense",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.email.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.Email",
+      "nuget:version": "13.0.241"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.07.10.48.18/n3o.umbraco.editorjs.staticassets.13.0.241.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4399e47f-5506-4b1d-bdc9-2f8e2f5f741d",
+      "commitTimeStamp": "2025-10-07T10:48:18.7157314Z",
+      "nuget:id": "N3O.Umbraco.EditorJs.StaticAssets",
+      "nuget:version": "13.0.241"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
