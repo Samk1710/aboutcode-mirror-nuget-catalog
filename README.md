@@ -4,8 +4,9 @@ This repository hosts an **append-only mirror** of the official [NuGet Catalog](
 
 ## Sync Frequency
 
-The mirror syncs every hour, appending new pages from the NuGet catalog. See the sync process in 
-[.github/workflows/sync.yaml](.github/workflows/sync.yaml).
+The mirror syncs every hour, appending new pages from the NuGet catalog.  
+See the sync pipeline [sync_catalog.py](sync_catalog.py) and workflow 
+[.github/workflows/sync.yml](.github/workflows/sync.yml).
 
 ---
 
