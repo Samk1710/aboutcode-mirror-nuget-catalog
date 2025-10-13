@@ -1,0 +1,3641 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21714.json",
+  "@type": "CatalogPage",
+  "commitId": "ae0d6670-9a99-41e3-b1ba-78719d0dbbaa",
+  "commitTimeStamp": "2025-10-13T03:26:37.2140055Z",
+  "count": 451,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.37/onbarcode.barcode.reader.sample.vb.code93.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae0d6670-9a99-41e3-b1ba-78719d0dbbaa",
+      "commitTimeStamp": "2025-10-13T03:26:37.2140055Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.VB.Code93",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.37/credfeto.package.update.1.10.217.1929-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae0d6670-9a99-41e3-b1ba-78719d0dbbaa",
+      "commitTimeStamp": "2025-10-13T03:26:37.2140055Z",
+      "nuget:id": "Credfeto.Package.Update",
+      "nuget:version": "1.10.217.1929-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.37/credfeto.random.1.0.139.1350-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae0d6670-9a99-41e3-b1ba-78719d0dbbaa",
+      "commitTimeStamp": "2025-10-13T03:26:37.2140055Z",
+      "nuget:id": "Credfeto.Random",
+      "nuget:version": "1.0.139.1350-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.37/credfeto.changelog.cmd.osx-arm64.1.10.194.1515-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae0d6670-9a99-41e3-b1ba-78719d0dbbaa",
+      "commitTimeStamp": "2025-10-13T03:26:37.2140055Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.osx-arm64",
+      "nuget:version": "1.10.194.1515-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.37/onbarcode.barcode.reader.sample.upce.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae0d6670-9a99-41e3-b1ba-78719d0dbbaa",
+      "commitTimeStamp": "2025-10-13T03:26:37.2140055Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.UPCE",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.37/credfeto.changelog.cmd.linux-arm64.1.10.194.1515-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae0d6670-9a99-41e3-b1ba-78719d0dbbaa",
+      "commitTimeStamp": "2025-10-13T03:26:37.2140055Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.linux-arm64",
+      "nuget:version": "1.10.194.1515-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.37/credfeto.changelog.cmd.linux-x64.1.10.194.1515-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae0d6670-9a99-41e3-b1ba-78719d0dbbaa",
+      "commitTimeStamp": "2025-10-13T03:26:37.2140055Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.linux-x64",
+      "nuget:version": "1.10.194.1515-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.37/onbarcode.barcode.reader.sample.vb.ean8.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae0d6670-9a99-41e3-b1ba-78719d0dbbaa",
+      "commitTimeStamp": "2025-10-13T03:26:37.2140055Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.VB.EAN8",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.37/credfeto.changelog.cmd.win-arm64.1.10.194.1515-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae0d6670-9a99-41e3-b1ba-78719d0dbbaa",
+      "commitTimeStamp": "2025-10-13T03:26:37.2140055Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.win-arm64",
+      "nuget:version": "1.10.194.1515-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.02/credfeto.package.push.1.6.177.1503-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9210210a-df0b-4c24-8b4b-2931beede99f",
+      "commitTimeStamp": "2025-10-13T03:26:02.8030721Z",
+      "nuget:id": "Credfeto.Package.Push",
+      "nuget:version": "1.6.177.1503-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.02/onbarcode.barcode.reader.sample.vb.australiapost.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9210210a-df0b-4c24-8b4b-2931beede99f",
+      "commitTimeStamp": "2025-10-13T03:26:02.8030721Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.VB.AustraliaPost",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.02/credfeto.package.push.osx-x64.1.6.177.1503-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9210210a-df0b-4c24-8b4b-2931beede99f",
+      "commitTimeStamp": "2025-10-13T03:26:02.8030721Z",
+      "nuget:id": "Credfeto.Package.Push.osx-x64",
+      "nuget:version": "1.6.177.1503-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.02/credfeto.package.push.win-x64.1.6.177.1503-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9210210a-df0b-4c24-8b4b-2931beede99f",
+      "commitTimeStamp": "2025-10-13T03:26:02.8030721Z",
+      "nuget:id": "Credfeto.Package.Push.win-x64",
+      "nuget:version": "1.6.177.1503-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.02/onbarcode.barcode.reader.sample.vb.code39.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9210210a-df0b-4c24-8b4b-2931beede99f",
+      "commitTimeStamp": "2025-10-13T03:26:02.8030721Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.VB.Code39",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.02/credfeto.package.update.osx-x64.1.10.217.1929-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9210210a-df0b-4c24-8b4b-2931beede99f",
+      "commitTimeStamp": "2025-10-13T03:26:02.8030721Z",
+      "nuget:id": "Credfeto.Package.Update.osx-x64",
+      "nuget:version": "1.10.217.1929-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.02/credfeto.package.push.linux-x64.1.6.177.1503-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9210210a-df0b-4c24-8b4b-2931beede99f",
+      "commitTimeStamp": "2025-10-13T03:26:02.8030721Z",
+      "nuget:id": "Credfeto.Package.Push.linux-x64",
+      "nuget:version": "1.6.177.1503-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.02/onbarcode.barcode.reader.sample.vb.code128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9210210a-df0b-4c24-8b4b-2931beede99f",
+      "commitTimeStamp": "2025-10-13T03:26:02.8030721Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.VB.Code128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.02/onbarcode.barcode.reader.sample.vb.codabar.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9210210a-df0b-4c24-8b4b-2931beede99f",
+      "commitTimeStamp": "2025-10-13T03:26:02.8030721Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.VB.Codabar",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.02/credfeto.package.update.win-arm64.1.10.217.1929-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9210210a-df0b-4c24-8b4b-2931beede99f",
+      "commitTimeStamp": "2025-10-13T03:26:02.8030721Z",
+      "nuget:id": "Credfeto.Package.Update.win-arm64",
+      "nuget:version": "1.10.217.1929-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.02/credfeto.package.push.osx-arm64.1.6.177.1503-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9210210a-df0b-4c24-8b4b-2931beede99f",
+      "commitTimeStamp": "2025-10-13T03:26:02.8030721Z",
+      "nuget:id": "Credfeto.Package.Push.osx-arm64",
+      "nuget:version": "1.6.177.1503-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.26.02/credfeto.package.push.linux-arm64.1.6.177.1503-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9210210a-df0b-4c24-8b4b-2931beede99f",
+      "commitTimeStamp": "2025-10-13T03:26:02.8030721Z",
+      "nuget:id": "Credfeto.Package.Push.linux-arm64",
+      "nuget:version": "1.6.177.1503-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.25.28/onbarcode.barcode.reader.sample.upca.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "08f8a859-144c-4a04-9d1d-c3529885d1af",
+      "commitTimeStamp": "2025-10-13T03:25:28.2404095Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.UPCA",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.25.28/onbarcode.barcode.reader.sample.qrcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "08f8a859-144c-4a04-9d1d-c3529885d1af",
+      "commitTimeStamp": "2025-10-13T03:25:28.2404095Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.QRCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.25.28/pnp.core.1.15.172-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "08f8a859-144c-4a04-9d1d-c3529885d1af",
+      "commitTimeStamp": "2025-10-13T03:25:28.2404095Z",
+      "nuget:id": "PnP.Core",
+      "nuget:version": "1.15.172-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.25.28/credfeto.package.update.win-x64.1.10.217.1929-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "08f8a859-144c-4a04-9d1d-c3529885d1af",
+      "commitTimeStamp": "2025-10-13T03:25:28.2404095Z",
+      "nuget:id": "Credfeto.Package.Update.win-x64",
+      "nuget:version": "1.10.217.1929-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.25.28/pnp.core.auth.1.15.172-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "08f8a859-144c-4a04-9d1d-c3529885d1af",
+      "commitTimeStamp": "2025-10-13T03:25:28.2404095Z",
+      "nuget:id": "PnP.Core.Auth",
+      "nuget:version": "1.15.172-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.25.28/pnp.framework.1.18.171-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "08f8a859-144c-4a04-9d1d-c3529885d1af",
+      "commitTimeStamp": "2025-10-13T03:25:28.2404095Z",
+      "nuget:id": "PnP.Framework",
+      "nuget:version": "1.18.171-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.25.28/onbarcode.barcode.reader.sample.share.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "08f8a859-144c-4a04-9d1d-c3529885d1af",
+      "commitTimeStamp": "2025-10-13T03:25:28.2404095Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.Share",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.25.28/pnp.core.admin.1.15.172-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "08f8a859-144c-4a04-9d1d-c3529885d1af",
+      "commitTimeStamp": "2025-10-13T03:25:28.2404095Z",
+      "nuget:id": "PnP.Core.Admin",
+      "nuget:version": "1.15.172-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.24.56/onbarcode.barcode.reader.sample.postnet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a96f2944-48bb-4e02-a982-0cfd1822a53e",
+      "commitTimeStamp": "2025-10-13T03:24:56.2246313Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.POSTNET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.24.56/credfeto.package.update.linux-arm64.1.10.217.1929-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a96f2944-48bb-4e02-a982-0cfd1822a53e",
+      "commitTimeStamp": "2025-10-13T03:24:56.2246313Z",
+      "nuget:id": "Credfeto.Package.Update.linux-arm64",
+      "nuget:version": "1.10.217.1929-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.24.56/onbarcode.barcode.reader.sample.planet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a96f2944-48bb-4e02-a982-0cfd1822a53e",
+      "commitTimeStamp": "2025-10-13T03:24:56.2246313Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.PLANET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.24.56/credfeto.package.update.linux-x64.1.10.217.1929-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a96f2944-48bb-4e02-a982-0cfd1822a53e",
+      "commitTimeStamp": "2025-10-13T03:24:56.2246313Z",
+      "nuget:id": "Credfeto.Package.Update.linux-x64",
+      "nuget:version": "1.10.217.1929-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.24.56/onbarcode.barcode.reader.sample.rm4scc.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a96f2944-48bb-4e02-a982-0cfd1822a53e",
+      "commitTimeStamp": "2025-10-13T03:24:56.2246313Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.RM4SCC",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.24.56/credfeto.package.update.osx-arm64.1.10.217.1929-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a96f2944-48bb-4e02-a982-0cfd1822a53e",
+      "commitTimeStamp": "2025-10-13T03:24:56.2246313Z",
+      "nuget:id": "Credfeto.Package.Update.osx-arm64",
+      "nuget:version": "1.10.217.1929-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.24.21/onbarcode.barcode.reader.sample.leitcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbced296-850b-47d3-9150-28439ff8c7f9",
+      "commitTimeStamp": "2025-10-13T03:24:21.0706193Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.Leitcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.24.21/onbarcode.barcode.reader.sample.pdf417.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbced296-850b-47d3-9150-28439ff8c7f9",
+      "commitTimeStamp": "2025-10-13T03:24:21.0706193Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.PDF417",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.24.21/onbarcode.barcode.reader.sample.interleaved2of5.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbced296-850b-47d3-9150-28439ff8c7f9",
+      "commitTimeStamp": "2025-10-13T03:24:21.0706193Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.Interleaved2of5",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.24.21/credfeto.package.1.10.217.1929-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbced296-850b-47d3-9150-28439ff8c7f9",
+      "commitTimeStamp": "2025-10-13T03:24:21.0706193Z",
+      "nuget:id": "Credfeto.Package",
+      "nuget:version": "1.10.217.1929-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.23.47/onbarcode.barcode.reader.sample.itf14.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6abd9580-d24f-4973-bd24-aa8a214dca4e",
+      "commitTimeStamp": "2025-10-13T03:23:47.4881078Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.ITF14",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.23.47/onbarcode.barcode.reader.sample.issn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6abd9580-d24f-4973-bd24-aa8a214dca4e",
+      "commitTimeStamp": "2025-10-13T03:23:47.4881078Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.ISSN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.23.47/onbarcode.barcode.reader.sample.patchcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6abd9580-d24f-4973-bd24-aa8a214dca4e",
+      "commitTimeStamp": "2025-10-13T03:23:47.4881078Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.PatchCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.23.47/ben.semantickernel.5.2.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6abd9580-d24f-4973-bd24-aa8a214dca4e",
+      "commitTimeStamp": "2025-10-13T03:23:47.4881078Z",
+      "nuget:id": "Ben.SemanticKernel",
+      "nuget:version": "5.2.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.23.13/onbarcode.barcode.reader.sample.isbn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c96f177e-83f0-4a16-ad0f-44fa41146a0f",
+      "commitTimeStamp": "2025-10-13T03:23:13.7468526Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.ISBN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.23.13/onbarcode.barcode.reader.sample.gs1.128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c96f177e-83f0-4a16-ad0f-44fa41146a0f",
+      "commitTimeStamp": "2025-10-13T03:23:13.7468526Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.GS1.128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.22.40/onbarcode.barcode.reader.sample.datamatrix.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "145f0e05-fc9f-43b0-9249-3bbcd3ce4ef2",
+      "commitTimeStamp": "2025-10-13T03:22:40.1215812Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.DataMatrix",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.22.40/onbarcode.barcode.reader.sample.ean8.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "145f0e05-fc9f-43b0-9249-3bbcd3ce4ef2",
+      "commitTimeStamp": "2025-10-13T03:22:40.1215812Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.EAN8",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.22.40/onbarcode.barcode.reader.sample.intelligentmail.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "145f0e05-fc9f-43b0-9249-3bbcd3ce4ef2",
+      "commitTimeStamp": "2025-10-13T03:22:40.1215812Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.IntelligentMail",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.22.40/onbarcode.barcode.reader.sample.identcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "145f0e05-fc9f-43b0-9249-3bbcd3ce4ef2",
+      "commitTimeStamp": "2025-10-13T03:22:40.1215812Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.Identcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.22.40/onbarcode.barcode.reader.sample.code128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "145f0e05-fc9f-43b0-9249-3bbcd3ce4ef2",
+      "commitTimeStamp": "2025-10-13T03:22:40.1215812Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.Code128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.22.06/onbarcode.barcode.reader.framework.sample.vb.upce.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "584bc98a-f2cc-45a0-acbc-15a03a7ddd71",
+      "commitTimeStamp": "2025-10-13T03:22:06.9294366Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.UPCE",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.22.06/onbarcode.barcode.reader.sample.code39.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "584bc98a-f2cc-45a0-acbc-15a03a7ddd71",
+      "commitTimeStamp": "2025-10-13T03:22:06.9294366Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.Code39",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.22.06/bootstrapblazor.9.11.2-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "584bc98a-f2cc-45a0-acbc-15a03a7ddd71",
+      "commitTimeStamp": "2025-10-13T03:22:06.9294366Z",
+      "nuget:id": "BootstrapBlazor",
+      "nuget:version": "9.11.2-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.22.06/onbarcode.barcode.reader.sample.code93.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "584bc98a-f2cc-45a0-acbc-15a03a7ddd71",
+      "commitTimeStamp": "2025-10-13T03:22:06.9294366Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.Code93",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.22.06/onbarcode.barcode.reader.sample.ean13.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "584bc98a-f2cc-45a0-acbc-15a03a7ddd71",
+      "commitTimeStamp": "2025-10-13T03:22:06.9294366Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.EAN13",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.21.34/onbarcode.barcode.reader.framework.sample.vb.upca.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "833b6560-4cee-4aef-9c18-37de87719e55",
+      "commitTimeStamp": "2025-10-13T03:21:34.1159976Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.UPCA",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.21.34/onbarcode.barcode.reader.sample.codabar.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "833b6560-4cee-4aef-9c18-37de87719e55",
+      "commitTimeStamp": "2025-10-13T03:21:34.1159976Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.Codabar",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.21.34/onbarcode.barcode.reader.sample.australiapost.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "833b6560-4cee-4aef-9c18-37de87719e55",
+      "commitTimeStamp": "2025-10-13T03:21:34.1159976Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Sample.AustraliaPost",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.20.59/onbarcode.barcode.reader.framework.sample.vb.share.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d3c50bed-9087-4b29-8e5a-5ee5a9bc1d6e",
+      "commitTimeStamp": "2025-10-13T03:20:59.4408002Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.Share",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.20.59/onbarcode.barcode.reader.framework.sample.vb.postnet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d3c50bed-9087-4b29-8e5a-5ee5a9bc1d6e",
+      "commitTimeStamp": "2025-10-13T03:20:59.4408002Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.POSTNET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.20.59/onbarcode.barcode.reader.framework.sample.vb.pdf417.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d3c50bed-9087-4b29-8e5a-5ee5a9bc1d6e",
+      "commitTimeStamp": "2025-10-13T03:20:59.4408002Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.PDF417",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.20.59/onbarcode.barcode.reader.framework.sample.vb.rm4scc.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d3c50bed-9087-4b29-8e5a-5ee5a9bc1d6e",
+      "commitTimeStamp": "2025-10-13T03:20:59.4408002Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.RM4SCC",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.20.27/onbarcode.barcode.reader.framework.sample.vb.patchcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2883757-97ee-4a31-959b-ffd24670b0d2",
+      "commitTimeStamp": "2025-10-13T03:20:27.6748948Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.PatchCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.20.27/onbarcode.barcode.reader.framework.sample.vb.interleaved2of5.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2883757-97ee-4a31-959b-ffd24670b0d2",
+      "commitTimeStamp": "2025-10-13T03:20:27.6748948Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.Interleaved2of5",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.19.53/onbarcode.barcode.reader.framework.sample.vb.qrcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d95cc299-efbe-469c-9017-447a61a3d8cd",
+      "commitTimeStamp": "2025-10-13T03:19:53.8778471Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.QRCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.19.53/onbarcode.barcode.reader.framework.sample.vb.planet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d95cc299-efbe-469c-9017-447a61a3d8cd",
+      "commitTimeStamp": "2025-10-13T03:19:53.8778471Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.PLANET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.19.20/onbarcode.barcode.reader.framework.sample.vb.itf14.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3c80772-24c0-4db8-a0b4-c2dd1fccd4ab",
+      "commitTimeStamp": "2025-10-13T03:19:20.3932473Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.ITF14",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.19.20/onbarcode.barcode.reader.framework.sample.vb.issn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3c80772-24c0-4db8-a0b4-c2dd1fccd4ab",
+      "commitTimeStamp": "2025-10-13T03:19:20.3932473Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.ISSN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.19.20/onbarcode.barcode.reader.framework.sample.vb.leitcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3c80772-24c0-4db8-a0b4-c2dd1fccd4ab",
+      "commitTimeStamp": "2025-10-13T03:19:20.3932473Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.Leitcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.19.20/onbarcode.barcode.reader.framework.sample.vb.isbn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3c80772-24c0-4db8-a0b4-c2dd1fccd4ab",
+      "commitTimeStamp": "2025-10-13T03:19:20.3932473Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.ISBN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.18.47/onbarcode.barcode.reader.framework.sample.vb.identcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7b15d3-2c96-47a7-82a4-dec13ae3c576",
+      "commitTimeStamp": "2025-10-13T03:18:47.771884Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.Identcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.18.11/onbarcode.barcode.reader.framework.sample.vb.intelligentmail.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9b6eaed4-5a0a-4e20-b56c-12b8cf58c055",
+      "commitTimeStamp": "2025-10-13T03:18:11.2248674Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.IntelligentMail",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.18.11/onbarcode.barcode.reader.framework.sample.vb.code39.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9b6eaed4-5a0a-4e20-b56c-12b8cf58c055",
+      "commitTimeStamp": "2025-10-13T03:18:11.2248674Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.Code39",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.18.11/onbarcode.barcode.reader.framework.sample.vb.code128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9b6eaed4-5a0a-4e20-b56c-12b8cf58c055",
+      "commitTimeStamp": "2025-10-13T03:18:11.2248674Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.Code128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.18.11/onbarcode.barcode.reader.framework.sample.vb.gs1.128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9b6eaed4-5a0a-4e20-b56c-12b8cf58c055",
+      "commitTimeStamp": "2025-10-13T03:18:11.2248674Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.GS1.128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.17.36/onbarcode.barcode.reader.framework.sample.vb.datamatrix.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f73ae4d1-8769-4882-9bce-c3ac6d1745aa",
+      "commitTimeStamp": "2025-10-13T03:17:36.6231985Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.DataMatrix",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.17.36/onbarcode.barcode.reader.framework.sample.vb.code93.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f73ae4d1-8769-4882-9bce-c3ac6d1745aa",
+      "commitTimeStamp": "2025-10-13T03:17:36.6231985Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.Code93",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.17.36/onbarcode.barcode.reader.framework.sample.vb.ean8.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f73ae4d1-8769-4882-9bce-c3ac6d1745aa",
+      "commitTimeStamp": "2025-10-13T03:17:36.6231985Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.EAN8",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.17.36/onbarcode.barcode.reader.framework.sample.vb.codabar.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f73ae4d1-8769-4882-9bce-c3ac6d1745aa",
+      "commitTimeStamp": "2025-10-13T03:17:36.6231985Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.Codabar",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.17.36/onbarcode.barcode.reader.framework.sample.upca.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f73ae4d1-8769-4882-9bce-c3ac6d1745aa",
+      "commitTimeStamp": "2025-10-13T03:17:36.6231985Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.UPCA",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.17.36/onbarcode.barcode.reader.framework.sample.vb.ean13.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f73ae4d1-8769-4882-9bce-c3ac6d1745aa",
+      "commitTimeStamp": "2025-10-13T03:17:36.6231985Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.EAN13",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.17.03/onbarcode.barcode.reader.framework.sample.upce.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "80dc08f3-277d-4dae-8c8d-a039337c9365",
+      "commitTimeStamp": "2025-10-13T03:17:03.4966598Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.UPCE",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.17.03/onbarcode.barcode.reader.framework.sample.rm4scc.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "80dc08f3-277d-4dae-8c8d-a039337c9365",
+      "commitTimeStamp": "2025-10-13T03:17:03.4966598Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.RM4SCC",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.16.29/meteorpushvocs.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f071e6fd-6285-4b7b-a3b9-50a08430e43e",
+      "commitTimeStamp": "2025-10-13T03:16:29.4153042Z",
+      "nuget:id": "MeteorPushVOCs",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.16.29/onbarcode.barcode.reader.framework.sample.qrcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f071e6fd-6285-4b7b-a3b9-50a08430e43e",
+      "commitTimeStamp": "2025-10-13T03:16:29.4153042Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.QRCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.16.29/onbarcode.barcode.reader.framework.sample.share.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f071e6fd-6285-4b7b-a3b9-50a08430e43e",
+      "commitTimeStamp": "2025-10-13T03:16:29.4153042Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.Share",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.16.29/onbarcode.barcode.reader.framework.sample.planet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f071e6fd-6285-4b7b-a3b9-50a08430e43e",
+      "commitTimeStamp": "2025-10-13T03:16:29.4153042Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.PLANET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.16.29/funfair.buildversion.linux-arm64.6.2.18.1732-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f071e6fd-6285-4b7b-a3b9-50a08430e43e",
+      "commitTimeStamp": "2025-10-13T03:16:29.4153042Z",
+      "nuget:id": "FunFair.BuildVersion.linux-arm64",
+      "nuget:version": "6.2.18.1732-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.16.29/onbarcode.barcode.reader.framework.sample.pdf417.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f071e6fd-6285-4b7b-a3b9-50a08430e43e",
+      "commitTimeStamp": "2025-10-13T03:16:29.4153042Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.PDF417",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.16.29/onbarcode.barcode.reader.framework.sample.vb.australiapost.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f071e6fd-6285-4b7b-a3b9-50a08430e43e",
+      "commitTimeStamp": "2025-10-13T03:16:29.4153042Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.VB.AustraliaPost",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.54/funfair.buildversion.osx-arm64.6.2.18.1732-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9e168ae6-285c-4671-b209-d212e7bbfbf2",
+      "commitTimeStamp": "2025-10-13T03:15:54.7744068Z",
+      "nuget:id": "FunFair.BuildVersion.osx-arm64",
+      "nuget:version": "6.2.18.1732-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.54/mforj.common.utils.1.0.3.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9e168ae6-285c-4671-b209-d212e7bbfbf2",
+      "commitTimeStamp": "2025-10-13T03:15:54.7744068Z",
+      "nuget:id": "Mforj.Common.Utils",
+      "nuget:version": "1.0.3.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.54/onbarcode.barcode.reader.framework.sample.issn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9e168ae6-285c-4671-b209-d212e7bbfbf2",
+      "commitTimeStamp": "2025-10-13T03:15:54.7744068Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.ISSN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.54/funfair.buildversion.6.2.18.1732-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9e168ae6-285c-4671-b209-d212e7bbfbf2",
+      "commitTimeStamp": "2025-10-13T03:15:54.7744068Z",
+      "nuget:id": "FunFair.BuildVersion",
+      "nuget:version": "6.2.18.1732-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.54/onbarcode.barcode.reader.framework.sample.interleaved2of5.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9e168ae6-285c-4671-b209-d212e7bbfbf2",
+      "commitTimeStamp": "2025-10-13T03:15:54.7744068Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.Interleaved2of5",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.54/funfair.buildversion.detection.6.2.18.1732-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9e168ae6-285c-4671-b209-d212e7bbfbf2",
+      "commitTimeStamp": "2025-10-13T03:15:54.7744068Z",
+      "nuget:id": "FunFair.BuildVersion.Detection",
+      "nuget:version": "6.2.18.1732-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.54/funfair.buildversion.publishers.6.2.18.1732-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9e168ae6-285c-4671-b209-d212e7bbfbf2",
+      "commitTimeStamp": "2025-10-13T03:15:54.7744068Z",
+      "nuget:id": "FunFair.BuildVersion.Publishers",
+      "nuget:version": "6.2.18.1732-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.54/funfair.buildversion.interfaces.6.2.18.1732-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9e168ae6-285c-4671-b209-d212e7bbfbf2",
+      "commitTimeStamp": "2025-10-13T03:15:54.7744068Z",
+      "nuget:id": "FunFair.BuildVersion.Interfaces",
+      "nuget:version": "6.2.18.1732-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.54/onbarcode.barcode.reader.framework.sample.itf14.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9e168ae6-285c-4671-b209-d212e7bbfbf2",
+      "commitTimeStamp": "2025-10-13T03:15:54.7744068Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.ITF14",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.54/funfair.buildversion.linux-x64.6.2.18.1732-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9e168ae6-285c-4671-b209-d212e7bbfbf2",
+      "commitTimeStamp": "2025-10-13T03:15:54.7744068Z",
+      "nuget:id": "FunFair.BuildVersion.linux-x64",
+      "nuget:version": "6.2.18.1732-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.54/onbarcode.barcode.reader.framework.sample.postnet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9e168ae6-285c-4671-b209-d212e7bbfbf2",
+      "commitTimeStamp": "2025-10-13T03:15:54.7744068Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.POSTNET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.54/funfair.buildversion.osx-x64.6.2.18.1732-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9e168ae6-285c-4671-b209-d212e7bbfbf2",
+      "commitTimeStamp": "2025-10-13T03:15:54.7744068Z",
+      "nuget:id": "FunFair.BuildVersion.osx-x64",
+      "nuget:version": "6.2.18.1732-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.54/onbarcode.barcode.reader.framework.sample.patchcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9e168ae6-285c-4671-b209-d212e7bbfbf2",
+      "commitTimeStamp": "2025-10-13T03:15:54.7744068Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.PatchCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.54/funfair.buildversion.gittagbuildnumber.6.2.18.1732-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9e168ae6-285c-4671-b209-d212e7bbfbf2",
+      "commitTimeStamp": "2025-10-13T03:15:54.7744068Z",
+      "nuget:id": "FunFair.BuildVersion.GitTagBuildNumber",
+      "nuget:version": "6.2.18.1732-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.20/funfair.buildversion.win-arm64.6.2.18.1732-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2f330a3-c1a2-4691-a21d-a916307975b2",
+      "commitTimeStamp": "2025-10-13T03:15:20.0675023Z",
+      "nuget:id": "FunFair.BuildVersion.win-arm64",
+      "nuget:version": "6.2.18.1732-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.20/funfair.buildversion.win-x64.6.2.18.1732-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2f330a3-c1a2-4691-a21d-a916307975b2",
+      "commitTimeStamp": "2025-10-13T03:15:20.0675023Z",
+      "nuget:id": "FunFair.BuildVersion.win-x64",
+      "nuget:version": "6.2.18.1732-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.20/onbarcode.barcode.reader.framework.sample.leitcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2f330a3-c1a2-4691-a21d-a916307975b2",
+      "commitTimeStamp": "2025-10-13T03:15:20.0675023Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.Leitcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.15.20/onbarcode.barcode.reader.framework.sample.isbn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2f330a3-c1a2-4691-a21d-a916307975b2",
+      "commitTimeStamp": "2025-10-13T03:15:20.0675023Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.ISBN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.14.08/onbarcode.barcode.reader.framework.sample.gs1.128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8dc118ee-1745-4d86-ba66-51fbb78f1033",
+      "commitTimeStamp": "2025-10-13T03:14:08.6845536Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.GS1.128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.14.08/onbarcode.barcode.reader.framework.sample.identcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8dc118ee-1745-4d86-ba66-51fbb78f1033",
+      "commitTimeStamp": "2025-10-13T03:14:08.6845536Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.Identcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.14.08/mdriven.components.webassembly.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8dc118ee-1745-4d86-ba66-51fbb78f1033",
+      "commitTimeStamp": "2025-10-13T03:14:08.6845536Z",
+      "nuget:id": "MDriven.Components.WebAssembly",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.14.08/onbarcode.barcode.reader.framework.sample.ean8.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8dc118ee-1745-4d86-ba66-51fbb78f1033",
+      "commitTimeStamp": "2025-10-13T03:14:08.6845536Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.EAN8",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.14.08/onbarcode.barcode.reader.framework.sample.ean13.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8dc118ee-1745-4d86-ba66-51fbb78f1033",
+      "commitTimeStamp": "2025-10-13T03:14:08.6845536Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.EAN13",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.13.30/onbarcode.barcode.reader.framework.sample.intelligentmail.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5945b72c-87ed-4dcf-89ae-fa2631071b22",
+      "commitTimeStamp": "2025-10-13T03:13:30.8093426Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.IntelligentMail",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.13.30/mdriven.turnkey.clientcsharp.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5945b72c-87ed-4dcf-89ae-fa2631071b22",
+      "commitTimeStamp": "2025-10-13T03:13:30.8093426Z",
+      "nuget:id": "MDriven.Turnkey.ClientCSharp",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.13.30/ecowebasp.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5945b72c-87ed-4dcf-89ae-fa2631071b22",
+      "commitTimeStamp": "2025-10-13T03:13:30.8093426Z",
+      "nuget:id": "EcoWebASP",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.13.30/ecootherdatabasepersistencemappers.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5945b72c-87ed-4dcf-89ae-fa2631071b22",
+      "commitTimeStamp": "2025-10-13T03:13:30.8093426Z",
+      "nuget:id": "EcoOtherDatabasePersistenceMappers",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.13.30/mdriven.aspnetidentity.core.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5945b72c-87ed-4dcf-89ae-fa2631071b22",
+      "commitTimeStamp": "2025-10-13T03:13:30.8093426Z",
+      "nuget:id": "MDriven.ASPNETIdentity.core",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.13.30/funfair.buildcheck.win-x64.474.2.2.1901-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5945b72c-87ed-4dcf-89ae-fa2631071b22",
+      "commitTimeStamp": "2025-10-13T03:13:30.8093426Z",
+      "nuget:id": "FunFair.BuildCheck.win-x64",
+      "nuget:version": "474.2.2.1901-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.13.30/onbarcode.barcode.reader.framework.sample.code93.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5945b72c-87ed-4dcf-89ae-fa2631071b22",
+      "commitTimeStamp": "2025-10-13T03:13:30.8093426Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.Code93",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.13.30/mdriven.persistence.webapi.core.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5945b72c-87ed-4dcf-89ae-fa2631071b22",
+      "commitTimeStamp": "2025-10-13T03:13:30.8093426Z",
+      "nuget:id": "MDriven.Persistence.WebApi.Core",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.13.30/mdriven.linqextender.netstandard.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5945b72c-87ed-4dcf-89ae-fa2631071b22",
+      "commitTimeStamp": "2025-10-13T03:13:30.8093426Z",
+      "nuget:id": "MDriven.LinqExtender.netStandard",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.13.30/onbarcode.barcode.reader.framework.sample.datamatrix.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5945b72c-87ed-4dcf-89ae-fa2631071b22",
+      "commitTimeStamp": "2025-10-13T03:13:30.8093426Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.DataMatrix",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.13.30/mdriven.wpf.core.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5945b72c-87ed-4dcf-89ae-fa2631071b22",
+      "commitTimeStamp": "2025-10-13T03:13:30.8093426Z",
+      "nuget:id": "MDriven.WPF.core",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.13.30/ecowebmvc.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5945b72c-87ed-4dcf-89ae-fa2631071b22",
+      "commitTimeStamp": "2025-10-13T03:13:30.8093426Z",
+      "nuget:id": "EcoWebMVC",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/mdriven.persistence.netstandard.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "MDriven.Persistence.NetStandard",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/mdriven.persistence.vistadb.netstandard.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "MDriven.Persistence.VistaDB.netstandard",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/mdriven.wecpof.core.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "MDriven.Wecpof.core",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/onbarcode.barcode.reader.framework.sample.code39.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.Code39",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/ecowebproviders.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "EcoWebProviders",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/ecowindowsforms.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "EcoWindowsForms",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/onbarcode.barcode.reader.framework.10.0.0.18.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework",
+      "nuget:version": "10.0.0.18"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/onbarcode.barcode.reader.framework.sample.code128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.Code128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/funfair.buildcheck.474.2.2.1901-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "FunFair.BuildCheck",
+      "nuget:version": "474.2.2.1901-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/mdriven.net.http.netstandard.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "MDriven.Net.Http.netStandard",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/ecosqlserver.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "EcoSqlServer",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/mdriven.handles.netstandard.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "MDriven.Handles.netStandard",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/funfair.buildcheck.interfaces.474.2.2.1901-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "FunFair.BuildCheck.Interfaces",
+      "nuget:version": "474.2.2.1901-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/mdriven.sharedinterfaces.webassembly.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "MDriven.SharedInterfaces.WebAssembly",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/ecowpf.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "EcoWpf",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/funfair.buildcheck.osx-arm64.474.2.2.1901-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "FunFair.BuildCheck.osx-arm64",
+      "nuget:version": "474.2.2.1901-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/mdriven.wpfviewmodelexternalcontrols.core.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "MDriven.WPFViewModelExternalControls.core",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/mdriven.persistence.sqlserver.netstandard.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "MDriven.Persistence.SqlServer.netStandard",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/onbarcode.barcode.reader.document.word.sample.vb.upce.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.UPCE",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.56/funfair.buildcheck.solutionchecks.474.2.2.1901-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33904ca9-e42c-4e38-8316-8b020061852f",
+      "commitTimeStamp": "2025-10-13T03:12:56.6656258Z",
+      "nuget:id": "FunFair.BuildCheck.SolutionChecks",
+      "nuget:version": "474.2.2.1901-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.21/onbarcode.barcode.reader.framework.sample.australiapost.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "97d87a17-ca52-4b91-9b40-1d2c4e121a70",
+      "commitTimeStamp": "2025-10-13T03:12:21.501815Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.AustraliaPost",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.21/funfair.buildcheck.linux-x64.474.2.2.1901-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "97d87a17-ca52-4b91-9b40-1d2c4e121a70",
+      "commitTimeStamp": "2025-10-13T03:12:21.501815Z",
+      "nuget:id": "FunFair.BuildCheck.linux-x64",
+      "nuget:version": "474.2.2.1901-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.21/mdriven.interfaces.netstandard.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "97d87a17-ca52-4b91-9b40-1d2c4e121a70",
+      "commitTimeStamp": "2025-10-13T03:12:21.501815Z",
+      "nuget:id": "MDriven.Interfaces.netStandard",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.21/onbarcode.barcode.reader.framework.sample.codabar.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "97d87a17-ca52-4b91-9b40-1d2c4e121a70",
+      "commitTimeStamp": "2025-10-13T03:12:21.501815Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Framework.Sample.Codabar",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.21/mdriven.winforms.core.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "97d87a17-ca52-4b91-9b40-1d2c4e121a70",
+      "commitTimeStamp": "2025-10-13T03:12:21.501815Z",
+      "nuget:id": "MDriven.WinForms.core",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.21/ecocore.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "97d87a17-ca52-4b91-9b40-1d2c4e121a70",
+      "commitTimeStamp": "2025-10-13T03:12:21.501815Z",
+      "nuget:id": "EcoCore",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.21/funfair.test.common.6.2.1.1742-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "97d87a17-ca52-4b91-9b40-1d2c4e121a70",
+      "commitTimeStamp": "2025-10-13T03:12:21.501815Z",
+      "nuget:id": "FunFair.Test.Common",
+      "nuget:version": "6.2.1.1742-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.12.21/mdriven.mvc.core.7.2.0.16955.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "97d87a17-ca52-4b91-9b40-1d2c4e121a70",
+      "commitTimeStamp": "2025-10-13T03:12:21.501815Z",
+      "nuget:id": "MDriven.MVC.Core",
+      "nuget:version": "7.2.0.16955"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.11.47/onbarcode.barcode.reader.document.word.sample.vb.qrcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "facfefaf-60df-4e87-96c2-11407f5108a6",
+      "commitTimeStamp": "2025-10-13T03:11:47.1265938Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.QRCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.11.47/funfair.buildcheck.runner.474.2.2.1901-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "facfefaf-60df-4e87-96c2-11407f5108a6",
+      "commitTimeStamp": "2025-10-13T03:11:47.1265938Z",
+      "nuget:id": "FunFair.BuildCheck.Runner",
+      "nuget:version": "474.2.2.1901-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.11.47/funfair.buildcheck.osx-x64.474.2.2.1901-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "facfefaf-60df-4e87-96c2-11407f5108a6",
+      "commitTimeStamp": "2025-10-13T03:11:47.1265938Z",
+      "nuget:id": "FunFair.BuildCheck.osx-x64",
+      "nuget:version": "474.2.2.1901-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.11.47/onbarcode.barcode.reader.document.word.sample.vb.upca.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "facfefaf-60df-4e87-96c2-11407f5108a6",
+      "commitTimeStamp": "2025-10-13T03:11:47.1265938Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.UPCA",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.11.47/onbarcode.barcode.reader.document.word.sample.vb.rm4scc.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "facfefaf-60df-4e87-96c2-11407f5108a6",
+      "commitTimeStamp": "2025-10-13T03:11:47.1265938Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.RM4SCC",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.11.47/onbarcode.barcode.reader.document.word.sample.vb.planet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "facfefaf-60df-4e87-96c2-11407f5108a6",
+      "commitTimeStamp": "2025-10-13T03:11:47.1265938Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.PLANET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.11.47/funfair.buildcheck.linux-arm64.474.2.2.1901-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "facfefaf-60df-4e87-96c2-11407f5108a6",
+      "commitTimeStamp": "2025-10-13T03:11:47.1265938Z",
+      "nuget:id": "FunFair.BuildCheck.linux-arm64",
+      "nuget:version": "474.2.2.1901-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.11.47/funfair.buildcheck.projectchecks.474.2.2.1901-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "facfefaf-60df-4e87-96c2-11407f5108a6",
+      "commitTimeStamp": "2025-10-13T03:11:47.1265938Z",
+      "nuget:id": "FunFair.BuildCheck.ProjectChecks",
+      "nuget:version": "474.2.2.1901-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.11.47/funfair.buildcheck.helpers.474.2.2.1901-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "facfefaf-60df-4e87-96c2-11407f5108a6",
+      "commitTimeStamp": "2025-10-13T03:11:47.1265938Z",
+      "nuget:id": "FunFair.BuildCheck.Helpers",
+      "nuget:version": "474.2.2.1901-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.11.11/funfair.buildcheck.win-arm64.474.2.2.1901-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "721fd9ff-c673-4773-a356-a750a72d63e5",
+      "commitTimeStamp": "2025-10-13T03:11:11.83055Z",
+      "nuget:id": "FunFair.BuildCheck.win-arm64",
+      "nuget:version": "474.2.2.1901-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.11.11/onbarcode.barcode.reader.document.word.sample.vb.itf14.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "721fd9ff-c673-4773-a356-a750a72d63e5",
+      "commitTimeStamp": "2025-10-13T03:11:11.83055Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.ITF14",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.11.11/onbarcode.barcode.reader.document.word.sample.vb.postnet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "721fd9ff-c673-4773-a356-a750a72d63e5",
+      "commitTimeStamp": "2025-10-13T03:11:11.83055Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.POSTNET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.11.11/onbarcode.barcode.reader.document.word.sample.vb.pdf417.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "721fd9ff-c673-4773-a356-a750a72d63e5",
+      "commitTimeStamp": "2025-10-13T03:11:11.83055Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.PDF417",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.10.37/onbarcode.barcode.reader.document.word.sample.vb.patchcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce3b9be-146a-4237-aaf3-5742679596a9",
+      "commitTimeStamp": "2025-10-13T03:10:37.4161351Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.PatchCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.10.37/onbarcode.barcode.reader.document.word.sample.vb.leitcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce3b9be-146a-4237-aaf3-5742679596a9",
+      "commitTimeStamp": "2025-10-13T03:10:37.4161351Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.Leitcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.10.37/tiksn-framework.5.5.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce3b9be-146a-4237-aaf3-5742679596a9",
+      "commitTimeStamp": "2025-10-13T03:10:37.4161351Z",
+      "nuget:id": "TIKSN-Framework",
+      "nuget:version": "5.5.1+9ef4ad5d9edb8d2cd4626f82f6c6eff779f0a60c"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.10.02/onbarcode.barcode.reader.document.word.sample.vb.issn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eff0959c-4a92-45ca-86a5-2bb71b1f0a99",
+      "commitTimeStamp": "2025-10-13T03:10:02.276369Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.ISSN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.10.02/onbarcode.barcode.reader.document.word.sample.vb.identcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eff0959c-4a92-45ca-86a5-2bb71b1f0a99",
+      "commitTimeStamp": "2025-10-13T03:10:02.276369Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.Identcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.10.02/onbarcode.barcode.reader.document.word.sample.vb.isbn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eff0959c-4a92-45ca-86a5-2bb71b1f0a99",
+      "commitTimeStamp": "2025-10-13T03:10:02.276369Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.ISBN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.10.02/onbarcode.barcode.reader.document.word.sample.vb.interleaved2of5.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eff0959c-4a92-45ca-86a5-2bb71b1f0a99",
+      "commitTimeStamp": "2025-10-13T03:10:02.276369Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.Interleaved2of5",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.10.02/onbarcode.barcode.reader.document.word.sample.vb.intelligentmail.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eff0959c-4a92-45ca-86a5-2bb71b1f0a99",
+      "commitTimeStamp": "2025-10-13T03:10:02.276369Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.IntelligentMail",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.09.27/onbarcode.barcode.reader.document.word.sample.vb.ean13.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5c519c0-ca9e-46a2-bfae-8072fb4f332e",
+      "commitTimeStamp": "2025-10-13T03:09:27.1901478Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.EAN13",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.08.52/onbarcode.barcode.reader.document.word.sample.vb.codabar.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "78b0ed8b-2984-44ee-962e-0f09cdbe0e12",
+      "commitTimeStamp": "2025-10-13T03:08:52.8150228Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.Codabar",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.08.52/funfair.codeanalysis.7.1.25.1504-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "78b0ed8b-2984-44ee-962e-0f09cdbe0e12",
+      "commitTimeStamp": "2025-10-13T03:08:52.8150228Z",
+      "nuget:id": "FunFair.CodeAnalysis",
+      "nuget:version": "7.1.25.1504-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.08.52/onbarcode.barcode.reader.document.word.sample.vb.code39.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "78b0ed8b-2984-44ee-962e-0f09cdbe0e12",
+      "commitTimeStamp": "2025-10-13T03:08:52.8150228Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.Code39",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.08.52/onbarcode.barcode.reader.document.word.sample.vb.datamatrix.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "78b0ed8b-2984-44ee-962e-0f09cdbe0e12",
+      "commitTimeStamp": "2025-10-13T03:08:52.8150228Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.DataMatrix",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.08.52/onbarcode.barcode.reader.document.word.sample.vb.gs1.128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "78b0ed8b-2984-44ee-962e-0f09cdbe0e12",
+      "commitTimeStamp": "2025-10-13T03:08:52.8150228Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.GS1.128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.08.52/onbarcode.barcode.reader.document.word.sample.vb.ean8.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "78b0ed8b-2984-44ee-962e-0f09cdbe0e12",
+      "commitTimeStamp": "2025-10-13T03:08:52.8150228Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.EAN8",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.08.15/onbarcode.barcode.reader.document.word.sample.rm4scc.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae32d331-214b-4301-bd9e-475978a10971",
+      "commitTimeStamp": "2025-10-13T03:08:15.7974688Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.RM4SCC",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.08.15/exedcommon.dataentity.0.9.2-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae32d331-214b-4301-bd9e-475978a10971",
+      "commitTimeStamp": "2025-10-13T03:08:15.7974688Z",
+      "nuget:id": "ExeDCommon.DataEntity",
+      "nuget:version": "0.9.2-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.08.15/onbarcode.barcode.reader.document.word.sample.upce.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae32d331-214b-4301-bd9e-475978a10971",
+      "commitTimeStamp": "2025-10-13T03:08:15.7974688Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.UPCE",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.08.15/onbarcode.barcode.reader.document.word.sample.vb.code93.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae32d331-214b-4301-bd9e-475978a10971",
+      "commitTimeStamp": "2025-10-13T03:08:15.7974688Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.Code93",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.08.15/onbarcode.barcode.reader.document.word.sample.vb.code128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae32d331-214b-4301-bd9e-475978a10971",
+      "commitTimeStamp": "2025-10-13T03:08:15.7974688Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.Code128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.07.35/onbarcode.barcode.reader.document.word.sample.upca.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8d859bce-dd5a-4408-9ade-dd8a50974d41",
+      "commitTimeStamp": "2025-10-13T03:07:35.81288Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.UPCA",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.07.35/onbarcode.barcode.reader.document.word.sample.vb.australiapost.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8d859bce-dd5a-4408-9ade-dd8a50974d41",
+      "commitTimeStamp": "2025-10-13T03:07:35.81288Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.VB.AustraliaPost",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.07.35/danmaku.core.0.0.1-preview2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8d859bce-dd5a-4408-9ade-dd8a50974d41",
+      "commitTimeStamp": "2025-10-13T03:07:35.81288Z",
+      "nuget:id": "Danmaku.Core",
+      "nuget:version": "0.0.1-preview2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.07.35/danmaku.legacy.0.0.1-preview2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8d859bce-dd5a-4408-9ade-dd8a50974d41",
+      "commitTimeStamp": "2025-10-13T03:07:35.81288Z",
+      "nuget:id": "Danmaku.Legacy",
+      "nuget:version": "0.0.1-preview2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.07.35/onbarcode.barcode.reader.document.word.sample.postnet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8d859bce-dd5a-4408-9ade-dd8a50974d41",
+      "commitTimeStamp": "2025-10-13T03:07:35.81288Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.POSTNET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.07.35/danmaku.share.0.0.1-preview2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8d859bce-dd5a-4408-9ade-dd8a50974d41",
+      "commitTimeStamp": "2025-10-13T03:07:35.81288Z",
+      "nuget:id": "Danmaku.Share",
+      "nuget:version": "0.0.1-preview2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.06.55/onbarcode.barcode.reader.document.word.sample.pdf417.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "54285295-a1b3-4e23-835b-5a25e9f5d2d1",
+      "commitTimeStamp": "2025-10-13T03:06:55.0327109Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.PDF417",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.06.55/onbarcode.barcode.reader.document.word.sample.qrcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "54285295-a1b3-4e23-835b-5a25e9f5d2d1",
+      "commitTimeStamp": "2025-10-13T03:06:55.0327109Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.QRCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.06.55/onbarcode.barcode.reader.document.word.sample.planet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "54285295-a1b3-4e23-835b-5a25e9f5d2d1",
+      "commitTimeStamp": "2025-10-13T03:06:55.0327109Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.PLANET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.06.11/onbarcode.barcode.reader.document.word.sample.patchcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "24984f87-ab1a-4c00-8a70-b8a7f8cb95e8",
+      "commitTimeStamp": "2025-10-13T03:06:11.3855682Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.PatchCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.06.11/onbarcode.barcode.reader.document.word.sample.interleaved2of5.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "24984f87-ab1a-4c00-8a70-b8a7f8cb95e8",
+      "commitTimeStamp": "2025-10-13T03:06:11.3855682Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.Interleaved2of5",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.06.11/onbarcode.barcode.reader.document.word.sample.itf14.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "24984f87-ab1a-4c00-8a70-b8a7f8cb95e8",
+      "commitTimeStamp": "2025-10-13T03:06:11.3855682Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.ITF14",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.06.11/onbarcode.barcode.reader.document.word.sample.isbn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "24984f87-ab1a-4c00-8a70-b8a7f8cb95e8",
+      "commitTimeStamp": "2025-10-13T03:06:11.3855682Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.ISBN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.06.11/onbarcode.barcode.reader.document.word.sample.issn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "24984f87-ab1a-4c00-8a70-b8a7f8cb95e8",
+      "commitTimeStamp": "2025-10-13T03:06:11.3855682Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.ISSN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.06.11/onbarcode.barcode.reader.document.word.sample.leitcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "24984f87-ab1a-4c00-8a70-b8a7f8cb95e8",
+      "commitTimeStamp": "2025-10-13T03:06:11.3855682Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.Leitcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.05.29/onbarcode.barcode.reader.document.word.sample.ean13.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e7274924-df67-48f3-995c-cadfa079b718",
+      "commitTimeStamp": "2025-10-13T03:05:29.587243Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.EAN13",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.05.29/onbarcode.barcode.reader.document.word.sample.identcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e7274924-df67-48f3-995c-cadfa079b718",
+      "commitTimeStamp": "2025-10-13T03:05:29.587243Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.Identcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.05.29/onbarcode.barcode.reader.document.word.sample.intelligentmail.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e7274924-df67-48f3-995c-cadfa079b718",
+      "commitTimeStamp": "2025-10-13T03:05:29.587243Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.IntelligentMail",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.04.51/petapoco.dbentitygenerator.0.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cbd09925-e568-41b7-80d0-7975cd66f891",
+      "commitTimeStamp": "2025-10-13T03:04:51.8213218Z",
+      "nuget:id": "PetaPoco.DBEntityGenerator",
+      "nuget:version": "0.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.04.51/onbarcode.barcode.reader.document.word.sample.ean8.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cbd09925-e568-41b7-80d0-7975cd66f891",
+      "commitTimeStamp": "2025-10-13T03:04:51.8213218Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.EAN8",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.04.51/onbarcode.barcode.reader.document.word.sample.gs1.128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cbd09925-e568-41b7-80d0-7975cd66f891",
+      "commitTimeStamp": "2025-10-13T03:04:51.8213218Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.GS1.128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.04.51/onbarcode.barcode.reader.document.word.sample.code39.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cbd09925-e568-41b7-80d0-7975cd66f891",
+      "commitTimeStamp": "2025-10-13T03:04:51.8213218Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.Code39",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.04.11/onbarcode.barcode.reader.document.word.sample.datamatrix.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af5f8ab8-afdb-413b-ae92-643112c25a3b",
+      "commitTimeStamp": "2025-10-13T03:04:11.0756814Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.DataMatrix",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.04.11/onbarcode.barcode.reader.document.word.sample.code128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af5f8ab8-afdb-413b-ae92-643112c25a3b",
+      "commitTimeStamp": "2025-10-13T03:04:11.0756814Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.Code128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.04.11/rougamo.fody.5.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af5f8ab8-afdb-413b-ae92-643112c25a3b",
+      "commitTimeStamp": "2025-10-13T03:04:11.0756814Z",
+      "nuget:id": "Rougamo.Fody",
+      "nuget:version": "5.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.04.11/credfeto.dotnet.code.analysis.overrides.cmd.linux-x64.1.0.3.103-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af5f8ab8-afdb-413b-ae92-643112c25a3b",
+      "commitTimeStamp": "2025-10-13T03:04:11.0756814Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides.Cmd.linux-x64",
+      "nuget:version": "1.0.3.103-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.03.28/onbarcode.barcode.reader.document.tiff.sample.vb.upca.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483b5c46-49c6-4f6a-a143-caa4e3c1730e",
+      "commitTimeStamp": "2025-10-13T03:03:28.3079047Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.UPCA",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.03.28/credfeto.dotnet.code.analysis.overrides.cmd.osx-x64.1.0.3.103-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483b5c46-49c6-4f6a-a143-caa4e3c1730e",
+      "commitTimeStamp": "2025-10-13T03:03:28.3079047Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides.Cmd.osx-x64",
+      "nuget:version": "1.0.3.103-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.03.28/onbarcode.barcode.reader.document.word.sample.code93.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483b5c46-49c6-4f6a-a143-caa4e3c1730e",
+      "commitTimeStamp": "2025-10-13T03:03:28.3079047Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.Code93",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.03.28/onbarcode.barcode.reader.document.tiff.sample.vb.rm4scc.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483b5c46-49c6-4f6a-a143-caa4e3c1730e",
+      "commitTimeStamp": "2025-10-13T03:03:28.3079047Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.RM4SCC",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.03.28/credfeto.dotnet.code.analysis.overrides.cmd.linux-arm64.1.0.3.103-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483b5c46-49c6-4f6a-a143-caa4e3c1730e",
+      "commitTimeStamp": "2025-10-13T03:03:28.3079047Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides.Cmd.linux-arm64",
+      "nuget:version": "1.0.3.103-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.03.28/onbarcode.barcode.reader.document.word.sample.codabar.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483b5c46-49c6-4f6a-a143-caa4e3c1730e",
+      "commitTimeStamp": "2025-10-13T03:03:28.3079047Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.Codabar",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.03.28/onbarcode.barcode.reader.document.word.9.5.0.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483b5c46-49c6-4f6a-a143-caa4e3c1730e",
+      "commitTimeStamp": "2025-10-13T03:03:28.3079047Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word",
+      "nuget:version": "9.5.0.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.03.28/onbarcode.barcode.reader.document.tiff.sample.vb.upce.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483b5c46-49c6-4f6a-a143-caa4e3c1730e",
+      "commitTimeStamp": "2025-10-13T03:03:28.3079047Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.UPCE",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.03.28/credfeto.dotnet.code.analysis.overrides.cmd.osx-arm64.1.0.3.103-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483b5c46-49c6-4f6a-a143-caa4e3c1730e",
+      "commitTimeStamp": "2025-10-13T03:03:28.3079047Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides.Cmd.osx-arm64",
+      "nuget:version": "1.0.3.103-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.03.28/credfeto.dotnet.code.analysis.overrides.1.0.3.103-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483b5c46-49c6-4f6a-a143-caa4e3c1730e",
+      "commitTimeStamp": "2025-10-13T03:03:28.3079047Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides",
+      "nuget:version": "1.0.3.103-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.03.28/credfeto.dotnet.code.analysis.overrides.cmd.win-x64.1.0.3.103-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483b5c46-49c6-4f6a-a143-caa4e3c1730e",
+      "commitTimeStamp": "2025-10-13T03:03:28.3079047Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides.Cmd.win-x64",
+      "nuget:version": "1.0.3.103-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.03.28/credfeto.dotnet.code.analysis.overrides.cmd.win-arm64.1.0.3.103-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483b5c46-49c6-4f6a-a143-caa4e3c1730e",
+      "commitTimeStamp": "2025-10-13T03:03:28.3079047Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides.Cmd.win-arm64",
+      "nuget:version": "1.0.3.103-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.03.28/credfeto.dotnet.code.analysis.overrides.cmd.1.0.3.103-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483b5c46-49c6-4f6a-a143-caa4e3c1730e",
+      "commitTimeStamp": "2025-10-13T03:03:28.3079047Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides.Cmd",
+      "nuget:version": "1.0.3.103-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.03.28/onbarcode.barcode.reader.document.tiff.sample.vb.qrcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483b5c46-49c6-4f6a-a143-caa4e3c1730e",
+      "commitTimeStamp": "2025-10-13T03:03:28.3079047Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.QRCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.03.28/onbarcode.barcode.reader.document.word.sample.australiapost.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483b5c46-49c6-4f6a-a143-caa4e3c1730e",
+      "commitTimeStamp": "2025-10-13T03:03:28.3079047Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.Word.Sample.AustraliaPost",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.02.47/onbarcode.barcode.reader.document.tiff.sample.vb.patchcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc97dc22-72c5-4b0d-9bd1-4d8cad4ae56a",
+      "commitTimeStamp": "2025-10-13T03:02:47.601769Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.PatchCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.02.47/onbarcode.barcode.reader.document.tiff.sample.vb.pdf417.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc97dc22-72c5-4b0d-9bd1-4d8cad4ae56a",
+      "commitTimeStamp": "2025-10-13T03:02:47.601769Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.PDF417",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.02.07/onbarcode.barcode.reader.document.tiff.sample.vb.planet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "206a736a-5fed-4d07-81af-47e67ffe3e41",
+      "commitTimeStamp": "2025-10-13T03:02:07.6656324Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.PLANET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.02.07/onbarcode.barcode.reader.document.tiff.sample.vb.leitcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "206a736a-5fed-4d07-81af-47e67ffe3e41",
+      "commitTimeStamp": "2025-10-13T03:02:07.6656324Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.Leitcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.02.07/onbarcode.barcode.reader.document.tiff.sample.vb.itf14.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "206a736a-5fed-4d07-81af-47e67ffe3e41",
+      "commitTimeStamp": "2025-10-13T03:02:07.6656324Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.ITF14",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.02.07/onbarcode.barcode.reader.document.tiff.sample.vb.intelligentmail.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "206a736a-5fed-4d07-81af-47e67ffe3e41",
+      "commitTimeStamp": "2025-10-13T03:02:07.6656324Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.IntelligentMail",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.02.07/onbarcode.barcode.reader.document.tiff.sample.vb.postnet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "206a736a-5fed-4d07-81af-47e67ffe3e41",
+      "commitTimeStamp": "2025-10-13T03:02:07.6656324Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.POSTNET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.01.23/onbarcode.barcode.reader.document.tiff.sample.vb.issn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0156ee9a-bc49-437e-bc71-cc1d22d0689e",
+      "commitTimeStamp": "2025-10-13T03:01:23.8167995Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.ISSN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.01.23/onbarcode.barcode.reader.document.tiff.sample.vb.ean8.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0156ee9a-bc49-437e-bc71-cc1d22d0689e",
+      "commitTimeStamp": "2025-10-13T03:01:23.8167995Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.EAN8",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.01.23/tensorstack.common.0.1.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0156ee9a-bc49-437e-bc71-cc1d22d0689e",
+      "commitTimeStamp": "2025-10-13T03:01:23.8167995Z",
+      "nuget:id": "TensorStack.Common",
+      "nuget:version": "0.1.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.01.23/onbarcode.barcode.reader.document.tiff.sample.vb.isbn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0156ee9a-bc49-437e-bc71-cc1d22d0689e",
+      "commitTimeStamp": "2025-10-13T03:01:23.8167995Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.ISBN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.01.23/onbarcode.barcode.reader.document.tiff.sample.vb.interleaved2of5.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0156ee9a-bc49-437e-bc71-cc1d22d0689e",
+      "commitTimeStamp": "2025-10-13T03:01:23.8167995Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.Interleaved2of5",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.00.39/onbarcode.barcode.reader.document.tiff.sample.vb.code93.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "53c1a087-19ce-47bf-91f5-ebc6b5ff9964",
+      "commitTimeStamp": "2025-10-13T03:00:39.7905273Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.Code93",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.00.39/onbarcode.barcode.reader.document.tiff.sample.vb.identcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "53c1a087-19ce-47bf-91f5-ebc6b5ff9964",
+      "commitTimeStamp": "2025-10-13T03:00:39.7905273Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.Identcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.00.39/onbarcode.barcode.reader.document.tiff.sample.vb.gs1.128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "53c1a087-19ce-47bf-91f5-ebc6b5ff9964",
+      "commitTimeStamp": "2025-10-13T03:00:39.7905273Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.GS1.128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.03.00.39/onbarcode.barcode.reader.document.tiff.sample.vb.ean13.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "53c1a087-19ce-47bf-91f5-ebc6b5ff9964",
+      "commitTimeStamp": "2025-10-13T03:00:39.7905273Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.EAN13",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.56/onbarcode.barcode.reader.document.tiff.sample.vb.code39.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "116f5f00-d120-4d0d-b110-e8e3475c2567",
+      "commitTimeStamp": "2025-10-13T02:59:56.3122837Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.Code39",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.56/onbarcode.barcode.reader.document.tiff.sample.vb.codabar.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "116f5f00-d120-4d0d-b110-e8e3475c2567",
+      "commitTimeStamp": "2025-10-13T02:59:56.3122837Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.Codabar",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.56/onbarcode.barcode.reader.document.tiff.sample.vb.australiapost.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "116f5f00-d120-4d0d-b110-e8e3475c2567",
+      "commitTimeStamp": "2025-10-13T02:59:56.3122837Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.AustraliaPost",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.56/credfeto.dotnet.code.analysis.overrides.cmd.1.0.3.102-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "116f5f00-d120-4d0d-b110-e8e3475c2567",
+      "commitTimeStamp": "2025-10-13T02:59:56.3122837Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides.Cmd",
+      "nuget:version": "1.0.3.102-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.56/onbarcode.barcode.reader.document.tiff.sample.vb.code128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "116f5f00-d120-4d0d-b110-e8e3475c2567",
+      "commitTimeStamp": "2025-10-13T02:59:56.3122837Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.Code128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.18/credfeto.dotnet.code.analysis.overrides.cmd.osx-arm64.1.0.3.102-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d3d0c7d-b9bf-419d-b01e-7d74a671afe6",
+      "commitTimeStamp": "2025-10-13T02:59:18.6046641Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides.Cmd.osx-arm64",
+      "nuget:version": "1.0.3.102-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.18/credfeto.services.startup.interfaces.1.1.134.1276-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d3d0c7d-b9bf-419d-b01e-7d74a671afe6",
+      "commitTimeStamp": "2025-10-13T02:59:18.6046641Z",
+      "nuget:id": "Credfeto.Services.Startup.Interfaces",
+      "nuget:version": "1.1.134.1276-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.18/credfeto.tsql.formatter.cmd.osx-arm64.0.1.7.229-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d3d0c7d-b9bf-419d-b01e-7d74a671afe6",
+      "commitTimeStamp": "2025-10-13T02:59:18.6046641Z",
+      "nuget:id": "Credfeto.Tsql.Formatter.Cmd.osx-arm64",
+      "nuget:version": "0.1.7.229-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.18/credfeto.dotnet.code.analysis.overrides.cmd.linux-x64.1.0.3.102-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d3d0c7d-b9bf-419d-b01e-7d74a671afe6",
+      "commitTimeStamp": "2025-10-13T02:59:18.6046641Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides.Cmd.linux-x64",
+      "nuget:version": "1.0.3.102-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.18/soenneker.gen.adapt.3.0.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d3d0c7d-b9bf-419d-b01e-7d74a671afe6",
+      "commitTimeStamp": "2025-10-13T02:59:18.6046641Z",
+      "nuget:id": "Soenneker.Gen.Adapt",
+      "nuget:version": "3.0.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.18/onbarcode.barcode.reader.document.tiff.sample.qrcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d3d0c7d-b9bf-419d-b01e-7d74a671afe6",
+      "commitTimeStamp": "2025-10-13T02:59:18.6046641Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.QRCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.18/credfeto.dotnet.code.analysis.overrides.cmd.win-arm64.1.0.3.102-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d3d0c7d-b9bf-419d-b01e-7d74a671afe6",
+      "commitTimeStamp": "2025-10-13T02:59:18.6046641Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides.Cmd.win-arm64",
+      "nuget:version": "1.0.3.102-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.18/onbarcode.barcode.reader.document.tiff.sample.rm4scc.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d3d0c7d-b9bf-419d-b01e-7d74a671afe6",
+      "commitTimeStamp": "2025-10-13T02:59:18.6046641Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.RM4SCC",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.18/onbarcode.barcode.reader.document.tiff.sample.vb.datamatrix.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d3d0c7d-b9bf-419d-b01e-7d74a671afe6",
+      "commitTimeStamp": "2025-10-13T02:59:18.6046641Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.VB.DataMatrix",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.18/credfeto.tsql.formatter.cmd.osx-x64.0.1.7.229-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d3d0c7d-b9bf-419d-b01e-7d74a671afe6",
+      "commitTimeStamp": "2025-10-13T02:59:18.6046641Z",
+      "nuget:id": "Credfeto.Tsql.Formatter.Cmd.osx-x64",
+      "nuget:version": "0.1.7.229-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.18/credfeto.tsql.formatter.cmd.win-x64.0.1.7.229-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d3d0c7d-b9bf-419d-b01e-7d74a671afe6",
+      "commitTimeStamp": "2025-10-13T02:59:18.6046641Z",
+      "nuget:id": "Credfeto.Tsql.Formatter.Cmd.win-x64",
+      "nuget:version": "0.1.7.229-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.18/credfeto.dotnet.code.analysis.overrides.cmd.osx-x64.1.0.3.102-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d3d0c7d-b9bf-419d-b01e-7d74a671afe6",
+      "commitTimeStamp": "2025-10-13T02:59:18.6046641Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides.Cmd.osx-x64",
+      "nuget:version": "1.0.3.102-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.18/credfeto.tsql.formatter.0.1.7.229-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d3d0c7d-b9bf-419d-b01e-7d74a671afe6",
+      "commitTimeStamp": "2025-10-13T02:59:18.6046641Z",
+      "nuget:id": "Credfeto.Tsql.Formatter",
+      "nuget:version": "0.1.7.229-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.18/credfeto.dotnet.code.analysis.overrides.cmd.linux-arm64.1.0.3.102-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d3d0c7d-b9bf-419d-b01e-7d74a671afe6",
+      "commitTimeStamp": "2025-10-13T02:59:18.6046641Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides.Cmd.linux-arm64",
+      "nuget:version": "1.0.3.102-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.59.18/credfeto.dotnet.code.analysis.overrides.cmd.win-x64.1.0.3.102-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d3d0c7d-b9bf-419d-b01e-7d74a671afe6",
+      "commitTimeStamp": "2025-10-13T02:59:18.6046641Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides.Cmd.win-x64",
+      "nuget:version": "1.0.3.102-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.40/onbarcode.barcode.reader.document.tiff.sample.upce.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fa168495-4ec8-499c-b976-9dac9a41edfd",
+      "commitTimeStamp": "2025-10-13T02:58:40.1344972Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.UPCE",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.40/onbarcode.barcode.reader.document.tiff.sample.upca.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fa168495-4ec8-499c-b976-9dac9a41edfd",
+      "commitTimeStamp": "2025-10-13T02:58:40.1344972Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.UPCA",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.40/onbarcode.barcode.reader.document.tiff.sample.planet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fa168495-4ec8-499c-b976-9dac9a41edfd",
+      "commitTimeStamp": "2025-10-13T02:58:40.1344972Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.PLANET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.40/credfeto.tsql.formatter.cmd.linux-x64.0.1.7.229-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fa168495-4ec8-499c-b976-9dac9a41edfd",
+      "commitTimeStamp": "2025-10-13T02:58:40.1344972Z",
+      "nuget:id": "Credfeto.Tsql.Formatter.Cmd.linux-x64",
+      "nuget:version": "0.1.7.229-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.40/credfeto.tsql.formatter.cmd.win-arm64.0.1.7.229-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fa168495-4ec8-499c-b976-9dac9a41edfd",
+      "commitTimeStamp": "2025-10-13T02:58:40.1344972Z",
+      "nuget:id": "Credfeto.Tsql.Formatter.Cmd.win-arm64",
+      "nuget:version": "0.1.7.229-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.40/credfeto.package.push.win-arm64.1.6.177.1502-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fa168495-4ec8-499c-b976-9dac9a41edfd",
+      "commitTimeStamp": "2025-10-13T02:58:40.1344972Z",
+      "nuget:id": "Credfeto.Package.Push.win-arm64",
+      "nuget:version": "1.6.177.1502-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.40/credfeto.dotnet.code.analysis.overrides.1.0.3.102-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fa168495-4ec8-499c-b976-9dac9a41edfd",
+      "commitTimeStamp": "2025-10-13T02:58:40.1344972Z",
+      "nuget:id": "Credfeto.DotNet.Code.Analysis.Overrides",
+      "nuget:version": "1.0.3.102-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.40/credfeto.tsql.formatter.cmd.linux-arm64.0.1.7.229-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fa168495-4ec8-499c-b976-9dac9a41edfd",
+      "commitTimeStamp": "2025-10-13T02:58:40.1344972Z",
+      "nuget:id": "Credfeto.Tsql.Formatter.Cmd.linux-arm64",
+      "nuget:version": "0.1.7.229-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.40/credfeto.services.startup.1.1.134.1276-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fa168495-4ec8-499c-b976-9dac9a41edfd",
+      "commitTimeStamp": "2025-10-13T02:58:40.1344972Z",
+      "nuget:id": "Credfeto.Services.Startup",
+      "nuget:version": "1.1.134.1276-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.00/onbarcode.barcode.reader.document.tiff.sample.patchcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb8d5aa1-d140-4598-acb0-35546d7d6922",
+      "commitTimeStamp": "2025-10-13T02:58:00.5116992Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.PatchCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.00/onbarcode.barcode.reader.document.tiff.sample.postnet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb8d5aa1-d140-4598-acb0-35546d7d6922",
+      "commitTimeStamp": "2025-10-13T02:58:00.5116992Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.POSTNET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.00/onbarcode.barcode.reader.document.tiff.sample.issn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb8d5aa1-d140-4598-acb0-35546d7d6922",
+      "commitTimeStamp": "2025-10-13T02:58:00.5116992Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.ISSN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.00/credfeto.changelog.cmd.win-arm64.1.10.194.1514-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb8d5aa1-d140-4598-acb0-35546d7d6922",
+      "commitTimeStamp": "2025-10-13T02:58:00.5116992Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.win-arm64",
+      "nuget:version": "1.10.194.1514-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.00/credfeto.package.push.linux-arm64.1.6.177.1502-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb8d5aa1-d140-4598-acb0-35546d7d6922",
+      "commitTimeStamp": "2025-10-13T02:58:00.5116992Z",
+      "nuget:id": "Credfeto.Package.Push.linux-arm64",
+      "nuget:version": "1.6.177.1502-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.00/credfeto.database.1.2.200.1725-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb8d5aa1-d140-4598-acb0-35546d7d6922",
+      "commitTimeStamp": "2025-10-13T02:58:00.5116992Z",
+      "nuget:id": "Credfeto.Database",
+      "nuget:version": "1.2.200.1725-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.00/onbarcode.barcode.reader.document.tiff.sample.leitcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb8d5aa1-d140-4598-acb0-35546d7d6922",
+      "commitTimeStamp": "2025-10-13T02:58:00.5116992Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.Leitcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.00/credfeto.package.push.linux-x64.1.6.177.1502-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb8d5aa1-d140-4598-acb0-35546d7d6922",
+      "commitTimeStamp": "2025-10-13T02:58:00.5116992Z",
+      "nuget:id": "Credfeto.Package.Push.linux-x64",
+      "nuget:version": "1.6.177.1502-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.00/credfeto.tsql.formatter.cmd.0.1.7.229-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb8d5aa1-d140-4598-acb0-35546d7d6922",
+      "commitTimeStamp": "2025-10-13T02:58:00.5116992Z",
+      "nuget:id": "Credfeto.Tsql.Formatter.Cmd",
+      "nuget:version": "0.1.7.229-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.00/onbarcode.barcode.reader.document.tiff.sample.pdf417.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb8d5aa1-d140-4598-acb0-35546d7d6922",
+      "commitTimeStamp": "2025-10-13T02:58:00.5116992Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.PDF417",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.00/credfeto.date.1.1.139.1370-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb8d5aa1-d140-4598-acb0-35546d7d6922",
+      "commitTimeStamp": "2025-10-13T02:58:00.5116992Z",
+      "nuget:id": "Credfeto.Date",
+      "nuget:version": "1.1.139.1370-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.00/credfeto.date.interfaces.1.1.139.1370-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb8d5aa1-d140-4598-acb0-35546d7d6922",
+      "commitTimeStamp": "2025-10-13T02:58:00.5116992Z",
+      "nuget:id": "Credfeto.Date.Interfaces",
+      "nuget:version": "1.1.139.1370-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.00/credfeto.random.1.0.139.1349-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb8d5aa1-d140-4598-acb0-35546d7d6922",
+      "commitTimeStamp": "2025-10-13T02:58:00.5116992Z",
+      "nuget:id": "Credfeto.Random",
+      "nuget:version": "1.0.139.1349-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.58.00/credfeto.enumeration.source.generation.1.2.131.1472-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb8d5aa1-d140-4598-acb0-35546d7d6922",
+      "commitTimeStamp": "2025-10-13T02:58:00.5116992Z",
+      "nuget:id": "Credfeto.Enumeration.Source.Generation",
+      "nuget:version": "1.2.131.1472-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/credfeto.changelog.1.10.194.1514-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Credfeto.ChangeLog",
+      "nuget:version": "1.10.194.1514-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/credfeto.database.pgsql.1.2.200.1725-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Credfeto.Database.Pgsql",
+      "nuget:version": "1.2.200.1725-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/onbarcode.barcode.reader.document.tiff.sample.identcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.Identcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/onbarcode.barcode.reader.document.tiff.sample.interleaved2of5.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.Interleaved2of5",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/onbarcode.barcode.reader.document.tiff.sample.ean8.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.EAN8",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/credfeto.database.source.generation.1.2.200.1725-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Credfeto.Database.Source.Generation",
+      "nuget:version": "1.2.200.1725-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/vuescape.dotnet.serialization.json.1.0.124.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Vuescape.DotNet.Serialization.Json",
+      "nuget:version": "1.0.124"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/credfeto.random.interfaces.1.0.139.1349-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Credfeto.Random.Interfaces",
+      "nuget:version": "1.0.139.1349-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/credfeto.package.push.win-x64.1.6.177.1502-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Credfeto.Package.Push.win-x64",
+      "nuget:version": "1.6.177.1502-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/credfeto.changelog.cmd.1.10.194.1514-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd",
+      "nuget:version": "1.10.194.1514-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/credfeto.version.information.generator.1.0.116.875-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Credfeto.Version.Information.Generator",
+      "nuget:version": "1.0.116.875-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/credfeto.package.push.osx-arm64.1.6.177.1502-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Credfeto.Package.Push.osx-arm64",
+      "nuget:version": "1.6.177.1502-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/credfeto.package.push.osx-x64.1.6.177.1502-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Credfeto.Package.Push.osx-x64",
+      "nuget:version": "1.6.177.1502-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/onbarcode.barcode.reader.document.tiff.sample.isbn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.ISBN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/credfeto.package.push.1.6.177.1502-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Credfeto.Package.Push",
+      "nuget:version": "1.6.177.1502-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/credfeto.database.sqlserver.1.2.200.1725-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Credfeto.Database.SqlServer",
+      "nuget:version": "1.2.200.1725-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/credfeto.enumeration.source.generation.attributes.1.2.131.1472-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Credfeto.Enumeration.Source.Generation.Attributes",
+      "nuget:version": "1.2.131.1472-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/soenneker.gen.adapt.3.0.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Soenneker.Gen.Adapt",
+      "nuget:version": "3.0.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/credfeto.database.interfaces.1.2.200.1725-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Credfeto.Database.Interfaces",
+      "nuget:version": "1.2.200.1725-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.57.19/credfeto.changelog.cmd.win-x64.1.10.194.1514-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a52a403-5371-4bbd-a780-7d9e02f190ef",
+      "commitTimeStamp": "2025-10-13T02:57:19.7975183Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.win-x64",
+      "nuget:version": "1.10.194.1514-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.40/onbarcode.barcode.reader.document.tiff.sample.datamatrix.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "655e622d-ec82-4f28-961e-c717d30d5579",
+      "commitTimeStamp": "2025-10-13T02:56:40.1507899Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.DataMatrix",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.40/onbarcode.barcode.reader.document.tiff.sample.intelligentmail.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "655e622d-ec82-4f28-961e-c717d30d5579",
+      "commitTimeStamp": "2025-10-13T02:56:40.1507899Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.IntelligentMail",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.40/onbarcode.barcode.reader.document.tiff.sample.gs1.128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "655e622d-ec82-4f28-961e-c717d30d5579",
+      "commitTimeStamp": "2025-10-13T02:56:40.1507899Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.GS1.128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.40/credfeto.changelog.cmd.osx-x64.1.10.194.1514-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "655e622d-ec82-4f28-961e-c717d30d5579",
+      "commitTimeStamp": "2025-10-13T02:56:40.1507899Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.osx-x64",
+      "nuget:version": "1.10.194.1514-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.40/credfeto.package.update.linux-x64.1.10.217.1928-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "655e622d-ec82-4f28-961e-c717d30d5579",
+      "commitTimeStamp": "2025-10-13T02:56:40.1507899Z",
+      "nuget:id": "Credfeto.Package.Update.linux-x64",
+      "nuget:version": "1.10.217.1928-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.40/credfeto.changelog.cmd.linux-x64.1.10.194.1514-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "655e622d-ec82-4f28-961e-c717d30d5579",
+      "commitTimeStamp": "2025-10-13T02:56:40.1507899Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.linux-x64",
+      "nuget:version": "1.10.194.1514-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.40/tenduke.core.tests.8.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "655e622d-ec82-4f28-961e-c717d30d5579",
+      "commitTimeStamp": "2025-10-13T02:56:40.1507899Z",
+      "nuget:id": "Tenduke.Core.Tests",
+      "nuget:version": "8.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.40/credfeto.changelog.cmd.osx-arm64.1.10.194.1514-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "655e622d-ec82-4f28-961e-c717d30d5579",
+      "commitTimeStamp": "2025-10-13T02:56:40.1507899Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.osx-arm64",
+      "nuget:version": "1.10.194.1514-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.40/vuescape.dotnet.recipes.dummyfactory.1.0.124.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "655e622d-ec82-4f28-961e-c717d30d5579",
+      "commitTimeStamp": "2025-10-13T02:56:40.1507899Z",
+      "nuget:id": "Vuescape.DotNet.Recipes.DummyFactory",
+      "nuget:version": "1.0.124"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.40/vuescape.dotnet.domain.1.0.124.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "655e622d-ec82-4f28-961e-c717d30d5579",
+      "commitTimeStamp": "2025-10-13T02:56:40.1507899Z",
+      "nuget:id": "Vuescape.DotNet.Domain",
+      "nuget:version": "1.0.124"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.40/tenduke.core.8.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "655e622d-ec82-4f28-961e-c717d30d5579",
+      "commitTimeStamp": "2025-10-13T02:56:40.1507899Z",
+      "nuget:id": "Tenduke.Core",
+      "nuget:version": "8.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.40/credfeto.changelog.cmd.linux-arm64.1.10.194.1514-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "655e622d-ec82-4f28-961e-c717d30d5579",
+      "commitTimeStamp": "2025-10-13T02:56:40.1507899Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.linux-arm64",
+      "nuget:version": "1.10.194.1514-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.40/onbarcode.barcode.reader.document.tiff.sample.itf14.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "655e622d-ec82-4f28-961e-c717d30d5579",
+      "commitTimeStamp": "2025-10-13T02:56:40.1507899Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.ITF14",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.40/soenneker.gen.adapt.3.0.20.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "655e622d-ec82-4f28-961e-c717d30d5579",
+      "commitTimeStamp": "2025-10-13T02:56:40.1507899Z",
+      "nuget:id": "Soenneker.Gen.Adapt",
+      "nuget:version": "3.0.20"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.00/onbarcode.barcode.reader.document.tiff.sample.code128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5486ccf6-3996-4d94-b9df-bb2cce44493f",
+      "commitTimeStamp": "2025-10-13T02:56:00.0718747Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.Code128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.00/credfeto.extensions.linq.1.0.138.1246-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5486ccf6-3996-4d94-b9df-bb2cce44493f",
+      "commitTimeStamp": "2025-10-13T02:56:00.0718747Z",
+      "nuget:id": "Credfeto.Extensions.Linq",
+      "nuget:version": "1.0.138.1246-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.00/onbarcode.barcode.reader.document.powerpoint.sample.vb.upce.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5486ccf6-3996-4d94-b9df-bb2cce44493f",
+      "commitTimeStamp": "2025-10-13T02:56:00.0718747Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.UPCE",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.00/credfeto.tsql.formatter.cmd.osx-x64.0.1.7.228-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5486ccf6-3996-4d94-b9df-bb2cce44493f",
+      "commitTimeStamp": "2025-10-13T02:56:00.0718747Z",
+      "nuget:id": "Credfeto.Tsql.Formatter.Cmd.osx-x64",
+      "nuget:version": "0.1.7.228-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.00/credfeto.tsql.formatter.cmd.win-arm64.0.1.7.228-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5486ccf6-3996-4d94-b9df-bb2cce44493f",
+      "commitTimeStamp": "2025-10-13T02:56:00.0718747Z",
+      "nuget:id": "Credfeto.Tsql.Formatter.Cmd.win-arm64",
+      "nuget:version": "0.1.7.228-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.00/credfeto.package.update.linux-arm64.1.10.217.1928-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5486ccf6-3996-4d94-b9df-bb2cce44493f",
+      "commitTimeStamp": "2025-10-13T02:56:00.0718747Z",
+      "nuget:id": "Credfeto.Package.Update.linux-arm64",
+      "nuget:version": "1.10.217.1928-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.00/credfeto.tsql.formatter.cmd.linux-x64.0.1.7.228-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5486ccf6-3996-4d94-b9df-bb2cce44493f",
+      "commitTimeStamp": "2025-10-13T02:56:00.0718747Z",
+      "nuget:id": "Credfeto.Tsql.Formatter.Cmd.linux-x64",
+      "nuget:version": "0.1.7.228-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.00/soenneker.gen.adapt.3.0.19.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5486ccf6-3996-4d94-b9df-bb2cce44493f",
+      "commitTimeStamp": "2025-10-13T02:56:00.0718747Z",
+      "nuget:id": "Soenneker.Gen.Adapt",
+      "nuget:version": "3.0.19"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.00/credfeto.docker.healthcheck.http.client.0.0.55.445-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5486ccf6-3996-4d94-b9df-bb2cce44493f",
+      "commitTimeStamp": "2025-10-13T02:56:00.0718747Z",
+      "nuget:id": "Credfeto.Docker.HealthCheck.Http.Client",
+      "nuget:version": "0.0.55.445-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.00/credfeto.tsql.formatter.cmd.win-x64.0.1.7.228-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5486ccf6-3996-4d94-b9df-bb2cce44493f",
+      "commitTimeStamp": "2025-10-13T02:56:00.0718747Z",
+      "nuget:id": "Credfeto.Tsql.Formatter.Cmd.win-x64",
+      "nuget:version": "0.1.7.228-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.00/credfeto.package.update.win-arm64.1.10.217.1928-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5486ccf6-3996-4d94-b9df-bb2cce44493f",
+      "commitTimeStamp": "2025-10-13T02:56:00.0718747Z",
+      "nuget:id": "Credfeto.Package.Update.win-arm64",
+      "nuget:version": "1.10.217.1928-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.00/onbarcode.barcode.reader.document.tiff.sample.codabar.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5486ccf6-3996-4d94-b9df-bb2cce44493f",
+      "commitTimeStamp": "2025-10-13T02:56:00.0718747Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.Codabar",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.56.00/vuescape.dotnet.serialization.bson.1.0.124.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5486ccf6-3996-4d94-b9df-bb2cce44493f",
+      "commitTimeStamp": "2025-10-13T02:56:00.0718747Z",
+      "nuget:id": "Vuescape.DotNet.Serialization.Bson",
+      "nuget:version": "1.0.124"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.55.18/onbarcode.barcode.reader.document.tiff.sample.australiapost.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aeb85c2d-53ea-41a4-921a-e9ed63bd8206",
+      "commitTimeStamp": "2025-10-13T02:55:18.273706Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.AustraliaPost",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.55.18/onbarcode.barcode.reader.document.powerpoint.sample.vb.upca.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aeb85c2d-53ea-41a4-921a-e9ed63bd8206",
+      "commitTimeStamp": "2025-10-13T02:55:18.273706Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.UPCA",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.55.18/onbarcode.barcode.reader.document.tiff.sample.code39.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aeb85c2d-53ea-41a4-921a-e9ed63bd8206",
+      "commitTimeStamp": "2025-10-13T02:55:18.273706Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.Code39",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.55.18/credfeto.tsql.formatter.0.1.7.228-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aeb85c2d-53ea-41a4-921a-e9ed63bd8206",
+      "commitTimeStamp": "2025-10-13T02:55:18.273706Z",
+      "nuget:id": "Credfeto.Tsql.Formatter",
+      "nuget:version": "0.1.7.228-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.55.18/credfeto.tsql.formatter.cmd.osx-arm64.0.1.7.228-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aeb85c2d-53ea-41a4-921a-e9ed63bd8206",
+      "commitTimeStamp": "2025-10-13T02:55:18.273706Z",
+      "nuget:id": "Credfeto.Tsql.Formatter.Cmd.osx-arm64",
+      "nuget:version": "0.1.7.228-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.55.18/credfeto.package.update.osx-arm64.1.10.217.1928-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aeb85c2d-53ea-41a4-921a-e9ed63bd8206",
+      "commitTimeStamp": "2025-10-13T02:55:18.273706Z",
+      "nuget:id": "Credfeto.Package.Update.osx-arm64",
+      "nuget:version": "1.10.217.1928-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.55.18/credfeto.package.update.win-x64.1.10.217.1928-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aeb85c2d-53ea-41a4-921a-e9ed63bd8206",
+      "commitTimeStamp": "2025-10-13T02:55:18.273706Z",
+      "nuget:id": "Credfeto.Package.Update.win-x64",
+      "nuget:version": "1.10.217.1928-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.55.18/onbarcode.barcode.reader.document.powerpoint.sample.vb.qrcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aeb85c2d-53ea-41a4-921a-e9ed63bd8206",
+      "commitTimeStamp": "2025-10-13T02:55:18.273706Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.QRCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.55.18/credfeto.tsql.formatter.cmd.0.1.7.228-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aeb85c2d-53ea-41a4-921a-e9ed63bd8206",
+      "commitTimeStamp": "2025-10-13T02:55:18.273706Z",
+      "nuget:id": "Credfeto.Tsql.Formatter.Cmd",
+      "nuget:version": "0.1.7.228-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.55.18/onbarcode.barcode.reader.document.tiff.sample.code93.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aeb85c2d-53ea-41a4-921a-e9ed63bd8206",
+      "commitTimeStamp": "2025-10-13T02:55:18.273706Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.Code93",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.55.18/credfeto.package.update.osx-x64.1.10.217.1928-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aeb85c2d-53ea-41a4-921a-e9ed63bd8206",
+      "commitTimeStamp": "2025-10-13T02:55:18.273706Z",
+      "nuget:id": "Credfeto.Package.Update.osx-x64",
+      "nuget:version": "1.10.217.1928-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.55.18/credfeto.tsql.formatter.cmd.linux-arm64.0.1.7.228-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aeb85c2d-53ea-41a4-921a-e9ed63bd8206",
+      "commitTimeStamp": "2025-10-13T02:55:18.273706Z",
+      "nuget:id": "Credfeto.Tsql.Formatter.Cmd.linux-arm64",
+      "nuget:version": "0.1.7.228-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.55.18/onbarcode.barcode.reader.document.tiff.sample.ean13.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aeb85c2d-53ea-41a4-921a-e9ed63bd8206",
+      "commitTimeStamp": "2025-10-13T02:55:18.273706Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF.Sample.EAN13",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.55.18/onbarcode.barcode.reader.document.tiff.9.5.0.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aeb85c2d-53ea-41a4-921a-e9ed63bd8206",
+      "commitTimeStamp": "2025-10-13T02:55:18.273706Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.TIFF",
+      "nuget:version": "9.5.0.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.55.18/credfeto.package.update.1.10.217.1928-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aeb85c2d-53ea-41a4-921a-e9ed63bd8206",
+      "commitTimeStamp": "2025-10-13T02:55:18.273706Z",
+      "nuget:id": "Credfeto.Package.Update",
+      "nuget:version": "1.10.217.1928-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.54.44/credfeto.package.1.10.217.1928-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f7b89064-24f3-4119-8442-956af90b57ad",
+      "commitTimeStamp": "2025-10-13T02:54:44.3926241Z",
+      "nuget:id": "Credfeto.Package",
+      "nuget:version": "1.10.217.1928-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.54.44/onbarcode.barcode.reader.document.powerpoint.sample.vb.rm4scc.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f7b89064-24f3-4119-8442-956af90b57ad",
+      "commitTimeStamp": "2025-10-13T02:54:44.3926241Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.RM4SCC",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.54.44/onbarcode.barcode.reader.document.powerpoint.sample.vb.postnet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f7b89064-24f3-4119-8442-956af90b57ad",
+      "commitTimeStamp": "2025-10-13T02:54:44.3926241Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.POSTNET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.54.11/onbarcode.barcode.reader.document.powerpoint.sample.vb.patchcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ffdcfbc-ec54-4342-b923-1fe6a2cde84c",
+      "commitTimeStamp": "2025-10-13T02:54:11.4037411Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.PatchCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.53.32/onbarcode.barcode.reader.document.powerpoint.sample.vb.issn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6cc39b67-af35-45f5-9cbd-6ffff3da0f5c",
+      "commitTimeStamp": "2025-10-13T02:53:32.6062806Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.ISSN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.53.32/onbarcode.barcode.reader.document.powerpoint.sample.vb.pdf417.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6cc39b67-af35-45f5-9cbd-6ffff3da0f5c",
+      "commitTimeStamp": "2025-10-13T02:53:32.6062806Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.PDF417",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.53.32/onbarcode.barcode.reader.document.powerpoint.sample.vb.planet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6cc39b67-af35-45f5-9cbd-6ffff3da0f5c",
+      "commitTimeStamp": "2025-10-13T02:53:32.6062806Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.PLANET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.52.57/onbarcode.barcode.reader.document.powerpoint.sample.vb.isbn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1abc3c46-65cf-4541-86ea-ad34283ee751",
+      "commitTimeStamp": "2025-10-13T02:52:57.6478465Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.ISBN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.52.57/onbarcode.barcode.reader.document.powerpoint.sample.vb.intelligentmail.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1abc3c46-65cf-4541-86ea-ad34283ee751",
+      "commitTimeStamp": "2025-10-13T02:52:57.6478465Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.IntelligentMail",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.52.57/onbarcode.barcode.reader.document.powerpoint.sample.vb.itf14.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1abc3c46-65cf-4541-86ea-ad34283ee751",
+      "commitTimeStamp": "2025-10-13T02:52:57.6478465Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.ITF14",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.52.57/funfair.buildcheck.linux-arm64.474.2.2.1900-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1abc3c46-65cf-4541-86ea-ad34283ee751",
+      "commitTimeStamp": "2025-10-13T02:52:57.6478465Z",
+      "nuget:id": "FunFair.BuildCheck.linux-arm64",
+      "nuget:version": "474.2.2.1900-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.52.57/onbarcode.barcode.reader.document.powerpoint.sample.vb.leitcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1abc3c46-65cf-4541-86ea-ad34283ee751",
+      "commitTimeStamp": "2025-10-13T02:52:57.6478465Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.Leitcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.52.57/funfair.buildcheck.win-arm64.474.2.2.1900-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1abc3c46-65cf-4541-86ea-ad34283ee751",
+      "commitTimeStamp": "2025-10-13T02:52:57.6478465Z",
+      "nuget:id": "FunFair.BuildCheck.win-arm64",
+      "nuget:version": "474.2.2.1900-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.52.23/onbarcode.barcode.reader.document.powerpoint.sample.vb.interleaved2of5.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81d32a17-308d-4509-b935-4475ce150abb",
+      "commitTimeStamp": "2025-10-13T02:52:23.576866Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.Interleaved2of5",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.52.23/onbarcode.barcode.reader.document.powerpoint.sample.vb.gs1.128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81d32a17-308d-4509-b935-4475ce150abb",
+      "commitTimeStamp": "2025-10-13T02:52:23.576866Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.GS1.128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.52.23/pacioli.contracts.1.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81d32a17-308d-4509-b935-4475ce150abb",
+      "commitTimeStamp": "2025-10-13T02:52:23.576866Z",
+      "nuget:id": "Pacioli.Contracts",
+      "nuget:version": "1.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.52.23/funfair.buildcheck.runner.474.2.2.1900-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81d32a17-308d-4509-b935-4475ce150abb",
+      "commitTimeStamp": "2025-10-13T02:52:23.576866Z",
+      "nuget:id": "FunFair.BuildCheck.Runner",
+      "nuget:version": "474.2.2.1900-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.52.23/funfair.buildcheck.interfaces.474.2.2.1900-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81d32a17-308d-4509-b935-4475ce150abb",
+      "commitTimeStamp": "2025-10-13T02:52:23.576866Z",
+      "nuget:id": "FunFair.BuildCheck.Interfaces",
+      "nuget:version": "474.2.2.1900-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.52.23/funfair.buildcheck.projectchecks.474.2.2.1900-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81d32a17-308d-4509-b935-4475ce150abb",
+      "commitTimeStamp": "2025-10-13T02:52:23.576866Z",
+      "nuget:id": "FunFair.BuildCheck.ProjectChecks",
+      "nuget:version": "474.2.2.1900-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.52.23/onbarcode.barcode.reader.document.powerpoint.sample.vb.identcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81d32a17-308d-4509-b935-4475ce150abb",
+      "commitTimeStamp": "2025-10-13T02:52:23.576866Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.Identcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.52.23/funfair.buildcheck.linux-x64.474.2.2.1900-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81d32a17-308d-4509-b935-4475ce150abb",
+      "commitTimeStamp": "2025-10-13T02:52:23.576866Z",
+      "nuget:id": "FunFair.BuildCheck.linux-x64",
+      "nuget:version": "474.2.2.1900-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.47/onbarcode.barcode.reader.document.powerpoint.sample.vb.ean8.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b2d4355d-f418-4354-8baa-9df3a748a2d4",
+      "commitTimeStamp": "2025-10-13T02:51:47.2750352Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.EAN8",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.47/funfair.buildcheck.win-x64.474.2.2.1900-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b2d4355d-f418-4354-8baa-9df3a748a2d4",
+      "commitTimeStamp": "2025-10-13T02:51:47.2750352Z",
+      "nuget:id": "FunFair.BuildCheck.win-x64",
+      "nuget:version": "474.2.2.1900-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.47/funfair.buildcheck.osx-x64.474.2.2.1900-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b2d4355d-f418-4354-8baa-9df3a748a2d4",
+      "commitTimeStamp": "2025-10-13T02:51:47.2750352Z",
+      "nuget:id": "FunFair.BuildCheck.osx-x64",
+      "nuget:version": "474.2.2.1900-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.47/funfair.buildcheck.osx-arm64.474.2.2.1900-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b2d4355d-f418-4354-8baa-9df3a748a2d4",
+      "commitTimeStamp": "2025-10-13T02:51:47.2750352Z",
+      "nuget:id": "FunFair.BuildCheck.osx-arm64",
+      "nuget:version": "474.2.2.1900-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.47/funfair.buildcheck.474.2.2.1900-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b2d4355d-f418-4354-8baa-9df3a748a2d4",
+      "commitTimeStamp": "2025-10-13T02:51:47.2750352Z",
+      "nuget:id": "FunFair.BuildCheck",
+      "nuget:version": "474.2.2.1900-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.47/credfeto.extensions.linq.1.0.138.1245-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b2d4355d-f418-4354-8baa-9df3a748a2d4",
+      "commitTimeStamp": "2025-10-13T02:51:47.2750352Z",
+      "nuget:id": "Credfeto.Extensions.Linq",
+      "nuget:version": "1.0.138.1245-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.47/onbarcode.barcode.reader.document.powerpoint.sample.vb.ean13.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b2d4355d-f418-4354-8baa-9df3a748a2d4",
+      "commitTimeStamp": "2025-10-13T02:51:47.2750352Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.EAN13",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.47/onbarcode.barcode.reader.document.powerpoint.sample.vb.code128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b2d4355d-f418-4354-8baa-9df3a748a2d4",
+      "commitTimeStamp": "2025-10-13T02:51:47.2750352Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.Code128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.47/onbarcode.barcode.reader.document.powerpoint.sample.vb.code39.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b2d4355d-f418-4354-8baa-9df3a748a2d4",
+      "commitTimeStamp": "2025-10-13T02:51:47.2750352Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.Code39",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.47/credfeto.docker.healthcheck.http.client.0.0.55.444-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b2d4355d-f418-4354-8baa-9df3a748a2d4",
+      "commitTimeStamp": "2025-10-13T02:51:47.2750352Z",
+      "nuget:id": "Credfeto.Docker.HealthCheck.Http.Client",
+      "nuget:version": "0.0.55.444-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.13/credfeto.version.information.generator.1.0.116.874-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9768309b-9f12-46cf-b8d6-f0f00887bde0",
+      "commitTimeStamp": "2025-10-13T02:51:13.0692649Z",
+      "nuget:id": "Credfeto.Version.Information.Generator",
+      "nuget:version": "1.0.116.874-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.13/onbarcode.barcode.reader.document.powerpoint.sample.vb.australiapost.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9768309b-9f12-46cf-b8d6-f0f00887bde0",
+      "commitTimeStamp": "2025-10-13T02:51:13.0692649Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.AustraliaPost",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.13/cssimplefunctions.0.1.19.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9768309b-9f12-46cf-b8d6-f0f00887bde0",
+      "commitTimeStamp": "2025-10-13T02:51:13.0692649Z",
+      "nuget:id": "CSSimpleFunctions",
+      "nuget:version": "0.1.19"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.13/onbarcode.barcode.reader.document.powerpoint.sample.planet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9768309b-9f12-46cf-b8d6-f0f00887bde0",
+      "commitTimeStamp": "2025-10-13T02:51:13.0692649Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.PLANET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.13/funfair.buildcheck.solutionchecks.474.2.2.1900-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9768309b-9f12-46cf-b8d6-f0f00887bde0",
+      "commitTimeStamp": "2025-10-13T02:51:13.0692649Z",
+      "nuget:id": "FunFair.BuildCheck.SolutionChecks",
+      "nuget:version": "474.2.2.1900-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.13/onbarcode.barcode.reader.document.powerpoint.sample.vb.code93.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9768309b-9f12-46cf-b8d6-f0f00887bde0",
+      "commitTimeStamp": "2025-10-13T02:51:13.0692649Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.Code93",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.13/udap.smart.model.0.5.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9768309b-9f12-46cf-b8d6-f0f00887bde0",
+      "commitTimeStamp": "2025-10-13T02:51:13.0692649Z",
+      "nuget:id": "Udap.Smart.Model",
+      "nuget:version": "0.5.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.13/funfair.buildcheck.helpers.474.2.2.1900-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9768309b-9f12-46cf-b8d6-f0f00887bde0",
+      "commitTimeStamp": "2025-10-13T02:51:13.0692649Z",
+      "nuget:id": "FunFair.BuildCheck.Helpers",
+      "nuget:version": "474.2.2.1900-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.13/credfeto.database.pgsql.1.2.200.1724-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9768309b-9f12-46cf-b8d6-f0f00887bde0",
+      "commitTimeStamp": "2025-10-13T02:51:13.0692649Z",
+      "nuget:id": "Credfeto.Database.Pgsql",
+      "nuget:version": "1.2.200.1724-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.13/credfeto.database.interfaces.1.2.200.1724-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9768309b-9f12-46cf-b8d6-f0f00887bde0",
+      "commitTimeStamp": "2025-10-13T02:51:13.0692649Z",
+      "nuget:id": "Credfeto.Database.Interfaces",
+      "nuget:version": "1.2.200.1724-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.51.13/onbarcode.barcode.reader.document.powerpoint.sample.vb.datamatrix.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9768309b-9f12-46cf-b8d6-f0f00887bde0",
+      "commitTimeStamp": "2025-10-13T02:51:13.0692649Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.DataMatrix",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.38/credfeto.database.1.2.200.1724-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa83a349-560e-4ec4-937f-9fd616933ff3",
+      "commitTimeStamp": "2025-10-13T02:50:38.2784526Z",
+      "nuget:id": "Credfeto.Database",
+      "nuget:version": "1.2.200.1724-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.38/onbarcode.barcode.reader.document.powerpoint.sample.vb.codabar.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa83a349-560e-4ec4-937f-9fd616933ff3",
+      "commitTimeStamp": "2025-10-13T02:50:38.2784526Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.VB.Codabar",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.38/udap.server.storage.0.5.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa83a349-560e-4ec4-937f-9fd616933ff3",
+      "commitTimeStamp": "2025-10-13T02:50:38.2784526Z",
+      "nuget:id": "Udap.Server.Storage",
+      "nuget:version": "0.5.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.38/credfeto.random.1.0.139.1348-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa83a349-560e-4ec4-937f-9fd616933ff3",
+      "commitTimeStamp": "2025-10-13T02:50:38.2784526Z",
+      "nuget:id": "Credfeto.Random",
+      "nuget:version": "1.0.139.1348-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.38/credfeto.database.source.generation.1.2.200.1724-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa83a349-560e-4ec4-937f-9fd616933ff3",
+      "commitTimeStamp": "2025-10-13T02:50:38.2784526Z",
+      "nuget:id": "Credfeto.Database.Source.Generation",
+      "nuget:version": "1.2.200.1724-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.38/credfeto.random.interfaces.1.0.139.1348-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa83a349-560e-4ec4-937f-9fd616933ff3",
+      "commitTimeStamp": "2025-10-13T02:50:38.2784526Z",
+      "nuget:id": "Credfeto.Random.Interfaces",
+      "nuget:version": "1.0.139.1348-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.38/credfeto.database.sqlserver.1.2.200.1724-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa83a349-560e-4ec4-937f-9fd616933ff3",
+      "commitTimeStamp": "2025-10-13T02:50:38.2784526Z",
+      "nuget:id": "Credfeto.Database.SqlServer",
+      "nuget:version": "1.2.200.1724-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.38/onbarcode.barcode.reader.document.powerpoint.sample.upce.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa83a349-560e-4ec4-937f-9fd616933ff3",
+      "commitTimeStamp": "2025-10-13T02:50:38.2784526Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.UPCE",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.38/udap.cdshooks.model.0.5.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa83a349-560e-4ec4-937f-9fd616933ff3",
+      "commitTimeStamp": "2025-10-13T02:50:38.2784526Z",
+      "nuget:id": "Udap.CdsHooks.Model",
+      "nuget:version": "0.5.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.38/credfeto.date.interfaces.1.1.139.1369-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa83a349-560e-4ec4-937f-9fd616933ff3",
+      "commitTimeStamp": "2025-10-13T02:50:38.2784526Z",
+      "nuget:id": "Credfeto.Date.Interfaces",
+      "nuget:version": "1.1.139.1369-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.38/onbarcode.barcode.reader.document.powerpoint.sample.upca.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa83a349-560e-4ec4-937f-9fd616933ff3",
+      "commitTimeStamp": "2025-10-13T02:50:38.2784526Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.UPCA",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.38/credfeto.date.1.1.139.1369-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa83a349-560e-4ec4-937f-9fd616933ff3",
+      "commitTimeStamp": "2025-10-13T02:50:38.2784526Z",
+      "nuget:id": "Credfeto.Date",
+      "nuget:version": "1.1.139.1369-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.38/udap.client.0.5.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa83a349-560e-4ec4-937f-9fd616933ff3",
+      "commitTimeStamp": "2025-10-13T02:50:38.2784526Z",
+      "nuget:id": "Udap.Client",
+      "nuget:version": "0.5.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.03/credfeto.changelog.cmd.win-arm64.1.10.194.1513-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f67e0f1f-66c8-4dac-aa7c-07675e8a8727",
+      "commitTimeStamp": "2025-10-13T02:50:03.6507993Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.win-arm64",
+      "nuget:version": "1.10.194.1513-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.03/credfeto.enumeration.source.generation.1.2.131.1471-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f67e0f1f-66c8-4dac-aa7c-07675e8a8727",
+      "commitTimeStamp": "2025-10-13T02:50:03.6507993Z",
+      "nuget:id": "Credfeto.Enumeration.Source.Generation",
+      "nuget:version": "1.2.131.1471-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.03/onbarcode.barcode.reader.document.powerpoint.sample.qrcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f67e0f1f-66c8-4dac-aa7c-07675e8a8727",
+      "commitTimeStamp": "2025-10-13T02:50:03.6507993Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.QRCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.03/udap.ui.0.5.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f67e0f1f-66c8-4dac-aa7c-07675e8a8727",
+      "commitTimeStamp": "2025-10-13T02:50:03.6507993Z",
+      "nuget:id": "Udap.UI",
+      "nuget:version": "0.5.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.03/onbarcode.barcode.reader.document.powerpoint.sample.pdf417.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f67e0f1f-66c8-4dac-aa7c-07675e8a8727",
+      "commitTimeStamp": "2025-10-13T02:50:03.6507993Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.PDF417",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.03/udap.model.0.5.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f67e0f1f-66c8-4dac-aa7c-07675e8a8727",
+      "commitTimeStamp": "2025-10-13T02:50:03.6507993Z",
+      "nuget:id": "Udap.Model",
+      "nuget:version": "0.5.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.03/credfeto.services.startup.interfaces.1.1.134.1275-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f67e0f1f-66c8-4dac-aa7c-07675e8a8727",
+      "commitTimeStamp": "2025-10-13T02:50:03.6507993Z",
+      "nuget:id": "Credfeto.Services.Startup.Interfaces",
+      "nuget:version": "1.1.134.1275-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.03/udap.util.0.5.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f67e0f1f-66c8-4dac-aa7c-07675e8a8727",
+      "commitTimeStamp": "2025-10-13T02:50:03.6507993Z",
+      "nuget:id": "Udap.Util",
+      "nuget:version": "0.5.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.03/udap.server.0.5.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f67e0f1f-66c8-4dac-aa7c-07675e8a8727",
+      "commitTimeStamp": "2025-10-13T02:50:03.6507993Z",
+      "nuget:id": "Udap.Server",
+      "nuget:version": "0.5.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.03/udap.common.0.5.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f67e0f1f-66c8-4dac-aa7c-07675e8a8727",
+      "commitTimeStamp": "2025-10-13T02:50:03.6507993Z",
+      "nuget:id": "Udap.Common",
+      "nuget:version": "0.5.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.03/udap.smart.metadata.0.5.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f67e0f1f-66c8-4dac-aa7c-07675e8a8727",
+      "commitTimeStamp": "2025-10-13T02:50:03.6507993Z",
+      "nuget:id": "Udap.Smart.Metadata",
+      "nuget:version": "0.5.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.03/onbarcode.barcode.reader.document.powerpoint.sample.rm4scc.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f67e0f1f-66c8-4dac-aa7c-07675e8a8727",
+      "commitTimeStamp": "2025-10-13T02:50:03.6507993Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.RM4SCC",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.03/onbarcode.barcode.reader.document.powerpoint.sample.leitcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f67e0f1f-66c8-4dac-aa7c-07675e8a8727",
+      "commitTimeStamp": "2025-10-13T02:50:03.6507993Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.Leitcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.03/udap.cdshooks.endpoint.0.5.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f67e0f1f-66c8-4dac-aa7c-07675e8a8727",
+      "commitTimeStamp": "2025-10-13T02:50:03.6507993Z",
+      "nuget:id": "Udap.CdsHooks.Endpoint",
+      "nuget:version": "0.5.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.50.03/udap.metadata.server.0.5.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f67e0f1f-66c8-4dac-aa7c-07675e8a8727",
+      "commitTimeStamp": "2025-10-13T02:50:03.6507993Z",
+      "nuget:id": "Udap.Metadata.Server",
+      "nuget:version": "0.5.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.49.28/credfeto.package.push.osx-x64.1.6.177.1501-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59dd566a-2736-4918-a3fd-ea8a0defe532",
+      "commitTimeStamp": "2025-10-13T02:49:28.7452708Z",
+      "nuget:id": "Credfeto.Package.Push.osx-x64",
+      "nuget:version": "1.6.177.1501-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.49.28/credfeto.changelog.cmd.linux-arm64.1.10.194.1513-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59dd566a-2736-4918-a3fd-ea8a0defe532",
+      "commitTimeStamp": "2025-10-13T02:49:28.7452708Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.linux-arm64",
+      "nuget:version": "1.10.194.1513-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.49.28/credfeto.changelog.cmd.linux-x64.1.10.194.1513-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59dd566a-2736-4918-a3fd-ea8a0defe532",
+      "commitTimeStamp": "2025-10-13T02:49:28.7452708Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.linux-x64",
+      "nuget:version": "1.10.194.1513-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.49.28/credfeto.package.push.linux-arm64.1.6.177.1501-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59dd566a-2736-4918-a3fd-ea8a0defe532",
+      "commitTimeStamp": "2025-10-13T02:49:28.7452708Z",
+      "nuget:id": "Credfeto.Package.Push.linux-arm64",
+      "nuget:version": "1.6.177.1501-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.49.28/credfeto.changelog.cmd.win-x64.1.10.194.1513-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59dd566a-2736-4918-a3fd-ea8a0defe532",
+      "commitTimeStamp": "2025-10-13T02:49:28.7452708Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.win-x64",
+      "nuget:version": "1.10.194.1513-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.49.28/onbarcode.barcode.reader.document.powerpoint.sample.itf14.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59dd566a-2736-4918-a3fd-ea8a0defe532",
+      "commitTimeStamp": "2025-10-13T02:49:28.7452708Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.ITF14",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.49.28/onbarcode.barcode.reader.document.powerpoint.sample.postnet.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59dd566a-2736-4918-a3fd-ea8a0defe532",
+      "commitTimeStamp": "2025-10-13T02:49:28.7452708Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.POSTNET",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.49.28/bootstrapblazor.9.11.2-beta05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59dd566a-2736-4918-a3fd-ea8a0defe532",
+      "commitTimeStamp": "2025-10-13T02:49:28.7452708Z",
+      "nuget:id": "BootstrapBlazor",
+      "nuget:version": "9.11.2-beta05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.49.28/credfeto.changelog.cmd.osx-x64.1.10.194.1513-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59dd566a-2736-4918-a3fd-ea8a0defe532",
+      "commitTimeStamp": "2025-10-13T02:49:28.7452708Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.osx-x64",
+      "nuget:version": "1.10.194.1513-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.49.28/credfeto.enumeration.source.generation.attributes.1.2.131.1471-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59dd566a-2736-4918-a3fd-ea8a0defe532",
+      "commitTimeStamp": "2025-10-13T02:49:28.7452708Z",
+      "nuget:id": "Credfeto.Enumeration.Source.Generation.Attributes",
+      "nuget:version": "1.2.131.1471-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.49.28/credfeto.changelog.1.10.194.1513-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59dd566a-2736-4918-a3fd-ea8a0defe532",
+      "commitTimeStamp": "2025-10-13T02:49:28.7452708Z",
+      "nuget:id": "Credfeto.ChangeLog",
+      "nuget:version": "1.10.194.1513-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.49.28/credfeto.changelog.cmd.1.10.194.1513-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59dd566a-2736-4918-a3fd-ea8a0defe532",
+      "commitTimeStamp": "2025-10-13T02:49:28.7452708Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd",
+      "nuget:version": "1.10.194.1513-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.49.28/credfeto.changelog.cmd.osx-arm64.1.10.194.1513-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59dd566a-2736-4918-a3fd-ea8a0defe532",
+      "commitTimeStamp": "2025-10-13T02:49:28.7452708Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.osx-arm64",
+      "nuget:version": "1.10.194.1513-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.48.54/onbarcode.barcode.reader.document.powerpoint.sample.intelligentmail.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "827e72d0-64de-48e9-a746-4d22d742a587",
+      "commitTimeStamp": "2025-10-13T02:48:54.4554712Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.IntelligentMail",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.48.54/onbarcode.barcode.reader.document.powerpoint.sample.patchcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "827e72d0-64de-48e9-a746-4d22d742a587",
+      "commitTimeStamp": "2025-10-13T02:48:54.4554712Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.PatchCode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.48.54/credfeto.package.push.osx-arm64.1.6.177.1501-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "827e72d0-64de-48e9-a746-4d22d742a587",
+      "commitTimeStamp": "2025-10-13T02:48:54.4554712Z",
+      "nuget:id": "Credfeto.Package.Push.osx-arm64",
+      "nuget:version": "1.6.177.1501-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.48.54/credfeto.package.push.win-arm64.1.6.177.1501-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "827e72d0-64de-48e9-a746-4d22d742a587",
+      "commitTimeStamp": "2025-10-13T02:48:54.4554712Z",
+      "nuget:id": "Credfeto.Package.Push.win-arm64",
+      "nuget:version": "1.6.177.1501-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.48.54/onbarcode.barcode.reader.document.powerpoint.sample.interleaved2of5.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "827e72d0-64de-48e9-a746-4d22d742a587",
+      "commitTimeStamp": "2025-10-13T02:48:54.4554712Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.Interleaved2of5",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.48.54/onbarcode.barcode.reader.document.powerpoint.sample.isbn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "827e72d0-64de-48e9-a746-4d22d742a587",
+      "commitTimeStamp": "2025-10-13T02:48:54.4554712Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.ISBN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.48.54/credfeto.services.startup.1.1.134.1275-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "827e72d0-64de-48e9-a746-4d22d742a587",
+      "commitTimeStamp": "2025-10-13T02:48:54.4554712Z",
+      "nuget:id": "Credfeto.Services.Startup",
+      "nuget:version": "1.1.134.1275-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.48.20/credfeto.package.update.linux-arm64.1.10.217.1927-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8e5204a7-2d7e-421c-89c4-000aa7b46949",
+      "commitTimeStamp": "2025-10-13T02:48:20.2827403Z",
+      "nuget:id": "Credfeto.Package.Update.linux-arm64",
+      "nuget:version": "1.10.217.1927-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.48.20/onbarcode.barcode.reader.document.powerpoint.sample.issn.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8e5204a7-2d7e-421c-89c4-000aa7b46949",
+      "commitTimeStamp": "2025-10-13T02:48:20.2827403Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.ISSN",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.48.20/onbarcode.barcode.reader.document.powerpoint.sample.ean13.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8e5204a7-2d7e-421c-89c4-000aa7b46949",
+      "commitTimeStamp": "2025-10-13T02:48:20.2827403Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.EAN13",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.48.20/onbarcode.barcode.reader.document.powerpoint.sample.gs1.128.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8e5204a7-2d7e-421c-89c4-000aa7b46949",
+      "commitTimeStamp": "2025-10-13T02:48:20.2827403Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.GS1.128",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.48.20/onbarcode.barcode.reader.document.powerpoint.sample.datamatrix.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8e5204a7-2d7e-421c-89c4-000aa7b46949",
+      "commitTimeStamp": "2025-10-13T02:48:20.2827403Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.DataMatrix",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.48.20/credfeto.package.push.1.6.177.1501-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8e5204a7-2d7e-421c-89c4-000aa7b46949",
+      "commitTimeStamp": "2025-10-13T02:48:20.2827403Z",
+      "nuget:id": "Credfeto.Package.Push",
+      "nuget:version": "1.6.177.1501-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.48.20/credfeto.package.push.win-x64.1.6.177.1501-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8e5204a7-2d7e-421c-89c4-000aa7b46949",
+      "commitTimeStamp": "2025-10-13T02:48:20.2827403Z",
+      "nuget:id": "Credfeto.Package.Push.win-x64",
+      "nuget:version": "1.6.177.1501-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.48.20/credfeto.package.push.linux-x64.1.6.177.1501-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8e5204a7-2d7e-421c-89c4-000aa7b46949",
+      "commitTimeStamp": "2025-10-13T02:48:20.2827403Z",
+      "nuget:id": "Credfeto.Package.Push.linux-x64",
+      "nuget:version": "1.6.177.1501-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.47.45/onbarcode.barcode.reader.document.powerpoint.sample.ean8.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d568cb0e-a572-4f48-be44-5f7e2552aeb8",
+      "commitTimeStamp": "2025-10-13T02:47:45.8518993Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.EAN8",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.47.45/onbarcode.barcode.reader.document.powerpoint.sample.identcode.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d568cb0e-a572-4f48-be44-5f7e2552aeb8",
+      "commitTimeStamp": "2025-10-13T02:47:45.8518993Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.Identcode",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.47.13/credfeto.package.update.win-arm64.1.10.217.1927-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "23555d90-89a0-432c-9090-a2fce22bf759",
+      "commitTimeStamp": "2025-10-13T02:47:13.1017343Z",
+      "nuget:id": "Credfeto.Package.Update.win-arm64",
+      "nuget:version": "1.10.217.1927-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.47.13/onbarcode.barcode.reader.document.powerpoint.sample.code39.10.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "23555d90-89a0-432c-9090-a2fce22bf759",
+      "commitTimeStamp": "2025-10-13T02:47:13.1017343Z",
+      "nuget:id": "OnBarcode.Barcode.Reader.Document.PowerPoint.Sample.Code39",
+      "nuget:version": "10.0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.13.02.47.13/zakmcommonlib.2.2.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "23555d90-89a0-432c-9090-a2fce22bf759",
+      "commitTimeStamp": "2025-10-13T02:47:13.1017343Z",
+      "nuget:id": "ZakmCommonLib",
+      "nuget:version": "2.2.22"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
