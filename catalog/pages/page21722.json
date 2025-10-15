@@ -1,0 +1,2793 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21722.json",
+  "@type": "CatalogPage",
+  "commitId": "b4d67d2e-981e-4575-b5ac-0f610f564d88",
+  "commitTimeStamp": "2025-10-15T06:11:34.0503951Z",
+  "count": 345,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.11.34/iseller.crosslight.7.0.5000.1513-experimental.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4d67d2e-981e-4575-b5ac-0f610f564d88",
+      "commitTimeStamp": "2025-10-15T06:11:34.0503951Z",
+      "nuget:id": "iSeller.Crosslight",
+      "nuget:version": "7.0.5000.1513-experimental"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.11.34/iseller.crosslight.services.location.7.0.5000.1513-experimental.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4d67d2e-981e-4575-b5ac-0f610f564d88",
+      "commitTimeStamp": "2025-10-15T06:11:34.0503951Z",
+      "nuget:id": "iSeller.Crosslight.Services.Location",
+      "nuget:version": "7.0.5000.1513-experimental"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.11.34/indigina.tms.reportgenerator.webapi.1.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4d67d2e-981e-4575-b5ac-0f610f564d88",
+      "commitTimeStamp": "2025-10-15T06:11:34.0503951Z",
+      "nuget:id": "Indigina.TMS.ReportGenerator.WebApi",
+      "nuget:version": "1.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.11.34/soenneker.loops.client.3.0.77.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4d67d2e-981e-4575-b5ac-0f610f564d88",
+      "commitTimeStamp": "2025-10-15T06:11:34.0503951Z",
+      "nuget:id": "Soenneker.Loops.Client",
+      "nuget:version": "3.0.77"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.11.34/iseller.appframework.7.0.5000.1513-experimental.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4d67d2e-981e-4575-b5ac-0f610f564d88",
+      "commitTimeStamp": "2025-10-15T06:11:34.0503951Z",
+      "nuget:id": "iSeller.AppFramework",
+      "nuget:version": "7.0.5000.1513-experimental"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.11.34/iseller.crosslight.logging.azureinsights.7.0.5000.1513-experimental.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4d67d2e-981e-4575-b5ac-0f610f564d88",
+      "commitTimeStamp": "2025-10-15T06:11:34.0503951Z",
+      "nuget:id": "iSeller.Crosslight.Logging.AzureInsights",
+      "nuget:version": "7.0.5000.1513-experimental"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.11.34/sage.markdownrenderer.1.0.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4d67d2e-981e-4575-b5ac-0f610f564d88",
+      "commitTimeStamp": "2025-10-15T06:11:34.0503951Z",
+      "nuget:id": "Sage.MarkdownRenderer",
+      "nuget:version": "1.0.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.11.34/iseller.crosslight.restclient.7.0.5000.1513-experimental.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4d67d2e-981e-4575-b5ac-0f610f564d88",
+      "commitTimeStamp": "2025-10-15T06:11:34.0503951Z",
+      "nuget:id": "iSeller.Crosslight.RestClient",
+      "nuget:version": "7.0.5000.1513-experimental"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.10.57/soenneker.rebrickable.client.3.0.27.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f7d804e1-3096-4eb9-bc7c-a125683210b4",
+      "commitTimeStamp": "2025-10-15T06:10:57.3740721Z",
+      "nuget:id": "Soenneker.Rebrickable.Client",
+      "nuget:version": "3.0.27"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.10.20/soenneker.dnsimple.client.3.0.234.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "54e1ce49-c068-44e9-b495-f6c53b376e66",
+      "commitTimeStamp": "2025-10-15T06:10:20.4910188Z",
+      "nuget:id": "Soenneker.DNSimple.Client",
+      "nuget:version": "3.0.234"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.10.20/soenneker.servicebus.receptors.email.3.0.321.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "54e1ce49-c068-44e9-b495-f6c53b376e66",
+      "commitTimeStamp": "2025-10-15T06:10:20.4910188Z",
+      "nuget:id": "Soenneker.ServiceBus.Receptors.Email",
+      "nuget:version": "3.0.321"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.09.45/coreremoting.1.2.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f77765ab-a38c-44ab-8f32-ab56372482d9",
+      "commitTimeStamp": "2025-10-15T06:09:45.4527206Z",
+      "nuget:id": "CoreRemoting",
+      "nuget:version": "1.2.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.09.45/zhuozhengsoft.pageoffice.6.5.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f77765ab-a38c-44ab-8f32-ab56372482d9",
+      "commitTimeStamp": "2025-10-15T06:09:45.4527206Z",
+      "nuget:id": "Zhuozhengsoft.PageOffice",
+      "nuget:version": "6.5.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.09.45/sage.http.1.0.1.19.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f77765ab-a38c-44ab-8f32-ab56372482d9",
+      "commitTimeStamp": "2025-10-15T06:09:45.4527206Z",
+      "nuget:id": "Sage.Http",
+      "nuget:version": "1.0.1.19"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.09.45/sage.windowsprocess.1.0.0.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f77765ab-a38c-44ab-8f32-ab56372482d9",
+      "commitTimeStamp": "2025-10-15T06:09:45.4527206Z",
+      "nuget:id": "Sage.WindowsProcess",
+      "nuget:version": "1.0.0.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.09.09/carneiro.core.logging.6.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ebdb69a-e1c3-481c-a950-a3aee9842635",
+      "commitTimeStamp": "2025-10-15T06:09:09.1349703Z",
+      "nuget:id": "Carneiro.Core.Logging",
+      "nuget:version": "6.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.09.09/carneiro.core.repository.6.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ebdb69a-e1c3-481c-a950-a3aee9842635",
+      "commitTimeStamp": "2025-10-15T06:09:09.1349703Z",
+      "nuget:id": "Carneiro.Core.Repository",
+      "nuget:version": "6.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.08.32/carneiro.core.web.6.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a985893d-ddde-4880-97d3-e9e37ecf0766",
+      "commitTimeStamp": "2025-10-15T06:08:32.2874337Z",
+      "nuget:id": "Carneiro.Core.Web",
+      "nuget:version": "6.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.08.32/carneiro.core.exceptions.6.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a985893d-ddde-4880-97d3-e9e37ecf0766",
+      "commitTimeStamp": "2025-10-15T06:08:32.2874337Z",
+      "nuget:id": "Carneiro.Core.Exceptions",
+      "nuget:version": "6.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.08.32/sage.freesqlmanager.1.0.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a985893d-ddde-4880-97d3-e9e37ecf0766",
+      "commitTimeStamp": "2025-10-15T06:08:32.2874337Z",
+      "nuget:id": "Sage.FreeSqlManager",
+      "nuget:version": "1.0.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.08.32/axetris.lgd.computation.1.1.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a985893d-ddde-4880-97d3-e9e37ecf0766",
+      "commitTimeStamp": "2025-10-15T06:08:32.2874337Z",
+      "nuget:id": "Axetris.Lgd.Computation",
+      "nuget:version": "1.1.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.08.32/carneiro.core.extensions.6.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a985893d-ddde-4880-97d3-e9e37ecf0766",
+      "commitTimeStamp": "2025-10-15T06:08:32.2874337Z",
+      "nuget:id": "Carneiro.Core.Extensions",
+      "nuget:version": "6.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.08.32/carneiro.core.health.6.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a985893d-ddde-4880-97d3-e9e37ecf0766",
+      "commitTimeStamp": "2025-10-15T06:08:32.2874337Z",
+      "nuget:id": "Carneiro.Core.Health",
+      "nuget:version": "6.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.08.32/carneiro.core.json.6.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a985893d-ddde-4880-97d3-e9e37ecf0766",
+      "commitTimeStamp": "2025-10-15T06:08:32.2874337Z",
+      "nuget:id": "Carneiro.Core.Json",
+      "nuget:version": "6.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.08.32/carneiro.core.host.6.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a985893d-ddde-4880-97d3-e9e37ecf0766",
+      "commitTimeStamp": "2025-10-15T06:08:32.2874337Z",
+      "nuget:id": "Carneiro.Core.Host",
+      "nuget:version": "6.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.08.32/carneiro.core.ipchecker.6.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a985893d-ddde-4880-97d3-e9e37ecf0766",
+      "commitTimeStamp": "2025-10-15T06:08:32.2874337Z",
+      "nuget:id": "Carneiro.Core.IpChecker",
+      "nuget:version": "6.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.08.32/carneiro.core.utils.6.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a985893d-ddde-4880-97d3-e9e37ecf0766",
+      "commitTimeStamp": "2025-10-15T06:08:32.2874337Z",
+      "nuget:id": "Carneiro.Core.Utils",
+      "nuget:version": "6.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.07.56/sage.encryption.serviceextensions.1.0.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "429c3bc7-a577-47bb-8a5f-922d0dc802d8",
+      "commitTimeStamp": "2025-10-15T06:07:56.7324309Z",
+      "nuget:id": "Sage.Encryption.ServiceExtensions",
+      "nuget:version": "1.0.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.07.56/carneiro.core.tests.6.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "429c3bc7-a577-47bb-8a5f-922d0dc802d8",
+      "commitTimeStamp": "2025-10-15T06:07:56.7324309Z",
+      "nuget:id": "Carneiro.Core.Tests",
+      "nuget:version": "6.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.07.56/carneiro.core.cache.6.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "429c3bc7-a577-47bb-8a5f-922d0dc802d8",
+      "commitTimeStamp": "2025-10-15T06:07:56.7324309Z",
+      "nuget:id": "Carneiro.Core.Cache",
+      "nuget:version": "6.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.07.56/soenneker.blob.download.3.0.3040.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "429c3bc7-a577-47bb-8a5f-922d0dc802d8",
+      "commitTimeStamp": "2025-10-15T06:07:56.7324309Z",
+      "nuget:id": "Soenneker.Blob.Download",
+      "nuget:version": "3.0.3040"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.07.56/carneiro.core.entities.6.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "429c3bc7-a577-47bb-8a5f-922d0dc802d8",
+      "commitTimeStamp": "2025-10-15T06:07:56.7324309Z",
+      "nuget:id": "Carneiro.Core.Entities",
+      "nuget:version": "6.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.07.21/sage.encryption.1.0.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f87410c3-3ec3-419c-bd8f-059a476d4d4e",
+      "commitTimeStamp": "2025-10-15T06:07:21.0893353Z",
+      "nuget:id": "Sage.Encryption",
+      "nuget:version": "1.0.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.07.21/sage.data.mask.1.0.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f87410c3-3ec3-419c-bd8f-059a476d4d4e",
+      "commitTimeStamp": "2025-10-15T06:07:21.0893353Z",
+      "nuget:id": "Sage.Data.Mask",
+      "nuget:version": "1.0.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.07.21/zhuozhengsoft.pageofficenet.6.5.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f87410c3-3ec3-419c-bd8f-059a476d4d4e",
+      "commitTimeStamp": "2025-10-15T06:07:21.0893353Z",
+      "nuget:id": "Zhuozhengsoft.PageOfficeNet",
+      "nuget:version": "6.5.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.06.44/sage.data.validation.1.0.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ad50181-8fd7-4fda-b362-136ec1a76ac8",
+      "commitTimeStamp": "2025-10-15T06:06:44.4386168Z",
+      "nuget:id": "Sage.Data.Validation",
+      "nuget:version": "1.0.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.06.44/soenneker.dnsimple.identity.3.0.315.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ad50181-8fd7-4fda-b362-136ec1a76ac8",
+      "commitTimeStamp": "2025-10-15T06:06:44.4386168Z",
+      "nuget:id": "Soenneker.DNSimple.Identity",
+      "nuget:version": "3.0.315"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.06.09/sage.data.extensions.1.0.0.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18b54cfb-7ab6-4f05-ab67-bd67638caef5",
+      "commitTimeStamp": "2025-10-15T06:06:09.3420347Z",
+      "nuget:id": "Sage.Data.Extensions",
+      "nuget:version": "1.0.0.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.06.09/soenneker.sendgrid.validation.3.0.1186.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18b54cfb-7ab6-4f05-ab67-bd67638caef5",
+      "commitTimeStamp": "2025-10-15T06:06:09.3420347Z",
+      "nuget:id": "Soenneker.SendGrid.Validation",
+      "nuget:version": "3.0.1186"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.06.09/soenneker.blob.delete.3.0.2622.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18b54cfb-7ab6-4f05-ab67-bd67638caef5",
+      "commitTimeStamp": "2025-10-15T06:06:09.3420347Z",
+      "nuget:id": "Soenneker.Blob.Delete",
+      "nuget:version": "3.0.2622"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.06.09/soenneker.stripe.customers.3.0.878.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18b54cfb-7ab6-4f05-ab67-bd67638caef5",
+      "commitTimeStamp": "2025-10-15T06:06:09.3420347Z",
+      "nuget:id": "Soenneker.Stripe.Customers",
+      "nuget:version": "3.0.878"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.05.23/mongomigrations.core.4.0.8-prerelease.15.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f64b83c-4e89-4f41-a4ab-f1be7786de8e",
+      "commitTimeStamp": "2025-10-15T06:05:23.6125509Z",
+      "nuget:id": "MongoMigrations.Core",
+      "nuget:version": "4.0.8-prerelease.15"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.05.23/aiursoft.voyager.9.0.41.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f64b83c-4e89-4f41-a4ab-f1be7786de8e",
+      "commitTimeStamp": "2025-10-15T06:05:23.6125509Z",
+      "nuget:id": "Aiursoft.Voyager",
+      "nuget:version": "9.0.41"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.05.23/aiursoft.dotdownload.9.0.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f64b83c-4e89-4f41-a4ab-f1be7786de8e",
+      "commitTimeStamp": "2025-10-15T06:05:23.6125509Z",
+      "nuget:id": "Aiursoft.DotDownload",
+      "nuget:version": "9.0.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.04.27/sage.caching.memory.1.0.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "764f7977-7bc4-42c4-bb3f-ee69bd96130f",
+      "commitTimeStamp": "2025-10-15T06:04:27.782201Z",
+      "nuget:id": "Sage.Caching.Memory",
+      "nuget:version": "1.0.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.04.27/soenneker.stripe.paymentintents.3.0.888.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "764f7977-7bc4-42c4-bb3f-ee69bd96130f",
+      "commitTimeStamp": "2025-10-15T06:04:27.782201Z",
+      "nuget:id": "Soenneker.Stripe.PaymentIntents",
+      "nuget:version": "3.0.888"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.04.27/aiursoft.scanner.9.0.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "764f7977-7bc4-42c4-bb3f-ee69bd96130f",
+      "commitTimeStamp": "2025-10-15T06:04:27.782201Z",
+      "nuget:id": "Aiursoft.Scanner",
+      "nuget:version": "9.0.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.03.37/onedatabase.3.3.9.2-func.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f0d60fd7-b5ad-4861-a41f-07b401be0cc4",
+      "commitTimeStamp": "2025-10-15T06:03:37.9786586Z",
+      "nuget:id": "OneDatabase",
+      "nuget:version": "3.3.9.2-func"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.02.51/soenneker.semantickernel.pool.openai.azure.3.0.137.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3266976d-f2c7-4ab8-bfab-6a0b4d4b2665",
+      "commitTimeStamp": "2025-10-15T06:02:51.9281001Z",
+      "nuget:id": "Soenneker.SemanticKernel.Pool.OpenAi.Azure",
+      "nuget:version": "3.0.137"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.02.51/soenneker.servicebus.transmitter.3.0.3283.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3266976d-f2c7-4ab8-bfab-6a0b4d4b2665",
+      "commitTimeStamp": "2025-10-15T06:02:51.9281001Z",
+      "nuget:id": "Soenneker.ServiceBus.Transmitter",
+      "nuget:version": "3.0.3283"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.02.09/astarlite.1.3.0-beta.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2f6a5edb-a2c3-4350-85fb-5e0afe5a9b47",
+      "commitTimeStamp": "2025-10-15T06:02:09.6461917Z",
+      "nuget:id": "AStarLite",
+      "nuget:version": "1.3.0-beta.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.02.09/soenneker.extensions.httpclient.3.0.3431.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2f6a5edb-a2c3-4350-85fb-5e0afe5a9b47",
+      "commitTimeStamp": "2025-10-15T06:02:09.6461917Z",
+      "nuget:id": "Soenneker.Extensions.HttpClient",
+      "nuget:version": "3.0.3431"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.01.15/scriptrunner.engine.5.0.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "94ead025-83ca-441e-ad65-fa08ffb68e59",
+      "commitTimeStamp": "2025-10-15T06:01:15.9823985Z",
+      "nuget:id": "ScriptRunner.Engine",
+      "nuget:version": "5.0.0.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.01.15/soenneker.smartenum.abbreviateddescriptive.3.0.828.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "94ead025-83ca-441e-ad65-fa08ffb68e59",
+      "commitTimeStamp": "2025-10-15T06:01:15.9823985Z",
+      "nuget:id": "Soenneker.SmartEnum.AbbreviatedDescriptive",
+      "nuget:version": "3.0.828"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.06.00.21/soenneker.blob.suite.3.0.6398.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4e94a06-b21c-46a0-b2aa-030fb07206a8",
+      "commitTimeStamp": "2025-10-15T06:00:21.1630703Z",
+      "nuget:id": "Soenneker.Blob.Suite",
+      "nuget:version": "3.0.6398"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.59.34/soenneker.cloudflare.utils.client.3.0.307.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ba0076dc-1914-43a5-9437-104ea2c1ab06",
+      "commitTimeStamp": "2025-10-15T05:59:34.640348Z",
+      "nuget:id": "Soenneker.Cloudflare.Utils.Client",
+      "nuget:version": "3.0.307"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.59.34/soenneker.blazor.chatwoot.3.0.291.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ba0076dc-1914-43a5-9437-104ea2c1ab06",
+      "commitTimeStamp": "2025-10-15T05:59:34.640348Z",
+      "nuget:id": "Soenneker.Blazor.Chatwoot",
+      "nuget:version": "3.0.291"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.58.53/soenneker.blazor.chatwoot.3.0.290.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cc8c921b-cf20-4d88-8849-e4d64019bab6",
+      "commitTimeStamp": "2025-10-15T05:58:53.2562468Z",
+      "nuget:id": "Soenneker.Blazor.Chatwoot",
+      "nuget:version": "3.0.290"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.58.53/soenneker.cloudflare.utils.client.3.0.306.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cc8c921b-cf20-4d88-8849-e4d64019bab6",
+      "commitTimeStamp": "2025-10-15T05:58:53.2562468Z",
+      "nuget:id": "Soenneker.Cloudflare.Utils.Client",
+      "nuget:version": "3.0.306"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.58.53/soenneker.blob.suite.3.0.6401.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cc8c921b-cf20-4d88-8849-e4d64019bab6",
+      "commitTimeStamp": "2025-10-15T05:58:53.2562468Z",
+      "nuget:id": "Soenneker.Blob.Suite",
+      "nuget:version": "3.0.6401"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.58.12/soenneker.blob.suite.3.0.6400.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bbf0d630-9a3c-4c0f-8bb7-e935eb09aebc",
+      "commitTimeStamp": "2025-10-15T05:58:12.6865526Z",
+      "nuget:id": "Soenneker.Blob.Suite",
+      "nuget:version": "3.0.6400"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.58.12/soenneker.blob.suite.3.0.6399.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bbf0d630-9a3c-4c0f-8bb7-e935eb09aebc",
+      "commitTimeStamp": "2025-10-15T05:58:12.6865526Z",
+      "nuget:id": "Soenneker.Blob.Suite",
+      "nuget:version": "3.0.6399"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.58.12/soenneker.cloudflare.attributes.require.3.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bbf0d630-9a3c-4c0f-8bb7-e935eb09aebc",
+      "commitTimeStamp": "2025-10-15T05:58:12.6865526Z",
+      "nuget:id": "Soenneker.Cloudflare.Attributes.Require",
+      "nuget:version": "3.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.58.12/vot.front.1.0.270.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bbf0d630-9a3c-4c0f-8bb7-e935eb09aebc",
+      "commitTimeStamp": "2025-10-15T05:58:12.6865526Z",
+      "nuget:id": "Vot.Front",
+      "nuget:version": "1.0.270"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.57.27/soenneker.telnyx.clientutil.3.0.207.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bb46d8eb-cbd3-46c4-a837-9d276f01bd08",
+      "commitTimeStamp": "2025-10-15T05:57:27.5015153Z",
+      "nuget:id": "Soenneker.Telnyx.ClientUtil",
+      "nuget:version": "3.0.207"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.57.27/mst.netcoreextension.1.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bb46d8eb-cbd3-46c4-a837-9d276f01bd08",
+      "commitTimeStamp": "2025-10-15T05:57:27.5015153Z",
+      "nuget:id": "MST.NetCoreExtension",
+      "nuget:version": "1.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.55.45/aspose.cells.gridweb.25.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c46192f5-952f-4b1e-9ecf-3ee85df266f3",
+      "commitTimeStamp": "2025-10-15T05:55:45.5311803Z",
+      "nuget:id": "Aspose.Cells.GridWeb",
+      "nuget:version": "25.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.55.45/soenneker.runners.redis.locks.3.0.333.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c46192f5-952f-4b1e-9ecf-3ee85df266f3",
+      "commitTimeStamp": "2025-10-15T05:55:45.5311803Z",
+      "nuget:id": "Soenneker.Runners.Redis.Locks",
+      "nuget:version": "3.0.333"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.55.45/soenneker.sendgrid.contacts.3.0.2883.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c46192f5-952f-4b1e-9ecf-3ee85df266f3",
+      "commitTimeStamp": "2025-10-15T05:55:45.5311803Z",
+      "nuget:id": "Soenneker.SendGrid.Contacts",
+      "nuget:version": "3.0.2883"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.54.16/aspose.cells.griddesktop.25.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cf993498-efa3-4762-a79c-d6a2ac8c096a",
+      "commitTimeStamp": "2025-10-15T05:54:16.2520238Z",
+      "nuget:id": "Aspose.Cells.GridDesktop",
+      "nuget:version": "25.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.54.16/soenneker.cosmos.database.3.0.2371.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cf993498-efa3-4762-a79c-d6a2ac8c096a",
+      "commitTimeStamp": "2025-10-15T05:54:16.2520238Z",
+      "nuget:id": "Soenneker.Cosmos.Database",
+      "nuget:version": "3.0.2371"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.52.43/soenneker.blazor.floating.windows.3.0.68.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a847afdc-f11e-4852-b2f6-92ef18eb735d",
+      "commitTimeStamp": "2025-10-15T05:52:43.1204127Z",
+      "nuget:id": "Soenneker.Blazor.Floating.Windows",
+      "nuget:version": "3.0.68"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.52.43/opentelemetry.instrumentation.aspnet.1.13.0-beta.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a847afdc-f11e-4852-b2f6-92ef18eb735d",
+      "commitTimeStamp": "2025-10-15T05:52:43.1204127Z",
+      "nuget:id": "OpenTelemetry.Instrumentation.AspNet",
+      "nuget:version": "1.13.0-beta.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.52.43/soenneker.blazor.turnstile.3.0.2322.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a847afdc-f11e-4852-b2f6-92ef18eb735d",
+      "commitTimeStamp": "2025-10-15T05:52:43.1204127Z",
+      "nuget:id": "Soenneker.Blazor.Turnstile",
+      "nuget:version": "3.0.2322"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.51.55/soenneker.dnsimple.openapiclientutil.3.0.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cbcb971d-adfb-492f-a6bd-f3bbefcfc1e8",
+      "commitTimeStamp": "2025-10-15T05:51:55.4638741Z",
+      "nuget:id": "Soenneker.DNSimple.OpenApiClientUtil",
+      "nuget:version": "3.0.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.51.55/soenneker.blob.container.3.0.2629.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cbcb971d-adfb-492f-a6bd-f3bbefcfc1e8",
+      "commitTimeStamp": "2025-10-15T05:51:55.4638741Z",
+      "nuget:id": "Soenneker.Blob.Container",
+      "nuget:version": "3.0.2629"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.51.55/a2v10.data.core.10.1.7565.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cbcb971d-adfb-492f-a6bd-f3bbefcfc1e8",
+      "commitTimeStamp": "2025-10-15T05:51:55.4638741Z",
+      "nuget:id": "A2v10.Data.Core",
+      "nuget:version": "10.1.7565"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.51.55/soenneker.cloudflare.openapi.suite.3.0.557.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cbcb971d-adfb-492f-a6bd-f3bbefcfc1e8",
+      "commitTimeStamp": "2025-10-15T05:51:55.4638741Z",
+      "nuget:id": "Soenneker.Cloudflare.OpenApi.Suite",
+      "nuget:version": "3.0.557"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.51.15/soenneker.zelos.suite.3.0.348.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d4860035-ec83-4ec9-b15c-01538d0c90fc",
+      "commitTimeStamp": "2025-10-15T05:51:15.7393664Z",
+      "nuget:id": "Soenneker.Zelos.Suite",
+      "nuget:version": "3.0.348"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.51.15/opentelemetry.instrumentation.aspnet.telemetryhttpmodule.1.13.0-beta.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d4860035-ec83-4ec9-b15c-01538d0c90fc",
+      "commitTimeStamp": "2025-10-15T05:51:15.7393664Z",
+      "nuget:id": "OpenTelemetry.Instrumentation.AspNet.TelemetryHttpModule",
+      "nuget:version": "1.13.0-beta.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.51.15/ifccommonresources.1.7.164.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d4860035-ec83-4ec9-b15c-01538d0c90fc",
+      "commitTimeStamp": "2025-10-15T05:51:15.7393664Z",
+      "nuget:id": "IFCCommonResources",
+      "nuget:version": "1.7.164"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.51.15/rehackt.aspnetcore.entityframeworkcore.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d4860035-ec83-4ec9-b15c-01538d0c90fc",
+      "commitTimeStamp": "2025-10-15T05:51:15.7393664Z",
+      "nuget:id": "ReHackt.AspNetCore.EntityFrameworkCore",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.51.15/rehackt.linq.automapper.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d4860035-ec83-4ec9-b15c-01538d0c90fc",
+      "commitTimeStamp": "2025-10-15T05:51:15.7393664Z",
+      "nuget:id": "ReHackt.Linq.AutoMapper",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.50.35/soenneker.validators.email.mx.3.0.2342.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8569b314-a038-4f8d-acaf-674c8b673811",
+      "commitTimeStamp": "2025-10-15T05:50:35.9927163Z",
+      "nuget:id": "Soenneker.Validators.Email.Mx",
+      "nuget:version": "3.0.2342"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.50.35/rehackt.core.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8569b314-a038-4f8d-acaf-674c8b673811",
+      "commitTimeStamp": "2025-10-15T05:50:35.9927163Z",
+      "nuget:id": "ReHackt.Core",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.50.35/soenneker.blob.client.3.0.1887.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8569b314-a038-4f8d-acaf-674c8b673811",
+      "commitTimeStamp": "2025-10-15T05:50:35.9927163Z",
+      "nuget:id": "Soenneker.Blob.Client",
+      "nuget:version": "3.0.1887"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.50.35/aspose.cells.gridjs.25.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8569b314-a038-4f8d-acaf-674c8b673811",
+      "commitTimeStamp": "2025-10-15T05:50:35.9927163Z",
+      "nuget:id": "Aspose.Cells.GridJs",
+      "nuget:version": "25.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.50.35/rehackt.aspnetcore.builder.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8569b314-a038-4f8d-acaf-674c8b673811",
+      "commitTimeStamp": "2025-10-15T05:50:35.9927163Z",
+      "nuget:id": "ReHackt.AspNetCore.Builder",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.50.35/rehackt.aspnetcore.http.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8569b314-a038-4f8d-acaf-674c8b673811",
+      "commitTimeStamp": "2025-10-15T05:50:35.9927163Z",
+      "nuget:id": "ReHackt.AspNetCore.Http",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.50.35/rehackt.aspnetcore.automapper.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8569b314-a038-4f8d-acaf-674c8b673811",
+      "commitTimeStamp": "2025-10-15T05:50:35.9927163Z",
+      "nuget:id": "ReHackt.AspNetCore.AutoMapper",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.50.35/rehackt.aspnetcore.mvc.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8569b314-a038-4f8d-acaf-674c8b673811",
+      "commitTimeStamp": "2025-10-15T05:50:35.9927163Z",
+      "nuget:id": "ReHackt.AspNetCore.Mvc",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.50.35/rehackt.aspnetcore.validation.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8569b314-a038-4f8d-acaf-674c8b673811",
+      "commitTimeStamp": "2025-10-15T05:50:35.9927163Z",
+      "nuget:id": "ReHackt.AspNetCore.Validation",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.50.35/rehackt.aspnetcore.authorization.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8569b314-a038-4f8d-acaf-674c8b673811",
+      "commitTimeStamp": "2025-10-15T05:50:35.9927163Z",
+      "nuget:id": "ReHackt.AspNetCore.Authorization",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.50.35/rehackt.email.smtp.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8569b314-a038-4f8d-acaf-674c8b673811",
+      "commitTimeStamp": "2025-10-15T05:50:35.9927163Z",
+      "nuget:id": "ReHackt.Email.Smtp",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.50.35/rehackt.security.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8569b314-a038-4f8d-acaf-674c8b673811",
+      "commitTimeStamp": "2025-10-15T05:50:35.9927163Z",
+      "nuget:id": "ReHackt.Security",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.50.35/rehackt.schema.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8569b314-a038-4f8d-acaf-674c8b673811",
+      "commitTimeStamp": "2025-10-15T05:50:35.9927163Z",
+      "nuget:id": "ReHackt.Schema",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.50.35/rehackt.linq.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8569b314-a038-4f8d-acaf-674c8b673811",
+      "commitTimeStamp": "2025-10-15T05:50:35.9927163Z",
+      "nuget:id": "ReHackt.Linq",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.50.35/rehackt.email.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8569b314-a038-4f8d-acaf-674c8b673811",
+      "commitTimeStamp": "2025-10-15T05:50:35.9927163Z",
+      "nuget:id": "ReHackt.Email",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.49.56/rehackt.aspnetcore.abstractions.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5c8eef3b-1f56-475c-99e7-6e37c60d55e8",
+      "commitTimeStamp": "2025-10-15T05:49:56.5277678Z",
+      "nuget:id": "ReHackt.AspNetCore.Abstractions",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.49.56/rehackt.hosting.8.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5c8eef3b-1f56-475c-99e7-6e37c60d55e8",
+      "commitTimeStamp": "2025-10-15T05:49:56.5277678Z",
+      "nuget:id": "ReHackt.Hosting",
+      "nuget:version": "8.0.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.49.56/rehackt.aspnetcore.authentication.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5c8eef3b-1f56-475c-99e7-6e37c60d55e8",
+      "commitTimeStamp": "2025-10-15T05:49:56.5277678Z",
+      "nuget:id": "ReHackt.AspNetCore.Authentication",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.49.56/soenneker.github.repositories.releases.3.0.580.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5c8eef3b-1f56-475c-99e7-6e37c60d55e8",
+      "commitTimeStamp": "2025-10-15T05:49:56.5277678Z",
+      "nuget:id": "Soenneker.GitHub.Repositories.Releases",
+      "nuget:version": "3.0.580"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.49.56/soenneker.blazor.datatables.3.0.2311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5c8eef3b-1f56-475c-99e7-6e37c60d55e8",
+      "commitTimeStamp": "2025-10-15T05:49:56.5277678Z",
+      "nuget:id": "Soenneker.Blazor.DataTables",
+      "nuget:version": "3.0.2311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.49.56/rehackt.aspnetcore.8.0.135.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5c8eef3b-1f56-475c-99e7-6e37c60d55e8",
+      "commitTimeStamp": "2025-10-15T05:49:56.5277678Z",
+      "nuget:id": "ReHackt.AspNetCore",
+      "nuget:version": "8.0.135"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.48.30/soenneker.hangfire.basicauthentication.3.0.1859.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f1f6e66c-957f-4f21-be02-feaae3da67a3",
+      "commitTimeStamp": "2025-10-15T05:48:30.8691989Z",
+      "nuget:id": "Soenneker.Hangfire.BasicAuthentication",
+      "nuget:version": "3.0.1859"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.48.30/soenneker.autofaker.overrides.messages.msteams.3.0.184.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f1f6e66c-957f-4f21-be02-feaae3da67a3",
+      "commitTimeStamp": "2025-10-15T05:48:30.8691989Z",
+      "nuget:id": "Soenneker.AutoFaker.Overrides.Messages.MsTeams",
+      "nuget:version": "3.0.184"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.47.51/soenneker.cloudflare.validators.request.3.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "40d1ad6b-4798-4bad-a182-d1cdc68b4d24",
+      "commitTimeStamp": "2025-10-15T05:47:51.3455706Z",
+      "nuget:id": "Soenneker.Cloudflare.Validators.Request",
+      "nuget:version": "3.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.47.15/chickensoft.godotnodeinterfaces.2.4.45.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dfe7dee7-50e5-4eb6-8b9d-793ae0c8b111",
+      "commitTimeStamp": "2025-10-15T05:47:15.0639907Z",
+      "nuget:id": "Chickensoft.GodotNodeInterfaces",
+      "nuget:version": "2.4.45"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.46.38/soenneker.msteams.util.3.0.390.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "64694da7-044e-42f7-8fcb-5448a44fc1f0",
+      "commitTimeStamp": "2025-10-15T05:46:38.6751752Z",
+      "nuget:id": "Soenneker.MsTeams.Util",
+      "nuget:version": "3.0.390"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.45.53/tuojiecloud.core.7.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7ea02a6-ff76-401c-a78b-a4a542d1b802",
+      "commitTimeStamp": "2025-10-15T05:45:53.3767457Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.45.53/soenneker.managers.entities.3.0.423.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7ea02a6-ff76-401c-a78b-a4a542d1b802",
+      "commitTimeStamp": "2025-10-15T05:45:53.3767457Z",
+      "nuget:id": "Soenneker.Managers.Entities",
+      "nuget:version": "3.0.423"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.45.16/soenneker.msteams.util.3.0.389.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81300a95-6148-4bd2-b92a-be4b267c5bff",
+      "commitTimeStamp": "2025-10-15T05:45:16.5950526Z",
+      "nuget:id": "Soenneker.MsTeams.Util",
+      "nuget:version": "3.0.389"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.44.33/soenneker.semantickernel.pool.3.0.118.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d42b60c5-42e4-439d-976a-ec28941b9d4a",
+      "commitTimeStamp": "2025-10-15T05:44:33.0857543Z",
+      "nuget:id": "Soenneker.SemanticKernel.Pool",
+      "nuget:version": "3.0.118"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.44.33/dsb.caching.extensions.7.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d42b60c5-42e4-439d-976a-ec28941b9d4a",
+      "commitTimeStamp": "2025-10-15T05:44:33.0857543Z",
+      "nuget:id": "DSB.Caching.Extensions",
+      "nuget:version": "7.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.43.48/dsb.caching.extensions.7.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eea7ba50-45d2-4eec-b9b2-d10966003144",
+      "commitTimeStamp": "2025-10-15T05:43:48.5818863Z",
+      "nuget:id": "DSB.Caching.Extensions",
+      "nuget:version": "7.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.43.48/chickensoft.serialization.godot.0.8.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eea7ba50-45d2-4eec-b9b2-d10966003144",
+      "commitTimeStamp": "2025-10-15T05:43:48.5818863Z",
+      "nuget:id": "Chickensoft.Serialization.Godot",
+      "nuget:version": "0.8.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.43.48/soenneker.highlevel.client.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eea7ba50-45d2-4eec-b9b2-d10966003144",
+      "commitTimeStamp": "2025-10-15T05:43:48.5818863Z",
+      "nuget:id": "Soenneker.HighLevel.Client",
+      "nuget:version": "3.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.43.09/soenneker.cloudflare.zones.3.0.243.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "077d4155-142c-4b7f-b84d-aaa7c8b35fec",
+      "commitTimeStamp": "2025-10-15T05:43:09.9255497Z",
+      "nuget:id": "Soenneker.Cloudflare.Zones",
+      "nuget:version": "3.0.243"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.43.09/dsb.caching.extensions.8.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "077d4155-142c-4b7f-b84d-aaa7c8b35fec",
+      "commitTimeStamp": "2025-10-15T05:43:09.9255497Z",
+      "nuget:id": "DSB.Caching.Extensions",
+      "nuget:version": "8.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.43.09/dsb.caching.extensions.8.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "077d4155-142c-4b7f-b84d-aaa7c8b35fec",
+      "commitTimeStamp": "2025-10-15T05:43:09.9255497Z",
+      "nuget:id": "DSB.Caching.Extensions",
+      "nuget:version": "8.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.42.28/dsb.caching.extensions.8.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "036afd1b-ba40-4ce0-8b57-7dec891b9286",
+      "commitTimeStamp": "2025-10-15T05:42:28.4097379Z",
+      "nuget:id": "DSB.Caching.Extensions",
+      "nuget:version": "8.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.42.28/soenneker.validators.yahoo.exists.3.0.1924.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "036afd1b-ba40-4ce0-8b57-7dec891b9286",
+      "commitTimeStamp": "2025-10-15T05:42:28.4097379Z",
+      "nuget:id": "Soenneker.Validators.Yahoo.Exists",
+      "nuget:version": "3.0.1924"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.41.50/soenneker.blazor.callbackregistry.3.0.347.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "58eb6f25-8d52-486c-8317-7514ff0b6dc3",
+      "commitTimeStamp": "2025-10-15T05:41:50.2479891Z",
+      "nuget:id": "Soenneker.Blazor.CallbackRegistry",
+      "nuget:version": "3.0.347"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.41.50/dsb.caching.extensions.8.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "58eb6f25-8d52-486c-8317-7514ff0b6dc3",
+      "commitTimeStamp": "2025-10-15T05:41:50.2479891Z",
+      "nuget:id": "DSB.Caching.Extensions",
+      "nuget:version": "8.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.41.12/interop.tsmasterapi.2025.10.15.1683.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a00f590-9ef0-4042-8780-45e647a62e60",
+      "commitTimeStamp": "2025-10-15T05:41:12.1311415Z",
+      "nuget:id": "Interop.TSMasterAPI",
+      "nuget:version": "2025.10.15.1683"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.40.32/soenneker.validators.basicauth.functions.3.0.15.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebc2d907-f0ec-4631-8dba-8ad550c623cf",
+      "commitTimeStamp": "2025-10-15T05:40:32.6901391Z",
+      "nuget:id": "Soenneker.Validators.BasicAuth.Functions",
+      "nuget:version": "3.0.15"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.40.32/soenneker.github.repositories.rulesets.3.0.1027.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebc2d907-f0ec-4631-8dba-8ad550c623cf",
+      "commitTimeStamp": "2025-10-15T05:40:32.6901391Z",
+      "nuget:id": "Soenneker.GitHub.Repositories.Rulesets",
+      "nuget:version": "3.0.1027"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.39.52/soenneker.autofaker.overrides.streetaddresses.3.0.65.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "157756b1-b6f9-410e-900e-024cbd0311a0",
+      "commitTimeStamp": "2025-10-15T05:39:52.3460766Z",
+      "nuget:id": "Soenneker.AutoFaker.Overrides.StreetAddresses",
+      "nuget:version": "3.0.65"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.39.52/pilz.symbolpacks.fluent.1.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "157756b1-b6f9-410e-900e-024cbd0311a0",
+      "commitTimeStamp": "2025-10-15T05:39:52.3460766Z",
+      "nuget:id": "Pilz.SymbolPacks.Fluent",
+      "nuget:version": "1.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.39.13/soenneker.validators.email.disposable.online.3.0.4595.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0f06abf8-3380-4d7d-a59c-385864457304",
+      "commitTimeStamp": "2025-10-15T05:39:13.4547235Z",
+      "nuget:id": "Soenneker.Validators.Email.Disposable.Online",
+      "nuget:version": "3.0.4595"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.39.13/soenneker.ipqs.phone.3.0.2297.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0f06abf8-3380-4d7d-a59c-385864457304",
+      "commitTimeStamp": "2025-10-15T05:39:13.4547235Z",
+      "nuget:id": "Soenneker.Ipqs.Phone",
+      "nuget:version": "3.0.2297"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.39.13/soenneker.redis.util.3.0.4874.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0f06abf8-3380-4d7d-a59c-385864457304",
+      "commitTimeStamp": "2025-10-15T05:39:13.4547235Z",
+      "nuget:id": "Soenneker.Redis.Util",
+      "nuget:version": "3.0.4874"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.38.37/pilz.symbolpacks.1.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "63e671f8-d826-4bd0-852b-9aa88bd92508",
+      "commitTimeStamp": "2025-10-15T05:38:37.903498Z",
+      "nuget:id": "Pilz.SymbolPacks",
+      "nuget:version": "1.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.38.37/keypayv2.3.0.0.333.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "63e671f8-d826-4bd0-852b-9aa88bd92508",
+      "commitTimeStamp": "2025-10-15T05:38:37.903498Z",
+      "nuget:id": "KeyPayV2",
+      "nuget:version": "3.0.0.333"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.38.37/rehackt.extensions.options.validation.9.0.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "63e671f8-d826-4bd0-852b-9aa88bd92508",
+      "commitTimeStamp": "2025-10-15T05:38:37.903498Z",
+      "nuget:id": "ReHackt.Extensions.Options.Validation",
+      "nuget:version": "9.0.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.38.01/pilz.symbolpacks.fluent.1.0.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a1ab112-5b82-4bd6-a3e0-b423a88dcb6e",
+      "commitTimeStamp": "2025-10-15T05:38:01.6047688Z",
+      "nuget:id": "Pilz.SymbolPacks.Fluent",
+      "nuget:version": "1.0.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.38.01/soenneker.github.repositories.pullrequests.3.0.1190.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a1ab112-5b82-4bd6-a3e0-b423a88dcb6e",
+      "commitTimeStamp": "2025-10-15T05:38:01.6047688Z",
+      "nuget:id": "Soenneker.GitHub.Repositories.PullRequests",
+      "nuget:version": "3.0.1190"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.37.27/soenneker.tests.unit.3.0.921.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b5da4c96-f303-4acd-99e2-6ac3633badc0",
+      "commitTimeStamp": "2025-10-15T05:37:27.6743538Z",
+      "nuget:id": "Soenneker.Tests.Unit",
+      "nuget:version": "3.0.921"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.36.53/soenneker.blazor.filepond.3.0.3320.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "edb8761a-4ecf-4fe7-a952-1bfbaad2267e",
+      "commitTimeStamp": "2025-10-15T05:36:53.1311688Z",
+      "nuget:id": "Soenneker.Blazor.FilePond",
+      "nuget:version": "3.0.3320"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.36.18/soenneker.cosmos.repositories.general.3.0.321.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f3a32412-f747-4e6f-8d6e-b0c6bd7a2b8f",
+      "commitTimeStamp": "2025-10-15T05:36:18.380963Z",
+      "nuget:id": "Soenneker.Cosmos.Repositories.General",
+      "nuget:version": "3.0.321"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.36.18/soenneker.github.repositories.pages.3.0.284.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f3a32412-f747-4e6f-8d6e-b0c6bd7a2b8f",
+      "commitTimeStamp": "2025-10-15T05:36:18.380963Z",
+      "nuget:id": "Soenneker.GitHub.Repositories.Pages",
+      "nuget:version": "3.0.284"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.35.44/soenneker.validators.email.disposable.online.3.0.4594.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af5c0cfb-b962-4dcc-a42c-d6dfccc1cd25",
+      "commitTimeStamp": "2025-10-15T05:35:44.9694257Z",
+      "nuget:id": "Soenneker.Validators.Email.Disposable.Online",
+      "nuget:version": "3.0.4594"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.35.44/soenneker.servicebus.receptor.3.0.1752.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af5c0cfb-b962-4dcc-a42c-d6dfccc1cd25",
+      "commitTimeStamp": "2025-10-15T05:35:44.9694257Z",
+      "nuget:id": "Soenneker.ServiceBus.Receptor",
+      "nuget:version": "3.0.1752"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.35.11/soenneker.blazor.stripe.elements.3.0.423.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dd8fb5d1-f3e6-4ed4-96ee-fce528d2e85f",
+      "commitTimeStamp": "2025-10-15T05:35:11.2712749Z",
+      "nuget:id": "Soenneker.Blazor.Stripe.Elements",
+      "nuget:version": "3.0.423"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.34.00/soenneker.blazor.tomselect.3.0.3997.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b69a935-415e-45be-8aad-ef755083079f",
+      "commitTimeStamp": "2025-10-15T05:34:00.0920045Z",
+      "nuget:id": "Soenneker.Blazor.TomSelect",
+      "nuget:version": "3.0.3997"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.34.00/mst.netcoreextension.1.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b69a935-415e-45be-8aad-ef755083079f",
+      "commitTimeStamp": "2025-10-15T05:34:00.0920045Z",
+      "nuget:id": "MST.NetCoreExtension",
+      "nuget:version": "1.0.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.33.25/santel.redis.typedkeys.1.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c71e5d6d-9f28-4a51-95c2-9a1645f8beee",
+      "commitTimeStamp": "2025-10-15T05:33:25.1987633Z",
+      "nuget:id": "Santel.Redis.TypedKeys",
+      "nuget:version": "1.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.32.51/soenneker.blazor.consumers.core.3.0.253.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f66272d-b4d5-44c2-adfb-9fa83ca7d095",
+      "commitTimeStamp": "2025-10-15T05:32:51.0577348Z",
+      "nuget:id": "Soenneker.Blazor.Consumers.Core",
+      "nuget:version": "3.0.253"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.32.51/soenneker.blazor.screeninfo.3.0.264.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f66272d-b4d5-44c2-adfb-9fa83ca7d095",
+      "commitTimeStamp": "2025-10-15T05:32:51.0577348Z",
+      "nuget:id": "Soenneker.Blazor.ScreenInfo",
+      "nuget:version": "3.0.264"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.32.18/soenneker.semantickernel.pool.openai.3.0.138.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2f664795-9571-4baf-8057-b33a9d4688a8",
+      "commitTimeStamp": "2025-10-15T05:32:18.4691066Z",
+      "nuget:id": "Soenneker.SemanticKernel.Pool.OpenAi",
+      "nuget:version": "3.0.138"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.32.18/chickensoft.log.godot.1.0.50.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2f664795-9571-4baf-8057-b33a9d4688a8",
+      "commitTimeStamp": "2025-10-15T05:32:18.4691066Z",
+      "nuget:id": "Chickensoft.Log.Godot",
+      "nuget:version": "1.0.50"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.31.44/soenneker.servicebus.receptors.msteams.3.0.371.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d7f99fa4-89e9-4195-bd54-54e7b82c3ea3",
+      "commitTimeStamp": "2025-10-15T05:31:44.8751835Z",
+      "nuget:id": "Soenneker.ServiceBus.Receptors.MsTeams",
+      "nuget:version": "3.0.371"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.29.23/inflatable.5.0.89.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e43f79b0-6f82-4478-a8e2-ff87330edc94",
+      "commitTimeStamp": "2025-10-15T05:29:23.4530672Z",
+      "nuget:id": "Inflatable",
+      "nuget:version": "5.0.89"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.28.49/indigina.wms.wavepicker.webapi.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c192ac30-2e93-4cb7-9744-f35260b4f771",
+      "commitTimeStamp": "2025-10-15T05:28:49.6362141Z",
+      "nuget:id": "Indigina.Wms.WavePicker.WebApi",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.28.49/indigina.wms.wavepicker.client.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c192ac30-2e93-4cb7-9744-f35260b4f771",
+      "commitTimeStamp": "2025-10-15T05:28:49.6362141Z",
+      "nuget:id": "Indigina.Wms.WavePicker.Client",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.28.16/ellipticbit.services.scheduler.abstractions.1.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "534dfd98-29be-4abb-aeab-4a88ae8676f8",
+      "commitTimeStamp": "2025-10-15T05:28:16.7372233Z",
+      "nuget:id": "EllipticBit.Services.Scheduler.Abstractions",
+      "nuget:version": "1.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.26.30/ellipticbit.services.email.abstractions.1.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b38172f8-4929-4606-9390-e1f368d77abd",
+      "commitTimeStamp": "2025-10-15T05:26:30.7065115Z",
+      "nuget:id": "EllipticBit.Services.Email.Abstractions",
+      "nuget:version": "1.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.25.55/ellipticbit.services.database.abstractions.1.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f7a905cc-25be-436f-8976-341fff0badd6",
+      "commitTimeStamp": "2025-10-15T05:25:55.8782641Z",
+      "nuget:id": "EllipticBit.Services.Database.Abstractions",
+      "nuget:version": "1.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.24.42/msqlite.wrapper.core8.1.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "84367a43-8807-4fb4-b737-c1433da11289",
+      "commitTimeStamp": "2025-10-15T05:24:42.0681862Z",
+      "nuget:id": "MSQLite.Wrapper.Core8",
+      "nuget:version": "1.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.24.04/tuojiecloud.core.7.7.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04da8abe-8ea1-42c2-999b-be18aa9e8a17",
+      "commitTimeStamp": "2025-10-15T05:24:04.8180003Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.7.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.24.04/grantthomas.crud.cli.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04da8abe-8ea1-42c2-999b-be18aa9e8a17",
+      "commitTimeStamp": "2025-10-15T05:24:04.8180003Z",
+      "nuget:id": "GrantThomas.Crud.Cli",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.24.04/kubernetes.aspnetcore.dataprotection.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04da8abe-8ea1-42c2-999b-be18aa9e8a17",
+      "commitTimeStamp": "2025-10-15T05:24:04.8180003Z",
+      "nuget:id": "Kubernetes.AspNetCore.DataProtection",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.52/grantthomas.modelbindings.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a381f6a-cc9b-4319-af7c-200a98aa8546",
+      "commitTimeStamp": "2025-10-15T05:22:52.9191073Z",
+      "nuget:id": "GrantThomas.ModelBindings",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.52/grantthomas.crud.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a381f6a-cc9b-4319-af7c-200a98aa8546",
+      "commitTimeStamp": "2025-10-15T05:22:52.9191073Z",
+      "nuget:id": "GrantThomas.Crud",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.52/grantthomas.crud.common.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a381f6a-cc9b-4319-af7c-200a98aa8546",
+      "commitTimeStamp": "2025-10-15T05:22:52.9191073Z",
+      "nuget:id": "GrantThomas.Crud.Common",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.2.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.2.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.5.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.5.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.8.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.8.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.9.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.9.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.3.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.3.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.2.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.2.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.7.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.7.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.2.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.2.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.2.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.2.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.6.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.6.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.3.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.3.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.5.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.5.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.3.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.3.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.4.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.4.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.9.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.9.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.8.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.8.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.5.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.5.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.4.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.4.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.5.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.5.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.6.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.6.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.3.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.3.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.2.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.2.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.3.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.3.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.6.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.6.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.4.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.4.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.7.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.7.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.1.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.1.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.9.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.9.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.2.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.2.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.2.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.2.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.8.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.8.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.4.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.4.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.3.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.3.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.2.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.2.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.2.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.2.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.3.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.3.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.4.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.4.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.8.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.8.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.2.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.2.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.4.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.4.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.4.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.4.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.9.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.9.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.7.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.7.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.6.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.6.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.8.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.8.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.5.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.5.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.5.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.5.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.4.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.4.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.9.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.9.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.2.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.2.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.8.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.8.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.4.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.4.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.4.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.4.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.2.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.2.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.2.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.2.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.5.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.5.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.8.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.8.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.6.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.6.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.4.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.4.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.9.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.9.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.3.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "3.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.6.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.6.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.5.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.5.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.8.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.8.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.3.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "3.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.4.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.4.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.3.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "3.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.5.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.5.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.4.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.4.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.7.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.7.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.4.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.4.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.8.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.8.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.6.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.6.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.4.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.4.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.5.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.5.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.5.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.5.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.6.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.6.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.4.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.4.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.4.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "4.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.6.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.6.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.5.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.5.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.9.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.9.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.7.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.7.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.6.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.6.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.5.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.5.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.2.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.2.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.6.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.6.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.2.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.2.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.6.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.6.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.7.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.7.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.3.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.3.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.9.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.9.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.4.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.4.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.3.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.3.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.6.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.6.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.4.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.4.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.1.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.1.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.5.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.5.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/bigbook.6.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "BigBook",
+      "nuget:version": "6.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.6.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.6.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.5.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.5.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.7.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.7.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.3.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.3.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.2.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.2.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.6.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.6.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.0.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.8.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.8.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.4.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "4.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.1.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.1.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.2.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.2.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.2.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.2.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.6.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.6.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.1.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.1.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.6.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.6.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.4.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "4.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.5.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "5.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.3.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.3.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.9.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.9.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.2.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.2.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.4.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "4.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.3.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.3.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.7.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.7.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.3.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "3.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.7.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "7.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.15.05.22.16/tuojiecloud.core.6.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb8f3a37-b96e-4646-8655-5c266ee10327",
+      "commitTimeStamp": "2025-10-15T05:22:16.2255269Z",
+      "nuget:id": "TuoJieCloud.Core",
+      "nuget:version": "6.2.1"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
