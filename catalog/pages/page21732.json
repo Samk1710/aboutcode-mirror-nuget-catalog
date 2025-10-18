@@ -1,0 +1,417 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21732.json",
+  "@type": "CatalogPage",
+  "commitId": "f70cfa9b-ca21-4864-8cd2-ed85691a3a7a",
+  "commitTimeStamp": "2025-10-18T11:06:27.4720168Z",
+  "count": 48,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.11.06.27/onsight.deviceapi.client.0.0.5-beta.223.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f70cfa9b-ca21-4864-8cd2-ed85691a3a7a",
+      "commitTimeStamp": "2025-10-18T11:06:27.4720168Z",
+      "nuget:id": "Onsight.DeviceApi.Client",
+      "nuget:version": "0.0.5-beta.223"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.11.05.15/antqueuesender.1.2.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb979daf-2c1f-473c-863f-2744869db0ed",
+      "commitTimeStamp": "2025-10-18T11:05:15.3361325Z",
+      "nuget:id": "AntQueueSender",
+      "nuget:version": "1.2.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.11.05.15/icetea.pure.1.2.15.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb979daf-2c1f-473c-863f-2744869db0ed",
+      "commitTimeStamp": "2025-10-18T11:05:15.3361325Z",
+      "nuget:id": "IceTea.Pure",
+      "nuget:version": "1.2.15"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.11.02.50/chameleon.common.1.0.136.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f7886bc9-2961-40d8-91f9-a55c43cf0a40",
+      "commitTimeStamp": "2025-10-18T11:02:50.7338917Z",
+      "nuget:id": "Chameleon.Common",
+      "nuget:version": "1.0.136"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.59.46/devdeer.libraries.abstractions.19.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "baf2e54a-bd27-4e46-8a37-8bde20138567",
+      "commitTimeStamp": "2025-10-18T10:59:46.7185165Z",
+      "nuget:id": "devdeer.Libraries.Abstractions",
+      "nuget:version": "19.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.59.46/sondor.queries.1.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "baf2e54a-bd27-4e46-8a37-8bde20138567",
+      "commitTimeStamp": "2025-10-18T10:59:46.7185165Z",
+      "nuget:id": "Sondor.Queries",
+      "nuget:version": "1.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.54.58/cleancodejn.genericapis.4.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9fa901d-25cc-48e6-91be-89717c0dedba",
+      "commitTimeStamp": "2025-10-18T10:54:58.5307588Z",
+      "nuget:id": "CleanCodeJN.GenericApis",
+      "nuget:version": "4.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.47.10/microsoft.agents.storage.cosmosdb.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "25fff23f-6ed5-4836-8ddb-9c0740e99c82",
+      "commitTimeStamp": "2025-10-18T10:47:10.1474899Z",
+      "nuget:id": "Microsoft.Agents.Storage.CosmosDb",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.47.10/microsoft.agents.client.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "25fff23f-6ed5-4836-8ddb-9c0740e99c82",
+      "commitTimeStamp": "2025-10-18T10:47:10.1474899Z",
+      "nuget:id": "Microsoft.Agents.Client",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.47.10/microsoft.agents.extensions.teams.ai.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "25fff23f-6ed5-4836-8ddb-9c0740e99c82",
+      "commitTimeStamp": "2025-10-18T10:47:10.1474899Z",
+      "nuget:id": "Microsoft.Agents.Extensions.Teams.AI",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.47.10/microsoft.agents.extensions.teams.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "25fff23f-6ed5-4836-8ddb-9c0740e99c82",
+      "commitTimeStamp": "2025-10-18T10:47:10.1474899Z",
+      "nuget:id": "Microsoft.Agents.Extensions.Teams",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.47.10/microsoft.agents.storage.transcript.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "25fff23f-6ed5-4836-8ddb-9c0740e99c82",
+      "commitTimeStamp": "2025-10-18T10:47:10.1474899Z",
+      "nuget:id": "Microsoft.Agents.Storage.Transcript",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.46.31/microsoft.agents.hosting.aspnetcore.a2a.preview.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d62e5167-d20c-4e21-bf0d-4f5a7f081a18",
+      "commitTimeStamp": "2025-10-18T10:46:31.8766458Z",
+      "nuget:id": "Microsoft.Agents.Hosting.AspNetCore.A2A.Preview",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.46.31/microsoft.agents.storage.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d62e5167-d20c-4e21-bf0d-4f5a7f081a18",
+      "commitTimeStamp": "2025-10-18T10:46:31.8766458Z",
+      "nuget:id": "Microsoft.Agents.Storage",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.46.31/microsoft.agents.authentication.msal.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d62e5167-d20c-4e21-bf0d-4f5a7f081a18",
+      "commitTimeStamp": "2025-10-18T10:46:31.8766458Z",
+      "nuget:id": "Microsoft.Agents.Authentication.Msal",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.46.31/microsoft.agents.extensions.sharepoint.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d62e5167-d20c-4e21-bf0d-4f5a7f081a18",
+      "commitTimeStamp": "2025-10-18T10:46:31.8766458Z",
+      "nuget:id": "Microsoft.Agents.Extensions.SharePoint",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.46.31/microsoft.agents.connector.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d62e5167-d20c-4e21-bf0d-4f5a7f081a18",
+      "commitTimeStamp": "2025-10-18T10:46:31.8766458Z",
+      "nuget:id": "Microsoft.Agents.Connector",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.46.31/microsoft.agents.copilotstudio.client.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d62e5167-d20c-4e21-bf0d-4f5a7f081a18",
+      "commitTimeStamp": "2025-10-18T10:46:31.8766458Z",
+      "nuget:id": "Microsoft.Agents.CopilotStudio.Client",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.46.31/microsoft.agents.storage.blobs.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d62e5167-d20c-4e21-bf0d-4f5a7f081a18",
+      "commitTimeStamp": "2025-10-18T10:46:31.8766458Z",
+      "nuget:id": "Microsoft.Agents.Storage.Blobs",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.46.31/microsoft.agents.hosting.aspnetcore.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d62e5167-d20c-4e21-bf0d-4f5a7f081a18",
+      "commitTimeStamp": "2025-10-18T10:46:31.8766458Z",
+      "nuget:id": "Microsoft.Agents.Hosting.AspNetCore",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.46.31/microsoft.agents.core.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d62e5167-d20c-4e21-bf0d-4f5a7f081a18",
+      "commitTimeStamp": "2025-10-18T10:46:31.8766458Z",
+      "nuget:id": "Microsoft.Agents.Core",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.46.31/microsoft.agents.authentication.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d62e5167-d20c-4e21-bf0d-4f5a7f081a18",
+      "commitTimeStamp": "2025-10-18T10:46:31.8766458Z",
+      "nuget:id": "Microsoft.Agents.Authentication",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.45.55/devdeer.libraries.abstractions.19.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d62a34cd-0843-4c0f-bebd-b2eac4a1ac4e",
+      "commitTimeStamp": "2025-10-18T10:45:55.4481722Z",
+      "nuget:id": "devdeer.Libraries.Abstractions",
+      "nuget:version": "19.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.45.55/microsoft.agents.builder.dialogs.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d62a34cd-0843-4c0f-bebd-b2eac4a1ac4e",
+      "commitTimeStamp": "2025-10-18T10:45:55.4481722Z",
+      "nuget:id": "Microsoft.Agents.Builder.Dialogs",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.45.55/devdeer.libraries.azure.blobstorage.0.3.15-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d62a34cd-0843-4c0f-bebd-b2eac4a1ac4e",
+      "commitTimeStamp": "2025-10-18T10:45:55.4481722Z",
+      "nuget:id": "devdeer.Libraries.Azure.BlobStorage",
+      "nuget:version": "0.3.15-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.45.55/microsoft.agents.builder.1.3.101-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d62a34cd-0843-4c0f-bebd-b2eac4a1ac4e",
+      "commitTimeStamp": "2025-10-18T10:45:55.4481722Z",
+      "nuget:id": "Microsoft.Agents.Builder",
+      "nuget:version": "1.3.101-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.44.43/siftly.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62c78af3-9ed7-4e72-9693-a18a804ff19c",
+      "commitTimeStamp": "2025-10-18T10:44:43.9677975Z",
+      "nuget:id": "Siftly",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.44.07/xyntal.net.mediator.0.9.2-beta.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fdf9ceda-26bd-4034-a772-d79a9986d33b",
+      "commitTimeStamp": "2025-10-18T10:44:07.397274Z",
+      "nuget:id": "Xyntal.NET.Mediator",
+      "nuget:version": "0.9.2-beta.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.43.31/altinn.authorization.servicedefaults.telemetry.4.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f64e883-cde3-49a3-bb34-b1329411d344",
+      "commitTimeStamp": "2025-10-18T10:43:31.5794113Z",
+      "nuget:id": "Altinn.Authorization.ServiceDefaults.Telemetry",
+      "nuget:version": "4.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.43.31/altinn.authorization.servicedefaults.abstractions.4.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f64e883-cde3-49a3-bb34-b1329411d344",
+      "commitTimeStamp": "2025-10-18T10:43:31.5794113Z",
+      "nuget:id": "Altinn.Authorization.ServiceDefaults.Abstractions",
+      "nuget:version": "4.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.42.55/altinn.authorization.servicedefaults.npgsql.yuniql.4.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5c880402-f322-47fb-8927-2cd3c35d6f3b",
+      "commitTimeStamp": "2025-10-18T10:42:55.0167048Z",
+      "nuget:id": "Altinn.Authorization.ServiceDefaults.Npgsql.Yuniql",
+      "nuget:version": "4.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.42.55/altinn.authorization.servicedefaults.npgsql.testseed.4.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5c880402-f322-47fb-8927-2cd3c35d6f3b",
+      "commitTimeStamp": "2025-10-18T10:42:55.0167048Z",
+      "nuget:id": "Altinn.Authorization.ServiceDefaults.Npgsql.TestSeed",
+      "nuget:version": "4.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.42.55/altinn.authorization.servicedefaults.4.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5c880402-f322-47fb-8927-2cd3c35d6f3b",
+      "commitTimeStamp": "2025-10-18T10:42:55.0167048Z",
+      "nuget:id": "Altinn.Authorization.ServiceDefaults",
+      "nuget:version": "4.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.42.55/altinn.authorization.servicedefaults.npgsql.4.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5c880402-f322-47fb-8927-2cd3c35d6f3b",
+      "commitTimeStamp": "2025-10-18T10:42:55.0167048Z",
+      "nuget:id": "Altinn.Authorization.ServiceDefaults.Npgsql",
+      "nuget:version": "4.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.42.19/altinn.authorization.servicedefaults.httpclient.4.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3d70d37-fa46-401f-a632-0e9f3df891db",
+      "commitTimeStamp": "2025-10-18T10:42:19.3158447Z",
+      "nuget:id": "Altinn.Authorization.ServiceDefaults.HttpClient",
+      "nuget:version": "4.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.42.19/mosaik.core.25.10.62118.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3d70d37-fa46-401f-a632-0e9f3df891db",
+      "commitTimeStamp": "2025-10-18T10:42:19.3158447Z",
+      "nuget:id": "Mosaik.Core",
+      "nuget:version": "25.10.62118"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.41.06/captainlogger.4.10.1-beta-1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ebdd2b9-22ce-4eea-ad13-bf794b190141",
+      "commitTimeStamp": "2025-10-18T10:41:06.6583295Z",
+      "nuget:id": "CaptainLogger",
+      "nuget:version": "4.10.1-beta-1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.40.31/captainlogger.extensions.generator.4.10.1-beta-1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "08d0a9f7-4918-4b94-986e-c77d002c61a5",
+      "commitTimeStamp": "2025-10-18T10:40:31.1893963Z",
+      "nuget:id": "CaptainLogger.Extensions.Generator",
+      "nuget:version": "4.10.1-beta-1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.40.31/captainlogger.contracts.4.10.1-beta-1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "08d0a9f7-4918-4b94-986e-c77d002c61a5",
+      "commitTimeStamp": "2025-10-18T10:40:31.1893963Z",
+      "nuget:id": "CaptainLogger.Contracts",
+      "nuget:version": "4.10.1-beta-1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.38.03/5ray69.libraries.2.0.0.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d97d5a1-1708-41b5-ba7b-2c24d3be6c02",
+      "commitTimeStamp": "2025-10-18T10:38:03.1868644Z",
+      "nuget:id": "5ray69.Libraries",
+      "nuget:version": "2.0.0.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.34.26/vibeniq.baas.notification.9.0.0-preview.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "53eaca38-7f41-47d3-976f-aeb02f40f6c5",
+      "commitTimeStamp": "2025-10-18T10:34:26.2911912Z",
+      "nuget:id": "Vibeniq.BaaS.Notification",
+      "nuget:version": "9.0.0-preview.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.32.39/msiot.1.3.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8efafa5-4a9c-4895-b117-a9d4a6d98d12",
+      "commitTimeStamp": "2025-10-18T10:32:39.541894Z",
+      "nuget:id": "MsIot",
+      "nuget:version": "1.3.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.30.51/markdownsnippets.tool.28.0.0-beta.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "35e65d1c-6e9e-41db-a653-c6177659e83a",
+      "commitTimeStamp": "2025-10-18T10:30:51.014638Z",
+      "nuget:id": "MarkdownSnippets.Tool",
+      "nuget:version": "28.0.0-beta.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.29.38/markdownsnippets.msbuild.28.0.0-beta.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2995012f-a656-4805-9aff-e66cccfede83",
+      "commitTimeStamp": "2025-10-18T10:29:38.5217116Z",
+      "nuget:id": "MarkdownSnippets.MsBuild",
+      "nuget:version": "28.0.0-beta.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.29.02/markdownsnippets.28.0.0-beta.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7f856233-905b-4878-8f7c-33e9b490a409",
+      "commitTimeStamp": "2025-10-18T10:29:02.6575789Z",
+      "nuget:id": "MarkdownSnippets",
+      "nuget:version": "28.0.0-beta.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.29.02/altinn.authorization.testutils.3.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7f856233-905b-4878-8f7c-33e9b490a409",
+      "commitTimeStamp": "2025-10-18T10:29:02.6575789Z",
+      "nuget:id": "Altinn.Authorization.TestUtils",
+      "nuget:version": "3.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.28.26/altinn.authorization.testutils.http.3.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "74a177f7-3f6d-4141-b8c4-423901ea32e7",
+      "commitTimeStamp": "2025-10-18T10:28:26.8052085Z",
+      "nuget:id": "Altinn.Authorization.TestUtils.Http",
+      "nuget:version": "3.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.18.10.28.26/altinn.authorization.testutils.aspnetcore.3.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "74a177f7-3f6d-4141-b8c4-423901ea32e7",
+      "commitTimeStamp": "2025-10-18T10:28:26.8052085Z",
+      "nuget:id": "Altinn.Authorization.TestUtils.AspNetCore",
+      "nuget:version": "3.1.0"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
