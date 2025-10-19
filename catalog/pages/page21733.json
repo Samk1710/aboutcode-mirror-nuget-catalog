@@ -1,0 +1,1225 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21733.json",
+  "@type": "CatalogPage",
+  "commitId": "6a2a138f-892c-4b52-805a-6bf8342be8da",
+  "commitTimeStamp": "2025-10-19T07:05:23.5315825Z",
+  "count": 149,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.07.05.23/mindfusion.diagramming.maui.1.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6a2a138f-892c-4b52-805a-6bf8342be8da",
+      "commitTimeStamp": "2025-10-19T07:05:23.5315825Z",
+      "nuget:id": "MindFusion.Diagramming.Maui",
+      "nuget:version": "1.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.59.08/alvorengine.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d436b86-7889-4487-a83b-468883f5eb7c",
+      "commitTimeStamp": "2025-10-19T06:59:08.1981522Z",
+      "nuget:id": "AlvorEngine",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.59.08/alvorengine.loop.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d436b86-7889-4487-a83b-468883f5eb7c",
+      "commitTimeStamp": "2025-10-19T06:59:08.1981522Z",
+      "nuget:id": "AlvorEngine.Loop",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.58.32/aniketh.console.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "848b8a1d-672a-4eef-aaa6-9eb4e649b8ad",
+      "commitTimeStamp": "2025-10-19T06:58:32.1197548Z",
+      "nuget:id": "Aniketh.Console",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.53.06/h2sharp8_v22222.driver.2.2.222.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0b2c712a-f983-46a0-a891-0c4ddc4a249e",
+      "commitTimeStamp": "2025-10-19T06:53:06.3880362Z",
+      "nuget:id": "H2Sharp8_v22222.Driver",
+      "nuget:version": "2.2.222.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.52.30/datarepositorycore.9.0.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "453119b4-4888-4326-88bd-96b67a8faeb7",
+      "commitTimeStamp": "2025-10-19T06:52:30.5934972Z",
+      "nuget:id": "DataRepositoryCore",
+      "nuget:version": "9.0.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.51.17/checknugetpackages.dotnetclitool.2.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dce71962-2e08-4a07-ab8e-13ebe2810323",
+      "commitTimeStamp": "2025-10-19T06:51:17.5465829Z",
+      "nuget:id": "CheckNugetPackages.DotNetCliTool",
+      "nuget:version": "2.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.50.41/ben.semantickernel.5.2.19.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3628a645-7460-4cfb-af18-789f0da5bf86",
+      "commitTimeStamp": "2025-10-19T06:50:41.3038755Z",
+      "nuget:id": "Ben.SemanticKernel",
+      "nuget:version": "5.2.19"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.47.03/datarepositorycore.abstractions.9.0.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca107739-88dd-4758-b966-2d12ac495692",
+      "commitTimeStamp": "2025-10-19T06:47:03.8646231Z",
+      "nuget:id": "DataRepositoryCore.Abstractions",
+      "nuget:version": "9.0.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.46.27/pulumi.command.1.2.0-alpha.1760854707.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f6039a8-edd7-43ce-a730-8cc318e5f770",
+      "commitTimeStamp": "2025-10-19T06:46:27.8286377Z",
+      "nuget:id": "Pulumi.Command",
+      "nuget:version": "1.2.0-alpha.1760854707"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.45.51/modern.ui.xaml.0.0.0-alpha.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f852fe0a-ec07-4cf0-81aa-ddfd0222d14b",
+      "commitTimeStamp": "2025-10-19T06:45:51.2502151Z",
+      "nuget:id": "Modern.UI.Xaml",
+      "nuget:version": "0.0.0-alpha.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.36.25/community.mcp.dotnet.0.1.0-alpha.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d5302531-481e-4853-a746-f6ba5db2966b",
+      "commitTimeStamp": "2025-10-19T06:36:25.2812562Z",
+      "nuget:id": "Community.Mcp.DotNet",
+      "nuget:version": "0.1.0-alpha.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.33.16/pulumi.awsnative.1.38.0-alpha.1760853926.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "960a3be7-698e-45d8-8b3f-523d2f417e8d",
+      "commitTimeStamp": "2025-10-19T06:33:16.8574103Z",
+      "nuget:id": "Pulumi.AwsNative",
+      "nuget:version": "1.38.0-alpha.1760853926"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.29.01/engineeringfort.0.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ad74d85-38f8-4182-bb8d-af239b39a6b5",
+      "commitTimeStamp": "2025-10-19T06:29:01.0628619Z",
+      "nuget:id": "EngineeringFort",
+      "nuget:version": "0.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.27.11/bootstrapblazor.9.11.3-beta05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18899d95-5b36-4473-bc1f-c8644460dff3",
+      "commitTimeStamp": "2025-10-19T06:27:11.7006944Z",
+      "nuget:id": "BootstrapBlazor",
+      "nuget:version": "9.11.3-beta05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.26.34/cloudsimpl.common.1.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "52a2ba7a-8ae9-4ac9-aa7d-2dc5cc0f5f85",
+      "commitTimeStamp": "2025-10-19T06:26:34.8338761Z",
+      "nuget:id": "Cloudsimpl.Common",
+      "nuget:version": "1.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.24.44/a2v10.web.assets.10.1.8576.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "23ac132b-644a-4c20-a30e-1afc8a3c8479",
+      "commitTimeStamp": "2025-10-19T06:24:44.0696179Z",
+      "nuget:id": "A2v10.Web.Assets",
+      "nuget:version": "10.1.8576"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.24.04/a2v10.services.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68789c58-b219-458c-9b7e-25c8cc4e8997",
+      "commitTimeStamp": "2025-10-19T06:24:04.8930293Z",
+      "nuget:id": "A2v10.Services",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.24.04/a2v10.viewengine.xaml.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68789c58-b219-458c-9b7e-25c8cc4e8997",
+      "commitTimeStamp": "2025-10-19T06:24:04.8930293Z",
+      "nuget:id": "A2v10.ViewEngine.Xaml",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.24.04/a2v10.scheduling.commands.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68789c58-b219-458c-9b7e-25c8cc4e8997",
+      "commitTimeStamp": "2025-10-19T06:24:04.8930293Z",
+      "nuget:id": "A2v10.Scheduling.Commands",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.23.26/a2v10.reportengine.excel.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4515d408-4825-4013-8289-df7b9a519b68",
+      "commitTimeStamp": "2025-10-19T06:23:26.8532237Z",
+      "nuget:id": "A2v10.ReportEngine.Excel",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.22.50/a2v10.scheduling.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fe39f60-120b-4c5d-b171-1d45fc9333a5",
+      "commitTimeStamp": "2025-10-19T06:22:50.2577926Z",
+      "nuget:id": "A2v10.Scheduling",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.22.50/a2v10.reportengine.script.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fe39f60-120b-4c5d-b171-1d45fc9333a5",
+      "commitTimeStamp": "2025-10-19T06:22:50.2577926Z",
+      "nuget:id": "A2v10.ReportEngine.Script",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.22.13/aniketh.console.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6929e50-e608-4348-a824-0273c1f9e245",
+      "commitTimeStamp": "2025-10-19T06:22:13.9424449Z",
+      "nuget:id": "Aniketh.Console",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.22.13/a2v10.reportengine.pdf.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6929e50-e608-4348-a824-0273c1f9e245",
+      "commitTimeStamp": "2025-10-19T06:22:13.9424449Z",
+      "nuget:id": "A2v10.ReportEngine.Pdf",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.21.29/a2v10.platform.10.1.8576.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c7fc914c-a6fd-4d13-97b4-cf82605586b5",
+      "commitTimeStamp": "2025-10-19T06:21:29.115403Z",
+      "nuget:id": "A2v10.Platform",
+      "nuget:version": "10.1.8576"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.20.53/np.lti13platform.nameroleprovisioningservices.1.0.0-preview011.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42d561fa-c750-4fcc-be4f-c58fcb3103a0",
+      "commitTimeStamp": "2025-10-19T06:20:53.0448875Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview011"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.20.53/np.lti13platform.nameroleprovisioningservices.1.0.0-preview012.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42d561fa-c750-4fcc-be4f-c58fcb3103a0",
+      "commitTimeStamp": "2025-10-19T06:20:53.0448875Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview012"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.20.53/np.lti13platform.nameroleprovisioningservices.1.0.0-preview014.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42d561fa-c750-4fcc-be4f-c58fcb3103a0",
+      "commitTimeStamp": "2025-10-19T06:20:53.0448875Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview014"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.20.53/np.lti13platform.nameroleprovisioningservices.1.0.0-preview015.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42d561fa-c750-4fcc-be4f-c58fcb3103a0",
+      "commitTimeStamp": "2025-10-19T06:20:53.0448875Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview015"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.20.16/np.lti13platform.nameroleprovisioningservices.1.0.0-preview001.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "26e152c7-30cc-4f31-a8f5-9e72f8a99922",
+      "commitTimeStamp": "2025-10-19T06:20:16.6473492Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview001"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.20.16/np.lti13platform.nameroleprovisioningservices.1.0.0-preview002.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "26e152c7-30cc-4f31-a8f5-9e72f8a99922",
+      "commitTimeStamp": "2025-10-19T06:20:16.6473492Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview002"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.20.16/np.lti13platform.nameroleprovisioningservices.1.0.0-preview010.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "26e152c7-30cc-4f31-a8f5-9e72f8a99922",
+      "commitTimeStamp": "2025-10-19T06:20:16.6473492Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview010"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.20.16/np.lti13platform.nameroleprovisioningservices.1.0.0-preview003.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "26e152c7-30cc-4f31-a8f5-9e72f8a99922",
+      "commitTimeStamp": "2025-10-19T06:20:16.6473492Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview003"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.20.16/np.lti13platform.nameroleprovisioningservices.1.0.0-preview004.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "26e152c7-30cc-4f31-a8f5-9e72f8a99922",
+      "commitTimeStamp": "2025-10-19T06:20:16.6473492Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview004"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.20.16/np.lti13platform.nameroleprovisioningservices.1.0.0-preview005.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "26e152c7-30cc-4f31-a8f5-9e72f8a99922",
+      "commitTimeStamp": "2025-10-19T06:20:16.6473492Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview005"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.20.16/np.lti13platform.nameroleprovisioningservices.1.0.0-preview006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "26e152c7-30cc-4f31-a8f5-9e72f8a99922",
+      "commitTimeStamp": "2025-10-19T06:20:16.6473492Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.20.16/np.lti13platform.nameroleprovisioningservices.1.0.0-preview007.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "26e152c7-30cc-4f31-a8f5-9e72f8a99922",
+      "commitTimeStamp": "2025-10-19T06:20:16.6473492Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview007"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.20.16/np.lti13platform.nameroleprovisioningservices.1.0.0-preview008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "26e152c7-30cc-4f31-a8f5-9e72f8a99922",
+      "commitTimeStamp": "2025-10-19T06:20:16.6473492Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.20.16/np.lti13platform.nameroleprovisioningservices.1.0.0-preview009.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "26e152c7-30cc-4f31-a8f5-9e72f8a99922",
+      "commitTimeStamp": "2025-10-19T06:20:16.6473492Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview009"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.39/np.lti13platform.nameroleprovisioningservices.0.1.0-preview002.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43b7f5d7-fa5b-4e49-ba4a-850c0ac4dfbb",
+      "commitTimeStamp": "2025-10-19T06:19:39.3866916Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "0.1.0-preview002"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.39/np.lti13platform.deeplinking.1.0.0-preview011.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43b7f5d7-fa5b-4e49-ba4a-850c0ac4dfbb",
+      "commitTimeStamp": "2025-10-19T06:19:39.3866916Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview011"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.39/np.lti13platform.nameroleprovisioningservices.0.0.1-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43b7f5d7-fa5b-4e49-ba4a-850c0ac4dfbb",
+      "commitTimeStamp": "2025-10-19T06:19:39.3866916Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "0.0.1-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.39/np.lti13platform.deeplinking.1.0.0-preview015.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43b7f5d7-fa5b-4e49-ba4a-850c0ac4dfbb",
+      "commitTimeStamp": "2025-10-19T06:19:39.3866916Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview015"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.39/np.lti13platform.deeplinking.1.0.0-preview010.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43b7f5d7-fa5b-4e49-ba4a-850c0ac4dfbb",
+      "commitTimeStamp": "2025-10-19T06:19:39.3866916Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview010"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.39/np.lti13platform.deeplinking.1.0.0-preview012.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43b7f5d7-fa5b-4e49-ba4a-850c0ac4dfbb",
+      "commitTimeStamp": "2025-10-19T06:19:39.3866916Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview012"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.39/np.lti13platform.nameroleprovisioningservices.0.1.0-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43b7f5d7-fa5b-4e49-ba4a-850c0ac4dfbb",
+      "commitTimeStamp": "2025-10-19T06:19:39.3866916Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "0.1.0-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.39/np.lti13platform.deeplinking.1.0.0-preview014.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43b7f5d7-fa5b-4e49-ba4a-850c0ac4dfbb",
+      "commitTimeStamp": "2025-10-19T06:19:39.3866916Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview014"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.core.0.0.1-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "0.0.1-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.deeplinking.1.0.0-preview006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.deeplinking.0.1.0-preview001.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "0.1.0-preview001"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/a2v10.platform.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "A2v10.Platform",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.deeplinking.1.0.0-preview009.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview009"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.deeplinking.0.1.0-preview002.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "0.1.0-preview002"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.deeplinking.1.0.0-preview001.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview001"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.core.0.1.0-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "0.1.0-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.deeplinking.1.0.0-preview002.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview002"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.deeplinking.1.0.0-preview007.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview007"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.deeplinking.1.0.0-preview003.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview003"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/a2v10.metadata.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "A2v10.Metadata",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.core.1.0.0-preview001.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "1.0.0-preview001"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.core.0.1.0-preview001.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "0.1.0-preview001"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.deeplinking.0.0.1-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "0.0.1-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.deeplinking.1.0.0-preview004.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview004"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.deeplinking.1.0.0-preview008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.deeplinking.0.1.0-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "0.1.0-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.core.0.1.0-preview002.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "0.1.0-preview002"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.19.01/np.lti13platform.deeplinking.1.0.0-preview005.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8598a8d5-27d6-4628-9181-29ce239fdefd",
+      "commitTimeStamp": "2025-10-19T06:19:01.4567267Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview005"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/np.lti13platform.core.1.0.0-preview010.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "1.0.0-preview010"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/np.lti13platform.core.1.0.0-preview005.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "1.0.0-preview005"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/np.lti13platform.core.1.0.0-preview008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "1.0.0-preview008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/a2v10.identity.apikey.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "A2v10.Identity.ApiKey",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/np.lti13platform.core.1.0.0-preview002.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "1.0.0-preview002"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/a2v10.identity.jwt.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "A2v10.Identity.Jwt",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/np.lti13platform.core.1.0.0-preview014.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "1.0.0-preview014"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/np.lti13platform.core.1.0.0-preview006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "1.0.0-preview006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/a2v10.blobstorage.azure.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "A2v10.BlobStorage.Azure",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/np.lti13platform.core.1.0.0-preview011.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "1.0.0-preview011"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/np.lti13platform.core.1.0.0-preview004.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "1.0.0-preview004"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/pulumi.command.1.2.0-alpha.1760852864.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "Pulumi.Command",
+      "nuget:version": "1.2.0-alpha.1760852864"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/np.lti13platform.core.1.0.0-preview009.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "1.0.0-preview009"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/np.lti13platform.core.1.0.0-preview003.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "1.0.0-preview003"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/a2v10.blobstorage.filesystem.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "A2v10.BlobStorage.FileSystem",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/np.lti13platform.core.1.0.0-preview015.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "1.0.0-preview015"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/np.lti13platform.assignmentgradeservices.1.0.0-preview015.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "1.0.0-preview015"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/np.lti13platform.core.1.0.0-preview012.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "1.0.0-preview012"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/np.lti13platform.core.1.0.0-preview007.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "NP.Lti13Platform.Core",
+      "nuget:version": "1.0.0-preview007"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.18.22/a2v10.mailclient.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7171b4fa-a0d1-4ba7-bb5a-4327aa94fb0a",
+      "commitTimeStamp": "2025-10-19T06:18:22.094066Z",
+      "nuget:id": "A2v10.MailClient",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.1.0.0-preview002.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "1.0.0-preview002"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/a2v10.appruntimebuilder.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "A2v10.AppRuntimeBuilder",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.1.0.0-preview004.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "1.0.0-preview004"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.1.0.0-preview011.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "1.0.0-preview011"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.1.0.0-preview008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "1.0.0-preview008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.0.1.0-preview001.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "0.1.0-preview001"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.1.0.0-preview005.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "1.0.0-preview005"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.0.1.0-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "0.1.0-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.0.0.1-preview.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "0.0.1-preview.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.1.0.0-preview009.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "1.0.0-preview009"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.1.0.0-preview012.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "1.0.0-preview012"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.1.0.0-preview001.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "1.0.0-preview001"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.0.1.0-preview002.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "0.1.0-preview002"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.1.0.0-preview006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "1.0.0-preview006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.1.0.0-preview014.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "1.0.0-preview014"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.1.0.0-preview007.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "1.0.0-preview007"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.1.0.0-preview010.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "1.0.0-preview010"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.1.0.0-preview003.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "1.0.0-preview003"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/np.lti13platform.assignmentgradeservices.0.0.1-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "NP.Lti13Platform.AssignmentGradeServices",
+      "nuget:version": "0.0.1-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.44/a2v10.app.assets.10.1.8575.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f6861e22-9ccb-4b20-ad0a-ab53687a0896",
+      "commitTimeStamp": "2025-10-19T06:17:44.3571525Z",
+      "nuget:id": "A2v10.App.Assets",
+      "nuget:version": "10.1.8575"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.0.1.0-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "0.1.0-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.1.0.0-preview008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.1.0.0-preview005.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview005"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.1.0.0-preview002.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview002"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.1.0.0-preview010.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview010"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.1.0.0-preview009.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview009"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.1.0.0-preview006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.0.0.1-preview.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "0.0.1-preview.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.1.0.0-preview014.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview014"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.1.0.0-preview003.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview003"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.0.1.0-preview002.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "0.1.0-preview002"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.1.0.0-preview007.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview007"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.1.0.0-preview011.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview011"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.0.0.1-preview.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "0.0.1-preview.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.0.0.1-preview.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "0.0.1-preview.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.1.0.0-preview015.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview015"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.1.0.0-preview004.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview004"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.0.0.1-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "0.0.1-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.1.0.0-preview001.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview001"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.17.04/np.lti13platform.nameroleprovisioningservices.1.0.0-preview012.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f7f94fb-5aa9-4d33-8a61-39d8eeb46124",
+      "commitTimeStamp": "2025-10-19T06:17:04.7943072Z",
+      "nuget:id": "NP.Lti13Platform.NameRoleProvisioningServices",
+      "nuget:version": "1.0.0-preview012"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.0.0.1-preview.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "0.0.1-preview.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.1.0.0-preview010.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview010"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.1.0.0-preview015.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview015"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.0.1.0-preview001.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "0.1.0-preview001"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.1.0.0-preview008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.0.1.0-preview002.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "0.1.0-preview002"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.0.0.1-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "0.0.1-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.1.0.0-preview005.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview005"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.1.0.0-preview006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.0.0.1-preview.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "0.0.1-preview.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.1.0.0-preview007.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview007"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.1.0.0-preview011.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview011"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.1.0.0-preview012.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview012"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.1.0.0-preview001.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview001"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.1.0.0-preview009.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview009"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.1.0.0-preview002.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview002"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.0.0.1-preview.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "0.0.1-preview.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.0.1.0-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "0.1.0-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.1.0.0-preview014.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview014"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.1.0.0-preview003.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview003"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.19.06.16.19/np.lti13platform.deeplinking.1.0.0-preview004.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddc0911f-2d21-4fb1-b52e-6aa13967723e",
+      "commitTimeStamp": "2025-10-19T06:16:19.2112741Z",
+      "nuget:id": "NP.Lti13Platform.DeepLinking",
+      "nuget:version": "1.0.0-preview004"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
