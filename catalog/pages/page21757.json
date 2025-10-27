@@ -1,0 +1,569 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21757.json",
+  "@type": "CatalogPage",
+  "commitId": "48fd7d17-f18e-443f-8690-5181ca4c888b",
+  "commitTimeStamp": "2025-10-27T19:06:36.1502859Z",
+  "count": 67,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.06.36/hotchocolate.fusion.packaging.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "48fd7d17-f18e-443f-8690-5181ca4c888b",
+      "commitTimeStamp": "2025-10-27T19:06:36.1502859Z",
+      "nuget:id": "HotChocolate.Fusion.Packaging",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.06.36/hotchocolate.subscriptions.serializers.newtonsoft.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "48fd7d17-f18e-443f-8690-5181ca4c888b",
+      "commitTimeStamp": "2025-10-27T19:06:36.1502859Z",
+      "nuget:id": "HotChocolate.Subscriptions.Serializers.Newtonsoft",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.06.36/hotchocolate.utilities.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "48fd7d17-f18e-443f-8690-5181ca4c888b",
+      "commitTimeStamp": "2025-10-27T19:06:36.1502859Z",
+      "nuget:id": "HotChocolate.Utilities",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.06.36/strawberryshake.transport.inmemory.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "48fd7d17-f18e-443f-8690-5181ca4c888b",
+      "commitTimeStamp": "2025-10-27T19:06:36.1502859Z",
+      "nuget:id": "StrawberryShake.Transport.InMemory",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.06.36/strawberryshake.transport.websockets.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "48fd7d17-f18e-443f-8690-5181ca4c888b",
+      "commitTimeStamp": "2025-10-27T19:06:36.1502859Z",
+      "nuget:id": "StrawberryShake.Transport.WebSockets",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.06.36/hotchocolate.types.queries.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "48fd7d17-f18e-443f-8690-5181ca4c888b",
+      "commitTimeStamp": "2025-10-27T19:06:36.1502859Z",
+      "nuget:id": "HotChocolate.Types.Queries",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.06.36/hotchocolate.types.mutable.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "48fd7d17-f18e-443f-8690-5181ca4c888b",
+      "commitTimeStamp": "2025-10-27T19:06:36.1502859Z",
+      "nuget:id": "HotChocolate.Types.Mutable",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.06.36/hotchocolate.fusion.utilities.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "48fd7d17-f18e-443f-8690-5181ca4c888b",
+      "commitTimeStamp": "2025-10-27T19:06:36.1502859Z",
+      "nuget:id": "HotChocolate.Fusion.Utilities",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.06.36/hotchocolate.azurefunctions.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "48fd7d17-f18e-443f-8690-5181ca4c888b",
+      "commitTimeStamp": "2025-10-27T19:06:36.1502859Z",
+      "nuget:id": "HotChocolate.AzureFunctions",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.05.50/greendonut.data.primitives.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da01e2c9-8ee1-4070-94f0-4ea28c811e56",
+      "commitTimeStamp": "2025-10-27T19:05:50.2236217Z",
+      "nuget:id": "GreenDonut.Data.Primitives",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.05.50/zoo.genericapp.logic.3.51.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da01e2c9-8ee1-4070-94f0-4ea28c811e56",
+      "commitTimeStamp": "2025-10-27T19:05:50.2236217Z",
+      "nuget:id": "Zoo.GenericApp.Logic",
+      "nuget:version": "3.51.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.05.50/hotchocolate.types.nodatime.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da01e2c9-8ee1-4070-94f0-4ea28c811e56",
+      "commitTimeStamp": "2025-10-27T19:05:50.2236217Z",
+      "nuget:id": "HotChocolate.Types.NodaTime",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.05.50/chillicream.nitro.commandline.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da01e2c9-8ee1-4070-94f0-4ea28c811e56",
+      "commitTimeStamp": "2025-10-27T19:05:50.2236217Z",
+      "nuget:id": "ChilliCream.Nitro.CommandLine",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.04.59/soenneker.autofaker.overrides.minmax.3.0.773.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c312bc4f-bd73-48e2-ab8d-8d31b09fe3f6",
+      "commitTimeStamp": "2025-10-27T19:04:59.9253489Z",
+      "nuget:id": "Soenneker.AutoFaker.Overrides.MinMax",
+      "nuget:version": "3.0.773"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.04.59/hotchocolate.persistedoperations.pipeline.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c312bc4f-bd73-48e2-ab8d-8d31b09fe3f6",
+      "commitTimeStamp": "2025-10-27T19:04:59.9253489Z",
+      "nuget:id": "HotChocolate.PersistedOperations.Pipeline",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.04.59/strawberryshake.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c312bc4f-bd73-48e2-ab8d-8d31b09fe3f6",
+      "commitTimeStamp": "2025-10-27T19:04:59.9253489Z",
+      "nuget:id": "StrawberryShake",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.04.19/finsemble.core.9.9.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9300fe7-0508-4cdd-b4e6-1d00d5e21921",
+      "commitTimeStamp": "2025-10-27T19:04:19.4865012Z",
+      "nuget:id": "Finsemble.Core",
+      "nuget:version": "9.9.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.04.19/hotchocolate.utilities.buffers.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9300fe7-0508-4cdd-b4e6-1d00d5e21921",
+      "commitTimeStamp": "2025-10-27T19:04:19.4865012Z",
+      "nuget:id": "HotChocolate.Utilities.Buffers",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.04.19/hotchocolate.aspnetcore.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9300fe7-0508-4cdd-b4e6-1d00d5e21921",
+      "commitTimeStamp": "2025-10-27T19:04:19.4865012Z",
+      "nuget:id": "HotChocolate.AspNetCore",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.04.19/cookiecrumble.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9300fe7-0508-4cdd-b4e6-1d00d5e21921",
+      "commitTimeStamp": "2025-10-27T19:04:19.4865012Z",
+      "nuget:id": "CookieCrumble",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.04.19/telegram.bot.22.7.4-dev.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9300fe7-0508-4cdd-b4e6-1d00d5e21921",
+      "commitTimeStamp": "2025-10-27T19:04:19.4865012Z",
+      "nuget:id": "Telegram.Bot",
+      "nuget:version": "22.7.4-dev.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.04.19/strawberryshake.persistence.sqlite.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9300fe7-0508-4cdd-b4e6-1d00d5e21921",
+      "commitTimeStamp": "2025-10-27T19:04:19.4865012Z",
+      "nuget:id": "StrawberryShake.Persistence.SQLite",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.03.35/finsemble.winform.core.9.9.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cf9f602-f8d7-4e52-b81a-fb78cc34553f",
+      "commitTimeStamp": "2025-10-27T19:03:35.3515286Z",
+      "nuget:id": "Finsemble.Winform.Core",
+      "nuget:version": "9.9.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.03.35/strawberryshake.resources.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cf9f602-f8d7-4e52-b81a-fb78cc34553f",
+      "commitTimeStamp": "2025-10-27T19:03:35.3515286Z",
+      "nuget:id": "StrawberryShake.Resources",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.03.35/hotchocolate.caching.memory.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cf9f602-f8d7-4e52-b81a-fb78cc34553f",
+      "commitTimeStamp": "2025-10-27T19:03:35.3515286Z",
+      "nuget:id": "HotChocolate.Caching.Memory",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.03.35/hotchocolate.subscriptions.nats.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cf9f602-f8d7-4e52-b81a-fb78cc34553f",
+      "commitTimeStamp": "2025-10-27T19:03:35.3515286Z",
+      "nuget:id": "HotChocolate.Subscriptions.Nats",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.03.35/hotchocolate.data.mongodb.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cf9f602-f8d7-4e52-b81a-fb78cc34553f",
+      "commitTimeStamp": "2025-10-27T19:03:35.3515286Z",
+      "nuget:id": "HotChocolate.Data.MongoDb",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.03.35/hotchocolate.language.web.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cf9f602-f8d7-4e52-b81a-fb78cc34553f",
+      "commitTimeStamp": "2025-10-27T19:03:35.3515286Z",
+      "nuget:id": "HotChocolate.Language.Web",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.03.35/cookiecrumble.xunit3.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cf9f602-f8d7-4e52-b81a-fb78cc34553f",
+      "commitTimeStamp": "2025-10-27T19:03:35.3515286Z",
+      "nuget:id": "CookieCrumble.Xunit3",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.03.35/hotchocolate.types.mutations.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cf9f602-f8d7-4e52-b81a-fb78cc34553f",
+      "commitTimeStamp": "2025-10-27T19:03:35.3515286Z",
+      "nuget:id": "HotChocolate.Types.Mutations",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.03.35/microsoft.odata.serializer.0.1.0-preview.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cf9f602-f8d7-4e52-b81a-fb78cc34553f",
+      "commitTimeStamp": "2025-10-27T19:03:35.3515286Z",
+      "nuget:id": "Microsoft.OData.Serializer",
+      "nuget:version": "0.1.0-preview.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.03.35/altone.webapi.core.2510.0.0-0.7.2.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cf9f602-f8d7-4e52-b81a-fb78cc34553f",
+      "commitTimeStamp": "2025-10-27T19:03:35.3515286Z",
+      "nuget:id": "AltOne.WebAPI.Core",
+      "nuget:version": "2510.0.0-0.7.2.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.03.35/hotchocolate.data.entityframework.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cf9f602-f8d7-4e52-b81a-fb78cc34553f",
+      "commitTimeStamp": "2025-10-27T19:03:35.3515286Z",
+      "nuget:id": "HotChocolate.Data.EntityFramework",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.03.35/soenneker.cloudflare.utils.client.3.0.323.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cf9f602-f8d7-4e52-b81a-fb78cc34553f",
+      "commitTimeStamp": "2025-10-27T19:03:35.3515286Z",
+      "nuget:id": "Soenneker.Cloudflare.Utils.Client",
+      "nuget:version": "3.0.323"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.03.35/strawberryshake.core.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cf9f602-f8d7-4e52-b81a-fb78cc34553f",
+      "commitTimeStamp": "2025-10-27T19:03:35.3515286Z",
+      "nuget:id": "StrawberryShake.Core",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.02.51/finsemble.wpf.core.9.9.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "862dd7b6-c9e0-4fb6-b939-2cc365fe9def",
+      "commitTimeStamp": "2025-10-27T19:02:51.6524837Z",
+      "nuget:id": "Finsemble.WPF.Core",
+      "nuget:version": "9.9.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.02.51/hotchocolate.transport.http.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "862dd7b6-c9e0-4fb6-b939-2cc365fe9def",
+      "commitTimeStamp": "2025-10-27T19:02:51.6524837Z",
+      "nuget:id": "HotChocolate.Transport.Http",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.02.51/hotchocolate.primitives.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "862dd7b6-c9e0-4fb6-b939-2cc365fe9def",
+      "commitTimeStamp": "2025-10-27T19:02:51.6524837Z",
+      "nuget:id": "HotChocolate.Primitives",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.02.51/hotchocolate.transport.sockets.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "862dd7b6-c9e0-4fb6-b939-2cc365fe9def",
+      "commitTimeStamp": "2025-10-27T19:02:51.6524837Z",
+      "nuget:id": "HotChocolate.Transport.Sockets",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.02.51/hotchocolate.costanalysis.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "862dd7b6-c9e0-4fb6-b939-2cc365fe9def",
+      "commitTimeStamp": "2025-10-27T19:02:51.6524837Z",
+      "nuget:id": "HotChocolate.CostAnalysis",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.02.51/hotchocolate.transport.sockets.client.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "862dd7b6-c9e0-4fb6-b939-2cc365fe9def",
+      "commitTimeStamp": "2025-10-27T19:02:51.6524837Z",
+      "nuget:id": "HotChocolate.Transport.Sockets.Client",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.02.51/hotchocolate.utilities.tasks.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "862dd7b6-c9e0-4fb6-b939-2cc365fe9def",
+      "commitTimeStamp": "2025-10-27T19:02:51.6524837Z",
+      "nuget:id": "HotChocolate.Utilities.Tasks",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.02.51/hotchocolate.types.shared.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "862dd7b6-c9e0-4fb6-b939-2cc365fe9def",
+      "commitTimeStamp": "2025-10-27T19:02:51.6524837Z",
+      "nuget:id": "HotChocolate.Types.Shared",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.02.51/finsemble.9.9.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "862dd7b6-c9e0-4fb6-b939-2cc365fe9def",
+      "commitTimeStamp": "2025-10-27T19:02:51.6524837Z",
+      "nuget:id": "Finsemble",
+      "nuget:version": "9.9.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.02.13/kba.coreutilities.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f255203-8843-434b-83fe-ec4f3c12fe46",
+      "commitTimeStamp": "2025-10-27T19:02:13.7360091Z",
+      "nuget:id": "KBA.CoreUtilities",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.02.13/hotchocolate.aspnetcore.authorization.opa.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f255203-8843-434b-83fe-ec4f3c12fe46",
+      "commitTimeStamp": "2025-10-27T19:02:13.7360091Z",
+      "nuget:id": "HotChocolate.AspNetCore.Authorization.Opa",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.02.13/hotchocolate.execution.pipeline.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f255203-8843-434b-83fe-ec4f3c12fe46",
+      "commitTimeStamp": "2025-10-27T19:02:13.7360091Z",
+      "nuget:id": "HotChocolate.Execution.Pipeline",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.02.13/chillicream.nitro.commandline.fusion.compatibility.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f255203-8843-434b-83fe-ec4f3c12fe46",
+      "commitTimeStamp": "2025-10-27T19:02:13.7360091Z",
+      "nuget:id": "ChilliCream.Nitro.CommandLine.Fusion.Compatibility",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.02.13/hotchocolate.fusion.aspire.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f255203-8843-434b-83fe-ec4f3c12fe46",
+      "commitTimeStamp": "2025-10-27T19:02:13.7360091Z",
+      "nuget:id": "HotChocolate.Fusion.Aspire",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.02.13/hotchocolate.features.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f255203-8843-434b-83fe-ec4f3c12fe46",
+      "commitTimeStamp": "2025-10-27T19:02:13.7360091Z",
+      "nuget:id": "HotChocolate.Features",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.01.27/cookiecrumble.hotchocolate.16.0.0-p.8.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "173c8ea6-afbe-4daf-bed4-62eb228b8fe5",
+      "commitTimeStamp": "2025-10-27T19:01:27.3672759Z",
+      "nuget:id": "CookieCrumble.HotChocolate",
+      "nuget:version": "16.0.0-p.8.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.00.36/soenneker.cloudflare.openapi.suite.3.0.620.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d3cfd11-50df-4411-9859-1630ffbb6689",
+      "commitTimeStamp": "2025-10-27T19:00:36.8131377Z",
+      "nuget:id": "Soenneker.Cloudflare.OpenApi.Suite",
+      "nuget:version": "3.0.620"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.19.00.36/eniks.passwordhash.0.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d3cfd11-50df-4411-9859-1630ffbb6689",
+      "commitTimeStamp": "2025-10-27T19:00:36.8131377Z",
+      "nuget:id": "Eniks.PasswordHash",
+      "nuget:version": "0.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.18.58.34/zoo.s3.files.logic.3.30.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "11039204-e3af-40ca-9ac5-779e750ec50b",
+      "commitTimeStamp": "2025-10-27T18:58:34.9172691Z",
+      "nuget:id": "Zoo.S3.Files.Logic",
+      "nuget:version": "3.30.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.18.58.34/intelica.infrastructure.library.1.1.99.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "11039204-e3af-40ca-9ac5-779e750ec50b",
+      "commitTimeStamp": "2025-10-27T18:58:34.9172691Z",
+      "nuget:id": "Intelica.Infrastructure.Library",
+      "nuget:version": "1.1.99"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.18.56.23/naos.configuration.domain.1.0.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ce7dce1-f202-4517-a8b2-861c8ecc122f",
+      "commitTimeStamp": "2025-10-27T18:56:23.7176082Z",
+      "nuget:id": "Naos.Configuration.Domain",
+      "nuget:version": "1.0.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.18.55.38/naos.machinemanagement.domain.1.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb4de768-c2d3-4db1-b2dd-03e0fec78c8a",
+      "commitTimeStamp": "2025-10-27T18:55:38.1118309Z",
+      "nuget:id": "Naos.MachineManagement.Domain",
+      "nuget:version": "1.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.18.55.38/naos.machinemanagement.ssh.1.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb4de768-c2d3-4db1-b2dd-03e0fec78c8a",
+      "commitTimeStamp": "2025-10-27T18:55:38.1118309Z",
+      "nuget:id": "Naos.MachineManagement.Ssh",
+      "nuget:version": "1.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.18.55.38/naos.machinemanagement.factory.1.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb4de768-c2d3-4db1-b2dd-03e0fec78c8a",
+      "commitTimeStamp": "2025-10-27T18:55:38.1118309Z",
+      "nuget:id": "Naos.MachineManagement.Factory",
+      "nuget:version": "1.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.18.54.57/naos.machinemanagement.winrm.1.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a05dad54-2f59-4fd6-a185-a42da25cc25e",
+      "commitTimeStamp": "2025-10-27T18:54:57.7574102Z",
+      "nuget:id": "Naos.MachineManagement.WinRm",
+      "nuget:version": "1.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.18.54.57/naos.machinemanagement.local.1.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a05dad54-2f59-4fd6-a185-a42da25cc25e",
+      "commitTimeStamp": "2025-10-27T18:54:57.7574102Z",
+      "nuget:id": "Naos.MachineManagement.Local",
+      "nuget:version": "1.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.18.52.17/mycustomanalyzer1.sample.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30755d02-82ce-444c-9485-a76928709eb0",
+      "commitTimeStamp": "2025-10-27T18:52:17.7304447Z",
+      "nuget:id": "MyCustomAnalyzer1.Sample",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.18.49.47/mosaik.frontend.core.25.10.62328.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8d323120-3a72-4f2a-9571-21a18cab8269",
+      "commitTimeStamp": "2025-10-27T18:49:47.5580035Z",
+      "nuget:id": "Mosaik.FrontEnd.Core",
+      "nuget:version": "25.10.62328"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.18.49.08/mosaik.frontend.admin.25.10.62328.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "13f34a41-638f-462e-a269-ebaf12f7a3fc",
+      "commitTimeStamp": "2025-10-27T18:49:08.826972Z",
+      "nuget:id": "Mosaik.FrontEnd.Admin",
+      "nuget:version": "25.10.62328"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.18.49.08/mosaik.frontend.25.10.62328.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "13f34a41-638f-462e-a269-ebaf12f7a3fc",
+      "commitTimeStamp": "2025-10-27T18:49:08.826972Z",
+      "nuget:id": "Mosaik.FrontEnd",
+      "nuget:version": "25.10.62328"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.18.49.08/leet.templates.0.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "13f34a41-638f-462e-a269-ebaf12f7a3fc",
+      "commitTimeStamp": "2025-10-27T18:49:08.826972Z",
+      "nuget:id": "Leet.Templates",
+      "nuget:version": "0.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.10.27.18.49.08/curiosity.components.25.10.62328.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "13f34a41-638f-462e-a269-ebaf12f7a3fc",
+      "commitTimeStamp": "2025-10-27T18:49:08.826972Z",
+      "nuget:id": "Curiosity.Components",
+      "nuget:version": "25.10.62328"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
