@@ -1,0 +1,881 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21777.json",
+  "@type": "CatalogPage",
+  "commitId": "83315df6-addc-45c6-bbb6-fc2970a70db6",
+  "commitTimeStamp": "2025-11-02T03:27:50.7876107Z",
+  "count": 106,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.27.50/crping.efcore.5.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "83315df6-addc-45c6-bbb6-fc2970a70db6",
+      "commitTimeStamp": "2025-11-02T03:27:50.7876107Z",
+      "nuget:id": "Crping.EFCore",
+      "nuget:version": "5.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.27.18/nilnul._set_._lib_.1.1.251102.32407.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c27619d4-7ee4-4a80-b05a-88b382388029",
+      "commitTimeStamp": "2025-11-02T03:27:18.4298569Z",
+      "nuget:id": "nilnul._set_._LIB_",
+      "nuget:version": "1.1.251102.32407"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.27.18/pnp.core.auth.1.15.192-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c27619d4-7ee4-4a80-b05a-88b382388029",
+      "commitTimeStamp": "2025-11-02T03:27:18.4298569Z",
+      "nuget:id": "PnP.Core.Auth",
+      "nuget:version": "1.15.192-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.27.18/pnp.core.admin.1.15.192-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c27619d4-7ee4-4a80-b05a-88b382388029",
+      "commitTimeStamp": "2025-11-02T03:27:18.4298569Z",
+      "nuget:id": "PnP.Core.Admin",
+      "nuget:version": "1.15.192-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.27.18/pnp.core.1.15.192-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c27619d4-7ee4-4a80-b05a-88b382388029",
+      "commitTimeStamp": "2025-11-02T03:27:18.4298569Z",
+      "nuget:id": "PnP.Core",
+      "nuget:version": "1.15.192-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.27.18/pnp.framework.1.18.191-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c27619d4-7ee4-4a80-b05a-88b382388029",
+      "commitTimeStamp": "2025-11-02T03:27:18.4298569Z",
+      "nuget:id": "PnP.Framework",
+      "nuget:version": "1.18.191-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.27.18/workleap.domaineventpropagation.abstractions.1.3.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c27619d4-7ee4-4a80-b05a-88b382388029",
+      "commitTimeStamp": "2025-11-02T03:27:18.4298569Z",
+      "nuget:id": "Workleap.DomainEventPropagation.Abstractions",
+      "nuget:version": "1.3.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.26.43/workleap.domaineventpropagation.subscription.1.3.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bb79dcbc-2a6f-49cc-8bc8-1acd5fec8c18",
+      "commitTimeStamp": "2025-11-02T03:26:43.5427591Z",
+      "nuget:id": "Workleap.DomainEventPropagation.Subscription",
+      "nuget:version": "1.3.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.26.43/workleap.domaineventpropagation.subscription.pulldelivery.1.3.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bb79dcbc-2a6f-49cc-8bc8-1acd5fec8c18",
+      "commitTimeStamp": "2025-11-02T03:26:43.5427591Z",
+      "nuget:id": "Workleap.DomainEventPropagation.Subscription.PullDelivery",
+      "nuget:version": "1.3.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.26.10/workleap.domaineventpropagation.publishing.applicationinsights.1.3.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "97709fe3-469d-43cc-b8a0-bc385f08306e",
+      "commitTimeStamp": "2025-11-02T03:26:10.9574182Z",
+      "nuget:id": "Workleap.DomainEventPropagation.Publishing.ApplicationInsights",
+      "nuget:version": "1.3.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.26.10/workleap.domaineventpropagation.publishing.1.3.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "97709fe3-469d-43cc-b8a0-bc385f08306e",
+      "commitTimeStamp": "2025-11-02T03:26:10.9574182Z",
+      "nuget:id": "Workleap.DomainEventPropagation.Publishing",
+      "nuget:version": "1.3.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.26.10/workleap.domaineventpropagation.subscription.applicationinsights.1.3.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "97709fe3-469d-43cc-b8a0-bc385f08306e",
+      "commitTimeStamp": "2025-11-02T03:26:10.9574182Z",
+      "nuget:id": "Workleap.DomainEventPropagation.Subscription.ApplicationInsights",
+      "nuget:version": "1.3.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.25.36/workleap.extensions.xunit.1.1.28.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "96e552e5-e3ba-4d22-beab-998fc2fc7dd5",
+      "commitTimeStamp": "2025-11-02T03:25:36.9100078Z",
+      "nuget:id": "Workleap.Extensions.Xunit",
+      "nuget:version": "1.1.28"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.25.36/andrew.commonuse.oauth.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "96e552e5-e3ba-4d22-beab-998fc2fc7dd5",
+      "commitTimeStamp": "2025-11-02T03:25:36.9100078Z",
+      "nuget:id": "Andrew.CommonUse.OAuth",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.22.40/sqlsugarcore.5.1.4.208-preview06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "afab4f54-35b9-45bf-9993-6e89e4d1eef4",
+      "commitTimeStamp": "2025-11-02T03:22:40.7219446Z",
+      "nuget:id": "SqlSugarCore",
+      "nuget:version": "5.1.4.208-preview06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.22.07/jaytwo.timeexpression.0.1.0-beta-20251101211754.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9dd61f9c-2f73-4344-84f1-97129df907bd",
+      "commitTimeStamp": "2025-11-02T03:22:07.2669721Z",
+      "nuget:id": "jaytwo.TimeExpression",
+      "nuget:version": "0.1.0-beta-20251101211754"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.20.20/sharedx.abstractions.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d23a499e-258d-4009-9998-fd6859bd43c8",
+      "commitTimeStamp": "2025-11-02T03:20:20.8794436Z",
+      "nuget:id": "SharedX.Abstractions",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.19.11/sharedx.core.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "67c2d61c-c9a6-4337-99bf-1525a9e33cd4",
+      "commitTimeStamp": "2025-11-02T03:19:11.9207645Z",
+      "nuget:id": "SharedX.Core",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.19.11/dcorp.farcards.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "67c2d61c-c9a6-4337-99bf-1525a9e33cd4",
+      "commitTimeStamp": "2025-11-02T03:19:11.9207645Z",
+      "nuget:id": "Dcorp.Farcards",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.19.11/sharedx.extensions.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "67c2d61c-c9a6-4337-99bf-1525a9e33cd4",
+      "commitTimeStamp": "2025-11-02T03:19:11.9207645Z",
+      "nuget:id": "SharedX.Extensions",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.15.00/saucery.4.5.51.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a765c044-71dc-4e8c-89e5-881a082b9223",
+      "commitTimeStamp": "2025-11-02T03:15:00.0044316Z",
+      "nuget:id": "Saucery",
+      "nuget:version": "4.5.51"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.15.00/saucery.xunit.4.5.51.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a765c044-71dc-4e8c-89e5-881a082b9223",
+      "commitTimeStamp": "2025-11-02T03:15:00.0044316Z",
+      "nuget:id": "Saucery.XUnit",
+      "nuget:version": "4.5.51"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.15.00/saucery.core.4.5.51.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a765c044-71dc-4e8c-89e5-881a082b9223",
+      "commitTimeStamp": "2025-11-02T03:15:00.0044316Z",
+      "nuget:id": "Saucery.Core",
+      "nuget:version": "4.5.51"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.14.26/fractaldataworks.services.execution.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "153058ae-45ef-46f2-b40d-123de3e670de",
+      "commitTimeStamp": "2025-11-02T03:14:26.5511068Z",
+      "nuget:id": "FractalDataWorks.Services.Execution",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.14.26/zakmgstrapi.1.0.55.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "153058ae-45ef-46f2-b40d-123de3e670de",
+      "commitTimeStamp": "2025-11-02T03:14:26.5511068Z",
+      "nuget:id": "ZakmGSTRAPI",
+      "nuget:version": "1.0.55"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.51/fractaldataworks.data.transformers.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9105bfc7-50ac-417b-ab24-c9d296cf783b",
+      "commitTimeStamp": "2025-11-02T03:13:51.1601203Z",
+      "nuget:id": "FractalDataWorks.Data.Transformers.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.51/fractaldataworks.data.datastores.rest.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9105bfc7-50ac-417b-ab24-c9d296cf783b",
+      "commitTimeStamp": "2025-11-02T03:13:51.1601203Z",
+      "nuget:id": "FractalDataWorks.Data.DataStores.Rest",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.51/fractaldataworks.services.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9105bfc7-50ac-417b-ab24-c9d296cf783b",
+      "commitTimeStamp": "2025-11-02T03:13:51.1601203Z",
+      "nuget:id": "FractalDataWorks.Services.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.51/fractaldataworks.services.authentication.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9105bfc7-50ac-417b-ab24-c9d296cf783b",
+      "commitTimeStamp": "2025-11-02T03:13:51.1601203Z",
+      "nuget:id": "FractalDataWorks.Services.Authentication",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.51/fractaldataworks.data.datastores.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9105bfc7-50ac-417b-ab24-c9d296cf783b",
+      "commitTimeStamp": "2025-11-02T03:13:51.1601203Z",
+      "nuget:id": "FractalDataWorks.Data.DataStores.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.51/fractaldataworks.services.data.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9105bfc7-50ac-417b-ab24-c9d296cf783b",
+      "commitTimeStamp": "2025-11-02T03:13:51.1601203Z",
+      "nuget:id": "FractalDataWorks.Services.Data",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.configuration.ui.sourcegenerators.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.Configuration.UI.SourceGenerators",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.ui.web.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.UI.Web.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.services.connections.mssql.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.Services.Connections.MsSql",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.ui.components.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.UI.Components.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.data.datasets.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.Data.DataSets.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.collections.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.Collections",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.services.authentication.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.Services.Authentication.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.results.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.Results",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.ui.components.razorconsole.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.UI.Components.RazorConsole",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.servicetypes.healthchecks.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.ServiceTypes.HealthChecks",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.codebuilder.analysis.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.CodeBuilder.Analysis",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.services.connections.rest.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.Services.Connections.Rest",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.dependencyinjection.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.DependencyInjection",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.services.transformations.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.Services.Transformations.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.data.datastores.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.Data.DataStores",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.results.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.Results.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.services.scheduling.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.Services.Scheduling",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.web.restendpoints.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.Web.RestEndpoints",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.services.connections.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.Services.Connections",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.13.16/fractaldataworks.web.http.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b01e94d0-00de-4c9f-b7cf-731847e07a8f",
+      "commitTimeStamp": "2025-11-02T03:13:16.0661449Z",
+      "nuget:id": "FractalDataWorks.Web.Http.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.ui.components.blazor.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.UI.Components.Blazor",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.etl.orchestration.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Etl.Orchestration.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.data.datastores.sqlserver.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Data.DataStores.SqlServer",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.ui.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.UI.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.services.secretmanagers.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Services.SecretManagers.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.etl.scheduling.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Etl.Scheduling.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.servicetypes.sourcegenerators.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.ServiceTypes.SourceGenerators",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.services.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Services",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.services.scheduling.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Services.Scheduling.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.services.connections.http.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Services.Connections.Http.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.services.execution.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Services.Execution.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.etl.monitoring.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Etl.Monitoring.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.services.data.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Services.Data.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.messages.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Messages",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.services.connections.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Services.Connections.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.data.execution.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Data.Execution",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.messages.sourcegenerators.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Messages.SourceGenerators",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.services.transformations.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Services.Transformations",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.servicetypes.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.ServiceTypes",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.43/fractaldataworks.services.secretmanagers.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73bab789-0ab5-40a3-a917-7e33ff0ebdb5",
+      "commitTimeStamp": "2025-11-02T03:12:43.0972029Z",
+      "nuget:id": "FractalDataWorks.Services.SecretManagers",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.configuration.schema.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Configuration.Schema",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.data.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Data.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.ui.components.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.UI.Components",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.hosting.bootstrap.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Hosting.Bootstrap",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.configuration.types.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Configuration.Types.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.data.rest.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Data.Rest",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.etl.storage.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Etl.Storage.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.data.sql.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Data.Sql",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.data.translators.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Data.Translators",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.configuration.sources.mssql.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Configuration.Sources.MsSql",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.data.datastores.filesystem.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Data.DataStores.FileSystem",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.services.secretmanagers.azurekeyvault.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Services.SecretManagers.AzureKeyVault",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.data.datacontainers.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Data.DataContainers.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.configuration.types.sourcegenerators.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Configuration.Types.SourceGenerators",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.data.datasets.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Data.DataSets",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.sourcegenerators.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.SourceGenerators",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.configuration.persistence.sourcegenerators.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Configuration.Persistence.SourceGenerators",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.ui.components.tui.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.UI.Components.TUI",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.etl.pipelines.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Etl.Pipelines.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.12.07/fractaldataworks.configuration.persistence.mssql.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd2ddff6-59f2-402b-bb00-674dd8885695",
+      "commitTimeStamp": "2025-11-02T03:12:07.0344414Z",
+      "nuget:id": "FractalDataWorks.Configuration.Persistence.MsSql",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.11.31/fractaldataworks.configuration.types.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8f742e3-2bbd-4ce3-936c-56c2d0b6c934",
+      "commitTimeStamp": "2025-11-02T03:11:31.5185737Z",
+      "nuget:id": "FractalDataWorks.Configuration.Types",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.10.21/fractaldataworks.commands.data.extensions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d27e88cd-b4f3-4ba5-9896-38db7ee7eb48",
+      "commitTimeStamp": "2025-11-02T03:10:21.6136711Z",
+      "nuget:id": "FractalDataWorks.Commands.Data.Extensions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.10.21/fractaldataworks.configuration.persistence.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d27e88cd-b4f3-4ba5-9896-38db7ee7eb48",
+      "commitTimeStamp": "2025-11-02T03:10:21.6136711Z",
+      "nuget:id": "FractalDataWorks.Configuration.Persistence",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.09.47/fractaldataworks.codebuilder.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0136fe3c-e16a-467b-8c59-a95657ac4384",
+      "commitTimeStamp": "2025-11-02T03:09:47.5651085Z",
+      "nuget:id": "FractalDataWorks.CodeBuilder.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.09.47/fractaldataworks.commands.data.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0136fe3c-e16a-467b-8c59-a95657ac4384",
+      "commitTimeStamp": "2025-11-02T03:09:47.5651085Z",
+      "nuget:id": "FractalDataWorks.Commands.Data.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.09.47/fractaldataworks.collections.sourcegenerators.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0136fe3c-e16a-467b-8c59-a95657ac4384",
+      "commitTimeStamp": "2025-11-02T03:09:47.5651085Z",
+      "nuget:id": "FractalDataWorks.Collections.SourceGenerators",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.09.47/fractaldataworks.codebuilder.analysis.csharp.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0136fe3c-e16a-467b-8c59-a95657ac4384",
+      "commitTimeStamp": "2025-11-02T03:09:47.5651085Z",
+      "nuget:id": "FractalDataWorks.CodeBuilder.Analysis.CSharp",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.09.47/fractaldataworks.configuration.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0136fe3c-e16a-467b-8c59-a95657ac4384",
+      "commitTimeStamp": "2025-11-02T03:09:47.5651085Z",
+      "nuget:id": "FractalDataWorks.Configuration",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.09.47/fractaldataworks.commands.data.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0136fe3c-e16a-467b-8c59-a95657ac4384",
+      "commitTimeStamp": "2025-11-02T03:09:47.5651085Z",
+      "nuget:id": "FractalDataWorks.Commands.Data",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.09.47/fractaldataworks.commands.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0136fe3c-e16a-467b-8c59-a95657ac4384",
+      "commitTimeStamp": "2025-11-02T03:09:47.5651085Z",
+      "nuget:id": "FractalDataWorks.Commands.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.09.47/fractaldataworks.abstractions.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0136fe3c-e16a-467b-8c59-a95657ac4384",
+      "commitTimeStamp": "2025-11-02T03:09:47.5651085Z",
+      "nuget:id": "FractalDataWorks.Abstractions",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.09.47/fractaldataworks.codebuilder.csharp.0.7.0-alpha.1008.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0136fe3c-e16a-467b-8c59-a95657ac4384",
+      "commitTimeStamp": "2025-11-02T03:09:47.5651085Z",
+      "nuget:id": "FractalDataWorks.CodeBuilder.CSharp",
+      "nuget:version": "0.7.0-alpha.1008"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.06.50/saastack-installer.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "799e777e-4043-4e74-9b19-a85057318417",
+      "commitTimeStamp": "2025-11-02T03:06:50.8980994Z",
+      "nuget:id": "SaaStack-Installer",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.03.00.53/rittolibs.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ce8ceac3-8b8f-4ae8-8ea7-ef59bf413a44",
+      "commitTimeStamp": "2025-11-02T03:00:53.7542383Z",
+      "nuget:id": "RittoLibs",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.02.02.57.22/xyxandwxx.martianwpfui.1.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57ed8088-5a92-4c75-9b07-254de881a81c",
+      "commitTimeStamp": "2025-11-02T02:57:22.4369954Z",
+      "nuget:id": "xyxandwxx.MartianWPFUI",
+      "nuget:version": "1.1.2"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
