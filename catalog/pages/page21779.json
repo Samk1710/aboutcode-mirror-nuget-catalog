@@ -1,0 +1,289 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21779.json",
+  "@type": "CatalogPage",
+  "commitId": "ac254b71-3d42-445b-ba7d-ef361edfab12",
+  "commitTimeStamp": "2025-11-03T00:33:51.0951627Z",
+  "count": 32,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.33.51/meziantou.analyzer.2.0.247.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ac254b71-3d42-445b-ba7d-ef361edfab12",
+      "commitTimeStamp": "2025-11-03T00:33:51.0951627Z",
+      "nuget:id": "Meziantou.Analyzer",
+      "nuget:version": "2.0.247"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.31.05/warptoolkit.winforms.tooling.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f510e89-c328-4019-82c6-3fdacb335fce",
+      "commitTimeStamp": "2025-11-03T00:31:05.4868823Z",
+      "nuget:id": "WarpToolkit.WinForms.Tooling",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.31.05/net4x.seriloglibrary.1.5.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f510e89-c328-4019-82c6-3fdacb335fce",
+      "commitTimeStamp": "2025-11-03T00:31:05.4868823Z",
+      "nuget:id": "Net4x.SerilogLibrary",
+      "nuget:version": "1.5.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.31.05/warptoolkit.winforms.async.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f510e89-c328-4019-82c6-3fdacb335fce",
+      "commitTimeStamp": "2025-11-03T00:31:05.4868823Z",
+      "nuget:id": "WarpToolkit.WinForms.Async",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.31.05/warptoolkit.winforms.roslyn.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f510e89-c328-4019-82c6-3fdacb335fce",
+      "commitTimeStamp": "2025-11-03T00:31:05.4868823Z",
+      "nuget:id": "WarpToolkit.WinForms.Roslyn",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.31.05/net4x.spreadsheetlibrary.base.1.5.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f510e89-c328-4019-82c6-3fdacb335fce",
+      "commitTimeStamp": "2025-11-03T00:31:05.4868823Z",
+      "nuget:id": "Net4x.SpreadsheetLibrary.Base",
+      "nuget:version": "1.5.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.31.05/net4x.dapperlibrary.pivot.1.5.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f510e89-c328-4019-82c6-3fdacb335fce",
+      "commitTimeStamp": "2025-11-03T00:31:05.4868823Z",
+      "nuget:id": "Net4x.DapperLibrary.Pivot",
+      "nuget:version": "1.5.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.31.05/warptoolkit.desktop.office.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f510e89-c328-4019-82c6-3fdacb335fce",
+      "commitTimeStamp": "2025-11-03T00:31:05.4868823Z",
+      "nuget:id": "WarpToolkit.Desktop.Office",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.31.05/warptoolkit.winforms.primitives.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f510e89-c328-4019-82c6-3fdacb335fce",
+      "commitTimeStamp": "2025-11-03T00:31:05.4868823Z",
+      "nuget:id": "WarpToolkit.WinForms.Primitives",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.31.05/warptoolkit.winforms.extensions.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f510e89-c328-4019-82c6-3fdacb335fce",
+      "commitTimeStamp": "2025-11-03T00:31:05.4868823Z",
+      "nuget:id": "WarpToolkit.WinForms.Extensions",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.31.05/warptoolkit.winforms.templatepack.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f510e89-c328-4019-82c6-3fdacb335fce",
+      "commitTimeStamp": "2025-11-03T00:31:05.4868823Z",
+      "nuget:id": "WarpToolkit.WinForms.TemplatePack",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.31.05/warptoolkit.winforms.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f510e89-c328-4019-82c6-3fdacb335fce",
+      "commitTimeStamp": "2025-11-03T00:31:05.4868823Z",
+      "nuget:id": "WarpToolkit.WinForms",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/net4x.dapperlibrary.archive.1.5.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "Net4x.DapperLibrary.Archive",
+      "nuget:version": "1.5.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/warptoolkit.analyzers.autolayout.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "WarpToolkit.Analyzers.AutoLayout",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/warptoolkit.winforms.appservices.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "WarpToolkit.WinForms.AppServices",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/warptoolkit.winforms.ai.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "WarpToolkit.WinForms.AI",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/warptoolkit.desktop.async.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "WarpToolkit.Desktop.Async",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/warptoolkit.analyzers.standardbasetypes.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "WarpToolkit.Analyzers.StandardBaseTypes",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/net4x.dapperlibrary.sqlite.1.5.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "Net4x.DapperLibrary.SQLite",
+      "nuget:version": "1.5.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/net4x.dapperlibrary.installation.1.5.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "Net4x.DapperLibrary.Installation",
+      "nuget:version": "1.5.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/warptoolkit.winforms.chat.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "WarpToolkit.WinForms.Chat",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/net4x.propertybaglibrary.1.5.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "Net4x.PropertyBagLibrary",
+      "nuget:version": "1.5.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/net4x.dapperlibrary.statementbuilder.1.5.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "Net4x.DapperLibrary.StatementBuilder",
+      "nuget:version": "1.5.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/warptoolkit.windows.interop.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "WarpToolkit.Windows.Interop",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/warptoolkit.componentmodel.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "WarpToolkit.ComponentModel",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/warptoolkit.analyzer.winforms.csharp.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "WarpToolkit.Analyzer.WinForms.CSharp",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/net4x.dapperlibrary.postgres.1.5.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "Net4x.DapperLibrary.Postgres",
+      "nuget:version": "1.5.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/warptoolkit.winforms.github.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "WarpToolkit.WinForms.Github",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/warptoolkit.winforms.design.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "WarpToolkit.WinForms.Design",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/net4x.dapperlibrary.generic.1.5.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "Net4x.DapperLibrary.Generic",
+      "nuget:version": "1.5.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/net4x.dapperlibrary.mock.1.5.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "Net4x.DapperLibrary.Mock",
+      "nuget:version": "1.5.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.03.00.30.26/warptoolkit.winforms.directx.0.8.151-preview.g94eeb4f199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1829f7a-9ec7-4768-b56a-ae00b257e6ef",
+      "commitTimeStamp": "2025-11-03T00:30:26.0273476Z",
+      "nuget:id": "WarpToolkit.WinForms.DirectX",
+      "nuget:version": "0.8.151-preview.g94eeb4f199"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
