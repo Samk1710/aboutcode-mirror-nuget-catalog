@@ -1,0 +1,2353 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21784.json",
+  "@type": "CatalogPage",
+  "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+  "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+  "count": 290,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.winui.xamlhost.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.WinUI.XamlHost",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/xamarin.documentreader.api.ios.8.4.283-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Xamarin.DocumentReader.Api.iOS",
+      "nuget:version": "8.4.283-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.winui.runtime.skia.android.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia.Android",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.foundation.runtime.webassembly.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.Foundation.Runtime.WebAssembly",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.winui.skia.linux.framebuffer.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.WinUI.Skia.Linux.FrameBuffer",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.winui.runtime.skia.linux.framebuffer.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia.Linux.FrameBuffer",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.winui.skia.macos.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.WinUI.Skia.MacOS",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.winui.mediaplayer.skia.win32.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.WinUI.MediaPlayer.Skia.Win32",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.winui.graphics3dgl.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.WinUI.Graphics3DGL",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/ximage.barcodegenerator.source.vb.leitcode.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.Leitcode",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/ximage.barcodegenerator.source.vb.pdf417.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.PDF417",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.winui.devserver.messaging.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.WinUI.DevServer.Messaging",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.winui.lottie.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.WinUI.Lottie",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.winui.skia.x11.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.WinUI.Skia.X11",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.winui.webview.skia.x11.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.WinUI.WebView.Skia.X11",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.winui.runtime.skia.win32.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia.Win32",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/ximage.barcodegenerator.source.vb.micro.qrcode.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.Micro.QRCode",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.winui.foldable.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.WinUI.Foldable",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.winui.runtime.skia.x11.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia.X11",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.09.17/uno.winui.webassembly.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e2867322-bc53-4069-bc0b-dce8ce1bfbb3",
+      "commitTimeStamp": "2025-11-04T04:09:17.7991282Z",
+      "nuget:id": "Uno.WinUI.WebAssembly",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.38/uno.winui.msal.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9587204a-50c0-4e9b-98bb-f4ac6390875c",
+      "commitTimeStamp": "2025-11-04T04:08:38.9858967Z",
+      "nuget:id": "Uno.WinUI.MSAL",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.38/ximage.barcodegenerator.source.vb.itf14.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9587204a-50c0-4e9b-98bb-f4ac6390875c",
+      "commitTimeStamp": "2025-11-04T04:08:38.9858967Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.ITF14",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.38/ximage.barcodegenerator.source.vb.identcode.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9587204a-50c0-4e9b-98bb-f4ac6390875c",
+      "commitTimeStamp": "2025-11-04T04:08:38.9858967Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.Identcode",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.38/uno.winui.runtime.skia.macos.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9587204a-50c0-4e9b-98bb-f4ac6390875c",
+      "commitTimeStamp": "2025-11-04T04:08:38.9858967Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia.MacOS",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.38/uno.winui.googleplay.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9587204a-50c0-4e9b-98bb-f4ac6390875c",
+      "commitTimeStamp": "2025-11-04T04:08:38.9858967Z",
+      "nuget:id": "Uno.WinUI.GooglePlay",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.38/uno.winui.runtime.skia.appleuikit.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9587204a-50c0-4e9b-98bb-f4ac6390875c",
+      "commitTimeStamp": "2025-11-04T04:08:38.9858967Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia.AppleUIKit",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.38/uno.foundation.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9587204a-50c0-4e9b-98bb-f4ac6390875c",
+      "commitTimeStamp": "2025-11-04T04:08:38.9858967Z",
+      "nuget:id": "Uno.Foundation",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.38/ximage.barcodegenerator.source.vb.issn.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9587204a-50c0-4e9b-98bb-f4ac6390875c",
+      "commitTimeStamp": "2025-11-04T04:08:38.9858967Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.ISSN",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.38/ximage.barcodegenerator.source.vb.intelligentmail.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9587204a-50c0-4e9b-98bb-f4ac6390875c",
+      "commitTimeStamp": "2025-11-04T04:08:38.9858967Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.IntelligentMail",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.38/uno.winui.graphics2dsk.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9587204a-50c0-4e9b-98bb-f4ac6390875c",
+      "commitTimeStamp": "2025-11-04T04:08:38.9858967Z",
+      "nuget:id": "Uno.WinUI.Graphics2DSK",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.38/ximage.barcodegenerator.source.vb.micro.pdf417.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9587204a-50c0-4e9b-98bb-f4ac6390875c",
+      "commitTimeStamp": "2025-11-04T04:08:38.9858967Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.Micro.PDF417",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.38/xamarin.documentreader.api.android.8.4.283-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9587204a-50c0-4e9b-98bb-f4ac6390875c",
+      "commitTimeStamp": "2025-11-04T04:08:38.9858967Z",
+      "nuget:id": "Xamarin.DocumentReader.Api.Android",
+      "nuget:version": "8.4.283-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.38/uno.sdk.private.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9587204a-50c0-4e9b-98bb-f4ac6390875c",
+      "commitTimeStamp": "2025-11-04T04:08:38.9858967Z",
+      "nuget:id": "Uno.Sdk.Private",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.38/uno.winui.runtime.skia.webassembly.browser.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9587204a-50c0-4e9b-98bb-f4ac6390875c",
+      "commitTimeStamp": "2025-11-04T04:08:38.9858967Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia.WebAssembly.Browser",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.38/uno.devserver.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9587204a-50c0-4e9b-98bb-f4ac6390875c",
+      "commitTimeStamp": "2025-11-04T04:08:38.9858967Z",
+      "nuget:id": "Uno.DevServer",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.02/uno.ui.adapter.microsoft.extensions.logging.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a25c073-01d1-4841-a8b0-bec6d5903f93",
+      "commitTimeStamp": "2025-11-04T04:08:02.1263847Z",
+      "nuget:id": "Uno.UI.Adapter.Microsoft.Extensions.Logging",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.02/xamarin.regulacommon.ios.8.4.1627-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a25c073-01d1-4841-a8b0-bec6d5903f93",
+      "commitTimeStamp": "2025-11-04T04:08:02.1263847Z",
+      "nuget:id": "Xamarin.RegulaCommon.iOS",
+      "nuget:version": "8.4.1627-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.02/dknet.svc.transformation.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a25c073-01d1-4841-a8b0-bec6d5903f93",
+      "commitTimeStamp": "2025-11-04T04:08:02.1263847Z",
+      "nuget:id": "DKNet.Svc.Transformation",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.02/uno.foundation.logging.6.4.0-dev.350.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a25c073-01d1-4841-a8b0-bec6d5903f93",
+      "commitTimeStamp": "2025-11-04T04:08:02.1263847Z",
+      "nuget:id": "Uno.Foundation.Logging",
+      "nuget:version": "6.4.0-dev.350"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.02/ximage.barcodegenerator.source.vb.interleaved2of5.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a25c073-01d1-4841-a8b0-bec6d5903f93",
+      "commitTimeStamp": "2025-11-04T04:08:02.1263847Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.Interleaved2of5",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.02/ximage.barcodegenerator.source.vb.isbn.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a25c073-01d1-4841-a8b0-bec6d5903f93",
+      "commitTimeStamp": "2025-11-04T04:08:02.1263847Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.ISBN",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.02/ximage.barcodegenerator.source.vb.gs1.databar.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a25c073-01d1-4841-a8b0-bec6d5903f93",
+      "commitTimeStamp": "2025-11-04T04:08:02.1263847Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.GS1.DataBar",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.08.02/emailhippo.assess.api.client.1.1.404.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a25c073-01d1-4841-a8b0-bec6d5903f93",
+      "commitTimeStamp": "2025-11-04T04:08:02.1263847Z",
+      "nuget:id": "EmailHippo.Assess.Api.Client",
+      "nuget:version": "1.1.404"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.07.08/ximage.barcodegenerator.source.vb.ean8.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823c59fd-d485-4913-9f89-e869d7fd2078",
+      "commitTimeStamp": "2025-11-04T04:07:08.5664712Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.EAN8",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.07.08/ximage.barcodegenerator.source.vb.code11.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823c59fd-d485-4913-9f89-e869d7fd2078",
+      "commitTimeStamp": "2025-11-04T04:07:08.5664712Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.Code11",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.07.08/xamarin.documentreader.core.rfid.android.8.4.1147-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823c59fd-d485-4913-9f89-e869d7fd2078",
+      "commitTimeStamp": "2025-11-04T04:07:08.5664712Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.RFID.Android",
+      "nuget:version": "8.4.1147-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.07.08/ximage.barcodegenerator.source.vb.ean13.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823c59fd-d485-4913-9f89-e869d7fd2078",
+      "commitTimeStamp": "2025-11-04T04:07:08.5664712Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.EAN13",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.07.08/ximage.barcodegenerator.source.vb.gs1.128.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823c59fd-d485-4913-9f89-e869d7fd2078",
+      "commitTimeStamp": "2025-11-04T04:07:08.5664712Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.GS1.128",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.06.25/ximage.barcodegenerator.source.vb.code128.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "76df6c35-5b81-4156-917e-2bfc50071332",
+      "commitTimeStamp": "2025-11-04T04:06:25.1247463Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.Code128",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.06.25/ximage.barcodegenerator.source.vb.code39.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "76df6c35-5b81-4156-917e-2bfc50071332",
+      "commitTimeStamp": "2025-11-04T04:06:25.1247463Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.Code39",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.06.25/ximage.barcodegenerator.source.vb.datamatrix.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "76df6c35-5b81-4156-917e-2bfc50071332",
+      "commitTimeStamp": "2025-11-04T04:06:25.1247463Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.DataMatrix",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.06.25/xamarin.documentreader.core.ocrandmrzrfid.android.8.4.1146-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "76df6c35-5b81-4156-917e-2bfc50071332",
+      "commitTimeStamp": "2025-11-04T04:06:25.1247463Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.OcrAndMrzRfid.Android",
+      "nuget:version": "8.4.1146-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.06.25/xamarin.documentreader.core.mrzrfid.ios.8.4.1144-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "76df6c35-5b81-4156-917e-2bfc50071332",
+      "commitTimeStamp": "2025-11-04T04:06:25.1247463Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.MRZRFID.iOS",
+      "nuget:version": "8.4.1144-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.06.25/ximage.barcodegenerator.source.planet.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "76df6c35-5b81-4156-917e-2bfc50071332",
+      "commitTimeStamp": "2025-11-04T04:06:25.1247463Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.PLANET",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.06.25/xamarin.documentreader.core.ocrandmrzrfid.ios.8.4.1146-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "76df6c35-5b81-4156-917e-2bfc50071332",
+      "commitTimeStamp": "2025-11-04T04:06:25.1247463Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.OcrAndMrzRfid.iOS",
+      "nuget:version": "8.4.1146-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.05.36/ximage.barcodegenerator.source.share.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bbd45e8-3db8-48f5-bb39-cf35c2b0f51c",
+      "commitTimeStamp": "2025-11-04T04:05:36.4638253Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.Share",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.05.36/ximage.barcodegenerator.source.upce.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bbd45e8-3db8-48f5-bb39-cf35c2b0f51c",
+      "commitTimeStamp": "2025-11-04T04:05:36.4638253Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.UPCE",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.05.36/xamarin.documentreader.core.rfid.ios.8.4.1147-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bbd45e8-3db8-48f5-bb39-cf35c2b0f51c",
+      "commitTimeStamp": "2025-11-04T04:05:36.4638253Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.RFID.iOS",
+      "nuget:version": "8.4.1147-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.05.36/pulumi.sdwan.0.5.1-alpha.1762228200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bbd45e8-3db8-48f5-bb39-cf35c2b0f51c",
+      "commitTimeStamp": "2025-11-04T04:05:36.4638253Z",
+      "nuget:id": "Pulumi.Sdwan",
+      "nuget:version": "0.5.1-alpha.1762228200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.05.36/ximage.barcodegenerator.source.upca.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bbd45e8-3db8-48f5-bb39-cf35c2b0f51c",
+      "commitTimeStamp": "2025-11-04T04:05:36.4638253Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.UPCA",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.05.36/ximage.barcodegenerator.source.vb.codabar.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bbd45e8-3db8-48f5-bb39-cf35c2b0f51c",
+      "commitTimeStamp": "2025-11-04T04:05:36.4638253Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.VB.Codabar",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.05.36/ximage.barcodegenerator.source.qrcode.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bbd45e8-3db8-48f5-bb39-cf35c2b0f51c",
+      "commitTimeStamp": "2025-11-04T04:05:36.4638253Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.QRCode",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.05.36/ximage.barcodegenerator.source.rm4scc.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bbd45e8-3db8-48f5-bb39-cf35c2b0f51c",
+      "commitTimeStamp": "2025-11-04T04:05:36.4638253Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.RM4SCC",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.04.44/xamarin.documentreader.core.ocrandmrz.android.8.4.1145-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2afeb239-1f61-49a8-a32d-a4f40af1f32e",
+      "commitTimeStamp": "2025-11-04T04:04:44.509708Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.OcrAndMRZ.Android",
+      "nuget:version": "8.4.1145-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.04.44/ximage.barcodegenerator.source.micro.pdf417.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2afeb239-1f61-49a8-a32d-a4f40af1f32e",
+      "commitTimeStamp": "2025-11-04T04:04:44.509708Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.Micro.PDF417",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.04.44/ximage.barcodegenerator.source.postnet.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2afeb239-1f61-49a8-a32d-a4f40af1f32e",
+      "commitTimeStamp": "2025-11-04T04:04:44.509708Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.POSTNET",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.04.44/ximage.barcodegenerator.source.pdf417.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2afeb239-1f61-49a8-a32d-a4f40af1f32e",
+      "commitTimeStamp": "2025-11-04T04:04:44.509708Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.PDF417",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.04.44/ximage.barcodegenerator.source.itf14.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2afeb239-1f61-49a8-a32d-a4f40af1f32e",
+      "commitTimeStamp": "2025-11-04T04:04:44.509708Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.ITF14",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.04.44/ximage.barcodegenerator.source.msi.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2afeb239-1f61-49a8-a32d-a4f40af1f32e",
+      "commitTimeStamp": "2025-11-04T04:04:44.509708Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.MSI",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.04.44/xamarin.documentreader.core.ocrandmrz.ios.8.4.1145-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2afeb239-1f61-49a8-a32d-a4f40af1f32e",
+      "commitTimeStamp": "2025-11-04T04:04:44.509708Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.OcrAndMRZ.iOS",
+      "nuget:version": "8.4.1145-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.03.55/ximage.barcodegenerator.source.leitcode.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6733bc87-fd06-40b5-a3aa-e296dfd59737",
+      "commitTimeStamp": "2025-11-04T04:03:55.6489694Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.Leitcode",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.03.55/ximage.barcodegenerator.source.micro.qrcode.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6733bc87-fd06-40b5-a3aa-e296dfd59737",
+      "commitTimeStamp": "2025-11-04T04:03:55.6489694Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.Micro.QRCode",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.03.55/ximage.barcodegenerator.source.interleaved2of5.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6733bc87-fd06-40b5-a3aa-e296dfd59737",
+      "commitTimeStamp": "2025-11-04T04:03:55.6489694Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.Interleaved2of5",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.03.55/ximage.barcodegenerator.source.isbn.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6733bc87-fd06-40b5-a3aa-e296dfd59737",
+      "commitTimeStamp": "2025-11-04T04:03:55.6489694Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.ISBN",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.03.20/oakideas.omens.0.1.0.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f171dfb-1e12-4c88-a951-7b85adfac8fa",
+      "commitTimeStamp": "2025-11-04T04:03:20.1161907Z",
+      "nuget:id": "OakIdeas.Omens",
+      "nuget:version": "0.1.0.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.03.20/xamarin.documentreader.core.mrzrfid.android.8.4.1144-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f171dfb-1e12-4c88-a951-7b85adfac8fa",
+      "commitTimeStamp": "2025-11-04T04:03:20.1161907Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.MRZRFID.Android",
+      "nuget:version": "8.4.1144-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.03.20/ximage.barcodegenerator.source.ean13.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f171dfb-1e12-4c88-a951-7b85adfac8fa",
+      "commitTimeStamp": "2025-11-04T04:03:20.1161907Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.EAN13",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.03.20/ximage.barcodegenerator.source.issn.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f171dfb-1e12-4c88-a951-7b85adfac8fa",
+      "commitTimeStamp": "2025-11-04T04:03:20.1161907Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.ISSN",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.03.20/dknet.svc.blobstorage.azurestorage.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f171dfb-1e12-4c88-a951-7b85adfac8fa",
+      "commitTimeStamp": "2025-11-04T04:03:20.1161907Z",
+      "nuget:id": "DKNet.Svc.BlobStorage.AzureStorage",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.03.20/ximage.barcodegenerator.source.gs1.128.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f171dfb-1e12-4c88-a951-7b85adfac8fa",
+      "commitTimeStamp": "2025-11-04T04:03:20.1161907Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.GS1.128",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.03.20/dknet.efcore.repos.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f171dfb-1e12-4c88-a951-7b85adfac8fa",
+      "commitTimeStamp": "2025-11-04T04:03:20.1161907Z",
+      "nuget:id": "DKNet.EfCore.Repos",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.03.20/ximage.barcodegenerator.source.intelligentmail.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f171dfb-1e12-4c88-a951-7b85adfac8fa",
+      "commitTimeStamp": "2025-11-04T04:03:20.1161907Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.IntelligentMail",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.02.38/dknet.fw.extensions.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "29728c2b-f08e-410f-872d-16f8fea4a36b",
+      "commitTimeStamp": "2025-11-04T04:02:38.3407392Z",
+      "nuget:id": "DKNet.Fw.Extensions",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.02.38/dknet.efcore.specifications.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "29728c2b-f08e-410f-872d-16f8fea4a36b",
+      "commitTimeStamp": "2025-11-04T04:02:38.3407392Z",
+      "nuget:id": "DKNet.EfCore.Specifications",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.02.38/ximage.barcodegenerator.source.code39.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "29728c2b-f08e-410f-872d-16f8fea4a36b",
+      "commitTimeStamp": "2025-11-04T04:02:38.3407392Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.Code39",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.02.38/dknet.svc.blobstorage.awss3.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "29728c2b-f08e-410f-872d-16f8fea4a36b",
+      "commitTimeStamp": "2025-11-04T04:02:38.3407392Z",
+      "nuget:id": "DKNet.Svc.BlobStorage.AwsS3",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.02.38/ximage.barcodegenerator.source.identcode.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "29728c2b-f08e-410f-872d-16f8fea4a36b",
+      "commitTimeStamp": "2025-11-04T04:02:38.3407392Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.Identcode",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.02.38/dknet.efcore.dataauthorization.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "29728c2b-f08e-410f-872d-16f8fea4a36b",
+      "commitTimeStamp": "2025-11-04T04:02:38.3407392Z",
+      "nuget:id": "DKNet.EfCore.DataAuthorization",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.02.38/dknet.efcore.events.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "29728c2b-f08e-410f-872d-16f8fea4a36b",
+      "commitTimeStamp": "2025-11-04T04:02:38.3407392Z",
+      "nuget:id": "DKNet.EfCore.Events",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.02.38/dknet.svc.blobstorage.local.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "29728c2b-f08e-410f-872d-16f8fea4a36b",
+      "commitTimeStamp": "2025-11-04T04:02:38.3407392Z",
+      "nuget:id": "DKNet.Svc.BlobStorage.Local",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.02.38/dknet.randomcreator.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "29728c2b-f08e-410f-872d-16f8fea4a36b",
+      "commitTimeStamp": "2025-11-04T04:02:38.3407392Z",
+      "nuget:id": "DKNet.RandomCreator",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.02.38/ximage.barcodegenerator.source.code2of5.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "29728c2b-f08e-410f-872d-16f8fea4a36b",
+      "commitTimeStamp": "2025-11-04T04:02:38.3407392Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.Code2of5",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.02.38/dknet.efcore.dtogenerator.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "29728c2b-f08e-410f-872d-16f8fea4a36b",
+      "commitTimeStamp": "2025-11-04T04:02:38.3407392Z",
+      "nuget:id": "DKNet.EfCore.DtoGenerator",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.02.38/dknet.svc.encryption.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "29728c2b-f08e-410f-872d-16f8fea4a36b",
+      "commitTimeStamp": "2025-11-04T04:02:38.3407392Z",
+      "nuget:id": "DKNet.Svc.Encryption",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.02.38/dknet.efcore.auditlogs.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "29728c2b-f08e-410f-872d-16f8fea4a36b",
+      "commitTimeStamp": "2025-11-04T04:02:38.3407392Z",
+      "nuget:id": "DKNet.EfCore.AuditLogs",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.02.38/ximage.barcodegenerator.source.datamatrix.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "29728c2b-f08e-410f-872d-16f8fea4a36b",
+      "commitTimeStamp": "2025-11-04T04:02:38.3407392Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.DataMatrix",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.56/dknet.efcore.hooks.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b576aca6-c1d6-4911-8bdd-061a4aa40640",
+      "commitTimeStamp": "2025-11-04T04:01:56.370885Z",
+      "nuget:id": "DKNet.EfCore.Hooks",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.56/ximage.barcodegenerator.source.code11.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b576aca6-c1d6-4911-8bdd-061a4aa40640",
+      "commitTimeStamp": "2025-11-04T04:01:56.370885Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.Code11",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.56/dknet.efcore.repos.abstractions.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b576aca6-c1d6-4911-8bdd-061a4aa40640",
+      "commitTimeStamp": "2025-11-04T04:01:56.370885Z",
+      "nuget:id": "DKNet.EfCore.Repos.Abstractions",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.56/dknet.svc.pdfgenerators.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b576aca6-c1d6-4911-8bdd-061a4aa40640",
+      "commitTimeStamp": "2025-11-04T04:01:56.370885Z",
+      "nuget:id": "DKNet.Svc.PdfGenerators",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.56/dknet.efcore.relational.helpers.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b576aca6-c1d6-4911-8bdd-061a4aa40640",
+      "commitTimeStamp": "2025-11-04T04:01:56.370885Z",
+      "nuget:id": "DKNet.EfCore.Relational.Helpers",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.56/dknet.svc.blobstorage.abstractions.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b576aca6-c1d6-4911-8bdd-061a4aa40640",
+      "commitTimeStamp": "2025-11-04T04:01:56.370885Z",
+      "nuget:id": "DKNet.Svc.BlobStorage.Abstractions",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.56/dknet.efcore.extensions.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b576aca6-c1d6-4911-8bdd-061a4aa40640",
+      "commitTimeStamp": "2025-11-04T04:01:56.370885Z",
+      "nuget:id": "DKNet.EfCore.Extensions",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.56/dknet.aspcore.tasks.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b576aca6-c1d6-4911-8bdd-061a4aa40640",
+      "commitTimeStamp": "2025-11-04T04:01:56.370885Z",
+      "nuget:id": "DKNet.AspCore.Tasks",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.56/ximage.barcodegenerator.source.code128.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b576aca6-c1d6-4911-8bdd-061a4aa40640",
+      "commitTimeStamp": "2025-11-04T04:01:56.370885Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.Code128",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.56/dknet.efcore.encryption.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b576aca6-c1d6-4911-8bdd-061a4aa40640",
+      "commitTimeStamp": "2025-11-04T04:01:56.370885Z",
+      "nuget:id": "DKNet.EfCore.Encryption",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.56/dknet.aspcore.slimbus.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b576aca6-c1d6-4911-8bdd-061a4aa40640",
+      "commitTimeStamp": "2025-11-04T04:01:56.370885Z",
+      "nuget:id": "DKNet.AspCore.SlimBus",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.56/dknet.efcore.abstractions.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b576aca6-c1d6-4911-8bdd-061a4aa40640",
+      "commitTimeStamp": "2025-11-04T04:01:56.370885Z",
+      "nuget:id": "DKNet.EfCore.Abstractions",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.56/akka.templates.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b576aca6-c1d6-4911-8bdd-061a4aa40640",
+      "commitTimeStamp": "2025-11-04T04:01:56.370885Z",
+      "nuget:id": "Akka.Templates",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.56/ximage.barcodegenerator.source.gs1.databar.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b576aca6-c1d6-4911-8bdd-061a4aa40640",
+      "commitTimeStamp": "2025-11-04T04:01:56.370885Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.GS1.DataBar",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.56/ximage.barcodegenerator.source.ean8.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b576aca6-c1d6-4911-8bdd-061a4aa40640",
+      "commitTimeStamp": "2025-11-04T04:01:56.370885Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.EAN8",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.19/xamarin.documentreader.core.mrz.ios.8.4.1143-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "450a5244-f380-4c52-bf9e-6de6eb08484b",
+      "commitTimeStamp": "2025-11-04T04:01:19.9262987Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.MRZ.iOS",
+      "nuget:version": "8.4.1143-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.19/xamarin.documentreader.core.mrz.android.8.4.1143-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "450a5244-f380-4c52-bf9e-6de6eb08484b",
+      "commitTimeStamp": "2025-11-04T04:01:19.9262987Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.MRZ.Android",
+      "nuget:version": "8.4.1143-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.19/dknet.slimbus.extensions.9.5.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "450a5244-f380-4c52-bf9e-6de6eb08484b",
+      "commitTimeStamp": "2025-11-04T04:01:19.9262987Z",
+      "nuget:id": "DKNet.SlimBus.Extensions",
+      "nuget:version": "9.5.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.19/ximage.barcodegenerator.framework.source.vb.pdf417.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "450a5244-f380-4c52-bf9e-6de6eb08484b",
+      "commitTimeStamp": "2025-11-04T04:01:19.9262987Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.VB.PDF417",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.19/ximage.barcodegenerator.source.codabar.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "450a5244-f380-4c52-bf9e-6de6eb08484b",
+      "commitTimeStamp": "2025-11-04T04:01:19.9262987Z",
+      "nuget:id": "XImage.BarcodeGenerator.Source.Codabar",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.19/ximage.barcodegenerator.framework.source.vb.upca.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "450a5244-f380-4c52-bf9e-6de6eb08484b",
+      "commitTimeStamp": "2025-11-04T04:01:19.9262987Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.VB.UPCA",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.19/xamarin.documentreader.core.fullauth.android.8.4.1142-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "450a5244-f380-4c52-bf9e-6de6eb08484b",
+      "commitTimeStamp": "2025-11-04T04:01:19.9262987Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.FullAuth.Android",
+      "nuget:version": "8.4.1142-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.19/ximage.barcodegenerator.framework.source.vb.upce.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "450a5244-f380-4c52-bf9e-6de6eb08484b",
+      "commitTimeStamp": "2025-11-04T04:01:19.9262987Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.VB.UPCE",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.19/ximage.barcodegenerator.framework.source.vb.itf14.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "450a5244-f380-4c52-bf9e-6de6eb08484b",
+      "commitTimeStamp": "2025-11-04T04:01:19.9262987Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.VB.ITF14",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.01.19/ximage.barcodegenerator.framework.source.vb.share.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "450a5244-f380-4c52-bf9e-6de6eb08484b",
+      "commitTimeStamp": "2025-11-04T04:01:19.9262987Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.VB.Share",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.00.39/ximage.barcodegenerator.framework.source.vb.qrcode.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "32cb060e-2fc6-4718-a85b-02f958535c32",
+      "commitTimeStamp": "2025-11-04T04:00:39.7761273Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.VB.QRCode",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.00.00/ximage.barcodegenerator.framework.source.vb.ean13.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dbcd8d12-3cf9-4571-9fdd-bf5dfcaaaa2e",
+      "commitTimeStamp": "2025-11-04T04:00:00.5346051Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.VB.EAN13",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.00.00/ximage.barcodegenerator.framework.source.vb.gs1.databar.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dbcd8d12-3cf9-4571-9fdd-bf5dfcaaaa2e",
+      "commitTimeStamp": "2025-11-04T04:00:00.5346051Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.VB.GS1.DataBar",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.00.00/xamarin.documentreader.core.fullauth.ios.8.4.1142-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dbcd8d12-3cf9-4571-9fdd-bf5dfcaaaa2e",
+      "commitTimeStamp": "2025-11-04T04:00:00.5346051Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.FullAuth.iOS",
+      "nuget:version": "8.4.1142-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.00.00/ximage.barcodegenerator.framework.source.vb.gs1.128.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dbcd8d12-3cf9-4571-9fdd-bf5dfcaaaa2e",
+      "commitTimeStamp": "2025-11-04T04:00:00.5346051Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.VB.GS1.128",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.04.00.00/ximage.barcodegenerator.framework.source.vb.ean8.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dbcd8d12-3cf9-4571-9fdd-bf5dfcaaaa2e",
+      "commitTimeStamp": "2025-11-04T04:00:00.5346051Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.VB.EAN8",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.59.24/ximage.barcodegenerator.framework.source.vb.datamatrix.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8b850b5e-7ec3-4421-96f0-482ff396ac43",
+      "commitTimeStamp": "2025-11-04T03:59:24.2050828Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.VB.DataMatrix",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.59.24/ximage.barcodegenerator.framework.source.vb.code128.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8b850b5e-7ec3-4421-96f0-482ff396ac43",
+      "commitTimeStamp": "2025-11-04T03:59:24.2050828Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.VB.Code128",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.58.47/ximage.barcodegenerator.framework.source.gs1.databar.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "739e2c4a-01d6-44b7-8b19-50aa29e61a88",
+      "commitTimeStamp": "2025-11-04T03:58:47.3168125Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.GS1.DataBar",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.58.47/ximage.barcodegenerator.framework.source.vb.code39.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "739e2c4a-01d6-44b7-8b19-50aa29e61a88",
+      "commitTimeStamp": "2025-11-04T03:58:47.3168125Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.VB.Code39",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.58.47/ximage.barcodegenerator.framework.source.upce.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "739e2c4a-01d6-44b7-8b19-50aa29e61a88",
+      "commitTimeStamp": "2025-11-04T03:58:47.3168125Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.UPCE",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.58.47/ximage.barcodegenerator.framework.source.share.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "739e2c4a-01d6-44b7-8b19-50aa29e61a88",
+      "commitTimeStamp": "2025-11-04T03:58:47.3168125Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.Share",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.58.12/ximage.barcodegenerator.framework.source.qrcode.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0985514c-bb05-4c77-93d5-2c1566e4399d",
+      "commitTimeStamp": "2025-11-04T03:58:12.7588482Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.QRCode",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.58.12/ximage.barcodegenerator.framework.source.gs1.128.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0985514c-bb05-4c77-93d5-2c1566e4399d",
+      "commitTimeStamp": "2025-11-04T03:58:12.7588482Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.GS1.128",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.58.12/ximage.barcodegenerator.framework.source.upca.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0985514c-bb05-4c77-93d5-2c1566e4399d",
+      "commitTimeStamp": "2025-11-04T03:58:12.7588482Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.UPCA",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.58.12/ximage.barcodegenerator.framework.source.pdf417.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0985514c-bb05-4c77-93d5-2c1566e4399d",
+      "commitTimeStamp": "2025-11-04T03:58:12.7588482Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.PDF417",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.57.36/ximage.barcodegenerator.framework.source.datamatrix.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdbc2c43-60ff-4ed1-96b2-496a432298fa",
+      "commitTimeStamp": "2025-11-04T03:57:36.8944694Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.DataMatrix",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.57.36/ximage.barcodegenerator.framework.source.itf14.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdbc2c43-60ff-4ed1-96b2-496a432298fa",
+      "commitTimeStamp": "2025-11-04T03:57:36.8944694Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.ITF14",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.57.00/xamarin.documentreader.core.full.android.8.4.1141-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "40fe924d-0dc0-4bd2-b97f-e19eb51cc54c",
+      "commitTimeStamp": "2025-11-04T03:57:00.8397259Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.Full.Android",
+      "nuget:version": "8.4.1141-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.57.00/ximage.barcode.12.3.5.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "40fe924d-0dc0-4bd2-b97f-e19eb51cc54c",
+      "commitTimeStamp": "2025-11-04T03:57:00.8397259Z",
+      "nuget:id": "XImage.Barcode",
+      "nuget:version": "12.3.5.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.57.00/ximage.barcodegenerator.framework.source.code39.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "40fe924d-0dc0-4bd2-b97f-e19eb51cc54c",
+      "commitTimeStamp": "2025-11-04T03:57:00.8397259Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.Code39",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.57.00/ximage.barcodegenerator.framework.source.ean13.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "40fe924d-0dc0-4bd2-b97f-e19eb51cc54c",
+      "commitTimeStamp": "2025-11-04T03:57:00.8397259Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.EAN13",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.57.00/ximage.barcodegenerator.framework.source.ean8.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "40fe924d-0dc0-4bd2-b97f-e19eb51cc54c",
+      "commitTimeStamp": "2025-11-04T03:57:00.8397259Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.EAN8",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.57.00/xdoc.tiff.wpf.12.3.5.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "40fe924d-0dc0-4bd2-b97f-e19eb51cc54c",
+      "commitTimeStamp": "2025-11-04T03:57:00.8397259Z",
+      "nuget:id": "XDoc.TIFF.WPF",
+      "nuget:version": "12.3.5.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.56.25/xamarin.documentreader.core.full.ios.8.4.1141-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46d24501-fc34-40f7-a615-827039c8f106",
+      "commitTimeStamp": "2025-11-04T03:56:25.5416166Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.Full.iOS",
+      "nuget:version": "8.4.1141-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.56.25/xdoc.tiff.winforms.12.3.5.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46d24501-fc34-40f7-a615-827039c8f106",
+      "commitTimeStamp": "2025-11-04T03:56:25.5416166Z",
+      "nuget:id": "XDoc.TIFF.WinForms",
+      "nuget:version": "12.3.5.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.56.25/xdoc.tiff.blazor.12.3.5.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46d24501-fc34-40f7-a615-827039c8f106",
+      "commitTimeStamp": "2025-11-04T03:56:25.5416166Z",
+      "nuget:id": "XDoc.TIFF.Blazor",
+      "nuget:version": "12.3.5.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.56.25/xdoc.tiff.ocr.12.3.5.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46d24501-fc34-40f7-a615-827039c8f106",
+      "commitTimeStamp": "2025-11-04T03:56:25.5416166Z",
+      "nuget:id": "XDoc.TIFF.OCR",
+      "nuget:version": "12.3.5.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.56.25/ximage.barcodegenerator.framework.source.code128.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46d24501-fc34-40f7-a615-827039c8f106",
+      "commitTimeStamp": "2025-11-04T03:56:25.5416166Z",
+      "nuget:id": "XImage.BarcodeGenerator.Framework.Source.Code128",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.55.49/xdoc.tiff.aspnet.12.3.5.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6e3b1f62-b27c-4b4e-a2de-11fcfed88f9e",
+      "commitTimeStamp": "2025-11-04T03:55:49.7955446Z",
+      "nuget:id": "XDoc.TIFF.AspNet",
+      "nuget:version": "12.3.5.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.55.49/xdoc.tiff.aspnet.mvc.12.3.5.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6e3b1f62-b27c-4b4e-a2de-11fcfed88f9e",
+      "commitTimeStamp": "2025-11-04T03:55:49.7955446Z",
+      "nuget:id": "XDoc.TIFF.AspNet.Mvc",
+      "nuget:version": "12.3.5.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.55.14/xdoc.pdf.source.vb.ocr.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14bf2a27-7bdf-4440-aa09-a727de15ce7f",
+      "commitTimeStamp": "2025-11-04T03:55:14.6175069Z",
+      "nuget:id": "XDoc.PDF.Source.VB.OCR",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.55.14/xdoc.pdf.source.vb.edit.text.search.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14bf2a27-7bdf-4440-aa09-a727de15ce7f",
+      "commitTimeStamp": "2025-11-04T03:55:14.6175069Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Text.Search",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.55.14/xdoc.pdf.source.vb.edit.text.replace.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14bf2a27-7bdf-4440-aa09-a727de15ce7f",
+      "commitTimeStamp": "2025-11-04T03:55:14.6175069Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Text.Replace",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.55.14/xdoc.pdf.source.vb.edit.watermark.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14bf2a27-7bdf-4440-aa09-a727de15ce7f",
+      "commitTimeStamp": "2025-11-04T03:55:14.6175069Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Watermark",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.55.14/xamarin.documentreader.core.doctype.android.8.4.1140-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14bf2a27-7bdf-4440-aa09-a727de15ce7f",
+      "commitTimeStamp": "2025-11-04T03:55:14.6175069Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.DocType.Android",
+      "nuget:version": "8.4.1140-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.54.34/xdoc.pdf.source.vb.edit.redact.page.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dedad458-d117-4c7e-8804-04e1b1456096",
+      "commitTimeStamp": "2025-11-04T03:54:34.3865478Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Redact.Page",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.54.34/xamarin.documentreader.core.doctype.ios.8.4.1140-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dedad458-d117-4c7e-8804-04e1b1456096",
+      "commitTimeStamp": "2025-11-04T03:54:34.3865478Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.DocType.iOS",
+      "nuget:version": "8.4.1140-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.54.34/xdoc.pdf.source.vb.edit.text.read.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dedad458-d117-4c7e-8804-04e1b1456096",
+      "commitTimeStamp": "2025-11-04T03:54:34.3865478Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Text.Read",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.54.34/xdoc.pdf.source.vb.edit.text.remove.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dedad458-d117-4c7e-8804-04e1b1456096",
+      "commitTimeStamp": "2025-11-04T03:54:34.3865478Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Text.Remove",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.53.56/xdoc.pdf.source.vb.edit.page.thumbnail.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e817d908-222c-4e29-9e50-1845c248f73a",
+      "commitTimeStamp": "2025-11-04T03:53:56.3537491Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Page.Thumbnail",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.53.56/xdoc.pdf.source.vb.edit.password.open.file.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e817d908-222c-4e29-9e50-1845c248f73a",
+      "commitTimeStamp": "2025-11-04T03:53:56.3537491Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Password.Open.File",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.53.56/xdoc.pdf.source.vb.edit.redact.text.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e817d908-222c-4e29-9e50-1845c248f73a",
+      "commitTimeStamp": "2025-11-04T03:53:56.3537491Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Redact.Text",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.53.56/xdoc.pdf.source.vb.edit.password.file.permission.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e817d908-222c-4e29-9e50-1845c248f73a",
+      "commitTimeStamp": "2025-11-04T03:53:56.3537491Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Password.File.Permission",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.53.56/xdoc.pdf.source.vb.edit.redact.image.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e817d908-222c-4e29-9e50-1845c248f73a",
+      "commitTimeStamp": "2025-11-04T03:53:56.3537491Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Redact.Image",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.53.56/xdoc.pdf.source.vb.edit.text.add.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e817d908-222c-4e29-9e50-1845c248f73a",
+      "commitTimeStamp": "2025-11-04T03:53:56.3537491Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Text.Add",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.53.16/xamarin.documentreader.core.bounds.android.8.4.1139-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82a02ca1-7649-4cd0-a323-6d50ca20050e",
+      "commitTimeStamp": "2025-11-04T03:53:16.8607124Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.Bounds.Android",
+      "nuget:version": "8.4.1139-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.53.16/xdoc.pdf.source.vb.edit.printing.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82a02ca1-7649-4cd0-a323-6d50ca20050e",
+      "commitTimeStamp": "2025-11-04T03:53:16.8607124Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Printing",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.52.40/xdoc.pdf.source.vb.edit.page.reposition.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbbd10a1-c93f-4e08-ac26-608a5bb4c68f",
+      "commitTimeStamp": "2025-11-04T03:52:40.3737043Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Page.Reposition",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.52.40/xdoc.pdf.source.vb.edit.page.extract.copy.paste.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbbd10a1-c93f-4e08-ac26-608a5bb4c68f",
+      "commitTimeStamp": "2025-11-04T03:52:40.3737043Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Page.Extract.Copy.Paste",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.52.40/xdoc.pdf.source.vb.edit.page.replace.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbbd10a1-c93f-4e08-ac26-608a5bb4c68f",
+      "commitTimeStamp": "2025-11-04T03:52:40.3737043Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Page.Replace",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.52.40/xamarin.documentreader.core.bounds.ios.8.4.1139-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbbd10a1-c93f-4e08-ac26-608a5bb4c68f",
+      "commitTimeStamp": "2025-11-04T03:52:40.3737043Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.Bounds.iOS",
+      "nuget:version": "8.4.1139-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.52.40/z.dp.tb.1.0.18.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbbd10a1-c93f-4e08-ac26-608a5bb4c68f",
+      "commitTimeStamp": "2025-11-04T03:52:40.3737043Z",
+      "nuget:id": "Z.Dp.Tb",
+      "nuget:version": "1.0.18"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.52.40/xdoc.pdf.source.vb.edit.page.rotate.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbbd10a1-c93f-4e08-ac26-608a5bb4c68f",
+      "commitTimeStamp": "2025-11-04T03:52:40.3737043Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Page.Rotate",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.52.40/xdoc.pdf.source.vb.edit.page.size.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbbd10a1-c93f-4e08-ac26-608a5bb4c68f",
+      "commitTimeStamp": "2025-11-04T03:52:40.3737043Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Page.Size",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.52.40/zakmgstrapi.1.0.58.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbbd10a1-c93f-4e08-ac26-608a5bb4c68f",
+      "commitTimeStamp": "2025-11-04T03:52:40.3737043Z",
+      "nuget:id": "ZakmGSTRAPI",
+      "nuget:version": "1.0.58"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.52.02/xdoc.pdf.source.vb.edit.page.number.count.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9da9f837-2d62-4700-9c7b-52c4373dc29f",
+      "commitTimeStamp": "2025-11-04T03:52:02.292437Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Page.Number.Count",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.52.02/xdoc.pdf.source.vb.edit.page.background.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9da9f837-2d62-4700-9c7b-52c4373dc29f",
+      "commitTimeStamp": "2025-11-04T03:52:02.292437Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Page.Background",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.52.02/xamarin.documentreader.core.barcodemrzrfid.android.8.4.1138-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9da9f837-2d62-4700-9c7b-52c4373dc29f",
+      "commitTimeStamp": "2025-11-04T03:52:02.292437Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.BarcodeMRZRFID.Android",
+      "nuget:version": "8.4.1138-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.52.02/pulumi.newrelic.5.57.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9da9f837-2d62-4700-9c7b-52c4373dc29f",
+      "commitTimeStamp": "2025-11-04T03:52:02.292437Z",
+      "nuget:id": "Pulumi.NewRelic",
+      "nuget:version": "5.57.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.52.02/xdoc.pdf.source.vb.edit.page.header.footer.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9da9f837-2d62-4700-9c7b-52c4373dc29f",
+      "commitTimeStamp": "2025-11-04T03:52:02.292437Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Page.Header.Footer",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.52.02/xdoc.pdf.source.vb.edit.page.delete.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9da9f837-2d62-4700-9c7b-52c4373dc29f",
+      "commitTimeStamp": "2025-11-04T03:52:02.292437Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Page.Delete",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.51.25/xdoc.pdf.source.vb.edit.page.add.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d205e18-e0d5-4d6c-8e29-43cb0411a747",
+      "commitTimeStamp": "2025-11-04T03:51:25.7656654Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Page.Add",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.51.25/xdoc.pdf.source.vb.edit.page.crop.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d205e18-e0d5-4d6c-8e29-43cb0411a747",
+      "commitTimeStamp": "2025-11-04T03:51:25.7656654Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Page.Crop",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.51.25/xdoc.pdf.source.vb.edit.markup.text.callout.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d205e18-e0d5-4d6c-8e29-43cb0411a747",
+      "commitTimeStamp": "2025-11-04T03:51:25.7656654Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Markup.Text.Callout",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.51.25/xdoc.pdf.source.vb.edit.markup.text.comment.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d205e18-e0d5-4d6c-8e29-43cb0411a747",
+      "commitTimeStamp": "2025-11-04T03:51:25.7656654Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Markup.Text.Comment",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.50.47/xdoc.pdf.source.vb.edit.markup.sticky.note.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9a71e394-fa2c-4d3b-bed8-eb09872645a3",
+      "commitTimeStamp": "2025-11-04T03:50:47.6311577Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Markup.Sticky.Note",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.50.47/xdoc.pdf.source.vb.edit.markup.text.box.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9a71e394-fa2c-4d3b-bed8-eb09872645a3",
+      "commitTimeStamp": "2025-11-04T03:50:47.6311577Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Markup.Text.Box",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.50.47/xamarin.documentreader.core.barcodemrz.ios.8.4.1137-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9a71e394-fa2c-4d3b-bed8-eb09872645a3",
+      "commitTimeStamp": "2025-11-04T03:50:47.6311577Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.BarcodeMRZ.iOS",
+      "nuget:version": "8.4.1137-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.50.47/xdoc.pdf.source.vb.edit.metadata.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9a71e394-fa2c-4d3b-bed8-eb09872645a3",
+      "commitTimeStamp": "2025-11-04T03:50:47.6311577Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Metadata",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.50.07/xdoc.pdf.source.vb.edit.markup.stamp.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a6604be-5df7-4d58-bdcb-150bbdaa999e",
+      "commitTimeStamp": "2025-11-04T03:50:07.1182336Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Markup.Stamp",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.50.07/xdoc.pdf.source.vb.edit.image.remove.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a6604be-5df7-4d58-bdcb-150bbdaa999e",
+      "commitTimeStamp": "2025-11-04T03:50:07.1182336Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Image.Remove",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.50.07/xdoc.pdf.source.vb.edit.markup.read.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a6604be-5df7-4d58-bdcb-150bbdaa999e",
+      "commitTimeStamp": "2025-11-04T03:50:07.1182336Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Markup.Read",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.50.07/xdoc.pdf.source.vb.edit.markup.text.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a6604be-5df7-4d58-bdcb-150bbdaa999e",
+      "commitTimeStamp": "2025-11-04T03:50:07.1182336Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Markup.Text",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.50.07/xdoc.pdf.source.vb.edit.markup.path.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a6604be-5df7-4d58-bdcb-150bbdaa999e",
+      "commitTimeStamp": "2025-11-04T03:50:07.1182336Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Markup.Path",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.49.14/aidotnet.toon.0.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca82f1d1-aa49-4b1c-8142-b283d031adca",
+      "commitTimeStamp": "2025-11-04T03:49:14.7704782Z",
+      "nuget:id": "AIDotNet.Toon",
+      "nuget:version": "0.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.49.14/xdoc.pdf.source.vb.edit.markup.highlight.text.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca82f1d1-aa49-4b1c-8142-b283d031adca",
+      "commitTimeStamp": "2025-11-04T03:49:14.7704782Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Markup.Highlight.Text",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.49.14/xdoc.pdf.source.vb.edit.graph.rectangle.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca82f1d1-aa49-4b1c-8142-b283d031adca",
+      "commitTimeStamp": "2025-11-04T03:49:14.7704782Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Graph.Rectangle",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.49.14/xdoc.pdf.source.vb.edit.image.copy.paste.cut.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca82f1d1-aa49-4b1c-8142-b283d031adca",
+      "commitTimeStamp": "2025-11-04T03:49:14.7704782Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Image.Copy.Paste.Cut",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.49.14/xdoc.pdf.source.vb.edit.graph.ellipse.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca82f1d1-aa49-4b1c-8142-b283d031adca",
+      "commitTimeStamp": "2025-11-04T03:49:14.7704782Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Graph.Ellipse",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.49.14/xdoc.pdf.source.vb.edit.image.read.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca82f1d1-aa49-4b1c-8142-b283d031adca",
+      "commitTimeStamp": "2025-11-04T03:49:14.7704782Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Image.Read",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.49.14/xamarin.documentreader.core.barcodemrzrfid.ios.8.4.1138-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca82f1d1-aa49-4b1c-8142-b283d031adca",
+      "commitTimeStamp": "2025-11-04T03:49:14.7704782Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.BarcodeMRZRFID.iOS",
+      "nuget:version": "8.4.1138-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.49.14/xdoc.pdf.source.vb.edit.graph.star.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca82f1d1-aa49-4b1c-8142-b283d031adca",
+      "commitTimeStamp": "2025-11-04T03:49:14.7704782Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Graph.Star",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.49.14/xdoc.pdf.source.vb.edit.link.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca82f1d1-aa49-4b1c-8142-b283d031adca",
+      "commitTimeStamp": "2025-11-04T03:49:14.7704782Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Link",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.48.26/kemenkeu.utility.templates.1.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ba34d7fa-b5df-4104-98ac-eb9be4feae5a",
+      "commitTimeStamp": "2025-11-04T03:48:26.9986673Z",
+      "nuget:id": "Kemenkeu.Utility.Templates",
+      "nuget:version": "1.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.48.26/xdoc.pdf.source.vb.edit.graph.line.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ba34d7fa-b5df-4104-98ac-eb9be4feae5a",
+      "commitTimeStamp": "2025-11-04T03:48:26.9986673Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Graph.Line",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.48.26/mf.utility.1.0.51.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ba34d7fa-b5df-4104-98ac-eb9be4feae5a",
+      "commitTimeStamp": "2025-11-04T03:48:26.9986673Z",
+      "nuget:id": "MF.Utility",
+      "nuget:version": "1.0.51"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.48.26/xdoc.pdf.source.vb.edit.graph.curve.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ba34d7fa-b5df-4104-98ac-eb9be4feae5a",
+      "commitTimeStamp": "2025-11-04T03:48:26.9986673Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Graph.Curve",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.48.26/xdoc.pdf.source.vb.edit.image.add.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ba34d7fa-b5df-4104-98ac-eb9be4feae5a",
+      "commitTimeStamp": "2025-11-04T03:48:26.9986673Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Image.Add",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.48.26/xamarin.documentreader.core.barcodemrz.android.8.4.1137-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ba34d7fa-b5df-4104-98ac-eb9be4feae5a",
+      "commitTimeStamp": "2025-11-04T03:48:26.9986673Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.BarcodeMRZ.Android",
+      "nuget:version": "8.4.1137-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.47.40/xdoc.pdf.source.vb.create.pdf.from.word.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f256a328-a317-48b2-9344-7c91e2be728b",
+      "commitTimeStamp": "2025-11-04T03:47:40.9327378Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Create.PDF.From.Word",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.47.40/xdoc.pdf.source.vb.edit.document.format.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f256a328-a317-48b2-9344-7c91e2be728b",
+      "commitTimeStamp": "2025-11-04T03:47:40.9327378Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Document.Format",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.47.40/xdoc.pdf.source.vb.edit.document.merge.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f256a328-a317-48b2-9344-7c91e2be728b",
+      "commitTimeStamp": "2025-11-04T03:47:40.9327378Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Document.Merge",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.47.40/xdoc.pdf.source.vb.edit.file.attachment.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f256a328-a317-48b2-9344-7c91e2be728b",
+      "commitTimeStamp": "2025-11-04T03:47:40.9327378Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.File.Attachment",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.47.40/sw.0.0.13-gd0ad3b9bd7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f256a328-a317-48b2-9344-7c91e2be728b",
+      "commitTimeStamp": "2025-11-04T03:47:40.9327378Z",
+      "nuget:id": "sw",
+      "nuget:version": "0.0.13-gd0ad3b9bd7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.46.52/xdoc.pdf.source.vb.create.pdf.from.tiff.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a0822177-2655-415a-895d-04c353a528b6",
+      "commitTimeStamp": "2025-11-04T03:46:52.3694185Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Create.PDF.From.TIFF",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.46.52/xdoc.pdf.source.vb.edit.digital.signature.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a0822177-2655-415a-895d-04c353a528b6",
+      "commitTimeStamp": "2025-11-04T03:46:52.3694185Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Digital.Signature",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.46.52/xdoc.pdf.source.vb.edit.document.compress.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a0822177-2655-415a-895d-04c353a528b6",
+      "commitTimeStamp": "2025-11-04T03:46:52.3694185Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Document.Compress",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.46.52/xdoc.pdf.source.vb.edit.document.split.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a0822177-2655-415a-895d-04c353a528b6",
+      "commitTimeStamp": "2025-11-04T03:46:52.3694185Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Document.Split",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.46.13/xdoc.pdf.source.vb.edit.bookmark.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "64846074-aee3-45c8-b35d-4c661a1c0355",
+      "commitTimeStamp": "2025-11-04T03:46:13.7973211Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Edit.Bookmark",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.46.13/xdoc.pdf.source.vb.create.pdf.from.image.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "64846074-aee3-45c8-b35d-4c661a1c0355",
+      "commitTimeStamp": "2025-11-04T03:46:13.7973211Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Create.PDF.From.Image",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.46.13/xdoc.pdf.source.vb.create.pdf.from.text.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "64846074-aee3-45c8-b35d-4c661a1c0355",
+      "commitTimeStamp": "2025-11-04T03:46:13.7973211Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Create.PDF.From.Text",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.46.13/xdoc.pdf.source.vb.create.pdf.from.excel.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "64846074-aee3-45c8-b35d-4c661a1c0355",
+      "commitTimeStamp": "2025-11-04T03:46:13.7973211Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Create.PDF.From.Excel",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.46.13/xamarin.documentreader.core.barcode.android.8.4.1136-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "64846074-aee3-45c8-b35d-4c661a1c0355",
+      "commitTimeStamp": "2025-11-04T03:46:13.7973211Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.Barcode.Android",
+      "nuget:version": "8.4.1136-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.46.13/xdoc.pdf.source.vb.create.pdf.from.multiple.images.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "64846074-aee3-45c8-b35d-4c661a1c0355",
+      "commitTimeStamp": "2025-11-04T03:46:13.7973211Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Create.PDF.From.Multiple.Images",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.46.13/xdoc.pdf.source.vb.create.pdf.from.rtf.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "64846074-aee3-45c8-b35d-4c661a1c0355",
+      "commitTimeStamp": "2025-11-04T03:46:13.7973211Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Create.PDF.From.RTF",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.45.23/xamarin.documentreader.core.barcode.ios.8.4.1136-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59af9968-5941-4f4a-b92e-011324b27f8b",
+      "commitTimeStamp": "2025-11-04T03:45:23.532237Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.Barcode.iOS",
+      "nuget:version": "8.4.1136-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.45.23/xdoc.pdf.source.vb.create.pdf.from.powerpoint.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59af9968-5941-4f4a-b92e-011324b27f8b",
+      "commitTimeStamp": "2025-11-04T03:45:23.532237Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Create.PDF.From.PowerPoint",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.45.23/xdoc.pdf.source.vb.create.pdf.from.csv.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59af9968-5941-4f4a-b92e-011324b27f8b",
+      "commitTimeStamp": "2025-11-04T03:45:23.532237Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Create.PDF.From.CSV",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.45.23/xamarin.documentreader.core.fullrfid.android.8.4.1135-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59af9968-5941-4f4a-b92e-011324b27f8b",
+      "commitTimeStamp": "2025-11-04T03:45:23.532237Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.FullRFID.Android",
+      "nuget:version": "8.4.1135-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.45.23/xdoc.pdf.source.vb.converter.pdf2text.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59af9968-5941-4f4a-b92e-011324b27f8b",
+      "commitTimeStamp": "2025-11-04T03:45:23.532237Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Converter.PDF2Text",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.44.40/pulumi.newrelic.5.57.0-alpha.1762227275.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4fe09a7b-e9f7-430e-9984-19fb8a28a62a",
+      "commitTimeStamp": "2025-11-04T03:44:40.5732075Z",
+      "nuget:id": "Pulumi.NewRelic",
+      "nuget:version": "5.57.0-alpha.1762227275"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.44.40/uno.winui.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4fe09a7b-e9f7-430e-9984-19fb8a28a62a",
+      "commitTimeStamp": "2025-11-04T03:44:40.5732075Z",
+      "nuget:id": "Uno.WinUI",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.44.40/xdoc.pdf.source.vb.converter.pdf2tiff.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4fe09a7b-e9f7-430e-9984-19fb8a28a62a",
+      "commitTimeStamp": "2025-11-04T03:44:40.5732075Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Converter.PDF2TIFF",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.44.40/uno.winui.devserver.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4fe09a7b-e9f7-430e-9984-19fb8a28a62a",
+      "commitTimeStamp": "2025-11-04T03:44:40.5732075Z",
+      "nuget:id": "Uno.WinUI.DevServer",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.44.40/xdoc.pdf.source.vb.converter.pdf2word.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4fe09a7b-e9f7-430e-9984-19fb8a28a62a",
+      "commitTimeStamp": "2025-11-04T03:44:40.5732075Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Converter.PDF2Word",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.44.40/xdoc.pdf.source.vb.converter.pdf2svg.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4fe09a7b-e9f7-430e-9984-19fb8a28a62a",
+      "commitTimeStamp": "2025-11-04T03:44:40.5732075Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Converter.PDF2SVG",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.44.40/xdoc.pdf.source.vb.converter.pdf2png.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4fe09a7b-e9f7-430e-9984-19fb8a28a62a",
+      "commitTimeStamp": "2025-11-04T03:44:40.5732075Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Converter.PDF2PNG",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.44.40/xdoc.pdf.source.vb.builder.use.font.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4fe09a7b-e9f7-430e-9984-19fb8a28a62a",
+      "commitTimeStamp": "2025-11-04T03:44:40.5732075Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Builder.Use.Font",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.44.40/xdoc.pdf.source.vb.converter.pdf2image.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4fe09a7b-e9f7-430e-9984-19fb8a28a62a",
+      "commitTimeStamp": "2025-11-04T03:44:40.5732075Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Converter.PDF2Image",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.44.40/xdoc.pdf.source.vb.converter.pdf2jpeg.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4fe09a7b-e9f7-430e-9984-19fb8a28a62a",
+      "commitTimeStamp": "2025-11-04T03:44:40.5732075Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Converter.PDF2JPEG",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.55/xamarin.documentreader.core.fullrfid.ios.8.4.1135-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ee9e03c3-0d48-4517-83d6-b23431242f1a",
+      "commitTimeStamp": "2025-11-04T03:43:55.3541418Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.FullRFID.iOS",
+      "nuget:version": "8.4.1135-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.55/uno.winui.xamlhost.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ee9e03c3-0d48-4517-83d6-b23431242f1a",
+      "commitTimeStamp": "2025-11-04T03:43:55.3541418Z",
+      "nuget:id": "Uno.WinUI.XamlHost",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.55/uno.winui.runtime.skia.wpf.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ee9e03c3-0d48-4517-83d6-b23431242f1a",
+      "commitTimeStamp": "2025-11-04T03:43:55.3541418Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia.Wpf",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.55/xdoc.pdf.source.vb.converter.pdf2html.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ee9e03c3-0d48-4517-83d6-b23431242f1a",
+      "commitTimeStamp": "2025-11-04T03:43:55.3541418Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Converter.PDF2HTML",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.55/uno.winui.graphics2dsk.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ee9e03c3-0d48-4517-83d6-b23431242f1a",
+      "commitTimeStamp": "2025-11-04T03:43:55.3541418Z",
+      "nuget:id": "Uno.WinUI.Graphics2DSK",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.55/uno.winrt.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ee9e03c3-0d48-4517-83d6-b23431242f1a",
+      "commitTimeStamp": "2025-11-04T03:43:55.3541418Z",
+      "nuget:id": "Uno.WinRT",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.55/uno.winui.runtime.skia.macos.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ee9e03c3-0d48-4517-83d6-b23431242f1a",
+      "commitTimeStamp": "2025-11-04T03:43:55.3541418Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia.MacOS",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.55/uno.winui.mediaplayer.skia.x11.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ee9e03c3-0d48-4517-83d6-b23431242f1a",
+      "commitTimeStamp": "2025-11-04T03:43:55.3541418Z",
+      "nuget:id": "Uno.WinUI.MediaPlayer.Skia.X11",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.55/uno.winui.skia.linux.framebuffer.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ee9e03c3-0d48-4517-83d6-b23431242f1a",
+      "commitTimeStamp": "2025-11-04T03:43:55.3541418Z",
+      "nuget:id": "Uno.WinUI.Skia.Linux.FrameBuffer",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/miyamodbus.core.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "MiyaModbus.Core",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/uno.winui.skia.macos.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "Uno.WinUI.Skia.MacOS",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/uno.winui.webassembly.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "Uno.WinUI.WebAssembly",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/uno.winui.runtime.skia.android.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia.Android",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/uno.winui.skia.x11.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "Uno.WinUI.Skia.X11",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/xdoc.pdf.source.vb.builder.paragraph.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Builder.Paragraph",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/uno.winui.runtime.skia.win32.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia.Win32",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/uno.winui.webview.skia.x11.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "Uno.WinUI.WebView.Skia.X11",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/uno.winui.runtime.skia.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/uno.winui.svg.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "Uno.WinUI.Svg",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/uno.winui.mediaplayer.webassembly.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "Uno.WinUI.MediaPlayer.WebAssembly",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/uno.winui.runtime.skia.linux.framebuffer.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia.Linux.FrameBuffer",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/uno.winui.graphics3dgl.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "Uno.WinUI.Graphics3DGL",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/uno.winui.skia.wpf.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "Uno.WinUI.Skia.Wpf",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/xdoc.pdf.source.vb.converter.pdf2bitmap.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Converter.PDF2Bitmap",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/uno.winui.xamlhost.skia.wpf.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "Uno.WinUI.XamlHost.Skia.Wpf",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/uno.winui.msal.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "Uno.WinUI.MSAL",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/xdoc.pdf.source.vb.builder.header.footer.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Builder.Header.Footer",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/uno.winui.lottie.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "Uno.WinUI.Lottie",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.43.17/xdoc.pdf.source.vb.builder.text.list.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e50fbb73-d892-4d16-8511-d98d685c768e",
+      "commitTimeStamp": "2025-11-04T03:43:17.4669263Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Builder.Text.List",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/uno.foundation.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "Uno.Foundation",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/uno.winui.runtime.webassembly.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "Uno.WinUI.Runtime.WebAssembly",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/xamarin.regula.faceapi.android.7.2.348-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "Xamarin.Regula.FaceApi.Android",
+      "nuget:version": "7.2.348-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/uno.devserver.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "Uno.DevServer",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/uno.winui.runtime.skia.webassembly.browser.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia.WebAssembly.Browser",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/uno.winui.maps.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "Uno.WinUI.Maps",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/uno.winui.mediaplayer.skia.win32.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "Uno.WinUI.MediaPlayer.Skia.Win32",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/uno.winui.devserver.messaging.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "Uno.WinUI.DevServer.Messaging",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/tuic.2.2.80.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "Tuic",
+      "nuget:version": "2.2.80"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/uno.foundation.runtime.webassembly.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "Uno.Foundation.Runtime.WebAssembly",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/xdoc.pdf.source.vb.builder.image.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Builder.Image",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/uno.winui.runtime.skia.x11.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia.X11",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/xdoc.pdf.source.vb.builder.new.file.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Builder.New.File",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/xamarin.documentreader.core.fullauthrfid.android.8.4.1134-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.FullAuthRFID.Android",
+      "nuget:version": "8.4.1134-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/uno.winui.runtime.skia.appleuikit.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "Uno.WinUI.Runtime.Skia.AppleUIKit",
+      "nuget:version": "6.4.0-dev.349"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/xdoc.pdf.source.vb.builder.table.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Builder.Table",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/xdoc.pdf.source.vb.builder.form.field.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Builder.Form.Field",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/xdoc.pdf.source.vb.builder.footnote.endnote.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "XDoc.PDF.Source.VB.Builder.Footnote.Endnote",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.04.03.42.31/uno.winui.googleplay.6.4.0-dev.349.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c3ab36e-c420-4b1b-80d4-246d73e716bc",
+      "commitTimeStamp": "2025-11-04T03:42:31.6753778Z",
+      "nuget:id": "Uno.WinUI.GooglePlay",
+      "nuget:version": "6.4.0-dev.349"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
