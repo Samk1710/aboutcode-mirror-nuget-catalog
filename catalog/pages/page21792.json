@@ -1,0 +1,1617 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21792.json",
+  "@type": "CatalogPage",
+  "commitId": "805c67da-21e8-4046-aedb-0c5f7245c137",
+  "commitTimeStamp": "2025-11-06T03:29:27.5118143Z",
+  "count": 198,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.29.27/xtremeidiots.portal.integrations.servers.abstractions.v1.1.1.347.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "805c67da-21e8-4046-aedb-0c5f7245c137",
+      "commitTimeStamp": "2025-11-06T03:29:27.5118143Z",
+      "nuget:id": "XtremeIdiots.Portal.Integrations.Servers.Abstractions.V1",
+      "nuget:version": "1.1.347.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.29.27/xtremeidiots.portal.integrations.servers.api.client.v1.1.1.347.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "805c67da-21e8-4046-aedb-0c5f7245c137",
+      "commitTimeStamp": "2025-11-06T03:29:27.5118143Z",
+      "nuget:id": "XtremeIdiots.Portal.Integrations.Servers.Api.Client.V1",
+      "nuget:version": "1.1.347.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.29.27/xtremeidiots.invisioncommunity.1.1.129.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "805c67da-21e8-4046-aedb-0c5f7245c137",
+      "commitTimeStamp": "2025-11-06T03:29:27.5118143Z",
+      "nuget:id": "XtremeIdiots.InvisionCommunity",
+      "nuget:version": "1.1.129.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.29.27/ka.barcode.generator.word.itf14.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "805c67da-21e8-4046-aedb-0c5f7245c137",
+      "commitTimeStamp": "2025-11-06T03:29:27.5118143Z",
+      "nuget:id": "KA.Barcode.Generator.Word.ITF14.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.29.27/ka.barcode.generator.word.issn.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "805c67da-21e8-4046-aedb-0c5f7245c137",
+      "commitTimeStamp": "2025-11-06T03:29:27.5118143Z",
+      "nuget:id": "KA.Barcode.Generator.Word.ISSN",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.29.27/ka.barcode.generator.word.leitcode.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "805c67da-21e8-4046-aedb-0c5f7245c137",
+      "commitTimeStamp": "2025-11-06T03:29:27.5118143Z",
+      "nuget:id": "KA.Barcode.Generator.Word.LEITCODE.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.29.27/ka.barcode.generator.word.leitcode.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "805c67da-21e8-4046-aedb-0c5f7245c137",
+      "commitTimeStamp": "2025-11-06T03:29:27.5118143Z",
+      "nuget:id": "KA.Barcode.Generator.Word.LEITCODE",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.28.52/dh.ncode.4.14.2025.1106-beta0323.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7930cb8e-19cb-45a2-92db-6378c6636b89",
+      "commitTimeStamp": "2025-11-06T03:28:52.8146825Z",
+      "nuget:id": "DH.NCode",
+      "nuget:version": "4.14.2025.1106-beta0323"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.28.52/ka.barcode.generator.word.isbn.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7930cb8e-19cb-45a2-92db-6378c6636b89",
+      "commitTimeStamp": "2025-11-06T03:28:52.8146825Z",
+      "nuget:id": "KA.Barcode.Generator.Word.ISBN.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.28.52/ka.barcode.generator.word.itf14.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7930cb8e-19cb-45a2-92db-6378c6636b89",
+      "commitTimeStamp": "2025-11-06T03:28:52.8146825Z",
+      "nuget:id": "KA.Barcode.Generator.Word.ITF14",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.28.18/ka.barcode.generator.word.intelligentmail.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ad1e853c-6623-41e5-a6a0-afbb4c4559c0",
+      "commitTimeStamp": "2025-11-06T03:28:18.2482255Z",
+      "nuget:id": "KA.Barcode.Generator.Word.IntelligentMail",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.28.18/xtremeidiots.callofduty.demoreader.1.1.59.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ad1e853c-6623-41e5-a6a0-afbb4c4559c0",
+      "commitTimeStamp": "2025-11-06T03:28:18.2482255Z",
+      "nuget:id": "XtremeIdiots.CallOfDuty.DemoReader",
+      "nuget:version": "1.1.59.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.28.18/schwab.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ad1e853c-6623-41e5-a6a0-afbb4c4559c0",
+      "commitTimeStamp": "2025-11-06T03:28:18.2482255Z",
+      "nuget:id": "Schwab",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.28.18/ka.barcode.generator.word.interleaved2of5.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ad1e853c-6623-41e5-a6a0-afbb4c4559c0",
+      "commitTimeStamp": "2025-11-06T03:28:18.2482255Z",
+      "nuget:id": "KA.Barcode.Generator.Word.Interleaved2of5",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.28.18/ka.barcode.generator.word.issn.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ad1e853c-6623-41e5-a6a0-afbb4c4559c0",
+      "commitTimeStamp": "2025-11-06T03:28:18.2482255Z",
+      "nuget:id": "KA.Barcode.Generator.Word.ISSN.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.28.18/ka.barcode.generator.word.intelligentmail.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ad1e853c-6623-41e5-a6a0-afbb4c4559c0",
+      "commitTimeStamp": "2025-11-06T03:28:18.2482255Z",
+      "nuget:id": "KA.Barcode.Generator.Word.IntelligentMail.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.27.43/ka.barcode.generator.word.identcode.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04d9eccd-2e79-49af-b913-8c23bf4ea217",
+      "commitTimeStamp": "2025-11-06T03:27:43.3001835Z",
+      "nuget:id": "KA.Barcode.Generator.Word.IDENTCODE",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.27.43/pnp.core.1.15.196-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04d9eccd-2e79-49af-b913-8c23bf4ea217",
+      "commitTimeStamp": "2025-11-06T03:27:43.3001835Z",
+      "nuget:id": "PnP.Core",
+      "nuget:version": "1.15.196-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.27.43/pnp.core.admin.1.15.196-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04d9eccd-2e79-49af-b913-8c23bf4ea217",
+      "commitTimeStamp": "2025-11-06T03:27:43.3001835Z",
+      "nuget:id": "PnP.Core.Admin",
+      "nuget:version": "1.15.196-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.27.43/dhxcodetool.4.14.2025.1106-beta0323.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04d9eccd-2e79-49af-b913-8c23bf4ea217",
+      "commitTimeStamp": "2025-11-06T03:27:43.3001835Z",
+      "nuget:id": "dhxcodetool",
+      "nuget:version": "4.14.2025.1106-beta0323"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.27.43/ka.barcode.generator.word.interleaved2of5.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04d9eccd-2e79-49af-b913-8c23bf4ea217",
+      "commitTimeStamp": "2025-11-06T03:27:43.3001835Z",
+      "nuget:id": "KA.Barcode.Generator.Word.Interleaved2of5.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.27.43/pnp.core.auth.1.15.196-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04d9eccd-2e79-49af-b913-8c23bf4ea217",
+      "commitTimeStamp": "2025-11-06T03:27:43.3001835Z",
+      "nuget:id": "PnP.Core.Auth",
+      "nuget:version": "1.15.196-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.27.43/polyhydragames.oauth.core.2.0.0.170.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04d9eccd-2e79-49af-b913-8c23bf4ea217",
+      "commitTimeStamp": "2025-11-06T03:27:43.3001835Z",
+      "nuget:id": "PolyhydraGames.OAuth.Core",
+      "nuget:version": "2.0.0.170"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.27.43/ka.barcode.generator.word.isbn.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04d9eccd-2e79-49af-b913-8c23bf4ea217",
+      "commitTimeStamp": "2025-11-06T03:27:43.3001835Z",
+      "nuget:id": "KA.Barcode.Generator.Word.ISBN",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.27.43/pnp.framework.1.18.195-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04d9eccd-2e79-49af-b913-8c23bf4ea217",
+      "commitTimeStamp": "2025-11-06T03:27:43.3001835Z",
+      "nuget:id": "PnP.Framework",
+      "nuget:version": "1.18.195-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.27.09/ka.barcode.generator.word.identcode.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15b37f5d-3168-45e5-8b8c-0ed852322db4",
+      "commitTimeStamp": "2025-11-06T03:27:09.5307551Z",
+      "nuget:id": "KA.Barcode.Generator.Word.IDENTCODE.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.26.34/ka.barcode.generator.word.ean8.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483135b1-9100-41db-824c-85260d682d3a",
+      "commitTimeStamp": "2025-11-06T03:26:34.1487897Z",
+      "nuget:id": "KA.Barcode.Generator.Word.EAN8.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.26.34/ka.barcode.generator.word.ean13.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483135b1-9100-41db-824c-85260d682d3a",
+      "commitTimeStamp": "2025-11-06T03:26:34.1487897Z",
+      "nuget:id": "KA.Barcode.Generator.Word.EAN13.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.26.34/ka.barcode.generator.word.gs1.128.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483135b1-9100-41db-824c-85260d682d3a",
+      "commitTimeStamp": "2025-11-06T03:26:34.1487897Z",
+      "nuget:id": "KA.Barcode.Generator.Word.GS1.128.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.26.34/polyhydragames.api.fitbit.1.0.0.117.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483135b1-9100-41db-824c-85260d682d3a",
+      "commitTimeStamp": "2025-11-06T03:26:34.1487897Z",
+      "nuget:id": "PolyhydraGames.Api.Fitbit",
+      "nuget:version": "1.0.0.117"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.26.34/ka.barcode.generator.word.ean8.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483135b1-9100-41db-824c-85260d682d3a",
+      "commitTimeStamp": "2025-11-06T03:26:34.1487897Z",
+      "nuget:id": "KA.Barcode.Generator.Word.EAN8",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.26.34/ka.barcode.generator.word.gs1.128.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "483135b1-9100-41db-824c-85260d682d3a",
+      "commitTimeStamp": "2025-11-06T03:26:34.1487897Z",
+      "nuget:id": "KA.Barcode.Generator.Word.GS1.128",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.25.58/ka.barcode.generator.word.core.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "296ed9f8-1ff1-4460-badf-0e704db60e83",
+      "commitTimeStamp": "2025-11-06T03:25:58.6478506Z",
+      "nuget:id": "KA.Barcode.Generator.Word.Core.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.25.58/xtremeidiots.portal.events.ingest.app.functions.v1.1.1.350.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "296ed9f8-1ff1-4460-badf-0e704db60e83",
+      "commitTimeStamp": "2025-11-06T03:25:58.6478506Z",
+      "nuget:id": "XtremeIdiots.Portal.Events.Ingest.App.Functions.V1",
+      "nuget:version": "1.1.350.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.25.58/ka.barcode.generator.word.ean13.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "296ed9f8-1ff1-4460-badf-0e704db60e83",
+      "commitTimeStamp": "2025-11-06T03:25:58.6478506Z",
+      "nuget:id": "KA.Barcode.Generator.Word.EAN13",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.25.58/ka.barcode.generator.word.datamatrix.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "296ed9f8-1ff1-4460-badf-0e704db60e83",
+      "commitTimeStamp": "2025-11-06T03:25:58.6478506Z",
+      "nuget:id": "KA.Barcode.Generator.Word.DataMatrix",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.25.23/ka.barcode.generator.word.code2of5.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61716079-68b3-4557-97eb-dc7ee09964f8",
+      "commitTimeStamp": "2025-11-06T03:25:23.9914312Z",
+      "nuget:id": "KA.Barcode.Generator.Word.Code2of5.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.25.23/ka.barcode.generator.word.datamatrix.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61716079-68b3-4557-97eb-dc7ee09964f8",
+      "commitTimeStamp": "2025-11-06T03:25:23.9914312Z",
+      "nuget:id": "KA.Barcode.Generator.Word.DataMatrix.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.25.23/ka.barcode.generator.word.code39.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61716079-68b3-4557-97eb-dc7ee09964f8",
+      "commitTimeStamp": "2025-11-06T03:25:23.9914312Z",
+      "nuget:id": "KA.Barcode.Generator.Word.Code39",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.24.48/automationcore.io.1.2.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cbe3a928-64c7-4bf8-8544-ab820643a359",
+      "commitTimeStamp": "2025-11-06T03:24:48.8014475Z",
+      "nuget:id": "AutomationCore.IO",
+      "nuget:version": "1.2.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.24.48/ka.barcode.generator.word.code128.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cbe3a928-64c7-4bf8-8544-ab820643a359",
+      "commitTimeStamp": "2025-11-06T03:24:48.8014475Z",
+      "nuget:id": "KA.Barcode.Generator.Word.Code128.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.24.48/ka.barcode.generator.word.core.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cbe3a928-64c7-4bf8-8544-ab820643a359",
+      "commitTimeStamp": "2025-11-06T03:24:48.8014475Z",
+      "nuget:id": "KA.Barcode.Generator.Word.Core",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.24.48/ka.barcode.generator.word.code39.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cbe3a928-64c7-4bf8-8544-ab820643a359",
+      "commitTimeStamp": "2025-11-06T03:24:48.8014475Z",
+      "nuget:id": "KA.Barcode.Generator.Word.Code39.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.24.14/ka.barcode.generator.word.code2of5.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d0ddc44-a54b-47bd-8664-36bc8f1ffec4",
+      "commitTimeStamp": "2025-11-06T03:24:14.5499597Z",
+      "nuget:id": "KA.Barcode.Generator.Word.Code2of5",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.24.14/ka.barcode.generator.word.code128.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d0ddc44-a54b-47bd-8664-36bc8f1ffec4",
+      "commitTimeStamp": "2025-11-06T03:24:14.5499597Z",
+      "nuget:id": "KA.Barcode.Generator.Word.Code128",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.24.14/ka.barcode.generator.word.code11.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d0ddc44-a54b-47bd-8664-36bc8f1ffec4",
+      "commitTimeStamp": "2025-11-06T03:24:14.5499597Z",
+      "nuget:id": "KA.Barcode.Generator.Word.Code11",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.23.39/ka.barcode.generator.word.code11.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9244828e-a451-4de0-84bf-9245fb061616",
+      "commitTimeStamp": "2025-11-06T03:23:39.7625511Z",
+      "nuget:id": "KA.Barcode.Generator.Word.Code11.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.23.39/ka.barcode.generator.word.codabar.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9244828e-a451-4de0-84bf-9245fb061616",
+      "commitTimeStamp": "2025-11-06T03:23:39.7625511Z",
+      "nuget:id": "KA.Barcode.Generator.Word.Codabar",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.23.39/ka.barcode.generator.word.codabar.vb.7.7.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9244828e-a451-4de0-84bf-9245fb061616",
+      "commitTimeStamp": "2025-11-06T03:23:39.7625511Z",
+      "nuget:id": "KA.Barcode.Generator.Word.Codabar.VB",
+      "nuget:version": "7.7.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.23.04/ka.barcode.generator.word.7.7.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "597031bd-783a-43d6-90e6-2565218571eb",
+      "commitTimeStamp": "2025-11-06T03:23:04.8574025Z",
+      "nuget:id": "KA.Barcode.Generator.Word",
+      "nuget:version": "7.7.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.23.04/ka.barcode.generator.upce.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "597031bd-783a-43d6-90e6-2565218571eb",
+      "commitTimeStamp": "2025-11-06T03:23:04.8574025Z",
+      "nuget:id": "KA.Barcode.Generator.UPCE.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.23.04/ka.barcode.generator.upce.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "597031bd-783a-43d6-90e6-2565218571eb",
+      "commitTimeStamp": "2025-11-06T03:23:04.8574025Z",
+      "nuget:id": "KA.Barcode.Generator.UPCE",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.23.04/ka.barcode.generator.upca.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "597031bd-783a-43d6-90e6-2565218571eb",
+      "commitTimeStamp": "2025-11-06T03:23:04.8574025Z",
+      "nuget:id": "KA.Barcode.Generator.UPCA.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.23.04/ka.barcode.generator.tiff.rm4scc.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "597031bd-783a-43d6-90e6-2565218571eb",
+      "commitTimeStamp": "2025-11-06T03:23:04.8574025Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.RM4SCC",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.22.29/ka.barcode.generator.upca.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73fd567f-fe89-4ada-b7b3-bde09612dc11",
+      "commitTimeStamp": "2025-11-06T03:22:29.9883197Z",
+      "nuget:id": "KA.Barcode.Generator.UPCA",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.22.29/alibabacloud.sdk.rtc20180111.5.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73fd567f-fe89-4ada-b7b3-bde09612dc11",
+      "commitTimeStamp": "2025-11-06T03:22:29.9883197Z",
+      "nuget:id": "AlibabaCloud.SDK.Rtc20180111",
+      "nuget:version": "5.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.22.29/ka.barcode.generator.tiff.upce.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73fd567f-fe89-4ada-b7b3-bde09612dc11",
+      "commitTimeStamp": "2025-11-06T03:22:29.9883197Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.UPCE",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.21.54/ka.barcode.generator.tiff.rm4scc.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "651ce028-c725-4eb7-abbf-b2d4a6966619",
+      "commitTimeStamp": "2025-11-06T03:21:54.8598865Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.RM4SCC.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.21.54/polyhydragames.oauth.core.2.0.0.169.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "651ce028-c725-4eb7-abbf-b2d4a6966619",
+      "commitTimeStamp": "2025-11-06T03:21:54.8598865Z",
+      "nuget:id": "PolyhydraGames.OAuth.Core",
+      "nuget:version": "2.0.0.169"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.21.54/ka.barcode.generator.tiff.qrcode.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "651ce028-c725-4eb7-abbf-b2d4a6966619",
+      "commitTimeStamp": "2025-11-06T03:21:54.8598865Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.QRCode.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.21.54/ka.barcode.generator.tiff.upca.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "651ce028-c725-4eb7-abbf-b2d4a6966619",
+      "commitTimeStamp": "2025-11-06T03:21:54.8598865Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.UPCA.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.21.54/ka.barcode.generator.tiff.upce.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "651ce028-c725-4eb7-abbf-b2d4a6966619",
+      "commitTimeStamp": "2025-11-06T03:21:54.8598865Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.UPCE.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.21.54/ka.barcode.generator.tiff.upca.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "651ce028-c725-4eb7-abbf-b2d4a6966619",
+      "commitTimeStamp": "2025-11-06T03:21:54.8598865Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.UPCA",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.21.19/ka.barcode.generator.tiff.qrcode.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e503d7b7-f056-475e-b2b7-87a87b322a31",
+      "commitTimeStamp": "2025-11-06T03:21:19.5512753Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.QRCode",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.20.43/ka.barcode.generator.tiff.planet.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3178290b-9e08-4eed-9226-a85ca681e00b",
+      "commitTimeStamp": "2025-11-06T03:20:43.8001274Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.PLANET",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.20.43/ka.barcode.generator.tiff.postnet.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3178290b-9e08-4eed-9226-a85ca681e00b",
+      "commitTimeStamp": "2025-11-06T03:20:43.8001274Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.POSTNET.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.20.43/ka.barcode.generator.tiff.postnet.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3178290b-9e08-4eed-9226-a85ca681e00b",
+      "commitTimeStamp": "2025-11-06T03:20:43.8001274Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.POSTNET",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.20.07/ka.barcode.generator.tiff.leitcode.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cffb082d-596b-4998-9e58-5bdf8079f319",
+      "commitTimeStamp": "2025-11-06T03:20:07.1123741Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.LEITCODE.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.20.07/ka.barcode.generator.tiff.pdf417.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cffb082d-596b-4998-9e58-5bdf8079f319",
+      "commitTimeStamp": "2025-11-06T03:20:07.1123741Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.PDF417.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.20.07/ka.barcode.generator.tiff.pdf417.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cffb082d-596b-4998-9e58-5bdf8079f319",
+      "commitTimeStamp": "2025-11-06T03:20:07.1123741Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.PDF417",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.20.07/ka.barcode.generator.tiff.msi.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cffb082d-596b-4998-9e58-5bdf8079f319",
+      "commitTimeStamp": "2025-11-06T03:20:07.1123741Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.MSI.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.20.07/ka.barcode.generator.tiff.itf14.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cffb082d-596b-4998-9e58-5bdf8079f319",
+      "commitTimeStamp": "2025-11-06T03:20:07.1123741Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.ITF14.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.20.07/ka.barcode.generator.tiff.msi.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cffb082d-596b-4998-9e58-5bdf8079f319",
+      "commitTimeStamp": "2025-11-06T03:20:07.1123741Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.MSI",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.20.07/ka.barcode.generator.tiff.planet.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cffb082d-596b-4998-9e58-5bdf8079f319",
+      "commitTimeStamp": "2025-11-06T03:20:07.1123741Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.PLANET.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.19.32/armonik.core.base.0.36.0-renovatenuget.88.sha.3b8954a1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7410e1e5-596e-416f-9968-27abec23ed04",
+      "commitTimeStamp": "2025-11-06T03:19:32.7840621Z",
+      "nuget:id": "ArmoniK.Core.Base",
+      "nuget:version": "0.36.0-renovatenuget.88.sha.3b8954a1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.19.32/ka.barcode.generator.tiff.leitcode.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7410e1e5-596e-416f-9968-27abec23ed04",
+      "commitTimeStamp": "2025-11-06T03:19:32.7840621Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.LEITCODE",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.18.58/ka.barcode.generator.tiff.itf14.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9c3da2f-9994-4744-9e5e-dd9f0de9f61f",
+      "commitTimeStamp": "2025-11-06T03:18:58.7046921Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.ITF14",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.18.24/ka.barcode.generator.tiff.isbn.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9b407f7b-23cd-404d-ac7a-615ed5497177",
+      "commitTimeStamp": "2025-11-06T03:18:24.5168959Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.ISBN.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.18.24/ka.barcode.generator.tiff.issn.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9b407f7b-23cd-404d-ac7a-615ed5497177",
+      "commitTimeStamp": "2025-11-06T03:18:24.5168959Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.ISSN.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.18.24/schwab.1.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9b407f7b-23cd-404d-ac7a-615ed5497177",
+      "commitTimeStamp": "2025-11-06T03:18:24.5168959Z",
+      "nuget:id": "Schwab",
+      "nuget:version": "1.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.18.24/ka.barcode.generator.tiff.issn.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9b407f7b-23cd-404d-ac7a-615ed5497177",
+      "commitTimeStamp": "2025-11-06T03:18:24.5168959Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.ISSN",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.17.49/ka.barcode.generator.tiff.interleaved2of5.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e85cf8c9-8425-427f-87ad-3d75afe10b13",
+      "commitTimeStamp": "2025-11-06T03:17:49.1416566Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.Interleaved2of5.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.17.49/ka.barcode.generator.tiff.intelligentmail.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e85cf8c9-8425-427f-87ad-3d75afe10b13",
+      "commitTimeStamp": "2025-11-06T03:17:49.1416566Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.IntelligentMail.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.17.49/ka.barcode.generator.tiff.isbn.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e85cf8c9-8425-427f-87ad-3d75afe10b13",
+      "commitTimeStamp": "2025-11-06T03:17:49.1416566Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.ISBN",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.17.49/ka.barcode.generator.tiff.identcode.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e85cf8c9-8425-427f-87ad-3d75afe10b13",
+      "commitTimeStamp": "2025-11-06T03:17:49.1416566Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.IDENTCODE.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.17.49/ka.barcode.generator.tiff.interleaved2of5.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e85cf8c9-8425-427f-87ad-3d75afe10b13",
+      "commitTimeStamp": "2025-11-06T03:17:49.1416566Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.Interleaved2of5",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.17.49/dhxcodetool.4.14.2025.1106-beta0313.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e85cf8c9-8425-427f-87ad-3d75afe10b13",
+      "commitTimeStamp": "2025-11-06T03:17:49.1416566Z",
+      "nuget:id": "dhxcodetool",
+      "nuget:version": "4.14.2025.1106-beta0313"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.17.12/ka.barcode.generator.tiff.intelligentmail.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c075554a-dc32-4fe0-8716-625d7a7d2f0f",
+      "commitTimeStamp": "2025-11-06T03:17:12.6882534Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.IntelligentMail",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.17.12/ka.barcode.generator.tiff.gs1.128.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c075554a-dc32-4fe0-8716-625d7a7d2f0f",
+      "commitTimeStamp": "2025-11-06T03:17:12.6882534Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.GS1.128.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.17.12/ka.barcode.generator.tiff.identcode.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c075554a-dc32-4fe0-8716-625d7a7d2f0f",
+      "commitTimeStamp": "2025-11-06T03:17:12.6882534Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.IDENTCODE",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.16.37/dh.ncode.4.14.2025.1106-beta0313.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "855dab64-3a0b-436c-ae3e-cad266c4b653",
+      "commitTimeStamp": "2025-11-06T03:16:37.3910915Z",
+      "nuget:id": "DH.NCode",
+      "nuget:version": "4.14.2025.1106-beta0313"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.16.37/ka.barcode.generator.tiff.datamatrix.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "855dab64-3a0b-436c-ae3e-cad266c4b653",
+      "commitTimeStamp": "2025-11-06T03:16:37.3910915Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.DataMatrix.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.16.37/ka.barcode.generator.tiff.ean8.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "855dab64-3a0b-436c-ae3e-cad266c4b653",
+      "commitTimeStamp": "2025-11-06T03:16:37.3910915Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.EAN8",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.16.37/ka.barcode.generator.tiff.ean13.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "855dab64-3a0b-436c-ae3e-cad266c4b653",
+      "commitTimeStamp": "2025-11-06T03:16:37.3910915Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.EAN13",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.16.37/ka.barcode.generator.tiff.ean8.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "855dab64-3a0b-436c-ae3e-cad266c4b653",
+      "commitTimeStamp": "2025-11-06T03:16:37.3910915Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.EAN8.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.16.37/ka.barcode.generator.tiff.gs1.128.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "855dab64-3a0b-436c-ae3e-cad266c4b653",
+      "commitTimeStamp": "2025-11-06T03:16:37.3910915Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.GS1.128",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.16.02/ka.barcode.generator.tiff.ean13.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e59c584b-c575-4900-9b78-348509834437",
+      "commitTimeStamp": "2025-11-06T03:16:02.1870767Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.EAN13.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.16.02/abasto.librarycore.security.4.3.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e59c584b-c575-4900-9b78-348509834437",
+      "commitTimeStamp": "2025-11-06T03:16:02.1870767Z",
+      "nuget:id": "Abasto.LibraryCore.Security",
+      "nuget:version": "4.3.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.16.02/ka.barcode.generator.tiff.core.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e59c584b-c575-4900-9b78-348509834437",
+      "commitTimeStamp": "2025-11-06T03:16:02.1870767Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.Core.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.15.27/yellowcucumber.errorhandling.codefixes.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3f4c47f-ae40-4fbc-9753-7c1800788da2",
+      "commitTimeStamp": "2025-11-06T03:15:27.9312946Z",
+      "nuget:id": "YellowCucumber.ErrorHandling.CodeFixes",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.15.27/ka.barcode.generator.tiff.datamatrix.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3f4c47f-ae40-4fbc-9753-7c1800788da2",
+      "commitTimeStamp": "2025-11-06T03:15:27.9312946Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.DataMatrix",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.15.27/yellowcucumber.errorhandling.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3f4c47f-ae40-4fbc-9753-7c1800788da2",
+      "commitTimeStamp": "2025-11-06T03:15:27.9312946Z",
+      "nuget:id": "YellowCucumber.ErrorHandling",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.15.27/yellowcucumber.errorhandling.analyzers.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3f4c47f-ae40-4fbc-9753-7c1800788da2",
+      "commitTimeStamp": "2025-11-06T03:15:27.9312946Z",
+      "nuget:id": "YellowCucumber.ErrorHandling.Analyzers",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.15.27/ka.barcode.generator.tiff.core.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3f4c47f-ae40-4fbc-9753-7c1800788da2",
+      "commitTimeStamp": "2025-11-06T03:15:27.9312946Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.Core",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.15.27/abasto.librarycore.linqdynamic.4.3.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3f4c47f-ae40-4fbc-9753-7c1800788da2",
+      "commitTimeStamp": "2025-11-06T03:15:27.9312946Z",
+      "nuget:id": "Abasto.LibraryCore.LinqDynamic",
+      "nuget:version": "4.3.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.15.27/ka.barcode.generator.tiff.code39.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3f4c47f-ae40-4fbc-9753-7c1800788da2",
+      "commitTimeStamp": "2025-11-06T03:15:27.9312946Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.Code39",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.14.52/ka.barcode.generator.tiff.code39.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5195aee-bdee-4000-ba75-d3f47ba0a343",
+      "commitTimeStamp": "2025-11-06T03:14:52.1965952Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.Code39.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.14.52/ka.barcode.generator.tiff.code2of5.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5195aee-bdee-4000-ba75-d3f47ba0a343",
+      "commitTimeStamp": "2025-11-06T03:14:52.1965952Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.Code2of5.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.14.52/abasto.blazor.4.3.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5195aee-bdee-4000-ba75-d3f47ba0a343",
+      "commitTimeStamp": "2025-11-06T03:14:52.1965952Z",
+      "nuget:id": "Abasto.Blazor",
+      "nuget:version": "4.3.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.14.17/ka.barcode.generator.tiff.code2of5.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f19c4526-a319-4e72-a999-4e4aac8cd7f6",
+      "commitTimeStamp": "2025-11-06T03:14:17.2151521Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.Code2of5",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.14.17/ka.barcode.generator.tiff.code128.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f19c4526-a319-4e72-a999-4e4aac8cd7f6",
+      "commitTimeStamp": "2025-11-06T03:14:17.2151521Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.Code128.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.14.17/ka.barcode.generator.tiff.code11.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f19c4526-a319-4e72-a999-4e4aac8cd7f6",
+      "commitTimeStamp": "2025-11-06T03:14:17.2151521Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.Code11.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.13.42/ka.barcode.generator.tiff.code11.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a8c0e61-3caa-49f2-a7c4-ddea2268cb9d",
+      "commitTimeStamp": "2025-11-06T03:13:42.3977457Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.Code11",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.13.42/cognos.librarycore.security.6.2.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a8c0e61-3caa-49f2-a7c4-ddea2268cb9d",
+      "commitTimeStamp": "2025-11-06T03:13:42.3977457Z",
+      "nuget:id": "Cognos.LibraryCore.Security",
+      "nuget:version": "6.2.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.13.42/uno.ui.app.mcp.1.0.0-dev.55.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a8c0e61-3caa-49f2-a7c4-ddea2268cb9d",
+      "commitTimeStamp": "2025-11-06T03:13:42.3977457Z",
+      "nuget:id": "Uno.UI.App.Mcp",
+      "nuget:version": "1.0.0-dev.55"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.13.42/zespy.di.client.abstractions.0.70.0-dev.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a8c0e61-3caa-49f2-a7c4-ddea2268cb9d",
+      "commitTimeStamp": "2025-11-06T03:13:42.3977457Z",
+      "nuget:id": "Zespy.Di.Client.Abstractions",
+      "nuget:version": "0.70.0-dev.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.13.42/ka.barcode.generator.tiff.code128.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a8c0e61-3caa-49f2-a7c4-ddea2268cb9d",
+      "commitTimeStamp": "2025-11-06T03:13:42.3977457Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.Code128",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.13.42/ka.barcode.generator.rm4scc.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a8c0e61-3caa-49f2-a7c4-ddea2268cb9d",
+      "commitTimeStamp": "2025-11-06T03:13:42.3977457Z",
+      "nuget:id": "KA.Barcode.Generator.RM4SCC.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.13.42/zespy.di.client.0.70.0-dev.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a8c0e61-3caa-49f2-a7c4-ddea2268cb9d",
+      "commitTimeStamp": "2025-11-06T03:13:42.3977457Z",
+      "nuget:id": "Zespy.Di.Client",
+      "nuget:version": "0.70.0-dev.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.13.42/ka.barcode.generator.tiff.codabar.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a8c0e61-3caa-49f2-a7c4-ddea2268cb9d",
+      "commitTimeStamp": "2025-11-06T03:13:42.3977457Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.Codabar",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.13.42/compile.shift.0.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a8c0e61-3caa-49f2-a7c4-ddea2268cb9d",
+      "commitTimeStamp": "2025-11-06T03:13:42.3977457Z",
+      "nuget:id": "Compile.Shift",
+      "nuget:version": "0.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.13.07/zespy.di.client.extensions.0.70.0-dev.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "24f96378-4f47-473d-ba0b-9a1d0acc1638",
+      "commitTimeStamp": "2025-11-06T03:13:07.7152084Z",
+      "nuget:id": "Zespy.Di.Client.Extensions",
+      "nuget:version": "0.70.0-dev.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.13.07/cognos.librarycore.linqdynamic.6.2.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "24f96378-4f47-473d-ba0b-9a1d0acc1638",
+      "commitTimeStamp": "2025-11-06T03:13:07.7152084Z",
+      "nuget:id": "Cognos.LibraryCore.LinqDynamic",
+      "nuget:version": "6.2.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.13.07/sp1.1.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "24f96378-4f47-473d-ba0b-9a1d0acc1638",
+      "commitTimeStamp": "2025-11-06T03:13:07.7152084Z",
+      "nuget:id": "SP1",
+      "nuget:version": "1.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.13.07/ka.barcode.generator.tiff.codabar.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "24f96378-4f47-473d-ba0b-9a1d0acc1638",
+      "commitTimeStamp": "2025-11-06T03:13:07.7152084Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF.Codabar.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.13.07/ka.barcode.generator.tiff.7.7.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "24f96378-4f47-473d-ba0b-9a1d0acc1638",
+      "commitTimeStamp": "2025-11-06T03:13:07.7152084Z",
+      "nuget:id": "KA.Barcode.Generator.TIFF",
+      "nuget:version": "7.7.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.13.07/ka.barcode.generator.qrcode.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "24f96378-4f47-473d-ba0b-9a1d0acc1638",
+      "commitTimeStamp": "2025-11-06T03:13:07.7152084Z",
+      "nuget:id": "KA.Barcode.Generator.QRCode.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.12.33/ka.barcode.generator.powerpoint.upce.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "34b5e6e9-1fee-421e-8db3-5437ea32308c",
+      "commitTimeStamp": "2025-11-06T03:12:33.4003201Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.UPCE",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.12.33/ka.barcode.generator.powerpoint.qrcode.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "34b5e6e9-1fee-421e-8db3-5437ea32308c",
+      "commitTimeStamp": "2025-11-06T03:12:33.4003201Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.QRCode.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.12.33/ka.barcode.generator.qrcode.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "34b5e6e9-1fee-421e-8db3-5437ea32308c",
+      "commitTimeStamp": "2025-11-06T03:12:33.4003201Z",
+      "nuget:id": "KA.Barcode.Generator.QRCode",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.12.33/cognos.blazor.6.2.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "34b5e6e9-1fee-421e-8db3-5437ea32308c",
+      "commitTimeStamp": "2025-11-06T03:12:33.4003201Z",
+      "nuget:id": "Cognos.Blazor",
+      "nuget:version": "6.2.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.12.33/ka.barcode.generator.powerpoint.upce.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "34b5e6e9-1fee-421e-8db3-5437ea32308c",
+      "commitTimeStamp": "2025-11-06T03:12:33.4003201Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.UPCE.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.12.33/ka.barcode.generator.rm4scc.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "34b5e6e9-1fee-421e-8db3-5437ea32308c",
+      "commitTimeStamp": "2025-11-06T03:12:33.4003201Z",
+      "nuget:id": "KA.Barcode.Generator.RM4SCC",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.11.57/ka.barcode.generator.powerpoint.upca.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0b03818f-7874-48c9-8cd6-66482c470539",
+      "commitTimeStamp": "2025-11-06T03:11:57.7503026Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.UPCA.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.11.57/soenneker.stripe.setupintents.4.0.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0b03818f-7874-48c9-8cd6-66482c470539",
+      "commitTimeStamp": "2025-11-06T03:11:57.7503026Z",
+      "nuget:id": "Soenneker.Stripe.SetupIntents",
+      "nuget:version": "4.0.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.11.57/schwab.0.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0b03818f-7874-48c9-8cd6-66482c470539",
+      "commitTimeStamp": "2025-11-06T03:11:57.7503026Z",
+      "nuget:id": "Schwab",
+      "nuget:version": "0.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.11.57/ka.barcode.generator.powerpoint.rm4scc.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0b03818f-7874-48c9-8cd6-66482c470539",
+      "commitTimeStamp": "2025-11-06T03:11:57.7503026Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.RM4SCC",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.11.24/ka.barcode.generator.powerpoint.rm4scc.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a591f511-622a-44c3-95c0-8006fbaf3f24",
+      "commitTimeStamp": "2025-11-06T03:11:24.1677334Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.RM4SCC.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.11.24/ka.barcode.generator.powerpoint.upca.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a591f511-622a-44c3-95c0-8006fbaf3f24",
+      "commitTimeStamp": "2025-11-06T03:11:24.1677334Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.UPCA",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.11.24/ka.barcode.generator.powerpoint.qrcode.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a591f511-622a-44c3-95c0-8006fbaf3f24",
+      "commitTimeStamp": "2025-11-06T03:11:24.1677334Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.QRCode",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.11.24/ka.barcode.generator.powerpoint.postnet.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a591f511-622a-44c3-95c0-8006fbaf3f24",
+      "commitTimeStamp": "2025-11-06T03:11:24.1677334Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.POSTNET.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.10.49/ka.barcode.generator.powerpoint.postnet.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f92f20f-719e-4dfb-b11e-53b7b210a9f5",
+      "commitTimeStamp": "2025-11-06T03:10:49.4474017Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.POSTNET",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.10.49/ka.barcode.generator.powerpoint.planet.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f92f20f-719e-4dfb-b11e-53b7b210a9f5",
+      "commitTimeStamp": "2025-11-06T03:10:49.4474017Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.PLANET.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.10.14/ka.barcode.generator.powerpoint.planet.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f929cf94-91b5-4895-b6f3-8d9dcc963d2d",
+      "commitTimeStamp": "2025-11-06T03:10:14.0488627Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.PLANET",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.10.14/ka.barcode.generator.powerpoint.itf14.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f929cf94-91b5-4895-b6f3-8d9dcc963d2d",
+      "commitTimeStamp": "2025-11-06T03:10:14.0488627Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.ITF14.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.10.14/ka.barcode.generator.powerpoint.msi.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f929cf94-91b5-4895-b6f3-8d9dcc963d2d",
+      "commitTimeStamp": "2025-11-06T03:10:14.0488627Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.MSI",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.10.14/ka.barcode.generator.powerpoint.pdf417.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f929cf94-91b5-4895-b6f3-8d9dcc963d2d",
+      "commitTimeStamp": "2025-11-06T03:10:14.0488627Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.PDF417.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.09.39/ka.barcode.generator.powerpoint.leitcode.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b959c9b2-31bf-4a34-8274-9d52ad2a3307",
+      "commitTimeStamp": "2025-11-06T03:09:39.6362004Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.LEITCODE.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.09.39/ka.barcode.generator.powerpoint.msi.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b959c9b2-31bf-4a34-8274-9d52ad2a3307",
+      "commitTimeStamp": "2025-11-06T03:09:39.6362004Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.MSI.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.09.39/ka.barcode.generator.powerpoint.itf14.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b959c9b2-31bf-4a34-8274-9d52ad2a3307",
+      "commitTimeStamp": "2025-11-06T03:09:39.6362004Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.ITF14",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.09.39/ka.barcode.generator.powerpoint.pdf417.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b959c9b2-31bf-4a34-8274-9d52ad2a3307",
+      "commitTimeStamp": "2025-11-06T03:09:39.6362004Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.PDF417",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.09.39/interbroker.0.0.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b959c9b2-31bf-4a34-8274-9d52ad2a3307",
+      "commitTimeStamp": "2025-11-06T03:09:39.6362004Z",
+      "nuget:id": "InterBroker",
+      "nuget:version": "0.0.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.09.04/ka.barcode.generator.powerpoint.issn.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f8d23e1-840b-4ac8-8fc9-bfc4ea2ca612",
+      "commitTimeStamp": "2025-11-06T03:09:04.8389126Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.ISSN.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.09.04/timewarp.nuru.analyzers.2.1.0-beta.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f8d23e1-840b-4ac8-8fc9-bfc4ea2ca612",
+      "commitTimeStamp": "2025-11-06T03:09:04.8389126Z",
+      "nuget:id": "TimeWarp.Nuru.Analyzers",
+      "nuget:version": "2.1.0-beta.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.09.04/ka.barcode.generator.powerpoint.leitcode.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f8d23e1-840b-4ac8-8fc9-bfc4ea2ca612",
+      "commitTimeStamp": "2025-11-06T03:09:04.8389126Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.LEITCODE",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.09.04/ka.barcode.generator.powerpoint.isbn.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f8d23e1-840b-4ac8-8fc9-bfc4ea2ca612",
+      "commitTimeStamp": "2025-11-06T03:09:04.8389126Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.ISBN",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.09.04/ka.barcode.generator.powerpoint.issn.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f8d23e1-840b-4ac8-8fc9-bfc4ea2ca612",
+      "commitTimeStamp": "2025-11-06T03:09:04.8389126Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.ISSN",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.09.04/chm.wechatwork.wb.1.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f8d23e1-840b-4ac8-8fc9-bfc4ea2ca612",
+      "commitTimeStamp": "2025-11-06T03:09:04.8389126Z",
+      "nuget:id": "CHM.WechatWork.WB",
+      "nuget:version": "1.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.09.04/timewarp.nuru.mcp.2.1.0-beta.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f8d23e1-840b-4ac8-8fc9-bfc4ea2ca612",
+      "commitTimeStamp": "2025-11-06T03:09:04.8389126Z",
+      "nuget:id": "TimeWarp.Nuru.Mcp",
+      "nuget:version": "2.1.0-beta.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.08.30/ka.barcode.generator.powerpoint.interleaved2of5.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43a871c9-e562-4769-afba-15cf371e4dc1",
+      "commitTimeStamp": "2025-11-06T03:08:30.541619Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.Interleaved2of5.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.08.30/abasto.librarycore.4.3.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43a871c9-e562-4769-afba-15cf371e4dc1",
+      "commitTimeStamp": "2025-11-06T03:08:30.541619Z",
+      "nuget:id": "Abasto.LibraryCore",
+      "nuget:version": "4.3.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.08.30/timewarp.nuru.2.1.0-beta.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43a871c9-e562-4769-afba-15cf371e4dc1",
+      "commitTimeStamp": "2025-11-06T03:08:30.541619Z",
+      "nuget:id": "TimeWarp.Nuru",
+      "nuget:version": "2.1.0-beta.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.08.30/ka.barcode.generator.powerpoint.isbn.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43a871c9-e562-4769-afba-15cf371e4dc1",
+      "commitTimeStamp": "2025-11-06T03:08:30.541619Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.ISBN.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.08.30/timewarp.nuru.logging.2.1.0-beta.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43a871c9-e562-4769-afba-15cf371e4dc1",
+      "commitTimeStamp": "2025-11-06T03:08:30.541619Z",
+      "nuget:id": "TimeWarp.Nuru.Logging",
+      "nuget:version": "2.1.0-beta.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.07.55/ka.barcode.generator.powerpoint.intelligentmail.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "124fb452-65f6-4329-85e4-8ab83b5e892a",
+      "commitTimeStamp": "2025-11-06T03:07:55.6349452Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.IntelligentMail",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.07.55/ka.barcode.generator.powerpoint.interleaved2of5.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "124fb452-65f6-4329-85e4-8ab83b5e892a",
+      "commitTimeStamp": "2025-11-06T03:07:55.6349452Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.Interleaved2of5",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.07.22/soenneker.cloudflare.openapi.suite.4.0.667.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8d3c9ad9-4604-42e0-9826-92a2d7aa0cbf",
+      "commitTimeStamp": "2025-11-06T03:07:22.0937054Z",
+      "nuget:id": "Soenneker.Cloudflare.OpenApi.Suite",
+      "nuget:version": "4.0.667"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.07.22/ka.barcode.generator.powerpoint.gs1.128.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8d3c9ad9-4604-42e0-9826-92a2d7aa0cbf",
+      "commitTimeStamp": "2025-11-06T03:07:22.0937054Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.GS1.128.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.07.22/ka.barcode.generator.powerpoint.intelligentmail.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8d3c9ad9-4604-42e0-9826-92a2d7aa0cbf",
+      "commitTimeStamp": "2025-11-06T03:07:22.0937054Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.IntelligentMail.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.07.22/ka.barcode.generator.powerpoint.identcode.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8d3c9ad9-4604-42e0-9826-92a2d7aa0cbf",
+      "commitTimeStamp": "2025-11-06T03:07:22.0937054Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.IDENTCODE.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.07.22/cognos.librarycore.6.2.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8d3c9ad9-4604-42e0-9826-92a2d7aa0cbf",
+      "commitTimeStamp": "2025-11-06T03:07:22.0937054Z",
+      "nuget:id": "Cognos.LibraryCore",
+      "nuget:version": "6.2.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.06.46/ka.barcode.generator.powerpoint.gs1.128.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8cf98076-518d-4a0c-a55b-2fd563d35779",
+      "commitTimeStamp": "2025-11-06T03:06:46.2915339Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.GS1.128",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.06.46/ka.barcode.generator.powerpoint.identcode.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8cf98076-518d-4a0c-a55b-2fd563d35779",
+      "commitTimeStamp": "2025-11-06T03:06:46.2915339Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.IDENTCODE",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.06.46/ka.barcode.generator.powerpoint.ean13.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8cf98076-518d-4a0c-a55b-2fd563d35779",
+      "commitTimeStamp": "2025-11-06T03:06:46.2915339Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.EAN13.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.06.46/ka.barcode.generator.powerpoint.ean8.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8cf98076-518d-4a0c-a55b-2fd563d35779",
+      "commitTimeStamp": "2025-11-06T03:06:46.2915339Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.EAN8.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.06.11/ka.barcode.generator.powerpoint.ean13.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f88dbb1b-d97c-40e7-80ab-88a64f6b5a07",
+      "commitTimeStamp": "2025-11-06T03:06:11.5375444Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.EAN13",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.06.11/ka.barcode.generator.powerpoint.datamatrix.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f88dbb1b-d97c-40e7-80ab-88a64f6b5a07",
+      "commitTimeStamp": "2025-11-06T03:06:11.5375444Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.DataMatrix.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.06.11/ka.barcode.generator.powerpoint.ean8.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f88dbb1b-d97c-40e7-80ab-88a64f6b5a07",
+      "commitTimeStamp": "2025-11-06T03:06:11.5375444Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.EAN8",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.06.11/ka.barcode.generator.powerpoint.datamatrix.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f88dbb1b-d97c-40e7-80ab-88a64f6b5a07",
+      "commitTimeStamp": "2025-11-06T03:06:11.5375444Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.DataMatrix",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.05.31/ka.barcode.generator.powerpoint.core.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d24fb20c-dde5-4700-b125-035c8eb4c31b",
+      "commitTimeStamp": "2025-11-06T03:05:31.7765737Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.Core",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.05.31/ka.barcode.generator.powerpoint.code39.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d24fb20c-dde5-4700-b125-035c8eb4c31b",
+      "commitTimeStamp": "2025-11-06T03:05:31.7765737Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.Code39.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.05.31/soenneker.instantly.unibox.4.0.2299.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d24fb20c-dde5-4700-b125-035c8eb4c31b",
+      "commitTimeStamp": "2025-11-06T03:05:31.7765737Z",
+      "nuget:id": "Soenneker.Instantly.Unibox",
+      "nuget:version": "4.0.2299"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.04.55/soenneker.instantly.analytics.4.0.1214.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2862a1ee-74a7-4bb0-a218-a3ef7e8ba9c3",
+      "commitTimeStamp": "2025-11-06T03:04:55.9191508Z",
+      "nuget:id": "Soenneker.Instantly.Analytics",
+      "nuget:version": "4.0.1214"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.04.55/ka.barcode.generator.powerpoint.core.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2862a1ee-74a7-4bb0-a218-a3ef7e8ba9c3",
+      "commitTimeStamp": "2025-11-06T03:04:55.9191508Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.Core.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.04.55/omronfinsudp.extend.net.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2862a1ee-74a7-4bb0-a218-a3ef7e8ba9c3",
+      "commitTimeStamp": "2025-11-06T03:04:55.9191508Z",
+      "nuget:id": "OmronFinsUDP.Extend.Net",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.04.55/ka.barcode.generator.powerpoint.code39.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2862a1ee-74a7-4bb0-a218-a3ef7e8ba9c3",
+      "commitTimeStamp": "2025-11-06T03:04:55.9191508Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.Code39",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.04.21/ka.barcode.generator.powerpoint.code2of5.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71e0d10d-472c-4002-8ed0-b911df9989ec",
+      "commitTimeStamp": "2025-11-06T03:04:21.1220929Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.Code2of5.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.03.43/ka.barcode.generator.powerpoint.code2of5.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15637465-9dce-490a-913c-a011a1604156",
+      "commitTimeStamp": "2025-11-06T03:03:43.5436854Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.Code2of5",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.03.43/ruovea.omiapi.userrolemenu.6.0.2.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15637465-9dce-490a-913c-a011a1604156",
+      "commitTimeStamp": "2025-11-06T03:03:43.5436854Z",
+      "nuget:id": "RuoVea.OmiApi.UserRoleMenu",
+      "nuget:version": "6.0.2.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.03.43/ka.barcode.generator.powerpoint.code128.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15637465-9dce-490a-913c-a011a1604156",
+      "commitTimeStamp": "2025-11-06T03:03:43.5436854Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.Code128.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.03.43/ruovea.omiapi.userrole.8.0.1.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15637465-9dce-490a-913c-a011a1604156",
+      "commitTimeStamp": "2025-11-06T03:03:43.5436854Z",
+      "nuget:id": "RuoVea.OmiApi.UserRole",
+      "nuget:version": "8.0.1.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.03.43/ruovea.omiapi.userrole.6.0.2.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15637465-9dce-490a-913c-a011a1604156",
+      "commitTimeStamp": "2025-11-06T03:03:43.5436854Z",
+      "nuget:id": "RuoVea.OmiApi.UserRole",
+      "nuget:version": "6.0.2.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.03.43/ka.barcode.generator.powerpoint.code128.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15637465-9dce-490a-913c-a011a1604156",
+      "commitTimeStamp": "2025-11-06T03:03:43.5436854Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.Code128",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.03.43/ka.barcode.generator.powerpoint.code11.vb.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15637465-9dce-490a-913c-a011a1604156",
+      "commitTimeStamp": "2025-11-06T03:03:43.5436854Z",
+      "nuget:id": "KA.Barcode.Generator.PowerPoint.Code11.VB",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.03.43/ka.barcode.generator.planet.7.7.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15637465-9dce-490a-913c-a011a1604156",
+      "commitTimeStamp": "2025-11-06T03:03:43.5436854Z",
+      "nuget:id": "KA.Barcode.Generator.PLANET",
+      "nuget:version": "7.7.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.03.43/ruovea.omiapi.user.6.0.2.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15637465-9dce-490a-913c-a011a1604156",
+      "commitTimeStamp": "2025-11-06T03:03:43.5436854Z",
+      "nuget:id": "RuoVea.OmiApi.User",
+      "nuget:version": "6.0.2.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.03.43/ruovea.omiapi.userrolemenu.7.0.1.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15637465-9dce-490a-913c-a011a1604156",
+      "commitTimeStamp": "2025-11-06T03:03:43.5436854Z",
+      "nuget:id": "RuoVea.OmiApi.UserRoleMenu",
+      "nuget:version": "7.0.1.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.06.03.03.43/ruovea.omiapi.userrolemenu.8.0.1.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15637465-9dce-490a-913c-a011a1604156",
+      "commitTimeStamp": "2025-11-06T03:03:43.5436854Z",
+      "nuget:id": "RuoVea.OmiApi.UserRoleMenu",
+      "nuget:version": "8.0.1.8"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
