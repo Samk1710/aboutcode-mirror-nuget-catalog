@@ -1,0 +1,441 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21805.json",
+  "@type": "CatalogPage",
+  "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+  "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+  "count": 51,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/funfair.buildversion.detection.6.2.18.1756-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "FunFair.BuildVersion.Detection",
+      "nuget:version": "6.2.18.1756-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/funfair.buildversion.win-arm64.6.2.18.1756-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "FunFair.BuildVersion.win-arm64",
+      "nuget:version": "6.2.18.1756-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/frameworkofaliveapplication.frameworkbase.8.1.0.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "FrameworkOfAliveApplication.FrameworkBase",
+      "nuget:version": "8.1.0.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/funfair.buildversion.osx-x64.6.2.18.1756-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "FunFair.BuildVersion.osx-x64",
+      "nuget:version": "6.2.18.1756-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/frameworkofaliveapplication.standardbase.ntcontroller.8.1.0.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "FrameworkOfAliveApplication.StandardBase.NTController",
+      "nuget:version": "8.1.0.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/raster.barcodereader.powerpoint.source.vb.codabar.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.VB.Codabar",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/frameworkofaliveapplication.standardbase.dronebase.8.1.0.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "FrameworkOfAliveApplication.StandardBase.DroneBase",
+      "nuget:version": "8.1.0.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/funfair.buildversion.publishers.6.2.18.1756-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "FunFair.BuildVersion.Publishers",
+      "nuget:version": "6.2.18.1756-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/frameworkofaliveapplication.standardbase.utility.signalr.8.1.0.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "FrameworkOfAliveApplication.StandardBase.Utility.SignalR",
+      "nuget:version": "8.1.0.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/raster.barcodereader.powerpoint.source.vb.datamatrix.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.VB.DataMatrix",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/raster.barcodereader.powerpoint.source.vb.ean13.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.VB.EAN13",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/funfair.buildversion.gittagbuildnumber.6.2.18.1756-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "FunFair.BuildVersion.GitTagBuildNumber",
+      "nuget:version": "6.2.18.1756-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/frameworkofaliveapplication.frameworkbase.charting.8.1.0.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "FrameworkOfAliveApplication.FrameworkBase.Charting",
+      "nuget:version": "8.1.0.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/xamarin.documentreader.core.doctype.android.8.4.1220-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.DocType.Android",
+      "nuget:version": "8.4.1220-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/frameworkofaliveapplication.frameworkbase.routedesign.8.1.0.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "FrameworkOfAliveApplication.FrameworkBase.RouteDesign",
+      "nuget:version": "8.1.0.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.50/funfair.buildversion.6.2.18.1756-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02003adc-b8bc-48cc-88c9-7cb6481fa1f7",
+      "commitTimeStamp": "2025-11-11T03:28:50.3416327Z",
+      "nuget:id": "FunFair.BuildVersion",
+      "nuget:version": "6.2.18.1756-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.15/frameworkofaliveapplication.standardbase.versioneddocstore.8.1.0.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "16e4baba-356a-4803-8cfc-7b0b83a7a403",
+      "commitTimeStamp": "2025-11-11T03:28:15.4506374Z",
+      "nuget:id": "FrameworkOfAliveApplication.StandardBase.VersionedDocStore",
+      "nuget:version": "8.1.0.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.15/raster.barcodereader.powerpoint.source.vb.australiapost.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "16e4baba-356a-4803-8cfc-7b0b83a7a403",
+      "commitTimeStamp": "2025-11-11T03:28:15.4506374Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.VB.AustraliaPost",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.15/raster.barcodereader.powerpoint.source.vb.code39.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "16e4baba-356a-4803-8cfc-7b0b83a7a403",
+      "commitTimeStamp": "2025-11-11T03:28:15.4506374Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.VB.Code39",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.15/frameworkofaliveapplication.frameworkbase.utility.8.1.0.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "16e4baba-356a-4803-8cfc-7b0b83a7a403",
+      "commitTimeStamp": "2025-11-11T03:28:15.4506374Z",
+      "nuget:id": "FrameworkOfAliveApplication.FrameworkBase.Utility",
+      "nuget:version": "8.1.0.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.15/midacustomlogger.api.1.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "16e4baba-356a-4803-8cfc-7b0b83a7a403",
+      "commitTimeStamp": "2025-11-11T03:28:15.4506374Z",
+      "nuget:id": "MidaCustomLogger.API",
+      "nuget:version": "1.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.15/frameworkofaliveapplication.standardbase.utility.8.1.0.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "16e4baba-356a-4803-8cfc-7b0b83a7a403",
+      "commitTimeStamp": "2025-11-11T03:28:15.4506374Z",
+      "nuget:id": "FrameworkOfAliveApplication.StandardBase.Utility",
+      "nuget:version": "8.1.0.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.15/raster.barcodereader.powerpoint.source.vb.code128.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "16e4baba-356a-4803-8cfc-7b0b83a7a403",
+      "commitTimeStamp": "2025-11-11T03:28:15.4506374Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.VB.Code128",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.15/frameworkofaliveapplication.avaloniabase.8.1.0.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "16e4baba-356a-4803-8cfc-7b0b83a7a403",
+      "commitTimeStamp": "2025-11-11T03:28:15.4506374Z",
+      "nuget:id": "FrameworkOfAliveApplication.AvaloniaBase",
+      "nuget:version": "8.1.0.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.15/frameworkofaliveapplication.corebase.8.1.0.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "16e4baba-356a-4803-8cfc-7b0b83a7a403",
+      "commitTimeStamp": "2025-11-11T03:28:15.4506374Z",
+      "nuget:id": "FrameworkOfAliveApplication.CoreBase",
+      "nuget:version": "8.1.0.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.15/raster.barcodereader.powerpoint.source.rm4scc.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "16e4baba-356a-4803-8cfc-7b0b83a7a403",
+      "commitTimeStamp": "2025-11-11T03:28:15.4506374Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.RM4SCC",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.28.15/frameworkofaliveapplication.corebase.charting.8.1.0.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "16e4baba-356a-4803-8cfc-7b0b83a7a403",
+      "commitTimeStamp": "2025-11-11T03:28:15.4506374Z",
+      "nuget:id": "FrameworkOfAliveApplication.CoreBase.Charting",
+      "nuget:version": "8.1.0.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.38/raster.barcodereader.powerpoint.source.upce.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ec0a786-d1bd-4823-8b78-8b6d1d3f6a33",
+      "commitTimeStamp": "2025-11-11T03:27:38.0109555Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.UPCE",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.38/funfair.buildcheck.helpers.474.2.2.1926-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ec0a786-d1bd-4823-8b78-8b6d1d3f6a33",
+      "commitTimeStamp": "2025-11-11T03:27:38.0109555Z",
+      "nuget:id": "FunFair.BuildCheck.Helpers",
+      "nuget:version": "474.2.2.1926-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.38/raster.barcodereader.powerpoint.source.interleaved2of5.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ec0a786-d1bd-4823-8b78-8b6d1d3f6a33",
+      "commitTimeStamp": "2025-11-11T03:27:38.0109555Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.Interleaved2of5",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.38/raster.barcodereader.powerpoint.source.qrcode.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ec0a786-d1bd-4823-8b78-8b6d1d3f6a33",
+      "commitTimeStamp": "2025-11-11T03:27:38.0109555Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.QRCode",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.38/raster.barcodereader.powerpoint.source.upca.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ec0a786-d1bd-4823-8b78-8b6d1d3f6a33",
+      "commitTimeStamp": "2025-11-11T03:27:38.0109555Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.UPCA",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/funfair.buildcheck.win-arm64.474.2.2.1926-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "FunFair.BuildCheck.win-arm64",
+      "nuget:version": "474.2.2.1926-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/funfair.buildcheck.win-x64.474.2.2.1926-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "FunFair.BuildCheck.win-x64",
+      "nuget:version": "474.2.2.1926-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/raster.barcodereader.powerpoint.source.planet.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.PLANET",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/raster.barcodereader.powerpoint.source.leitcode.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.Leitcode",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/funfair.buildcheck.runner.474.2.2.1926-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "FunFair.BuildCheck.Runner",
+      "nuget:version": "474.2.2.1926-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/pnp.core.admin.1.15.201-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "PnP.Core.Admin",
+      "nuget:version": "1.15.201-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/pnp.core.auth.1.15.201-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "PnP.Core.Auth",
+      "nuget:version": "1.15.201-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/raster.barcodereader.powerpoint.source.patchcode.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.PatchCode",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/funfair.buildcheck.linux-x64.474.2.2.1926-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "FunFair.BuildCheck.linux-x64",
+      "nuget:version": "474.2.2.1926-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/pnp.core.1.15.201-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "PnP.Core",
+      "nuget:version": "1.15.201-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/raster.barcodereader.powerpoint.source.pdf417.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.PDF417",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/funfair.buildcheck.interfaces.474.2.2.1926-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "FunFair.BuildCheck.Interfaces",
+      "nuget:version": "474.2.2.1926-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/funfair.buildcheck.solutionchecks.474.2.2.1926-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "FunFair.BuildCheck.SolutionChecks",
+      "nuget:version": "474.2.2.1926-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/funfair.buildcheck.osx-arm64.474.2.2.1926-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "FunFair.BuildCheck.osx-arm64",
+      "nuget:version": "474.2.2.1926-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/blazormonacoeditor.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "BlazorMonacoEditor",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/pnp.framework.1.18.200-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "PnP.Framework",
+      "nuget:version": "1.18.200-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/raster.barcodereader.powerpoint.source.postnet.12.3.5.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "Raster.BarcodeReader.PowerPoint.Source.POSTNET",
+      "nuget:version": "12.3.5.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/xamarin.documentreader.core.doctype.ios.8.4.1220-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.DocType.iOS",
+      "nuget:version": "8.4.1220-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.11.03.27.01/funfair.buildcheck.linux-arm64.474.2.2.1926-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb642004-6525-4190-be2b-5d4431b2b111",
+      "commitTimeStamp": "2025-11-11T03:27:01.1026158Z",
+      "nuget:id": "FunFair.BuildCheck.linux-arm64",
+      "nuget:version": "474.2.2.1926-main"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
