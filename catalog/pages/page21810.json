@@ -1,0 +1,529 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21810.json",
+  "@type": "CatalogPage",
+  "commitId": "b0b060bb-8d76-469d-80d8-b2cc2448a5bf",
+  "commitTimeStamp": "2025-11-12T02:38:42.5788295Z",
+  "count": 62,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.38.42/napalmcodes.aspire.hosting.krakend.13.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b0b060bb-8d76-469d-80d8-b2cc2448a5bf",
+      "commitTimeStamp": "2025-11-12T02:38:42.5788295Z",
+      "nuget:id": "NapalmCodes.Aspire.Hosting.Krakend",
+      "nuget:version": "13.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.38.42/il.umbracosearch.16.4.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b0b060bb-8d76-469d-80d8-b2cc2448a5bf",
+      "commitTimeStamp": "2025-11-12T02:38:42.5788295Z",
+      "nuget:id": "IL.UmbracoSearch",
+      "nuget:version": "16.4.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.38.07/pnp.framework.1.18.211-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "caeb5bad-fdc9-44ff-86f5-62ca269cbdb9",
+      "commitTimeStamp": "2025-11-12T02:38:07.9379703Z",
+      "nuget:id": "PnP.Framework",
+      "nuget:version": "1.18.211-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.38.07/zongsoft.data.influx.0.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "caeb5bad-fdc9-44ff-86f5-62ca269cbdb9",
+      "commitTimeStamp": "2025-11-12T02:38:07.9379703Z",
+      "nuget:id": "Zongsoft.Data.Influx",
+      "nuget:version": "0.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.38.07/tx.ms.1.1.6.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "caeb5bad-fdc9-44ff-86f5-62ca269cbdb9",
+      "commitTimeStamp": "2025-11-12T02:38:07.9379703Z",
+      "nuget:id": "Tx.MS",
+      "nuget:version": "1.1.6.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.38.07/zongsoft.data.sqlite.2.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "caeb5bad-fdc9-44ff-86f5-62ca269cbdb9",
+      "commitTimeStamp": "2025-11-12T02:38:07.9379703Z",
+      "nuget:id": "Zongsoft.Data.SQLite",
+      "nuget:version": "2.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.38.07/zongsoft.data.tdengine.2.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "caeb5bad-fdc9-44ff-86f5-62ca269cbdb9",
+      "commitTimeStamp": "2025-11-12T02:38:07.9379703Z",
+      "nuget:id": "Zongsoft.Data.TDengine",
+      "nuget:version": "2.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.38.07/zongsoft.data.mysql.7.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "caeb5bad-fdc9-44ff-86f5-62ca269cbdb9",
+      "commitTimeStamp": "2025-11-12T02:38:07.9379703Z",
+      "nuget:id": "Zongsoft.Data.MySql",
+      "nuget:version": "7.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.38.07/codewf.logviewer.avalonia.1.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "caeb5bad-fdc9-44ff-86f5-62ca269cbdb9",
+      "commitTimeStamp": "2025-11-12T02:38:07.9379703Z",
+      "nuget:id": "CodeWF.LogViewer.Avalonia",
+      "nuget:version": "1.1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.38.07/zongsoft.data.postgresql.0.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "caeb5bad-fdc9-44ff-86f5-62ca269cbdb9",
+      "commitTimeStamp": "2025-11-12T02:38:07.9379703Z",
+      "nuget:id": "Zongsoft.Data.PostgreSql",
+      "nuget:version": "0.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.38.07/il.licensing.validation.16.4.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "caeb5bad-fdc9-44ff-86f5-62ca269cbdb9",
+      "commitTimeStamp": "2025-11-12T02:38:07.9379703Z",
+      "nuget:id": "IL.Licensing.Validation",
+      "nuget:version": "16.4.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.37.32/zongsoft.data.clickhouse.2.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdb74642-6541-41d5-ac49-ac75ebb320e5",
+      "commitTimeStamp": "2025-11-12T02:37:32.389677Z",
+      "nuget:id": "Zongsoft.Data.ClickHouse",
+      "nuget:version": "2.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.37.32/zongsoft.data.mssql.7.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdb74642-6541-41d5-ac49-ac75ebb320e5",
+      "commitTimeStamp": "2025-11-12T02:37:32.389677Z",
+      "nuget:id": "Zongsoft.Data.MsSql",
+      "nuget:version": "7.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.37.32/voltaic.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdb74642-6541-41d5-ac49-ac75ebb320e5",
+      "commitTimeStamp": "2025-11-12T02:37:32.389677Z",
+      "nuget:id": "Voltaic",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.37.32/blazor.radzen.theming.8.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdb74642-6541-41d5-ac49-ac75ebb320e5",
+      "commitTimeStamp": "2025-11-12T02:37:32.389677Z",
+      "nuget:id": "Blazor.Radzen.Theming",
+      "nuget:version": "8.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.36.55/csoft.utils.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9f51e82-6311-4e4b-80e5-f52c708b19cc",
+      "commitTimeStamp": "2025-11-12T02:36:55.2084153Z",
+      "nuget:id": "CSoft.Utils",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.36.19/soenneker.github.artifacts.4.0.1269.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b61768bf-24f6-4bfc-9ef4-c2353f4ca7ba",
+      "commitTimeStamp": "2025-11-12T02:36:19.9885617Z",
+      "nuget:id": "Soenneker.GitHub.Artifacts",
+      "nuget:version": "4.0.1269"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.36.19/ffmpeg.gpl.20251112.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b61768bf-24f6-4bfc-9ef4-c2353f4ca7ba",
+      "commitTimeStamp": "2025-11-12T02:36:19.9885617Z",
+      "nuget:id": "FFmpeg.GPL",
+      "nuget:version": "20251112.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.35.44/kamiyomu.crawleragents.mangakatana.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3012b087-b7ba-473d-b51b-614dc734cde6",
+      "commitTimeStamp": "2025-11-12T02:35:44.9527851Z",
+      "nuget:id": "KamiYomu.CrawlerAgents.MangaKatana",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.35.09/core.socket.3.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "01b3056d-b6c3-4d03-9f09-e7a2eb84507b",
+      "commitTimeStamp": "2025-11-12T02:35:09.8065615Z",
+      "nuget:id": "Core.Socket",
+      "nuget:version": "3.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.35.09/netool.pack.3.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "01b3056d-b6c3-4d03-9f09-e7a2eb84507b",
+      "commitTimeStamp": "2025-11-12T02:35:09.8065615Z",
+      "nuget:id": "NETool.Pack",
+      "nuget:version": "3.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.34.34/netool.3.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65ef5ef4-6299-4db3-9b5c-17f6bb98f471",
+      "commitTimeStamp": "2025-11-12T02:34:34.7380775Z",
+      "nuget:id": "NETool",
+      "nuget:version": "3.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.34.34/netool.fx.3.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65ef5ef4-6299-4db3-9b5c-17f6bb98f471",
+      "commitTimeStamp": "2025-11-12T02:34:34.7380775Z",
+      "nuget:id": "NETool.FX",
+      "nuget:version": "3.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.34.34/netool.generator.3.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65ef5ef4-6299-4db3-9b5c-17f6bb98f471",
+      "commitTimeStamp": "2025-11-12T02:34:34.7380775Z",
+      "nuget:id": "NETool.Generator",
+      "nuget:version": "3.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.33.59/kdbndp_v9.8.0.2.1114.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0c7aaa10-8d77-4294-81ef-da137f4968f6",
+      "commitTimeStamp": "2025-11-12T02:33:59.6750105Z",
+      "nuget:id": "Kdbndp_V9",
+      "nuget:version": "8.0.2.1114"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.33.23/aj.platform.core.2.0.106.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8bea058e-b567-40d5-a942-04e5fd3b850c",
+      "commitTimeStamp": "2025-11-12T02:33:23.6524854Z",
+      "nuget:id": "Aj.Platform.Core",
+      "nuget:version": "2.0.106"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.33.23/barcodelib.ssrs.upca.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8bea058e-b567-40d5-a942-04e5fd3b850c",
+      "commitTimeStamp": "2025-11-12T02:33:23.6524854Z",
+      "nuget:id": "BarcodeLib.SSRS.UPCA",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.32.49/interop.tsmasterapi.2025.11.12.1716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "befb6e0f-b848-4c73-a713-92af28e7537c",
+      "commitTimeStamp": "2025-11-12T02:32:49.1806696Z",
+      "nuget:id": "Interop.TSMasterAPI",
+      "nuget:version": "2025.11.12.1716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.32.13/barcodelib.ssrs.winforms.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9a1d4823-0e23-4956-bfe6-1b5520cbb5da",
+      "commitTimeStamp": "2025-11-12T02:32:13.5708517Z",
+      "nuget:id": "BarcodeLib.SSRS.WinForms",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.32.13/barcodelib.ssrs.upce.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9a1d4823-0e23-4956-bfe6-1b5520cbb5da",
+      "commitTimeStamp": "2025-11-12T02:32:13.5708517Z",
+      "nuget:id": "BarcodeLib.SSRS.UPCE",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.32.13/barcodelib.ssrs.wpf.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9a1d4823-0e23-4956-bfe6-1b5520cbb5da",
+      "commitTimeStamp": "2025-11-12T02:32:13.5708517Z",
+      "nuget:id": "BarcodeLib.SSRS.WPF",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.32.13/barcodelib.ssrs.rm4scc.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9a1d4823-0e23-4956-bfe6-1b5520cbb5da",
+      "commitTimeStamp": "2025-11-12T02:32:13.5708517Z",
+      "nuget:id": "BarcodeLib.SSRS.RM4SCC",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.32.13/soenneker.telnyx.clientutil.4.0.256.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9a1d4823-0e23-4956-bfe6-1b5520cbb5da",
+      "commitTimeStamp": "2025-11-12T02:32:13.5708517Z",
+      "nuget:id": "Soenneker.Telnyx.ClientUtil",
+      "nuget:version": "4.0.256"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.31.37/freescheduler.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bb2d28b-3dc2-4ccb-a02c-fd964aa5d225",
+      "commitTimeStamp": "2025-11-12T02:31:37.5666639Z",
+      "nuget:id": "FreeScheduler",
+      "nuget:version": "2.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.31.37/fsel.core.1.2.32-rc.54.25.5.subject.redis.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bb2d28b-3dc2-4ccb-a02c-fd964aa5d225",
+      "commitTimeStamp": "2025-11-12T02:31:37.5666639Z",
+      "nuget:id": "Fsel.Core",
+      "nuget:version": "1.2.32-rc.54.25.5.subject.redis.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.31.37/barcodelib.ssrs.msiplessey.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bb2d28b-3dc2-4ccb-a02c-fd964aa5d225",
+      "commitTimeStamp": "2025-11-12T02:31:37.5666639Z",
+      "nuget:id": "BarcodeLib.SSRS.MSIPlessey",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.31.37/barcodelib.ssrs.postnet.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bb2d28b-3dc2-4ccb-a02c-fd964aa5d225",
+      "commitTimeStamp": "2025-11-12T02:31:37.5666639Z",
+      "nuget:id": "BarcodeLib.SSRS.POSTNET",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.31.37/barcodelib.ssrs.qrcode.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bb2d28b-3dc2-4ccb-a02c-fd964aa5d225",
+      "commitTimeStamp": "2025-11-12T02:31:37.5666639Z",
+      "nuget:id": "BarcodeLib.SSRS.QRCode",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.31.03/modulytics.sharedkernel.authentication.1.0.19.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5b96ec45-9c56-4335-9a9e-840656b94f3c",
+      "commitTimeStamp": "2025-11-12T02:31:03.2071431Z",
+      "nuget:id": "Modulytics.SharedKernel.Authentication",
+      "nuget:version": "1.0.19"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.31.03/bootstrapblazor.opcda.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5b96ec45-9c56-4335-9a9e-840656b94f3c",
+      "commitTimeStamp": "2025-11-12T02:31:03.2071431Z",
+      "nuget:id": "BootstrapBlazor.OpcDa",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.31.03/barcodelib.ssrs.planet.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5b96ec45-9c56-4335-9a9e-840656b94f3c",
+      "commitTimeStamp": "2025-11-12T02:31:03.2071431Z",
+      "nuget:id": "BarcodeLib.SSRS.PLANET",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.31.03/barcodelib.ssrs.itf14.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5b96ec45-9c56-4335-9a9e-840656b94f3c",
+      "commitTimeStamp": "2025-11-12T02:31:03.2071431Z",
+      "nuget:id": "BarcodeLib.SSRS.ITF14",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.31.03/barcodelib.ssrs.pdf417.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5b96ec45-9c56-4335-9a9e-840656b94f3c",
+      "commitTimeStamp": "2025-11-12T02:31:03.2071431Z",
+      "nuget:id": "BarcodeLib.SSRS.PDF417",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.30.27/soenneker.bland.suite.4.0.924.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "44d3b322-a3ab-4cf6-9fdf-58034f6dbddc",
+      "commitTimeStamp": "2025-11-12T02:30:27.4381629Z",
+      "nuget:id": "Soenneker.Bland.Suite",
+      "nuget:version": "4.0.924"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.30.27/modulytics.sharedkernel.application.1.0.19.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "44d3b322-a3ab-4cf6-9fdf-58034f6dbddc",
+      "commitTimeStamp": "2025-11-12T02:30:27.4381629Z",
+      "nuget:id": "Modulytics.SharedKernel.Application",
+      "nuget:version": "1.0.19"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.30.27/barcodelib.ssrs.ean8.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "44d3b322-a3ab-4cf6-9fdf-58034f6dbddc",
+      "commitTimeStamp": "2025-11-12T02:30:27.4381629Z",
+      "nuget:id": "BarcodeLib.SSRS.EAN8",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.30.27/barcodelib.ssrs.intelligentmail.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "44d3b322-a3ab-4cf6-9fdf-58034f6dbddc",
+      "commitTimeStamp": "2025-11-12T02:30:27.4381629Z",
+      "nuget:id": "BarcodeLib.SSRS.IntelligentMail",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.29.50/cascap.common.extensions.4.5.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f6e5623-b413-49ca-8c8b-4ff9a663f7be",
+      "commitTimeStamp": "2025-11-12T02:29:50.5692129Z",
+      "nuget:id": "CasCap.Common.Extensions",
+      "nuget:version": "4.5.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.29.50/modulytics.sharedkernel.persistence.1.0.19.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f6e5623-b413-49ca-8c8b-4ff9a663f7be",
+      "commitTimeStamp": "2025-11-12T02:29:50.5692129Z",
+      "nuget:id": "Modulytics.SharedKernel.Persistence",
+      "nuget:version": "1.0.19"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.29.50/modulytics.sharedkernel.endpoints.1.0.19.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f6e5623-b413-49ca-8c8b-4ff9a663f7be",
+      "commitTimeStamp": "2025-11-12T02:29:50.5692129Z",
+      "nuget:id": "Modulytics.SharedKernel.Endpoints",
+      "nuget:version": "1.0.19"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.29.50/cascap.common.serialization.messagepack.4.5.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f6e5623-b413-49ca-8c8b-4ff9a663f7be",
+      "commitTimeStamp": "2025-11-12T02:29:50.5692129Z",
+      "nuget:id": "CasCap.Common.Serialization.MessagePack",
+      "nuget:version": "4.5.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.29.50/modulytics.sharedkernel.domain.1.0.19.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f6e5623-b413-49ca-8c8b-4ff9a663f7be",
+      "commitTimeStamp": "2025-11-12T02:29:50.5692129Z",
+      "nuget:id": "Modulytics.SharedKernel.Domain",
+      "nuget:version": "1.0.19"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.29.50/cascap.common.extensions.diagnostics.healthchecks.4.5.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f6e5623-b413-49ca-8c8b-4ff9a663f7be",
+      "commitTimeStamp": "2025-11-12T02:29:50.5692129Z",
+      "nuget:id": "CasCap.Common.Extensions.Diagnostics.HealthChecks",
+      "nuget:version": "4.5.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.29.50/barcodelib.ssrs.gs1.databar.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f6e5623-b413-49ca-8c8b-4ff9a663f7be",
+      "commitTimeStamp": "2025-11-12T02:29:50.5692129Z",
+      "nuget:id": "BarcodeLib.SSRS.GS1.DataBar",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.29.50/barcodelib.ssrs.gs1.128.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f6e5623-b413-49ca-8c8b-4ff9a663f7be",
+      "commitTimeStamp": "2025-11-12T02:29:50.5692129Z",
+      "nuget:id": "BarcodeLib.SSRS.GS1.128",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.29.50/cascap.common.caching.4.5.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f6e5623-b413-49ca-8c8b-4ff9a663f7be",
+      "commitTimeStamp": "2025-11-12T02:29:50.5692129Z",
+      "nuget:id": "CasCap.Common.Caching",
+      "nuget:version": "4.5.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.29.50/modulytics.sharedkernel.shared.1.0.19.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f6e5623-b413-49ca-8c8b-4ff9a663f7be",
+      "commitTimeStamp": "2025-11-12T02:29:50.5692129Z",
+      "nuget:id": "Modulytics.SharedKernel.Shared",
+      "nuget:version": "1.0.19"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.29.50/cete.dynamicpdf.coresuite.net.12.39.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f6e5623-b413-49ca-8c8b-4ff9a663f7be",
+      "commitTimeStamp": "2025-11-12T02:29:50.5692129Z",
+      "nuget:id": "ceTe.DynamicPDF.CoreSuite.NET",
+      "nuget:version": "12.39.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.29.50/zongsoft.data.7.8.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f6e5623-b413-49ca-8c8b-4ff9a663f7be",
+      "commitTimeStamp": "2025-11-12T02:29:50.5692129Z",
+      "nuget:id": "Zongsoft.Data",
+      "nuget:version": "7.8.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.29.50/barcodelib.ssrs.ean13.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f6e5623-b413-49ca-8c8b-4ff9a663f7be",
+      "commitTimeStamp": "2025-11-12T02:29:50.5692129Z",
+      "nuget:id": "BarcodeLib.SSRS.EAN13",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.29.50/barcodelib.ssrs.code93.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f6e5623-b413-49ca-8c8b-4ff9a663f7be",
+      "commitTimeStamp": "2025-11-12T02:29:50.5692129Z",
+      "nuget:id": "BarcodeLib.SSRS.Code93",
+      "nuget:version": "7.4.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.12.02.29.50/barcodelib.ssrs.interleaved2of5.7.4.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f6e5623-b413-49ca-8c8b-4ff9a663f7be",
+      "commitTimeStamp": "2025-11-12T02:29:50.5692129Z",
+      "nuget:id": "BarcodeLib.SSRS.Interleaved2of5",
+      "nuget:version": "7.4.0.1"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
