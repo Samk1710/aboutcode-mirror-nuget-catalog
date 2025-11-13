@@ -1,0 +1,3217 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21816.json",
+  "@type": "CatalogPage",
+  "commitId": "61a71378-dce1-4802-9f3f-cf5ac30f2d51",
+  "commitTimeStamp": "2025-11-13T11:07:19.9337058Z",
+  "count": 398,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.07.19/meshmakers.octo.sdk.packages.industry.maintenance.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61a71378-dce1-4802-9f3f-cf5ac30f2d51",
+      "commitTimeStamp": "2025-11-13T11:07:19.9337058Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Industry.Maintenance",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.07.19/meshmakers.octo.sdk.packages.industry.energy.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61a71378-dce1-4802-9f3f-cf5ac30f2d51",
+      "commitTimeStamp": "2025-11-13T11:07:19.9337058Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Industry.Energy",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.07.19/essy.ftdiwrapper.7.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61a71378-dce1-4802-9f3f-cf5ac30f2d51",
+      "commitTimeStamp": "2025-11-13T11:07:19.9337058Z",
+      "nuget:id": "Essy.FTDIWrapper",
+      "nuget:version": "7.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.07.19/kpokpatagon.models.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61a71378-dce1-4802-9f3f-cf5ac30f2d51",
+      "commitTimeStamp": "2025-11-13T11:07:19.9337058Z",
+      "nuget:id": "KpokPatagon.Models",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/kpokpatagon.cache.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "KpokPatagon.Cache",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/kpokpatagon.data.migrations.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "KpokPatagon.Data.Migrations",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/kpokpatagon.data.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "KpokPatagon.Data",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/bim.works_sdk.2.0.0-b.19.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "BIM.works_SDK",
+      "nuget:version": "2.0.0-b.19"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/meshmakers.octo.sdk.packages.environment.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Environment",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/meshmakers.octo.sdk.packages.basic.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Basic",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/meshmakers.octo.sdk.packages.industry.basic.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Industry.Basic",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/kpokpatagon.data.sqlserver.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "KpokPatagon.Data.SqlServer",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/kpokpatagon.data.mysql.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "KpokPatagon.Data.MySql",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/appos.d4.freesql.6.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "AppOS.D4.FreeSql",
+      "nuget:version": "6.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/kpokpatagon.data.sqlite.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "KpokPatagon.Data.SQLite",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/kpokpatagon.multitenancy.commons.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "KpokPatagon.Multitenancy.Commons",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/meshmakers.octo.sdk.packages.industry.fluid.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Industry.Fluid",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/kpokpatagon.queue.nats.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "KpokPatagon.Queue.Nats",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/kpokpatagon.commons.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "KpokPatagon.Commons",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/meshmakers.octo.sdk.packages.demo.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Demo",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/meshmakers.octo.sdk.packages.industry.manufacturing.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Industry.Manufacturing",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/kpokpatagon.data.oracle.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "KpokPatagon.Data.Oracle",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/kpokpatagon.multitenancy.auditing.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "KpokPatagon.Multitenancy.Auditing",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.42/kpokpatagon.multitenancy.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8a1201-d53b-432c-afbe-489859586600",
+      "commitTimeStamp": "2025-11-13T11:06:42.4759462Z",
+      "nuget:id": "KpokPatagon.Multitenancy",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.04/kpokpatagon.queue.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "229c2e7a-5318-4268-8b8d-e030a9ce88c4",
+      "commitTimeStamp": "2025-11-13T11:06:04.4844159Z",
+      "nuget:id": "KpokPatagon.Queue",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.04/kpokpatagon.queue.rabbitmq.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "229c2e7a-5318-4268-8b8d-e030a9ce88c4",
+      "commitTimeStamp": "2025-11-13T11:06:04.4844159Z",
+      "nuget:id": "KpokPatagon.Queue.RabbitMQ",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.04/kpokpatagon.core.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "229c2e7a-5318-4268-8b8d-e030a9ce88c4",
+      "commitTimeStamp": "2025-11-13T11:06:04.4844159Z",
+      "nuget:id": "KpokPatagon.Core",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.04/mosaik.frontend.api.25.11.62672.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "229c2e7a-5318-4268-8b8d-e030a9ce88c4",
+      "commitTimeStamp": "2025-11-13T11:06:04.4844159Z",
+      "nuget:id": "Mosaik.FrontEnd.API",
+      "nuget:version": "25.11.62672"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.04/kpokpatagon.i18n.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "229c2e7a-5318-4268-8b8d-e030a9ce88c4",
+      "commitTimeStamp": "2025-11-13T11:06:04.4844159Z",
+      "nuget:id": "KpokPatagon.I18n",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.04/kpokpatagon.cli.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "229c2e7a-5318-4268-8b8d-e030a9ce88c4",
+      "commitTimeStamp": "2025-11-13T11:06:04.4844159Z",
+      "nuget:id": "KpokPatagon.CLI",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.04/curiosity.components.25.11.62672.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "229c2e7a-5318-4268-8b8d-e030a9ce88c4",
+      "commitTimeStamp": "2025-11-13T11:06:04.4844159Z",
+      "nuget:id": "Curiosity.Components",
+      "nuget:version": "25.11.62672"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.04/meshmakers.octo.sdk.packages.energycommunity.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "229c2e7a-5318-4268-8b8d-e030a9ce88c4",
+      "commitTimeStamp": "2025-11-13T11:06:04.4844159Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.EnergyCommunity",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.04/seliseblocks.iamdriver.9.0.0-preview.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "229c2e7a-5318-4268-8b8d-e030a9ce88c4",
+      "commitTimeStamp": "2025-11-13T11:06:04.4844159Z",
+      "nuget:id": "SeliseBlocks.IamDriver",
+      "nuget:version": "9.0.0-preview.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.04/statepulse.net.1.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "229c2e7a-5318-4268-8b8d-e030a9ce88c4",
+      "commitTimeStamp": "2025-11-13T11:06:04.4844159Z",
+      "nuget:id": "StatePulse.Net",
+      "nuget:version": "1.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.04/kpokpatagon.aspnet.multitenancy.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "229c2e7a-5318-4268-8b8d-e030a9ce88c4",
+      "commitTimeStamp": "2025-11-13T11:06:04.4844159Z",
+      "nuget:id": "KpokPatagon.AspNet.Multitenancy",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.04/kpokpatagon.aspnet.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "229c2e7a-5318-4268-8b8d-e030a9ce88c4",
+      "commitTimeStamp": "2025-11-13T11:06:04.4844159Z",
+      "nuget:id": "KpokPatagon.AspNet",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.04/appos.d4.http.6.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "229c2e7a-5318-4268-8b8d-e030a9ce88c4",
+      "commitTimeStamp": "2025-11-13T11:06:04.4844159Z",
+      "nuget:id": "AppOS.D4.HTTP",
+      "nuget:version": "6.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.06.04/kpokpatagon.auditing.10.0.25317.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "229c2e7a-5318-4268-8b8d-e030a9ce88c4",
+      "commitTimeStamp": "2025-11-13T11:06:04.4844159Z",
+      "nuget:id": "KpokPatagon.Auditing",
+      "nuget:version": "10.0.25317.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.05.26/aguacongas.aspnetcore.authentication.testbase.6.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9770d326-d29b-403f-8607-d31b210104d6",
+      "commitTimeStamp": "2025-11-13T11:05:26.7143748Z",
+      "nuget:id": "Aguacongas.AspNetCore.Authentication.TestBase",
+      "nuget:version": "6.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.05.26/mosaik.frontend.core.25.11.62672.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9770d326-d29b-403f-8607-d31b210104d6",
+      "commitTimeStamp": "2025-11-13T11:05:26.7143748Z",
+      "nuget:id": "Mosaik.FrontEnd.Core",
+      "nuget:version": "25.11.62672"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.05.26/mosaik.frontend.admin.25.11.62672.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9770d326-d29b-403f-8607-d31b210104d6",
+      "commitTimeStamp": "2025-11-13T11:05:26.7143748Z",
+      "nuget:id": "Mosaik.FrontEnd.Admin",
+      "nuget:version": "25.11.62672"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.05.26/aguacongas.aspnetcore.authentication.ravendb.6.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9770d326-d29b-403f-8607-d31b210104d6",
+      "commitTimeStamp": "2025-11-13T11:05:26.7143748Z",
+      "nuget:id": "Aguacongas.AspNetCore.Authentication.RavenDb",
+      "nuget:version": "6.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.05.26/aguacongas.aspnetcore.authentication.entityframework.6.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9770d326-d29b-403f-8607-d31b210104d6",
+      "commitTimeStamp": "2025-11-13T11:05:26.7143748Z",
+      "nuget:id": "Aguacongas.AspNetCore.Authentication.EntityFramework",
+      "nuget:version": "6.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.04.50/aguacongas.aspnetcore.authentication.6.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2e92042e-ea6f-4122-b618-8a2397337cab",
+      "commitTimeStamp": "2025-11-13T11:04:50.5578925Z",
+      "nuget:id": "Aguacongas.AspNetCore.Authentication",
+      "nuget:version": "6.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.04.50/aguacongas.aspnetcore.authentication.redis.6.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2e92042e-ea6f-4122-b618-8a2397337cab",
+      "commitTimeStamp": "2025-11-13T11:04:50.5578925Z",
+      "nuget:id": "Aguacongas.AspNetCore.Authentication.Redis",
+      "nuget:version": "6.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.03.03/realmdigital.common.0.0.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dbe90831-5f2e-4f05-80e1-d66bc2eec390",
+      "commitTimeStamp": "2025-11-13T11:03:03.1271901Z",
+      "nuget:id": "RealmDigital.Common",
+      "nuget:version": "0.0.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.03.03/pdfsharp.produceredit.0.22.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dbe90831-5f2e-4f05-80e1-d66bc2eec390",
+      "commitTimeStamp": "2025-11-13T11:03:03.1271901Z",
+      "nuget:id": "PDFSharp.ProducerEdit",
+      "nuget:version": "0.22.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.02.25/realmdigital.sourcegenerators.apiclient.typescript.0.0.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f46571d9-16d2-432d-a53b-34b66ae6bfeb",
+      "commitTimeStamp": "2025-11-13T11:02:25.7507332Z",
+      "nuget:id": "RealmDigital.SourceGenerators.ApiClient.Typescript",
+      "nuget:version": "0.0.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.01.47/edi.syndicationfeed.readerwriter.2.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9933a5a8-ae21-43ff-8b66-b4f795d28af7",
+      "commitTimeStamp": "2025-11-13T11:01:47.797314Z",
+      "nuget:id": "Edi.SyndicationFeed.ReaderWriter",
+      "nuget:version": "2.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.01.47/realmdigital.sourcegenerators.mediatorrequesttocontroller.0.0.33.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9933a5a8-ae21-43ff-8b66-b4f795d28af7",
+      "commitTimeStamp": "2025-11-13T11:01:47.797314Z",
+      "nuget:id": "RealmDigital.SourceGenerators.MediatorRequestToController",
+      "nuget:version": "0.0.33"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.01.10/realmdigital.common.api.0.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6545fe3-3a2c-4b2b-a79e-1fb817d33d92",
+      "commitTimeStamp": "2025-11-13T11:01:10.9918159Z",
+      "nuget:id": "RealmDigital.Common.Api",
+      "nuget:version": "0.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.00.31/appos.d4.application.6.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "48b55f6d-6c1e-4380-b282-04b2256af26e",
+      "commitTimeStamp": "2025-11-13T11:00:31.3902019Z",
+      "nuget:id": "AppOS.D4.Application",
+      "nuget:version": "6.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.00.31/cloud.unum.usearch.2.21.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "48b55f6d-6c1e-4380-b282-04b2256af26e",
+      "commitTimeStamp": "2025-11-13T11:00:31.3902019Z",
+      "nuget:id": "Cloud.Unum.USearch",
+      "nuget:version": "2.21.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.11.00.31/uniblazor.1.8.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "48b55f6d-6c1e-4380-b282-04b2256af26e",
+      "commitTimeStamp": "2025-11-13T11:00:31.3902019Z",
+      "nuget:id": "UniBlazor",
+      "nuget:version": "1.8.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.59.54/vespertan.data.2.165.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "37bd5511-57cb-42a9-baca-9b6e084d425b",
+      "commitTimeStamp": "2025-11-13T10:59:54.1983629Z",
+      "nuget:id": "Vespertan.Data",
+      "nuget:version": "2.165.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.59.54/escorp.atom.media.0.1.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "37bd5511-57cb-42a9-baca-9b6e084d425b",
+      "commitTimeStamp": "2025-11-13T10:59:54.1983629Z",
+      "nuget:id": "Escorp.Atom.Media",
+      "nuget:version": "0.1.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.58.40/meshmakers.octo.constructionkit.models.system.communication.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "70dffcfa-e499-4ca1-b8fd-c0bca56276e1",
+      "commitTimeStamp": "2025-11-13T10:58:40.4961901Z",
+      "nuget:id": "Meshmakers.Octo.ConstructionKit.Models.System.Communication",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.58.40/system.interactive.providers.7.0.0-preview.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "70dffcfa-e499-4ca1-b8fd-c0bca56276e1",
+      "commitTimeStamp": "2025-11-13T10:58:40.4961901Z",
+      "nuget:id": "System.Interactive.Providers",
+      "nuget:version": "7.0.0-preview.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.58.40/system.linq.async.queryable.7.0.0-preview.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "70dffcfa-e499-4ca1-b8fd-c0bca56276e1",
+      "commitTimeStamp": "2025-11-13T10:58:40.4961901Z",
+      "nuget:id": "System.Linq.Async.Queryable",
+      "nuget:version": "7.0.0-preview.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.58.40/taiwanutilities.1.0.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "70dffcfa-e499-4ca1-b8fd-c0bca56276e1",
+      "commitTimeStamp": "2025-11-13T10:58:40.4961901Z",
+      "nuget:id": "TaiwanUtilities",
+      "nuget:version": "1.0.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.58.03/sorcha.cryptography.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdfe49f3-d321-4aa3-a4ed-c592a38bed6e",
+      "commitTimeStamp": "2025-11-13T10:58:03.8078734Z",
+      "nuget:id": "Sorcha.Cryptography",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.58.03/system.linq.async.7.0.0-preview.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdfe49f3-d321-4aa3-a4ed-c592a38bed6e",
+      "commitTimeStamp": "2025-11-13T10:58:03.8078734Z",
+      "nuget:id": "System.Linq.Async",
+      "nuget:version": "7.0.0-preview.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.58.03/system.interactive.async.providers.7.0.0-preview.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdfe49f3-d321-4aa3-a4ed-c592a38bed6e",
+      "commitTimeStamp": "2025-11-13T10:58:03.8078734Z",
+      "nuget:id": "System.Interactive.Async.Providers",
+      "nuget:version": "7.0.0-preview.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.58.03/system.interactive.7.0.0-preview.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdfe49f3-d321-4aa3-a4ed-c592a38bed6e",
+      "commitTimeStamp": "2025-11-13T10:58:03.8078734Z",
+      "nuget:id": "System.Interactive",
+      "nuget:version": "7.0.0-preview.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.58.03/wixjsonfileextension.6.0.0.67.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdfe49f3-d321-4aa3-a4ed-c592a38bed6e",
+      "commitTimeStamp": "2025-11-13T10:58:03.8078734Z",
+      "nuget:id": "WixJsonFileExtension",
+      "nuget:version": "6.0.0.67"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.58.03/system.interactive.async.7.0.0-preview.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdfe49f3-d321-4aa3-a4ed-c592a38bed6e",
+      "commitTimeStamp": "2025-11-13T10:58:03.8078734Z",
+      "nuget:id": "System.Interactive.Async",
+      "nuget:version": "7.0.0-preview.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.58.03/wixjsonfileextension.6.0.0.68.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdfe49f3-d321-4aa3-a4ed-c592a38bed6e",
+      "commitTimeStamp": "2025-11-13T10:58:03.8078734Z",
+      "nuget:id": "WixJsonFileExtension",
+      "nuget:version": "6.0.0.68"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.57.26/scryber.core.9.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f5743ee6-dc17-4d27-925a-4373bab7397f",
+      "commitTimeStamp": "2025-11-13T10:57:26.9446877Z",
+      "nuget:id": "Scryber.Core",
+      "nuget:version": "9.2.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.57.26/aguacongas.aspnetcore.authentication.redis.6.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f5743ee6-dc17-4d27-925a-4373bab7397f",
+      "commitTimeStamp": "2025-11-13T10:57:26.9446877Z",
+      "nuget:id": "Aguacongas.AspNetCore.Authentication.Redis",
+      "nuget:version": "6.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.57.26/aguacongas.aspnetcore.authentication.testbase.6.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f5743ee6-dc17-4d27-925a-4373bab7397f",
+      "commitTimeStamp": "2025-11-13T10:57:26.9446877Z",
+      "nuget:id": "Aguacongas.AspNetCore.Authentication.TestBase",
+      "nuget:version": "6.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.57.26/taiwanutilities.1.0.20.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f5743ee6-dc17-4d27-925a-4373bab7397f",
+      "commitTimeStamp": "2025-11-13T10:57:26.9446877Z",
+      "nuget:id": "TaiwanUtilities",
+      "nuget:version": "1.0.20"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.56.49/aguacongas.aspnetcore.authentication.ravendb.6.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ea21a2e-6814-4143-b8c2-68ebd34a3aa9",
+      "commitTimeStamp": "2025-11-13T10:56:49.2706781Z",
+      "nuget:id": "Aguacongas.AspNetCore.Authentication.RavenDb",
+      "nuget:version": "6.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.56.49/aguacongas.aspnetcore.authentication.entityframework.6.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ea21a2e-6814-4143-b8c2-68ebd34a3aa9",
+      "commitTimeStamp": "2025-11-13T10:56:49.2706781Z",
+      "nuget:id": "Aguacongas.AspNetCore.Authentication.EntityFramework",
+      "nuget:version": "6.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.56.49/aguacongas.aspnetcore.authentication.6.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ea21a2e-6814-4143-b8c2-68ebd34a3aa9",
+      "commitTimeStamp": "2025-11-13T10:56:49.2706781Z",
+      "nuget:id": "Aguacongas.AspNetCore.Authentication",
+      "nuget:version": "6.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.55.37/dotnetdeployer.tool.0.5.28.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7226881d-3fb5-4374-b493-ec3477a15b59",
+      "commitTimeStamp": "2025-11-13T10:55:37.9699945Z",
+      "nuget:id": "DotnetDeployer.Tool",
+      "nuget:version": "0.5.28"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.55.37/virtocommerce.aihelper.data.sqlserver.3.800.0-alpha.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7226881d-3fb5-4374-b493-ec3477a15b59",
+      "commitTimeStamp": "2025-11-13T10:55:37.9699945Z",
+      "nuget:id": "VirtoCommerce.AiHelper.Data.SqlServer",
+      "nuget:version": "3.800.0-alpha.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.55.37/dotnetdeployer.0.5.28.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7226881d-3fb5-4374-b493-ec3477a15b59",
+      "commitTimeStamp": "2025-11-13T10:55:37.9699945Z",
+      "nuget:id": "DotnetDeployer",
+      "nuget:version": "0.5.28"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.55.37/virtocommerce.aihelper.data.3.800.0-alpha.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7226881d-3fb5-4374-b493-ec3477a15b59",
+      "commitTimeStamp": "2025-11-13T10:55:37.9699945Z",
+      "nuget:id": "VirtoCommerce.AiHelper.Data",
+      "nuget:version": "3.800.0-alpha.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.54.59/virtocommerce.aihelper.data.postgresql.3.800.0-alpha.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "413cd5eb-2f2a-4dc6-bd28-93692af3fd7c",
+      "commitTimeStamp": "2025-11-13T10:54:59.3240809Z",
+      "nuget:id": "VirtoCommerce.AiHelper.Data.PostgreSql",
+      "nuget:version": "3.800.0-alpha.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.54.59/virtocommerce.aihelper.data.mysql.3.800.0-alpha.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "413cd5eb-2f2a-4dc6-bd28-93692af3fd7c",
+      "commitTimeStamp": "2025-11-13T10:54:59.3240809Z",
+      "nuget:id": "VirtoCommerce.AiHelper.Data.MySql",
+      "nuget:version": "3.800.0-alpha.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.54.59/virtocommerce.aihelper.core.3.800.0-alpha.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "413cd5eb-2f2a-4dc6-bd28-93692af3fd7c",
+      "commitTimeStamp": "2025-11-13T10:54:59.3240809Z",
+      "nuget:id": "VirtoCommerce.AiHelper.Core",
+      "nuget:version": "3.800.0-alpha.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.53.46/equateforms.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c00ae7e-b602-4950-ab33-f917f51fb7f8",
+      "commitTimeStamp": "2025-11-13T10:53:46.512549Z",
+      "nuget:id": "EquateForms",
+      "nuget:version": "2.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.53.46/equateforms.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c00ae7e-b602-4950-ab33-f917f51fb7f8",
+      "commitTimeStamp": "2025-11-13T10:53:46.512549Z",
+      "nuget:id": "EquateForms",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.52.34/unifycoders.temporal.dto.3.6.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b7fdc90-fabd-4e37-a084-a2a6ea95abde",
+      "commitTimeStamp": "2025-11-13T10:52:34.5247168Z",
+      "nuget:id": "unifycoders.temporal.dto",
+      "nuget:version": "3.6.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.51.20/parlem.provisioning.agiletv.facade.8.0.53.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae8d22ba-108f-4a90-bc0a-207696127035",
+      "commitTimeStamp": "2025-11-13T10:51:20.0857804Z",
+      "nuget:id": "Parlem.Provisioning.AgileTv.Facade",
+      "nuget:version": "8.0.53"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.41/soenneker.instantly.suite.4.0.2665.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e69a5b01-d55e-4cb0-944a-54f49b04aa05",
+      "commitTimeStamp": "2025-11-13T10:50:41.2796722Z",
+      "nuget:id": "Soenneker.Instantly.Suite",
+      "nuget:version": "4.0.2665"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.41/tjc.cyclops.reporting.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e69a5b01-d55e-4cb0-944a-54f49b04aa05",
+      "commitTimeStamp": "2025-11-13T10:50:41.2796722Z",
+      "nuget:id": "TJC.Cyclops.Reporting",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.41/tjc.cyclops.pdfkit.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e69a5b01-d55e-4cb0-944a-54f49b04aa05",
+      "commitTimeStamp": "2025-11-13T10:50:41.2796722Z",
+      "nuget:id": "TJC.Cyclops.PdfKit",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.41/tjc.cyclops.lives.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e69a5b01-d55e-4cb0-944a-54f49b04aa05",
+      "commitTimeStamp": "2025-11-13T10:50:41.2796722Z",
+      "nuget:id": "TJC.Cyclops.Lives",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.41/tjc.cyclops.emailkit.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e69a5b01-d55e-4cb0-944a-54f49b04aa05",
+      "commitTimeStamp": "2025-11-13T10:50:41.2796722Z",
+      "nuget:id": "TJC.Cyclops.EMailKit",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.41/tjc.cyclops.speech.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e69a5b01-d55e-4cb0-944a-54f49b04aa05",
+      "commitTimeStamp": "2025-11-13T10:50:41.2796722Z",
+      "nuget:id": "TJC.Cyclops.Speech",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.41/ewaiter.1.3.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e69a5b01-d55e-4cb0-944a-54f49b04aa05",
+      "commitTimeStamp": "2025-11-13T10:50:41.2796722Z",
+      "nuget:id": "eWaiter",
+      "nuget:version": "1.3.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.41/minimalhelpers.validation.1.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e69a5b01-d55e-4cb0-944a-54f49b04aa05",
+      "commitTimeStamp": "2025-11-13T10:50:41.2796722Z",
+      "nuget:id": "MinimalHelpers.Validation",
+      "nuget:version": "1.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.41/tjc.cyclops.videokit.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e69a5b01-d55e-4cb0-944a-54f49b04aa05",
+      "commitTimeStamp": "2025-11-13T10:50:41.2796722Z",
+      "nuget:id": "TJC.Cyclops.VideoKit",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.41/tjc.cyclops.threading.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e69a5b01-d55e-4cb0-944a-54f49b04aa05",
+      "commitTimeStamp": "2025-11-13T10:50:41.2796722Z",
+      "nuget:id": "TJC.Cyclops.Threading",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.41/tjc.cyclops.loglib.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e69a5b01-d55e-4cb0-944a-54f49b04aa05",
+      "commitTimeStamp": "2025-11-13T10:50:41.2796722Z",
+      "nuget:id": "TJC.Cyclops.LogLib",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.41/tjc.cyclops.redis.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e69a5b01-d55e-4cb0-944a-54f49b04aa05",
+      "commitTimeStamp": "2025-11-13T10:50:41.2796722Z",
+      "nuget:id": "TJC.Cyclops.Redis",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.41/tjc.cyclops.orm.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e69a5b01-d55e-4cb0-944a-54f49b04aa05",
+      "commitTimeStamp": "2025-11-13T10:50:41.2796722Z",
+      "nuget:id": "TJC.Cyclops.Orm",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/eloop.1.3.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "eLoop",
+      "nuget:version": "1.3.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/tjc.cyclops.tasksystem.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "TJC.Cyclops.TaskSystem",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/tjc.cyclops.common.service.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "TJC.Cyclops.Common.Service",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/parlem.provisioning.adamo.facade.8.0.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "Parlem.Provisioning.Adamo.Facade",
+      "nuget:version": "8.0.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/tjc.cyclops.common.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "TJC.Cyclops.Common",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/tjc.cyclops.di.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "TJC.Cyclops.DI",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/minimalhelpers.validation.1.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "MinimalHelpers.Validation",
+      "nuget:version": "1.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/tjc.cyclops.wechat.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "TJC.Cyclops.Wechat",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/minimalhelpers.routing.2.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "MinimalHelpers.Routing",
+      "nuget:version": "2.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/tjc.cyclops.web.core.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "TJC.Cyclops.Web.Core",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/enets.1.3.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "eNets",
+      "nuget:version": "1.3.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/tjc.cyclops.ai.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "TJC.Cyclops.AI",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/smdn.libhighlightsharp.langdefs.4.18.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "Smdn.LibHighlightSharp.LangDefs",
+      "nuget:version": "4.18.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/tjc.cyclops.approvalflow.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "TJC.Cyclops.ApprovalFlow",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/unitooncommon.1.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "UnitoonCommon",
+      "nuget:version": "1.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/eputs.1.3.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "ePuts",
+      "nuget:version": "1.3.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/minimalhelpers.openapi.2.1.14.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "MinimalHelpers.OpenApi",
+      "nuget:version": "2.1.14"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/etask.1.3.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "eTask",
+      "nuget:version": "1.3.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/tjc.cyclops.qingflow.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "TJC.Cyclops.Qingflow",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.50.01/soenneker.instantly.suite.4.0.2664.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "948cc8bd-b8a5-4e21-9da4-fe60fbe80fca",
+      "commitTimeStamp": "2025-11-13T10:50:01.8759002Z",
+      "nuget:id": "Soenneker.Instantly.Suite",
+      "nuget:version": "4.0.2664"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/parlem.provisioning.adamo.facade.8.0.31-beta1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "Parlem.Provisioning.Adamo.Facade",
+      "nuget:version": "8.0.31-beta1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/doordeck.headless.sdk.0.173.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "Doordeck.Headless.Sdk",
+      "nuget:version": "0.173.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/gammarers.cdk.aws.rdsdatabaserunningschedulestack.2.6.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "Gammarers.CDK.AWS.RdsDatabaseRunningScheduleStack",
+      "nuget:version": "2.6.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/emalloc.1.3.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "emalloc",
+      "nuget:version": "1.3.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/zhiletime.hope.workflowmanagement.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "ZhileTime.Hope.WorkflowManagement.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/zhiletime.hope.datadictionary.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "ZhileTime.Hope.DataDictionary.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/zhiletime.hope.workflowmanagement.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "ZhileTime.Hope.WorkflowManagement.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/zhiletime.hope.languagemanagement.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "ZhileTime.Hope.LanguageManagement.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/zhiletime.hope.workflowmanagement.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "ZhileTime.Hope.WorkflowManagement.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/automaticinterface.5.2.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "AutomaticInterface",
+      "nuget:version": "5.2.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/elibrary.1.3.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "eLibrary",
+      "nuget:version": "1.3.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/parlem.provisioning.aire.facade.8.0.47.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "Parlem.Provisioning.Aire.Facade",
+      "nuget:version": "8.0.47"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/zhiletime.hope.workflowmanagement.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "ZhileTime.Hope.WorkflowManagement.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/ecmpnt.1.3.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "eCmpnt",
+      "nuget:version": "1.3.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/ehost.1.3.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "eHost",
+      "nuget:version": "1.3.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/smdn.libhighlightsharp.themes.4.18.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "Smdn.LibHighlightSharp.Themes",
+      "nuget:version": "4.18.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/zhiletime.hope.workflows.identity.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "ZhileTime.Hope.Workflows.Identity",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/minimalhelpers.fluentvalidation.1.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "MinimalHelpers.FluentValidation",
+      "nuget:version": "1.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/tjc.cyclops.cloudstorage.2025.11.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "TJC.Cyclops.CloudStorage",
+      "nuget:version": "2025.11.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.49.24/zhiletime.hope.datadictionary.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c529a72-64f5-4cee-9a6d-769954b5045f",
+      "commitTimeStamp": "2025-11-13T10:49:24.6958598Z",
+      "nuget:id": "ZhileTime.Hope.DataDictionary.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.datadictionary.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.DataDictionary.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.workflowmanagement.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.WorkflowManagement.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.datadictionary.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.DataDictionary.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.filemanagement.blazor.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.FileManagement.Blazor",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.datadictionary.blazor.server.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.DataDictionary.Blazor.Server",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.languagemanagement.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.LanguageManagement.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.datadictionary.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.DataDictionary.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.datadictionary.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.DataDictionary.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.filemanagement.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.FileManagement.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.datadictionary.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.DataDictionary.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.filemanagement.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.FileManagement.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.workflowmanagement.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.WorkflowManagement.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.workflowmanagement.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.WorkflowManagement.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.datadictionary.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.DataDictionary.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.workflowmanagement.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.WorkflowManagement.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.datadictionary.blazor.webassembly.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.DataDictionary.Blazor.WebAssembly",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.localization.culturemap.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.Localization.CultureMap",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.languagemanagement.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.LanguageManagement.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.workflowmanagement.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.WorkflowManagement.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.47/zhiletime.hope.forms.web.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "823ef6b0-e90b-4b9c-b32f-1879d2c76904",
+      "commitTimeStamp": "2025-11-13T10:48:47.6902735Z",
+      "nuget:id": "ZhileTime.Hope.Forms.Web",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.filemanagement.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.FileManagement.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.languagemanagement.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.LanguageManagement.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.quartz.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.Quartz.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.filemanagement.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.FileManagement.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/cleartools.3.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ClearTools",
+      "nuget:version": "3.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.filemanagement.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.FileManagement.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.filemanagement.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.FileManagement.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.languagemanagement.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.LanguageManagement.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.filemanagement.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.FileManagement.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.languagemanagement.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.LanguageManagement.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.forms.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.Forms.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.datadictionary.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.DataDictionary.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.forms.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.Forms.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.languagemanagement.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.LanguageManagement.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.forms.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.Forms.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.datadictionary.blazor.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.DataDictionary.Blazor",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.languagemanagement.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.LanguageManagement.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.languagemanagement.web.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.LanguageManagement.Web",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.quartz.installscript.sqlserver.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.Quartz.InstallScript.SqlServer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.48.09/zhiletime.hope.filemanagement.web.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8215d26-3a50-4124-8ac6-31c2e5988668",
+      "commitTimeStamp": "2025-11-13T10:48:09.0841225Z",
+      "nuget:id": "ZhileTime.Hope.FileManagement.Web",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.quartz.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.Quartz.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.forms.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.Forms.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.versionmanagement.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.VersionManagement.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.forms.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.Forms.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.quartz.blazor.server.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.Quartz.Blazor.Server",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.filemanagement.blazor.webassembly.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.FileManagement.Blazor.WebAssembly",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.forms.blazor.webassembly.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.Forms.Blazor.WebAssembly",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.quartz.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.Quartz.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.forms.blazor.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.Forms.Blazor",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.forms.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.Forms.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.languagemanagement.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.LanguageManagement.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.forms.blazor.server.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.Forms.Blazor.Server",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.filemanagement.blazor.server.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.FileManagement.Blazor.Server",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.filemanagement.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.FileManagement.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.forms.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.Forms.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.forms.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.Forms.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.quartz.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.Quartz.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.forms.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.Forms.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.filemanagement.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.FileManagement.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.47.31/zhiletime.hope.quartz.blazor.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f9aa44a-f6d8-49fa-a1c1-6b526bf9389d",
+      "commitTimeStamp": "2025-11-13T10:47:31.0112886Z",
+      "nuget:id": "ZhileTime.Hope.Quartz.Blazor",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.versionmanagement.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.VersionManagement.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.quartz.web.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.Quartz.Web",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.quartz.blazor.webassembly.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.Quartz.Blazor.WebAssembly",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.texttemplatemanagement.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.TextTemplateManagement.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.quartz.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.Quartz.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/smdn.libhighlightsharp.bindings.4.18.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "Smdn.LibHighlightSharp.Bindings",
+      "nuget:version": "4.18.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.texttemplatemanagement.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.TextTemplateManagement.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.texttemplatemanagement.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.TextTemplateManagement.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.shopstore.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.ShopStore.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.quartz.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.Quartz.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.versionmanagement.blazor.webassembly.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.VersionManagement.Blazor.WebAssembly",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.versionmanagement.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.VersionManagement.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.versionmanagement.blazor.server.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.VersionManagement.Blazor.Server",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.versionmanagement.blazor.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.VersionManagement.Blazor",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.quartz.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.Quartz.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.quartz.installscript.mysql.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.Quartz.InstallScript.MySql",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/unifycoders.temporal.dto.3.6.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "unifycoders.temporal.dto",
+      "nuget:version": "3.6.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.versionmanagement.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.VersionManagement.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.quartz.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.Quartz.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.52/zhiletime.hope.quartz.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eaf6390d-74e6-460a-9558-6e7722cde30d",
+      "commitTimeStamp": "2025-11-13T10:46:52.6547176Z",
+      "nuget:id": "ZhileTime.Hope.Quartz.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.chat.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.Chat.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/qwwebframeworkcore.1.9.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "QwWebFrameworkCore",
+      "nuget:version": "1.9.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.texttemplatemanagement.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.TextTemplateManagement.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.invoicemanagement.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.InvoiceManagement.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.chat.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.Chat.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.chat.blazor.server.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.Chat.Blazor.Server",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.texttemplatemanagement.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.TextTemplateManagement.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.versionmanagement.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.VersionManagement.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.shopstore.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.ShopStore.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.versionmanagement.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.VersionManagement.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.chat.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.Chat.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.texttemplatemanagement.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.TextTemplateManagement.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.versionmanagement.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.VersionManagement.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.chat.blazor.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.Chat.Blazor",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.shopstore.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.ShopStore.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.chat.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.Chat.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.shopstore.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.ShopStore.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.versionmanagement.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.VersionManagement.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.versionmanagement.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.VersionManagement.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.46.15/zhiletime.hope.chat.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb56e14b-2775-415b-b05f-716d56522289",
+      "commitTimeStamp": "2025-11-13T10:46:15.2324024Z",
+      "nuget:id": "ZhileTime.Hope.Chat.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.hope.texttemplatemanagement.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.Hope.TextTemplateManagement.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/meshmakers.octo.services.observability.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "Meshmakers.Octo.Services.Observability",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.hope.invoicemanagement.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.Hope.InvoiceManagement.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.shopstore.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.ShopStore.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/meshmakers.octo.services.swagger.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "Meshmakers.Octo.Services.Swagger",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.hope.chat.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.Hope.Chat.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.shopstore.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.ShopStore.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.hope.invoicemanagement.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.Hope.InvoiceManagement.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/meshmakers.octo.services.streamdata.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "Meshmakers.Octo.Services.StreamData",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.hope.texttemplatemanagement.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.Hope.TextTemplateManagement.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.hope.invoicemanagement.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.Hope.InvoiceManagement.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.hope.chat.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.Hope.Chat.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.hope.chat.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.Hope.Chat.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.hope.logisticsmanagement.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.Hope.LogisticsManagement.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.hope.logisticsmanagement.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.Hope.LogisticsManagement.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.hope.chat.blazor.webassembly.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.Hope.Chat.Blazor.WebAssembly",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.shopstore.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.ShopStore.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.hope.chat.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.Hope.Chat.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/qwframeworkcore.1.9.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "QwFrameworkCore",
+      "nuget:version": "1.9.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.45.37/zhiletime.hope.texttemplatemanagement.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "592e2057-44ca-461c-bb03-9b4badef2adc",
+      "commitTimeStamp": "2025-11-13T10:45:37.6602688Z",
+      "nuget:id": "ZhileTime.Hope.TextTemplateManagement.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/zhiletime.hope.invoicemanagement.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "ZhileTime.Hope.InvoiceManagement.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/encryptsolution.1.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "EncryptSolution",
+      "nuget:version": "1.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/zhiletime.hope.invoicemanagement.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "ZhileTime.Hope.InvoiceManagement.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/zhiletime.hope.logisticsmanagement.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "ZhileTime.Hope.LogisticsManagement.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/zhiletime.shopstore.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "ZhileTime.ShopStore.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/zhiletime.pickedstore.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "ZhileTime.PickedStore.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/zhiletime.shopstore.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "ZhileTime.ShopStore.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/meshmakers.octo.services.contracts.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "Meshmakers.Octo.Services.Contracts",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/meshmakers.octo.services.notifications.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "Meshmakers.Octo.Services.Notifications",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/zhiletime.hope.logisticsmanagement.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "ZhileTime.Hope.LogisticsManagement.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/zhiletime.hope.invoicemanagement.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "ZhileTime.Hope.InvoiceManagement.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/cidaas.net.sdk.core.1.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "Cidaas.Net.Sdk.Core",
+      "nuget:version": "1.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/zhiletime.hope.invoicemanagement.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "ZhileTime.Hope.InvoiceManagement.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/zhiletime.hope.logisticsmanagement.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "ZhileTime.Hope.LogisticsManagement.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/mks.repository.entityframeworkcore.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "MKS.Repository.EntityFrameworkCore",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/zhiletime.hope.logisticsmanagement.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "ZhileTime.Hope.LogisticsManagement.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/meshmakers.octo.services.infrastructure.3.2.196.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "Meshmakers.Octo.Services.Infrastructure",
+      "nuget:version": "3.2.196"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/zhiletime.hope.invoicemanagement.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "ZhileTime.Hope.InvoiceManagement.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/zhiletime.hope.logisticsmanagement.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "ZhileTime.Hope.LogisticsManagement.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.58/zhiletime.hope.logisticsmanagement.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2169e83c-e103-4d02-977a-f9ddbf3a5fd4",
+      "commitTimeStamp": "2025-11-13T10:44:58.254113Z",
+      "nuget:id": "ZhileTime.Hope.LogisticsManagement.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.hope.apikey.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.Hope.ApiKey.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.pickedstore.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.PickedStore.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.pickedstore.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.PickedStore.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.pickedstore.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.PickedStore.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.pickedstore.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.PickedStore.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.hope.apikey.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.Hope.ApiKey.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.pickedstore.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.PickedStore.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.pickedstore.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.PickedStore.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/itenterprise.maui.eusign.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ItEnterprise.Maui.EUSign",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.hope.userpoints.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.Hope.UserPoints.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.hope.userpoints.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.Hope.UserPoints.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.hope.apikey.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.Hope.ApiKey.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.pickedstore.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.PickedStore.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.hope.apikey.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.Hope.ApiKey.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/headsetsniper.godot.fsharp.shimgen.0.11.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "Headsetsniper.Godot.FSharp.ShimGen",
+      "nuget:version": "0.11.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.hope.apikey.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.Hope.ApiKey.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.hope.logisticsmanagement.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.Hope.LogisticsManagement.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.pickedstore.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.PickedStore.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/rabbitlinkbyboba.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "RabbitLinkByBoba",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.44.20/zhiletime.hope.userpoints.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "873bc962-c34d-4e25-9ef1-91efe1f2dde3",
+      "commitTimeStamp": "2025-11-13T10:44:20.0149576Z",
+      "nuget:id": "ZhileTime.Hope.UserPoints.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.resourcemanagement.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.ResourceManagement.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/mks.repository.abstractions.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "MKS.Repository.Abstractions",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.userpoints.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.UserPoints.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/headsetsniper.godot.fsharp.templates.0.11.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "Headsetsniper.Godot.FSharp.Templates",
+      "nuget:version": "0.11.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.userpoints.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.UserPoints.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.servicemanagement.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.ServiceManagement.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.apikey.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.ApiKey.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.userpoints.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.UserPoints.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.userpoints.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.UserPoints.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/headsetsniper.godot.fsharp.annotations.0.11.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "Headsetsniper.Godot.FSharp.Annotations",
+      "nuget:version": "0.11.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.servicemanagement.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.ServiceManagement.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.apikey.aspnetcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.ApiKey.AspNetCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.paymentmanagement.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.PaymentManagement.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.resourcemanagement.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.ResourceManagement.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.userpoints.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.UserPoints.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.servicemanagement.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.ServiceManagement.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.servicemanagement.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.ServiceManagement.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.servicemanagement.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.ServiceManagement.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/mks.prepare.aspnetcore.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "MKS.Prepare.AspNetCore",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.43.34/zhiletime.hope.userpoints.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aed0b09-c3da-4fa7-8d95-2a3a0178b628",
+      "commitTimeStamp": "2025-11-13T10:43:34.7337424Z",
+      "nuget:id": "ZhileTime.Hope.UserPoints.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/zhiletime.hope.apikey.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "ZhileTime.Hope.ApiKey.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/zhiletime.hope.resourcemanagement.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "ZhileTime.Hope.ResourceManagement.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/zhiletime.hope.resourcemanagement.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "ZhileTime.Hope.ResourceManagement.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/zhiletime.hope.servicemanagement.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "ZhileTime.Hope.ServiceManagement.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/zhiletime.hope.walletmanagement.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "ZhileTime.Hope.WalletManagement.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/microsoft.agents.copilotstudio.client.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "Microsoft.Agents.CopilotStudio.Client",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/zhiletime.hope.servicemanagement.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "ZhileTime.Hope.ServiceManagement.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/zhiletime.hope.servicemanagement.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "ZhileTime.Hope.ServiceManagement.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/zhiletime.hope.apikey.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "ZhileTime.Hope.ApiKey.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/zhiletime.hope.apikey.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "ZhileTime.Hope.ApiKey.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/zhiletime.hope.servicemanagement.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "ZhileTime.Hope.ServiceManagement.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/microsoft.agents.storage.transcript.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "Microsoft.Agents.Storage.Transcript",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/microsoft.agents.hosting.aspnetcore.a2a.preview.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "Microsoft.Agents.Hosting.AspNetCore.A2A.Preview",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/zhiletime.hope.walletmanagement.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "ZhileTime.Hope.WalletManagement.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/mks.cqrs.entityframeworkcore.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "MKS.CQRS.EntityFrameworkCore",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/parlem.provisioning.meetingpros.facade.8.0.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "Parlem.Provisioning.MeetingPros.Facade",
+      "nuget:version": "8.0.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/microsoft.agents.storage.blobs.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "Microsoft.Agents.Storage.Blobs",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/microsoft.agents.hosting.aspnetcore.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "Microsoft.Agents.Hosting.AspNetCore",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/microsoft.agents.storage.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "Microsoft.Agents.Storage",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.56/zhiletime.hope.walletmanagement.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aaec2ba9-a52d-44cb-ab9a-6a73296c95a4",
+      "commitTimeStamp": "2025-11-13T10:42:56.0266243Z",
+      "nuget:id": "ZhileTime.Hope.WalletManagement.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/zhiletime.hope.paymentmanagement.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "ZhileTime.Hope.PaymentManagement.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/microsoft.agents.core.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "Microsoft.Agents.Core",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/zhiletime.hope.resourcemanagement.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "ZhileTime.Hope.ResourceManagement.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/zhiletime.hope.paymentmanagement.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "ZhileTime.Hope.PaymentManagement.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/microsoft.agents.connector.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "Microsoft.Agents.Connector",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/microsoft.agents.builder.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "Microsoft.Agents.Builder",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/microsoft.agents.extensions.sharepoint.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "Microsoft.Agents.Extensions.SharePoint",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/zhiletime.hope.resourcemanagement.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "ZhileTime.Hope.ResourceManagement.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/easydesk.cleanarchitecture.testing.unit.0.162.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "EasyDesk.CleanArchitecture.Testing.Unit",
+      "nuget:version": "0.162.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/zhiletime.hope.walletmanagement.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "ZhileTime.Hope.WalletManagement.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/zhiletime.hope.paymentmanagement.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "ZhileTime.Hope.PaymentManagement.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/zhiletime.hope.ordermanagement.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "ZhileTime.Hope.OrderManagement.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/zhiletime.hope.resourcemanagement.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "ZhileTime.Hope.ResourceManagement.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/microsoft.agents.builder.dialogs.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "Microsoft.Agents.Builder.Dialogs",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/zhiletime.hope.resourcemanagement.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "ZhileTime.Hope.ResourceManagement.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/zhiletime.hope.paymentmanagement.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "ZhileTime.Hope.PaymentManagement.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/zhiletime.hope.resourcemanagement.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "ZhileTime.Hope.ResourceManagement.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/zhiletime.hope.paymentmanagement.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "ZhileTime.Hope.PaymentManagement.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/microsoft.agents.authentication.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "Microsoft.Agents.Authentication",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.42.19/zhiletime.hope.areamanagement.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4be9c44-3c30-4ad1-806e-1dcd95f91426",
+      "commitTimeStamp": "2025-11-13T10:42:19.3026715Z",
+      "nuget:id": "ZhileTime.Hope.AreaManagement.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/zhiletime.hope.ordermanagement.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "ZhileTime.Hope.OrderManagement.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/microsoft.agents.client.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "Microsoft.Agents.Client",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/microsoft.agents.extensions.teams.ai.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "Microsoft.Agents.Extensions.Teams.AI",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/zhiletime.hope.couponmanagement.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "ZhileTime.Hope.CouponManagement.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/easydesk.cleanarchitecture.dependencyinjection.0.162.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "EasyDesk.CleanArchitecture.DependencyInjection",
+      "nuget:version": "0.162.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/zhiletime.hope.walletmanagement.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "ZhileTime.Hope.WalletManagement.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/zhiletime.hope.paymentmanagement.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "ZhileTime.Hope.PaymentManagement.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/easydesk.cleanarchitecture.dal.sqlserver.0.162.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "EasyDesk.CleanArchitecture.Dal.SqlServer",
+      "nuget:version": "0.162.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/zhiletime.hope.paymentmanagement.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "ZhileTime.Hope.PaymentManagement.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/zhiletime.hope.walletmanagement.httpapi.client.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "ZhileTime.Hope.WalletManagement.HttpApi.Client",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/easydesk.cleanarchitecture.dal.efcore.0.162.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "EasyDesk.CleanArchitecture.Dal.EfCore",
+      "nuget:version": "0.162.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/zhiletime.hope.walletmanagement.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "ZhileTime.Hope.WalletManagement.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/zhiletime.hope.walletmanagement.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "ZhileTime.Hope.WalletManagement.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/zhiletime.hope.ordermanagement.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "ZhileTime.Hope.OrderManagement.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/easydesk.cleanarchitecture.dal.postgresql.0.162.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "EasyDesk.CleanArchitecture.Dal.PostgreSql",
+      "nuget:version": "0.162.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/zhiletime.hope.paymentmanagement.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "ZhileTime.Hope.PaymentManagement.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/microsoft.agents.authentication.msal.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "Microsoft.Agents.Authentication.Msal",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/zhiletime.hope.couponmanagement.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "ZhileTime.Hope.CouponManagement.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/microsoft.agents.extensions.teams.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "Microsoft.Agents.Extensions.Teams",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.41.30/zhiletime.hope.walletmanagement.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e4f35109-b79a-4aed-9abc-d0befccea4c8",
+      "commitTimeStamp": "2025-11-13T10:41:30.086931Z",
+      "nuget:id": "ZhileTime.Hope.WalletManagement.Application.Contracts",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.couponmanagement.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.CouponManagement.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.couponmanagement.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.CouponManagement.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.notificationcenter.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.NotificationCenter.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.areamanagement.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.AreaManagement.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.areamanagement.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.AreaManagement.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.ordermanagement.application.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.OrderManagement.Application",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.ordermanagement.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.OrderManagement.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.areamanagement.mongodb.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.AreaManagement.MongoDB",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.couponmanagement.entityframeworkcore.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.CouponManagement.EntityFrameworkCore",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.notificationcenter.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.NotificationCenter.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/easydesk.commons.0.162.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "EasyDesk.Commons",
+      "nuget:version": "0.162.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.ordermanagement.installer.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.OrderManagement.Installer",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/microsoft.agents.storage.cosmosdb.1.3.169-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "Microsoft.Agents.Storage.CosmosDb",
+      "nuget:version": "1.3.169-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.notifications.identity.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.Notifications.Identity",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.areamanagement.domain.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.AreaManagement.Domain",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.couponmanagement.domain.shared.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.CouponManagement.Domain.Shared",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/easydesk.cleanarchitecture.testing.integration.0.162.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "EasyDesk.CleanArchitecture.Testing.Integration",
+      "nuget:version": "0.162.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.ordermanagement.httpapi.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.OrderManagement.HttpApi",
+      "nuget:version": "5.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/pandatech.commissioncalculator.4.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "Pandatech.CommissionCalculator",
+      "nuget:version": "4.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.13.10.40.49/zhiletime.hope.ordermanagement.application.contracts.5.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71b47b6d-45b5-4264-9fdd-1e756a4f2b24",
+      "commitTimeStamp": "2025-11-13T10:40:49.8307244Z",
+      "nuget:id": "ZhileTime.Hope.OrderManagement.Application.Contracts",
+      "nuget:version": "5.7.2"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
