@@ -1,0 +1,369 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21821.json",
+  "@type": "CatalogPage",
+  "commitId": "4d8c9a37-bc8e-4db5-a149-eef94506c12b",
+  "commitTimeStamp": "2025-11-14T17:07:49.1598377Z",
+  "count": 42,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.07.49/equadrat.framework.core.6.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4d8c9a37-bc8e-4db5-a149-eef94506c12b",
+      "commitTimeStamp": "2025-11-14T17:07:49.1598377Z",
+      "nuget:id": "equadrat.Framework.Core",
+      "nuget:version": "6.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.07.49/equadrat.framework.core.interfaces.6.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4d8c9a37-bc8e-4db5-a149-eef94506c12b",
+      "commitTimeStamp": "2025-11-14T17:07:49.1598377Z",
+      "nuget:id": "equadrat.Framework.Core.Interfaces",
+      "nuget:version": "6.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.06.36/cliinvoke.core.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43df5d4b-f767-4455-9f02-86dbf6f9d530",
+      "commitTimeStamp": "2025-11-14T17:06:36.2156193Z",
+      "nuget:id": "CliInvoke.Core",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.06.36/qawolf-socket-nuget.0.0.94.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43df5d4b-f767-4455-9f02-86dbf6f9d530",
+      "commitTimeStamp": "2025-11-14T17:06:36.2156193Z",
+      "nuget:id": "qawolf-socket-nuget",
+      "nuget:version": "0.0.94"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.06.00/mpt.rql.1.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "829e214a-c52b-4799-abec-9a86ca7d1ab9",
+      "commitTimeStamp": "2025-11-14T17:06:00.1416558Z",
+      "nuget:id": "Mpt.Rql",
+      "nuget:version": "1.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.06.00/mpt.rql.abstractions.1.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "829e214a-c52b-4799-abec-9a86ca7d1ab9",
+      "commitTimeStamp": "2025-11-14T17:06:00.1416558Z",
+      "nuget:id": "Mpt.Rql.Abstractions",
+      "nuget:version": "1.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.04.47/alastairlundy.cliinvoke.extensibility.1.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e094e617-4dc3-4b7a-b49a-b29b4bc47181",
+      "commitTimeStamp": "2025-11-14T17:04:47.7935264Z",
+      "nuget:id": "AlastairLundy.CliInvoke.Extensibility",
+      "nuget:version": "1.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.04.47/myketpayment.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e094e617-4dc3-4b7a-b49a-b29b4bc47181",
+      "commitTimeStamp": "2025-11-14T17:04:47.7935264Z",
+      "nuget:id": "MyketPayment",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.04.47/alastairlundy.cliinvoke.extensibility.1.4.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e094e617-4dc3-4b7a-b49a-b29b4bc47181",
+      "commitTimeStamp": "2025-11-14T17:04:47.7935264Z",
+      "nuget:id": "AlastairLundy.CliInvoke.Extensibility",
+      "nuget:version": "1.4.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.04.47/alastairlundy.cliinvoke.extensibility.1.6.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e094e617-4dc3-4b7a-b49a-b29b4bc47181",
+      "commitTimeStamp": "2025-11-14T17:04:47.7935264Z",
+      "nuget:id": "AlastairLundy.CliInvoke.Extensibility",
+      "nuget:version": "1.6.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.04.47/alastairlundy.cliinvoke.extensibility.1.6.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e094e617-4dc3-4b7a-b49a-b29b4bc47181",
+      "commitTimeStamp": "2025-11-14T17:04:47.7935264Z",
+      "nuget:id": "AlastairLundy.CliInvoke.Extensibility",
+      "nuget:version": "1.6.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.04.47/alastairlundy.cliinvoke.extensibility.1.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e094e617-4dc3-4b7a-b49a-b29b4bc47181",
+      "commitTimeStamp": "2025-11-14T17:04:47.7935264Z",
+      "nuget:id": "AlastairLundy.CliInvoke.Extensibility",
+      "nuget:version": "1.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.04.11/alastairlundy.cliinvoke.extensibility.1.4.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb197adc-42b9-4b4b-b8de-ff1e319041a5",
+      "commitTimeStamp": "2025-11-14T17:04:11.2684493Z",
+      "nuget:id": "AlastairLundy.CliInvoke.Extensibility",
+      "nuget:version": "1.4.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.04.11/alastairlundy.cliinvoke.extensibility.1.5.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb197adc-42b9-4b4b-b8de-ff1e319041a5",
+      "commitTimeStamp": "2025-11-14T17:04:11.2684493Z",
+      "nuget:id": "AlastairLundy.CliInvoke.Extensibility",
+      "nuget:version": "1.5.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.04.11/libcodec8.0.9.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb197adc-42b9-4b4b-b8de-ff1e319041a5",
+      "commitTimeStamp": "2025-11-14T17:04:11.2684493Z",
+      "nuget:id": "LibCodec8",
+      "nuget:version": "0.9.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.04.11/alastairlundy.cliinvoke.extensibility.1.4.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb197adc-42b9-4b4b-b8de-ff1e319041a5",
+      "commitTimeStamp": "2025-11-14T17:04:11.2684493Z",
+      "nuget:id": "AlastairLundy.CliInvoke.Extensibility",
+      "nuget:version": "1.4.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.03.34/virtocommerce.taskmanagement.experienceapi.3.905.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31547b68-5036-4ff4-aa2e-f3f90fefd046",
+      "commitTimeStamp": "2025-11-14T17:03:34.1037476Z",
+      "nuget:id": "VirtoCommerce.TaskManagement.ExperienceApi",
+      "nuget:version": "3.905.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.03.34/virtocommerce.taskmanagement.data.3.905.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31547b68-5036-4ff4-aa2e-f3f90fefd046",
+      "commitTimeStamp": "2025-11-14T17:03:34.1037476Z",
+      "nuget:id": "VirtoCommerce.TaskManagement.Data",
+      "nuget:version": "3.905.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.02.58/gisblox.io.geoparquet.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "892632e6-ecc6-45e9-850f-26e540add8b2",
+      "commitTimeStamp": "2025-11-14T17:02:58.0825783Z",
+      "nuget:id": "GISBlox.IO.GeoParquet",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.02.58/virtocommerce.taskmanagement.data.mysql.3.905.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "892632e6-ecc6-45e9-850f-26e540add8b2",
+      "commitTimeStamp": "2025-11-14T17:02:58.0825783Z",
+      "nuget:id": "VirtoCommerce.TaskManagement.Data.MySql",
+      "nuget:version": "3.905.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.02.58/ujmw.commandlinefacade.5.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "892632e6-ecc6-45e9-850f-26e540add8b2",
+      "commitTimeStamp": "2025-11-14T17:02:58.0825783Z",
+      "nuget:id": "UJMW.CommandLineFacade",
+      "nuget:version": "5.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.02.58/ujmw.dynamicwcfhost.5.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "892632e6-ecc6-45e9-850f-26e540add8b2",
+      "commitTimeStamp": "2025-11-14T17:02:58.0825783Z",
+      "nuget:id": "UJMW.DynamicWcfHost",
+      "nuget:version": "5.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.02.58/virtocommerce.taskmanagement.data.sqlserver.3.905.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "892632e6-ecc6-45e9-850f-26e540add8b2",
+      "commitTimeStamp": "2025-11-14T17:02:58.0825783Z",
+      "nuget:id": "VirtoCommerce.TaskManagement.Data.SqlServer",
+      "nuget:version": "3.905.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.02.58/virtocommerce.taskmanagement.data.postgresql.3.905.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "892632e6-ecc6-45e9-850f-26e540add8b2",
+      "commitTimeStamp": "2025-11-14T17:02:58.0825783Z",
+      "nuget:id": "VirtoCommerce.TaskManagement.Data.PostgreSql",
+      "nuget:version": "3.905.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.02.58/ujmw.dynamicclient.5.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "892632e6-ecc6-45e9-850f-26e540add8b2",
+      "commitTimeStamp": "2025-11-14T17:02:58.0825783Z",
+      "nuget:id": "UJMW.DynamicClient",
+      "nuget:version": "5.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.02.58/ujmw.dynamiccontroller.5.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "892632e6-ecc6-45e9-850f-26e540add8b2",
+      "commitTimeStamp": "2025-11-14T17:02:58.0825783Z",
+      "nuget:id": "UJMW.DynamicController",
+      "nuget:version": "5.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.02.58/virtocommerce.taskmanagement.core.3.905.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "892632e6-ecc6-45e9-850f-26e540add8b2",
+      "commitTimeStamp": "2025-11-14T17:02:58.0825783Z",
+      "nuget:id": "VirtoCommerce.TaskManagement.Core",
+      "nuget:version": "3.905.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.00.30/darp.ble.hci.1.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "40d947b1-a3f9-476f-abd7-a7b1850a78c9",
+      "commitTimeStamp": "2025-11-14T17:00:30.240659Z",
+      "nuget:id": "Darp.Ble.Hci",
+      "nuget:version": "1.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.00.30/kapela.security.hash.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "40d947b1-a3f9-476f-abd7-a7b1850a78c9",
+      "commitTimeStamp": "2025-11-14T17:00:30.240659Z",
+      "nuget:id": "Kapela.Security.Hash",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.17.00.30/darp.ble.1.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "40d947b1-a3f9-476f-abd7-a7b1850a78c9",
+      "commitTimeStamp": "2025-11-14T17:00:30.240659Z",
+      "nuget:id": "Darp.Ble",
+      "nuget:version": "1.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.16.59.53/darp.ble.hcihost.1.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8b5659b9-f586-4f43-adee-41b8f088dcb1",
+      "commitTimeStamp": "2025-11-14T16:59:53.3777739Z",
+      "nuget:id": "Darp.Ble.HciHost",
+      "nuget:version": "1.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.16.59.53/darp.ble.mock.1.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8b5659b9-f586-4f43-adee-41b8f088dcb1",
+      "commitTimeStamp": "2025-11-14T16:59:53.3777739Z",
+      "nuget:id": "Darp.Ble.Mock",
+      "nuget:version": "1.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.16.59.53/darp.ble.winrt.1.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8b5659b9-f586-4f43-adee-41b8f088dcb1",
+      "commitTimeStamp": "2025-11-14T16:59:53.3777739Z",
+      "nuget:id": "Darp.Ble.WinRT",
+      "nuget:version": "1.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.16.59.17/darp.ble.android.1.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e7bfc850-71e3-487e-9b65-b2fe3bee571e",
+      "commitTimeStamp": "2025-11-14T16:59:17.9470663Z",
+      "nuget:id": "Darp.Ble.Android",
+      "nuget:version": "1.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.16.58.41/blazorui.icons.1.0.0-beta.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa4367aa-398f-4465-ba46-1def1c2a085f",
+      "commitTimeStamp": "2025-11-14T16:58:41.866886Z",
+      "nuget:id": "BlazorUI.Icons",
+      "nuget:version": "1.0.0-beta.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.16.58.41/blazorui.components.1.0.0-beta.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa4367aa-398f-4465-ba46-1def1c2a085f",
+      "commitTimeStamp": "2025-11-14T16:58:41.866886Z",
+      "nuget:id": "BlazorUI.Components",
+      "nuget:version": "1.0.0-beta.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.16.58.41/blazorui.primitives.1.0.0-beta.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "aa4367aa-398f-4465-ba46-1def1c2a085f",
+      "commitTimeStamp": "2025-11-14T16:58:41.866886Z",
+      "nuget:id": "BlazorUI.Primitives",
+      "nuget:version": "1.0.0-beta.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.16.58.05/sdl3sharp.0.0.1-test3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9678a41-b0a0-4acc-a79f-624a9b776609",
+      "commitTimeStamp": "2025-11-14T16:58:05.8136416Z",
+      "nuget:id": "Sdl3Sharp",
+      "nuget:version": "0.0.1-test3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.16.57.31/blorc.openidconnect.1.14.0-alpha0153.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "45724a7c-cde0-45d7-b9c6-bd20b191dfe8",
+      "commitTimeStamp": "2025-11-14T16:57:31.0301757Z",
+      "nuget:id": "Blorc.OpenIdConnect",
+      "nuget:version": "1.14.0-alpha0153"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.16.57.31/sdl3sharp.win-x64.0.0.1-test3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "45724a7c-cde0-45d7-b9c6-bd20b191dfe8",
+      "commitTimeStamp": "2025-11-14T16:57:31.0301757Z",
+      "nuget:id": "Sdl3Sharp.win-x64",
+      "nuget:version": "0.0.1-test3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.16.57.31/sdl3sharp.win-x86.0.0.1-test3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "45724a7c-cde0-45d7-b9c6-bd20b191dfe8",
+      "commitTimeStamp": "2025-11-14T16:57:31.0301757Z",
+      "nuget:id": "Sdl3Sharp.win-x86",
+      "nuget:version": "0.0.1-test3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.14.16.57.31/sdl3sharp.win-arm64.0.0.1-test3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "45724a7c-cde0-45d7-b9c6-bd20b191dfe8",
+      "commitTimeStamp": "2025-11-14T16:57:31.0301757Z",
+      "nuget:id": "Sdl3Sharp.win-arm64",
+      "nuget:version": "0.0.1-test3"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
