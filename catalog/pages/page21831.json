@@ -1,0 +1,761 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21831.json",
+  "@type": "CatalogPage",
+  "commitId": "6b349271-26c8-447a-bc50-4cbba4a5364f",
+  "commitTimeStamp": "2025-11-18T12:13:43.4339598Z",
+  "count": 91,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.13.43/volo.abp.blobstoring.database.entityframeworkcore.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b349271-26c8-447a-bc50-4cbba4a5364f",
+      "commitTimeStamp": "2025-11-18T12:13:43.4339598Z",
+      "nuget:id": "Volo.Abp.BlobStoring.Database.EntityFrameworkCore",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.13.43/volo.cmskit.admin.httpapi.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b349271-26c8-447a-bc50-4cbba4a5364f",
+      "commitTimeStamp": "2025-11-18T12:13:43.4339598Z",
+      "nuget:id": "Volo.CmsKit.Admin.HttpApi",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.13.43/lazy.crud.crosscutting.application.mail.1.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b349271-26c8-447a-bc50-4cbba4a5364f",
+      "commitTimeStamp": "2025-11-18T12:13:43.4339598Z",
+      "nuget:id": "Lazy.Crud.CrossCutting.Application.Mail",
+      "nuget:version": "1.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.13.43/volo.abp.blobstoring.database.mongodb.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b349271-26c8-447a-bc50-4cbba4a5364f",
+      "commitTimeStamp": "2025-11-18T12:13:43.4339598Z",
+      "nuget:id": "Volo.Abp.BlobStoring.Database.MongoDB",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.13.43/snail.aspect.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b349271-26c8-447a-bc50-4cbba4a5364f",
+      "commitTimeStamp": "2025-11-18T12:13:43.4339598Z",
+      "nuget:id": "Snail.Aspect",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.13.43/snail.logger.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b349271-26c8-447a-bc50-4cbba4a5364f",
+      "commitTimeStamp": "2025-11-18T12:13:43.4339598Z",
+      "nuget:id": "Snail.Logger",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.13.08/volo.abp.blobstoring.database.domain.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "551fc6f9-a90b-4f2f-b55d-6ccd908615c4",
+      "commitTimeStamp": "2025-11-18T12:13:08.1532622Z",
+      "nuget:id": "Volo.Abp.BlobStoring.Database.Domain",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.13.08/kubeops.cli.9.11.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "551fc6f9-a90b-4f2f-b55d-6ccd908615c4",
+      "commitTimeStamp": "2025-11-18T12:13:08.1532622Z",
+      "nuget:id": "KubeOps.Cli",
+      "nuget:version": "9.11.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.13.08/sage.http.2.0.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "551fc6f9-a90b-4f2f-b55d-6ccd908615c4",
+      "commitTimeStamp": "2025-11-18T12:13:08.1532622Z",
+      "nuget:id": "Sage.Http",
+      "nuget:version": "2.0.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.13.08/volo.abp.blobstoring.database.sourcecode.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "551fc6f9-a90b-4f2f-b55d-6ccd908615c4",
+      "commitTimeStamp": "2025-11-18T12:13:08.1532622Z",
+      "nuget:id": "Volo.Abp.BlobStoring.Database.SourceCode",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.13.08/volo.cmskit.admin.application.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "551fc6f9-a90b-4f2f-b55d-6ccd908615c4",
+      "commitTimeStamp": "2025-11-18T12:13:08.1532622Z",
+      "nuget:id": "Volo.CmsKit.Admin.Application",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.13.08/soenneker.cloudflare.workers.4.0.192.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "551fc6f9-a90b-4f2f-b55d-6ccd908615c4",
+      "commitTimeStamp": "2025-11-18T12:13:08.1532622Z",
+      "nuget:id": "Soenneker.Cloudflare.Workers",
+      "nuget:version": "4.0.192"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.13.08/snail.postgresql.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "551fc6f9-a90b-4f2f-b55d-6ccd908615c4",
+      "commitTimeStamp": "2025-11-18T12:13:08.1532622Z",
+      "nuget:id": "Snail.PostgreSql",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.12.31/snail.webapp.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a9e8cb0-dad1-4c15-87c0-37e1347f59cb",
+      "commitTimeStamp": "2025-11-18T12:12:31.4572657Z",
+      "nuget:id": "Snail.WebApp",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.12.31/snail.sqlcore.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a9e8cb0-dad1-4c15-87c0-37e1347f59cb",
+      "commitTimeStamp": "2025-11-18T12:12:31.4572657Z",
+      "nuget:id": "Snail.SqlCore",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.12.31/snail.utilities.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a9e8cb0-dad1-4c15-87c0-37e1347f59cb",
+      "commitTimeStamp": "2025-11-18T12:12:31.4572657Z",
+      "nuget:id": "Snail.Utilities",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.12.31/snail.mongo.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a9e8cb0-dad1-4c15-87c0-37e1347f59cb",
+      "commitTimeStamp": "2025-11-18T12:12:31.4572657Z",
+      "nuget:id": "Snail.Mongo",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.12.31/snail.elastic.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a9e8cb0-dad1-4c15-87c0-37e1347f59cb",
+      "commitTimeStamp": "2025-11-18T12:12:31.4572657Z",
+      "nuget:id": "Snail.Elastic",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.12.31/snail.rabbitmq.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a9e8cb0-dad1-4c15-87c0-37e1347f59cb",
+      "commitTimeStamp": "2025-11-18T12:12:31.4572657Z",
+      "nuget:id": "Snail.RabbitMQ",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.12.31/snail.abstractions.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a9e8cb0-dad1-4c15-87c0-37e1347f59cb",
+      "commitTimeStamp": "2025-11-18T12:12:31.4572657Z",
+      "nuget:id": "Snail.Abstractions",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.12.31/lazy.crud.builder.infra.data.1.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a9e8cb0-dad1-4c15-87c0-37e1347f59cb",
+      "commitTimeStamp": "2025-11-18T12:12:31.4572657Z",
+      "nuget:id": "Lazy.Crud.Builder.Infra.Data",
+      "nuget:version": "1.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.12.31/snail.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a9e8cb0-dad1-4c15-87c0-37e1347f59cb",
+      "commitTimeStamp": "2025-11-18T12:12:31.4572657Z",
+      "nuget:id": "Snail",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.12.31/snail.redis.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a9e8cb0-dad1-4c15-87c0-37e1347f59cb",
+      "commitTimeStamp": "2025-11-18T12:12:31.4572657Z",
+      "nuget:id": "Snail.Redis",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.11.54/volo.abp.virtualfileexplorer.installer.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca688f82-ed03-45ec-b3e3-972d04da3b74",
+      "commitTimeStamp": "2025-11-18T12:11:54.78521Z",
+      "nuget:id": "Volo.Abp.VirtualFileExplorer.Installer",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.11.54/volo.abp.virtualfileexplorer.sourcecode.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca688f82-ed03-45ec-b3e3-972d04da3b74",
+      "commitTimeStamp": "2025-11-18T12:11:54.78521Z",
+      "nuget:id": "Volo.Abp.VirtualFileExplorer.SourceCode",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.11.54/snail.mysql.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca688f82-ed03-45ec-b3e3-972d04da3b74",
+      "commitTimeStamp": "2025-11-18T12:11:54.78521Z",
+      "nuget:id": "Snail.MySql",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.11.54/volo.abp.blobstoring.database.domain.shared.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca688f82-ed03-45ec-b3e3-972d04da3b74",
+      "commitTimeStamp": "2025-11-18T12:11:54.78521Z",
+      "nuget:id": "Volo.Abp.BlobStoring.Database.Domain.Shared",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.10.43/lazy.crud.builder.domain.1.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae9a7c04-4ec5-4212-890a-ac8da543645d",
+      "commitTimeStamp": "2025-11-18T12:10:43.3117903Z",
+      "nuget:id": "Lazy.Crud.Builder.Domain",
+      "nuget:version": "1.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.10.43/voyager.common.results.1.2.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae9a7c04-4ec5-4212-890a-ac8da543645d",
+      "commitTimeStamp": "2025-11-18T12:10:43.3117903Z",
+      "nuget:id": "Voyager.Common.Results",
+      "nuget:version": "1.2.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.10.07/soenneker.cloudflare.scrapeshield.4.0.183.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5da8c907-8450-4890-80c8-142279935463",
+      "commitTimeStamp": "2025-11-18T12:10:07.0274134Z",
+      "nuget:id": "Soenneker.Cloudflare.ScrapeShield",
+      "nuget:version": "4.0.183"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.10.07/energinet.datahub.electricitymarket.client.1.24.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5da8c907-8450-4890-80c8-142279935463",
+      "commitTimeStamp": "2025-11-18T12:10:07.0274134Z",
+      "nuget:id": "Energinet.DataHub.ElectricityMarket.Client",
+      "nuget:version": "1.24.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.09.31/lazy.crud.builder.enumeration.1.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82c0d90b-4def-4337-a416-d955d196b7fe",
+      "commitTimeStamp": "2025-11-18T12:09:31.6509951Z",
+      "nuget:id": "Lazy.Crud.Builder.Enumeration",
+      "nuget:version": "1.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.09.31/unawares.0.0.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82c0d90b-4def-4337-a416-d955d196b7fe",
+      "commitTimeStamp": "2025-11-18T12:09:31.6509951Z",
+      "nuget:id": "Unawares",
+      "nuget:version": "0.0.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.07.07/volo.abp.virtualfileexplorer.contracts.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a298904f-6474-4970-9d04-9b029679829f",
+      "commitTimeStamp": "2025-11-18T12:07:07.3155858Z",
+      "nuget:id": "Volo.Abp.VirtualFileExplorer.Contracts",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.07.07/energinet.datahub.electricitymarket.abstractions.1.24.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a298904f-6474-4970-9d04-9b029679829f",
+      "commitTimeStamp": "2025-11-18T12:07:07.3155858Z",
+      "nuget:id": "Energinet.DataHub.ElectricityMarket.Abstractions",
+      "nuget:version": "1.24.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.07.07/volo.abp.users.mongodb.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a298904f-6474-4970-9d04-9b029679829f",
+      "commitTimeStamp": "2025-11-18T12:07:07.3155858Z",
+      "nuget:id": "Volo.Abp.Users.MongoDB",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.07.07/lazy.crud.builder.application.dto.http.models.1.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a298904f-6474-4970-9d04-9b029679829f",
+      "commitTimeStamp": "2025-11-18T12:07:07.3155858Z",
+      "nuget:id": "Lazy.Crud.Builder.Application.DTO.Http.Models",
+      "nuget:version": "1.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.06.30/kubeops.abstractions.9.11.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b141f4b1-63da-491b-b6a3-44b9a9403a1d",
+      "commitTimeStamp": "2025-11-18T12:06:30.7056823Z",
+      "nuget:id": "KubeOps.Abstractions",
+      "nuget:version": "9.11.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.05.55/volo.abp.users.sourcecode.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3ff0c18e-6104-404b-88d2-209798f904ef",
+      "commitTimeStamp": "2025-11-18T12:05:55.6828845Z",
+      "nuget:id": "Volo.Abp.Users.SourceCode",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.05.55/volo.abp.users.entityframeworkcore.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3ff0c18e-6104-404b-88d2-209798f904ef",
+      "commitTimeStamp": "2025-11-18T12:05:55.6828845Z",
+      "nuget:id": "Volo.Abp.Users.EntityFrameworkCore",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.05.19/volo.abp.users.installer.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bdcb010d-2958-4991-b0dd-8a9d000834a1",
+      "commitTimeStamp": "2025-11-18T12:05:19.4814714Z",
+      "nuget:id": "Volo.Abp.Users.Installer",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.05.19/lazy.crud.builder.application.validators.1.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bdcb010d-2958-4991-b0dd-8a9d000834a1",
+      "commitTimeStamp": "2025-11-18T12:05:19.4814714Z",
+      "nuget:id": "Lazy.Crud.Builder.Application.Validators",
+      "nuget:version": "1.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.04.43/nilnul.num._quotient_._lib_.1.1.251118.120057.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2dba41e8-3b81-40ce-83a1-310bfec85e9e",
+      "commitTimeStamp": "2025-11-18T12:04:43.6517812Z",
+      "nuget:id": "nilnul.num._quotient_._LIB_",
+      "nuget:version": "1.1.251118.120057"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.04.07/lazy.crud.builder.application.dto.1.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "911d6f51-daf5-4621-8832-f7d6afbe02d0",
+      "commitTimeStamp": "2025-11-18T12:04:07.7140405Z",
+      "nuget:id": "Lazy.Crud.Builder.Application.DTO",
+      "nuget:version": "1.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.03.31/volo.abp.tenantmanagement.web.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "37bb3b40-6731-476b-845f-f77905e76942",
+      "commitTimeStamp": "2025-11-18T12:03:31.737402Z",
+      "nuget:id": "Volo.Abp.TenantManagement.Web",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.02.55/volo.abp.users.abstractions.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b4c90fd-6bcb-4a79-9e41-c951a0f99963",
+      "commitTimeStamp": "2025-11-18T12:02:55.5488263Z",
+      "nuget:id": "Volo.Abp.Users.Abstractions",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.02.55/volo.abp.tenantmanagement.mongodb.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b4c90fd-6bcb-4a79-9e41-c951a0f99963",
+      "commitTimeStamp": "2025-11-18T12:02:55.5488263Z",
+      "nuget:id": "Volo.Abp.TenantManagement.MongoDB",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.02.55/lazy.crud.builder.application.1.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b4c90fd-6bcb-4a79-9e41-c951a0f99963",
+      "commitTimeStamp": "2025-11-18T12:02:55.5488263Z",
+      "nuget:id": "Lazy.Crud.Builder.Application",
+      "nuget:version": "1.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.02.55/nsbuslib.base.0.9.81-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b4c90fd-6bcb-4a79-9e41-c951a0f99963",
+      "commitTimeStamp": "2025-11-18T12:02:55.5488263Z",
+      "nuget:id": "NSbusLib.Base",
+      "nuget:version": "0.9.81-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.02.55/volo.abp.users.domain.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b4c90fd-6bcb-4a79-9e41-c951a0f99963",
+      "commitTimeStamp": "2025-11-18T12:02:55.5488263Z",
+      "nuget:id": "Volo.Abp.Users.Domain",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.02.55/volo.abp.users.domain.shared.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b4c90fd-6bcb-4a79-9e41-c951a0f99963",
+      "commitTimeStamp": "2025-11-18T12:02:55.5488263Z",
+      "nuget:id": "Volo.Abp.Users.Domain.Shared",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.02.19/volo.abp.tenantmanagement.sourcecode.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9c47f968-e72a-498b-b98e-fde052171181",
+      "commitTimeStamp": "2025-11-18T12:02:19.1119834Z",
+      "nuget:id": "Volo.Abp.TenantManagement.SourceCode",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.02.19/volo.abp.tenantmanagement.installer.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9c47f968-e72a-498b-b98e-fde052171181",
+      "commitTimeStamp": "2025-11-18T12:02:19.1119834Z",
+      "nuget:id": "Volo.Abp.TenantManagement.Installer",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.02.19/lazy.crud.builder.api.queries.1.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9c47f968-e72a-498b-b98e-fde052171181",
+      "commitTimeStamp": "2025-11-18T12:02:19.1119834Z",
+      "nuget:id": "Lazy.Crud.Builder.Api.Queries",
+      "nuget:version": "1.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.02.19/volo.abp.tenantmanagement.blazor.webassembly.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9c47f968-e72a-498b-b98e-fde052171181",
+      "commitTimeStamp": "2025-11-18T12:02:19.1119834Z",
+      "nuget:id": "Volo.Abp.TenantManagement.Blazor.WebAssembly",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.02.19/docugate.functions.hosting.query.2.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9c47f968-e72a-498b-b98e-fde052171181",
+      "commitTimeStamp": "2025-11-18T12:02:19.1119834Z",
+      "nuget:id": "Docugate.Functions.Hosting.Query",
+      "nuget:version": "2.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.02.19/volo.abp.settingmanagement.web.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9c47f968-e72a-498b-b98e-fde052171181",
+      "commitTimeStamp": "2025-11-18T12:02:19.1119834Z",
+      "nuget:id": "Volo.Abp.SettingManagement.Web",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.02.19/volo.abp.tenantmanagement.domain.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9c47f968-e72a-498b-b98e-fde052171181",
+      "commitTimeStamp": "2025-11-18T12:02:19.1119834Z",
+      "nuget:id": "Volo.Abp.TenantManagement.Domain",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.02.19/volo.abp.tenantmanagement.entityframeworkcore.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9c47f968-e72a-498b-b98e-fde052171181",
+      "commitTimeStamp": "2025-11-18T12:02:19.1119834Z",
+      "nuget:id": "Volo.Abp.TenantManagement.EntityFrameworkCore",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.40/volo.abp.openiddict.domain.shared.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5fc36df-5d32-4600-bc11-9b001e7928c3",
+      "commitTimeStamp": "2025-11-18T12:01:40.375031Z",
+      "nuget:id": "Volo.Abp.OpenIddict.Domain.Shared",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.40/volo.abp.permissionmanagement.sourcecode.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5fc36df-5d32-4600-bc11-9b001e7928c3",
+      "commitTimeStamp": "2025-11-18T12:01:40.375031Z",
+      "nuget:id": "Volo.Abp.PermissionManagement.SourceCode",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.40/volo.abp.tenantmanagement.application.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5fc36df-5d32-4600-bc11-9b001e7928c3",
+      "commitTimeStamp": "2025-11-18T12:01:40.375031Z",
+      "nuget:id": "Volo.Abp.TenantManagement.Application",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.40/volo.abp.tenantmanagement.httpapi.client.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5fc36df-5d32-4600-bc11-9b001e7928c3",
+      "commitTimeStamp": "2025-11-18T12:01:40.375031Z",
+      "nuget:id": "Volo.Abp.TenantManagement.HttpApi.Client",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.40/volo.abp.permissionmanagement.blazor.webassembly.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5fc36df-5d32-4600-bc11-9b001e7928c3",
+      "commitTimeStamp": "2025-11-18T12:01:40.375031Z",
+      "nuget:id": "Volo.Abp.PermissionManagement.Blazor.WebAssembly",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.40/volo.abp.settingmanagement.entityframeworkcore.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5fc36df-5d32-4600-bc11-9b001e7928c3",
+      "commitTimeStamp": "2025-11-18T12:01:40.375031Z",
+      "nuget:id": "Volo.Abp.SettingManagement.EntityFrameworkCore",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.40/volo.abp.tenantmanagement.domain.shared.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5fc36df-5d32-4600-bc11-9b001e7928c3",
+      "commitTimeStamp": "2025-11-18T12:01:40.375031Z",
+      "nuget:id": "Volo.Abp.TenantManagement.Domain.Shared",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.40/volo.abp.tenantmanagement.httpapi.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5fc36df-5d32-4600-bc11-9b001e7928c3",
+      "commitTimeStamp": "2025-11-18T12:01:40.375031Z",
+      "nuget:id": "Volo.Abp.TenantManagement.HttpApi",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.40/volo.abp.settingmanagement.sourcecode.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5fc36df-5d32-4600-bc11-9b001e7928c3",
+      "commitTimeStamp": "2025-11-18T12:01:40.375031Z",
+      "nuget:id": "Volo.Abp.SettingManagement.SourceCode",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.40/volo.abp.tenantmanagement.blazor.server.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5fc36df-5d32-4600-bc11-9b001e7928c3",
+      "commitTimeStamp": "2025-11-18T12:01:40.375031Z",
+      "nuget:id": "Volo.Abp.TenantManagement.Blazor.Server",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.40/volo.abp.settingmanagement.domain.shared.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5fc36df-5d32-4600-bc11-9b001e7928c3",
+      "commitTimeStamp": "2025-11-18T12:01:40.375031Z",
+      "nuget:id": "Volo.Abp.SettingManagement.Domain.Shared",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.40/volo.abp.settingmanagement.httpapi.client.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5fc36df-5d32-4600-bc11-9b001e7928c3",
+      "commitTimeStamp": "2025-11-18T12:01:40.375031Z",
+      "nuget:id": "Volo.Abp.SettingManagement.HttpApi.Client",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.40/volo.abp.settingmanagement.blazor.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5fc36df-5d32-4600-bc11-9b001e7928c3",
+      "commitTimeStamp": "2025-11-18T12:01:40.375031Z",
+      "nuget:id": "Volo.Abp.SettingManagement.Blazor",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.40/volo.abp.settingmanagement.blazor.webassembly.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5fc36df-5d32-4600-bc11-9b001e7928c3",
+      "commitTimeStamp": "2025-11-18T12:01:40.375031Z",
+      "nuget:id": "Volo.Abp.SettingManagement.Blazor.WebAssembly",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.openiddict.sourcecode.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.OpenIddict.SourceCode",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.settingmanagement.domain.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.SettingManagement.Domain",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.settingmanagement.mongodb.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.SettingManagement.MongoDB",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.identityserver.entityframeworkcore.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.IdentityServer.EntityFrameworkCore",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.permissionmanagement.httpapi.client.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.PermissionManagement.HttpApi.Client",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.settingmanagement.blazor.server.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.SettingManagement.Blazor.Server",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.permissionmanagement.blazor.server.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.PermissionManagement.Blazor.Server",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/nilnul.num._integer_._lib_.1.1.251118.115613.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "nilnul.num._integer_._LIB_",
+      "nuget:version": "1.1.251118.115613"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.permissionmanagement.installer.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.PermissionManagement.Installer",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.settingmanagement.httpapi.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.SettingManagement.HttpApi",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.permissionmanagement.domain.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.PermissionManagement.Domain",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.tenantmanagement.application.contracts.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.TenantManagement.Application.Contracts",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.settingmanagement.application.contracts.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.SettingManagement.Application.Contracts",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.settingmanagement.application.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.SettingManagement.Application",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.tenantmanagement.blazor.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.TenantManagement.Blazor",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.identity.web.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.Identity.Web",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.permissionmanagement.application.contracts.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.PermissionManagement.Application.Contracts",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.18.12.01.04/volo.abp.settingmanagement.installer.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "859918ca-1b71-45fd-bbbf-ca219208dcb5",
+      "commitTimeStamp": "2025-11-18T12:01:04.2025202Z",
+      "nuget:id": "Volo.Abp.SettingManagement.Installer",
+      "nuget:version": "10.0.0"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
