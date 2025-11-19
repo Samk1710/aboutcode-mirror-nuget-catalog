@@ -1,0 +1,1841 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21835.json",
+  "@type": "CatalogPage",
+  "commitId": "5f620687-e3e0-4c94-a92b-36c3d63ed8fa",
+  "commitTimeStamp": "2025-11-19T17:07:55.8694797Z",
+  "count": 226,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.07.55/jorgecostamacia.shared.service.6.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5f620687-e3e0-4c94-a92b-36c3d63ed8fa",
+      "commitTimeStamp": "2025-11-19T17:07:55.8694797Z",
+      "nuget:id": "JorgeCostaMacia.Shared.Service",
+      "nuget:version": "6.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.06.56/ruslanka.services.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cd65531b-135a-4887-89c9-38edd6652d1c",
+      "commitTimeStamp": "2025-11-19T17:06:56.8761566Z",
+      "nuget:id": "ruslanka.Services",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.05.57/dtf.netcore.4.9.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "39834d57-8c76-4bfe-a259-12bdedee2436",
+      "commitTimeStamp": "2025-11-19T17:05:57.498675Z",
+      "nuget:id": "DTF.NETCore",
+      "nuget:version": "4.9.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.04.18/uno.ui.hotdesign.1.18.0-dev.199.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "557ff299-6b32-4de7-b10d-49ec58dcba94",
+      "commitTimeStamp": "2025-11-19T17:04:18.7278297Z",
+      "nuget:id": "Uno.UI.HotDesign",
+      "nuget:version": "1.18.0-dev.199"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.03.35/jcoder.3.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a752974d-c96c-4b30-a553-17c214f13215",
+      "commitTimeStamp": "2025-11-19T17:03:35.1440102Z",
+      "nuget:id": "JCoder",
+      "nuget:version": "3.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.01.40/gameframex.foundation.options.1.7.1.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e31f6c68-7e96-418a-a8e1-cd709216d5b4",
+      "commitTimeStamp": "2025-11-19T17:01:40.737777Z",
+      "nuget:id": "GameFrameX.Foundation.Options",
+      "nuget:version": "1.7.1.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.01.40/soenneker.blazor.consumer.4.0.1403.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e31f6c68-7e96-418a-a8e1-cd709216d5b4",
+      "commitTimeStamp": "2025-11-19T17:01:40.737777Z",
+      "nuget:id": "Soenneker.Blazor.Consumer",
+      "nuget:version": "4.0.1403"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/dotnetpackaging.dmg.8.0.33.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "DotnetPackaging.Dmg",
+      "nuget:version": "8.0.33"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/gameframex.foundation.orm.attribute.1.7.1.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "GameFrameX.Foundation.Orm.Attribute",
+      "nuget:version": "1.7.1.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/gameframex.foundation.http.normalization.1.7.1.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "GameFrameX.Foundation.Http.Normalization",
+      "nuget:version": "1.7.1.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/gameframex.foundation.http.extension.1.7.1.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "GameFrameX.Foundation.Http.Extension",
+      "nuget:version": "1.7.1.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/codeofchaos.types.typedvaluestore.0.30.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "CodeOfChaos.Types.TypedValueStore",
+      "nuget:version": "0.30.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/clmi.api.sdk.3.2.58.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "Clmi.Api.Sdk",
+      "nuget:version": "3.2.58"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/dotnetpackaging.flatpak.8.0.33.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "DotnetPackaging.Flatpak",
+      "nuget:version": "8.0.33"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/codeofchaos.types.unitofwork.0.30.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "CodeOfChaos.Types.UnitOfWork",
+      "nuget:version": "0.30.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/dtf.services.v2.5.2.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "DTF.Services.V2",
+      "nuget:version": "5.2.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/dotnetpackaging.msix.8.0.33.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "DotnetPackaging.Msix",
+      "nuget:version": "8.0.33"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/sips.core.2.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "SIPS.Core",
+      "nuget:version": "2.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/codeofchaos.types.0.30.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "CodeOfChaos.Types",
+      "nuget:version": "0.30.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/gameframex.foundation.localization.1.7.1.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "GameFrameX.Foundation.Localization",
+      "nuget:version": "1.7.1.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/codeofchaos.types.dataseeder.0.30.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "CodeOfChaos.Types.DataSeeder",
+      "nuget:version": "0.30.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/gameframex.foundation.logger.1.7.1.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "GameFrameX.Foundation.Logger",
+      "nuget:version": "1.7.1.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.57/dotnetpackaging.appimage.8.0.33.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1d652cc0-98f8-4ab2-9040-c9f793bea721",
+      "commitTimeStamp": "2025-11-19T17:00:57.9000108Z",
+      "nuget:id": "DotnetPackaging.AppImage",
+      "nuget:version": "8.0.33"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.18/easyappdev.blazor.pagecache.1.0.0-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdc52323-5a7f-4c22-beac-a4c5095aa01e",
+      "commitTimeStamp": "2025-11-19T17:00:18.6274293Z",
+      "nuget:id": "EasyAppDev.Blazor.PageCache",
+      "nuget:version": "1.0.0-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.18/dotnetpackaging.rpm.8.0.33.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdc52323-5a7f-4c22-beac-a4c5095aa01e",
+      "commitTimeStamp": "2025-11-19T17:00:18.6274293Z",
+      "nuget:id": "DotnetPackaging.Rpm",
+      "nuget:version": "8.0.33"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.18/gameframex.foundation.encryption.1.7.1.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdc52323-5a7f-4c22-beac-a4c5095aa01e",
+      "commitTimeStamp": "2025-11-19T17:00:18.6274293Z",
+      "nuget:id": "GameFrameX.Foundation.Encryption",
+      "nuget:version": "1.7.1.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.18/gameframex.foundation.orm.entity.1.7.1.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdc52323-5a7f-4c22-beac-a4c5095aa01e",
+      "commitTimeStamp": "2025-11-19T17:00:18.6274293Z",
+      "nuget:id": "GameFrameX.Foundation.Orm.Entity",
+      "nuget:version": "1.7.1.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.18/gameframex.foundation.json.1.7.1.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdc52323-5a7f-4c22-beac-a4c5095aa01e",
+      "commitTimeStamp": "2025-11-19T17:00:18.6274293Z",
+      "nuget:id": "GameFrameX.Foundation.Json",
+      "nuget:version": "1.7.1.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.18/dotnetpackaging.8.0.33.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdc52323-5a7f-4c22-beac-a4c5095aa01e",
+      "commitTimeStamp": "2025-11-19T17:00:18.6274293Z",
+      "nuget:id": "DotnetPackaging",
+      "nuget:version": "8.0.33"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.18/dotnetpackaging.deb.8.0.33.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdc52323-5a7f-4c22-beac-a4c5095aa01e",
+      "commitTimeStamp": "2025-11-19T17:00:18.6274293Z",
+      "nuget:id": "DotnetPackaging.Deb",
+      "nuget:version": "8.0.33"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.18/gameframex.foundation.hash.1.7.1.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdc52323-5a7f-4c22-beac-a4c5095aa01e",
+      "commitTimeStamp": "2025-11-19T17:00:18.6274293Z",
+      "nuget:id": "GameFrameX.Foundation.Hash",
+      "nuget:version": "1.7.1.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.18/dotnetpackaging.exe.8.0.33.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdc52323-5a7f-4c22-beac-a4c5095aa01e",
+      "commitTimeStamp": "2025-11-19T17:00:18.6274293Z",
+      "nuget:id": "DotnetPackaging.Exe",
+      "nuget:version": "8.0.33"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.18/gameframex.foundation.extensions.1.7.1.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdc52323-5a7f-4c22-beac-a4c5095aa01e",
+      "commitTimeStamp": "2025-11-19T17:00:18.6274293Z",
+      "nuget:id": "GameFrameX.Foundation.Extensions",
+      "nuget:version": "1.7.1.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.18/dotnetpackaging.tool.8.0.33.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdc52323-5a7f-4c22-beac-a4c5095aa01e",
+      "commitTimeStamp": "2025-11-19T17:00:18.6274293Z",
+      "nuget:id": "DotnetPackaging.Tool",
+      "nuget:version": "8.0.33"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.17.00.18/codeofchaos.types.unitofwork.contracts.0.30.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdc52323-5a7f-4c22-beac-a4c5095aa01e",
+      "commitTimeStamp": "2025-11-19T17:00:18.6274293Z",
+      "nuget:id": "CodeOfChaos.Types.UnitOfWork.Contracts",
+      "nuget:version": "0.30.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.59.38/dtf.services.mono.3.0.3.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1cd903-346d-4c15-a868-2e80110bd6c1",
+      "commitTimeStamp": "2025-11-19T16:59:38.7478597Z",
+      "nuget:id": "DTF.Services.Mono",
+      "nuget:version": "3.0.3.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.59.38/gameframex.foundation.utility.1.7.1.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1cd903-346d-4c15-a868-2e80110bd6c1",
+      "commitTimeStamp": "2025-11-19T16:59:38.7478597Z",
+      "nuget:id": "GameFrameX.Foundation.Utility",
+      "nuget:version": "1.7.1.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.59.38/toletus.litenet3.9.27.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1cd903-346d-4c15-a868-2e80110bd6c1",
+      "commitTimeStamp": "2025-11-19T16:59:38.7478597Z",
+      "nuget:id": "Toletus.LiteNet3",
+      "nuget:version": "9.27.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.58.59/sfa.das.payments.messages.common.2.2.3-prerelease-3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "95ac1881-424f-4338-9ad3-1015dceddef2",
+      "commitTimeStamp": "2025-11-19T16:58:59.4735331Z",
+      "nuget:id": "SFA.DAS.Payments.Messages.Common",
+      "nuget:version": "2.2.3-prerelease-3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.58.59/sfa.das.payments.application.2.2.3-prerelease-3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "95ac1881-424f-4338-9ad3-1015dceddef2",
+      "commitTimeStamp": "2025-11-19T16:58:59.4735331Z",
+      "nuget:id": "SFA.DAS.Payments.Application",
+      "nuget:version": "2.2.3-prerelease-3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.58.59/sfa.das.payments.messaging.2.2.3-prerelease-3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "95ac1881-424f-4338-9ad3-1015dceddef2",
+      "commitTimeStamp": "2025-11-19T16:58:59.4735331Z",
+      "nuget:id": "SFA.DAS.Payments.Messaging",
+      "nuget:version": "2.2.3-prerelease-3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.58.59/sfa.das.payments.model.core.2.2.3-prerelease-3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "95ac1881-424f-4338-9ad3-1015dceddef2",
+      "commitTimeStamp": "2025-11-19T16:58:59.4735331Z",
+      "nuget:id": "SFA.DAS.Payments.Model.Core",
+      "nuget:version": "2.2.3-prerelease-3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.58.18/sfa.das.payments.core.2.2.3-prerelease-3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9d7acce0-93a6-42ff-8643-589aaff24694",
+      "commitTimeStamp": "2025-11-19T16:58:18.685502Z",
+      "nuget:id": "SFA.DAS.Payments.Core",
+      "nuget:version": "2.2.3-prerelease-3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.57.31/asyncwriterresult.2.0.64.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "45de9466-006d-4e20-9a42-3ce50e77a75c",
+      "commitTimeStamp": "2025-11-19T16:57:31.3718092Z",
+      "nuget:id": "AsyncWriterResult",
+      "nuget:version": "2.0.64"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.57.31/dtf.services.3.0.3.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "45de9466-006d-4e20-9a42-3ce50e77a75c",
+      "commitTimeStamp": "2025-11-19T16:57:31.3718092Z",
+      "nuget:id": "DTF.Services",
+      "nuget:version": "3.0.3.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.57.31/vertigis.viewerspec.59.28.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "45de9466-006d-4e20-9a42-3ce50e77a75c",
+      "commitTimeStamp": "2025-11-19T16:57:31.3718092Z",
+      "nuget:id": "VertiGIS.ViewerSpec",
+      "nuget:version": "59.28.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.56.51/enginepseudo3d.obstaclelib.3.3.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62c82f5b-bd8d-4537-b684-34e0f8349598",
+      "commitTimeStamp": "2025-11-19T16:56:51.8563167Z",
+      "nuget:id": "EnginePseudo3D.ObstacleLib",
+      "nuget:version": "3.3.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.56.51/jorgecostamacia.shared.util.guidhelper.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62c82f5b-bd8d-4537-b684-34e0f8349598",
+      "commitTimeStamp": "2025-11-19T16:56:51.8563167Z",
+      "nuget:id": "JorgeCostaMacia.Shared.Util.GuidHelper",
+      "nuget:version": "2.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.56.51/persilsoft.minio.1.0.19.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62c82f5b-bd8d-4537-b684-34e0f8349598",
+      "commitTimeStamp": "2025-11-19T16:56:51.8563167Z",
+      "nuget:id": "Persilsoft.Minio",
+      "nuget:version": "1.0.19"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.56.01/mks.translates.core.9.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f85deddf-4996-4b2a-9b47-794ebca156f0",
+      "commitTimeStamp": "2025-11-19T16:56:01.8015802Z",
+      "nuget:id": "MKS.Translates.Core",
+      "nuget:version": "9.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.56.01/cloudscribe.talkabout.storage.efcore.sqlite.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f85deddf-4996-4b2a-9b47-794ebca156f0",
+      "commitTimeStamp": "2025-11-19T16:56:01.8015802Z",
+      "nuget:id": "cloudscribe.TalkAbout.Storage.EFCore.SQLite",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.56.01/cloudscribe.talkabout.forum.web.bootstrap4.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f85deddf-4996-4b2a-9b47-794ebca156f0",
+      "commitTimeStamp": "2025-11-19T16:56:01.8015802Z",
+      "nuget:id": "cloudscribe.TalkAbout.Forum.Web.Bootstrap4",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.56.01/uniphar.pims.common.2.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f85deddf-4996-4b2a-9b47-794ebca156f0",
+      "commitTimeStamp": "2025-11-19T16:56:01.8015802Z",
+      "nuget:id": "Uniphar.Pims.Common",
+      "nuget:version": "2.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/cloudscribe.talkabout.models.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "cloudscribe.TalkAbout.Models",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/cloudscribe.talkabout.storage.efcore.mysql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "cloudscribe.TalkAbout.Storage.EFCore.MySql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/cloudscribe.talkabout.storage.efcore.mssql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "cloudscribe.TalkAbout.Storage.EFCore.MSSQL",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/mathcore.di.0.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "MathCore.DI",
+      "nuget:version": "0.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/mks.translates.9.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "MKS.Translates",
+      "nuget:version": "9.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/cloudscribe.talkabout.forum.web.bootstrap5.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "cloudscribe.TalkAbout.Forum.Web.Bootstrap5",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/cloudscribe.talkabout.forum.storage.efcore.mysql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "cloudscribe.TalkAbout.Forum.Storage.EFCore.MySql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/mks.translates.generator.9.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "MKS.Translates.Generator",
+      "nuget:version": "9.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/cloudscribe.talkabout.forum.web.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "cloudscribe.TalkAbout.Forum.Web",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/cloudscribe.talkabout.storage.efcore.common.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "cloudscribe.TalkAbout.Storage.EFCore.Common",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/cloudscribe.talkabout.integration.cloudscribecore.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "cloudscribe.TalkAbout.Integration.CloudscribeCore",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/cloudscribe.talkabout.forum.models.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "cloudscribe.TalkAbout.Forum.Models",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/cloudscribe.talkabout.storage.efcore.postgresql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "cloudscribe.TalkAbout.Storage.EFCore.PostgreSql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/cloudscribe.talkabout.web.bootstrap5.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "cloudscribe.TalkAbout.Web.Bootstrap5",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/cloudscribe.talkabout.forum.storage.efcore.postgresql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "cloudscribe.TalkAbout.Forum.Storage.EFCore.PostgreSql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.55.03/cloudscribe.talkabout.forum.storage.efcore.common.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7f26dee-3a8f-4580-a90c-0d46abe6ac37",
+      "commitTimeStamp": "2025-11-19T16:55:03.0790062Z",
+      "nuget:id": "cloudscribe.TalkAbout.Forum.Storage.EFCore.Common",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.54.12/cloudscribe.talkabout.comments.integration.cloudscribecore.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0ab2a289-de69-4071-bbcb-d9d74db0f3a6",
+      "commitTimeStamp": "2025-11-19T16:54:12.0038325Z",
+      "nuget:id": "cloudscribe.TalkAbout.Comments.Integration.CloudscribeCore",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.54.12/cloudscribe.talkabout.forum.storage.efcore.sqlite.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0ab2a289-de69-4071-bbcb-d9d74db0f3a6",
+      "commitTimeStamp": "2025-11-19T16:54:12.0038325Z",
+      "nuget:id": "cloudscribe.TalkAbout.Forum.Storage.EFCore.SQLite",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.54.12/cloudscribe.talkabout.web.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0ab2a289-de69-4071-bbcb-d9d74db0f3a6",
+      "commitTimeStamp": "2025-11-19T16:54:12.0038325Z",
+      "nuget:id": "cloudscribe.TalkAbout.Web",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.54.12/cloudscribe.talkabout.integration.models.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0ab2a289-de69-4071-bbcb-d9d74db0f3a6",
+      "commitTimeStamp": "2025-11-19T16:54:12.0038325Z",
+      "nuget:id": "cloudscribe.TalkAbout.Integration.Models",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.54.12/cloudscribe.talkabout.storage.nodb.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0ab2a289-de69-4071-bbcb-d9d74db0f3a6",
+      "commitTimeStamp": "2025-11-19T16:54:12.0038325Z",
+      "nuget:id": "cloudscribe.TalkAbout.Storage.NoDb",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.54.12/pulumi.providerboilerplate.0.0.102.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0ab2a289-de69-4071-bbcb-d9d74db0f3a6",
+      "commitTimeStamp": "2025-11-19T16:54:12.0038325Z",
+      "nuget:id": "Pulumi.ProviderBoilerplate",
+      "nuget:version": "0.0.102"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.54.12/cloudscribe.talkabout.forum.storage.nodb.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0ab2a289-de69-4071-bbcb-d9d74db0f3a6",
+      "commitTimeStamp": "2025-11-19T16:54:12.0038325Z",
+      "nuget:id": "cloudscribe.TalkAbout.Forum.Storage.NoDb",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.54.12/dtf.services.common.v2.5.5.5.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0ab2a289-de69-4071-bbcb-d9d74db0f3a6",
+      "commitTimeStamp": "2025-11-19T16:54:12.0038325Z",
+      "nuget:id": "DTF.Services.Common.V2",
+      "nuget:version": "5.5.5.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.54.12/cloudscribe.talkabout.forum.storage.efcore.mssql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0ab2a289-de69-4071-bbcb-d9d74db0f3a6",
+      "commitTimeStamp": "2025-11-19T16:54:12.0038325Z",
+      "nuget:id": "cloudscribe.TalkAbout.Forum.Storage.EFCore.MSSQL",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.54.12/intelica.infrastructure.library.1.1.122.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0ab2a289-de69-4071-bbcb-d9d74db0f3a6",
+      "commitTimeStamp": "2025-11-19T16:54:12.0038325Z",
+      "nuget:id": "Intelica.Infrastructure.Library",
+      "nuget:version": "1.1.122"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.53.18/mvp.selections.client.4.24.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ecb9d58f-7dfb-4f94-b425-25a507d286b6",
+      "commitTimeStamp": "2025-11-19T16:53:18.8460267Z",
+      "nuget:id": "Mvp.Selections.Client",
+      "nuget:version": "4.24.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.53.18/sips.iso20022.1.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ecb9d58f-7dfb-4f94-b425-25a507d286b6",
+      "commitTimeStamp": "2025-11-19T16:53:18.8460267Z",
+      "nuget:id": "SIPS.ISO20022",
+      "nuget:version": "1.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.53.18/simovagmbh.documentdispatch.27.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ecb9d58f-7dfb-4f94-b425-25a507d286b6",
+      "commitTimeStamp": "2025-11-19T16:53:18.8460267Z",
+      "nuget:id": "SimovaGmbH.DocumentDispatch",
+      "nuget:version": "27.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.forms.data.efcore.common.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.Forms.Data.EFCore.Common",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.core.stripeintegration.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.Core.StripeIntegration",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.forms.models.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.Forms.Models",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.stripeintegration.data.efcore.sqlite.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.StripeIntegration.Data.EFCore.SQLite",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/lightsoft.shopee.core.0.0.0.2-beta3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "Lightsoft.Shopee.Core",
+      "nuget:version": "0.0.0.2-beta3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.forms.bootstrap5.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.Forms.Bootstrap5",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.membership.stripeintegration.bootstrap5.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.Membership.StripeIntegration.Bootstrap5",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.stripeintegration.mvc.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.StripeIntegration.Mvc",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.stripeintegration.data.efcore.common.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.StripeIntegration.Data.EFCore.Common",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.membership.data.efcore.common.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.Membership.Data.EFCore.Common",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/exizent.casemanagement.client.0.0.505-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "Exizent.CaseManagement.Client",
+      "nuget:version": "0.0.505-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.membership.data.efcore.postgresql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.Membership.Data.EFCore.PostgreSql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.forms.data.nodb.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.Forms.Data.NoDb",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/lightsoft.shopee.0.0.0.2-beta3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "Lightsoft.Shopee",
+      "nuget:version": "0.0.0.2-beta3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.stripeintegration.models.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.StripeIntegration.Models",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/exizent.casemanagement.client.extensions.microsoft.dependencyinjection.0.0.505-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "Exizent.CaseManagement.Client.Extensions.Microsoft.DependencyInjection",
+      "nuget:version": "0.0.505-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.forms.web.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.Forms.Web",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.forms.contenttemplate.bootstrap5.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.Forms.ContentTemplate.Bootstrap5",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.forms.data.efcore.mysql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.Forms.Data.EFCore.MySql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.52.21/cloudscribe.membership.data.efcore.mssql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d283fd53-0725-4d19-b369-c74934fb05c0",
+      "commitTimeStamp": "2025-11-19T16:52:21.0309268Z",
+      "nuget:id": "cloudscribe.Membership.Data.EFCore.MSSQL",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.membership.views.bootstrap3.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.Membership.Views.Bootstrap3",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.forms.data.efcore.mssql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.Forms.Data.EFCore.MSSQL",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.membership.data.nodb.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.Membership.Data.NoDb",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.stripeintegration.mvc.bootstrap4.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.StripeIntegration.Mvc.Bootstrap4",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.membership.models.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.Membership.Models",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.stripeintegration.data.efcore.mysql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.StripeIntegration.Data.EFCore.MySql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.forms.coreintegration.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.Forms.CoreIntegration",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.forms.contenttemplate.bootstrap4.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.Forms.ContentTemplate.Bootstrap4",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/sts.common.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "sts.Common",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.forms.data.efcore.postgresql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.Forms.Data.EFCore.PostgreSql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.membership.data.efcore.mysql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.Membership.Data.EFCore.MySql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.forms.data.efcore.sqlite.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.Forms.Data.EFCore.SQLite",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.membership.views.bootstrap5.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.Membership.Views.Bootstrap5",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.stripeintegration.data.efcore.mssql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.StripeIntegration.Data.EFCore.MSSQL",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.membership.stripeintegration.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.Membership.StripeIntegration",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.membership.web.mvc.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.Membership.Web.Mvc",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.stripeintegration.mvc.bootstrap5.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.StripeIntegration.Mvc.Bootstrap5",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.stripeintegration.data.efcore.postgresql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.StripeIntegration.Data.EFCore.PostgreSql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/cloudscribe.membership.stripeintegration.bootstrap4.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "cloudscribe.Membership.StripeIntegration.Bootstrap4",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.51.21/soenneker.cloudflare.openapi.suite.4.0.767.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05fc75ed-c9e1-4445-b837-07feeff00d67",
+      "commitTimeStamp": "2025-11-19T16:51:21.9938984Z",
+      "nuget:id": "Soenneker.Cloudflare.OpenApi.Suite",
+      "nuget:version": "4.0.767"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.50.23/asyncwriterresult.2.0.63.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bca3ef8-ee44-4621-a5d5-829ee7926d59",
+      "commitTimeStamp": "2025-11-19T16:50:23.5126167Z",
+      "nuget:id": "AsyncWriterResult",
+      "nuget:version": "2.0.63"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.50.23/cloudscribe.stripeintegration.data.nodb.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bca3ef8-ee44-4621-a5d5-829ee7926d59",
+      "commitTimeStamp": "2025-11-19T16:50:23.5126167Z",
+      "nuget:id": "cloudscribe.StripeIntegration.Data.NoDb",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.50.23/microcks.aspire.0.1.0-alpha.18.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bca3ef8-ee44-4621-a5d5-829ee7926d59",
+      "commitTimeStamp": "2025-11-19T16:50:23.5126167Z",
+      "nuget:id": "Microcks.Aspire",
+      "nuget:version": "0.1.0-alpha.18"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.50.23/cloudscribe.membership.views.bootstrap4.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bca3ef8-ee44-4621-a5d5-829ee7926d59",
+      "commitTimeStamp": "2025-11-19T16:50:23.5126167Z",
+      "nuget:id": "cloudscribe.Membership.Views.Bootstrap4",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.50.23/gammarers.cdk.aws.ec2instancerunningschedulestack.2.3.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bca3ef8-ee44-4621-a5d5-829ee7926d59",
+      "commitTimeStamp": "2025-11-19T16:50:23.5126167Z",
+      "nuget:id": "Gammarers.CDK.AWS.EC2InstanceRunningScheduleStack",
+      "nuget:version": "2.3.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.50.23/cloudscribe.forms.bootstrap4.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bca3ef8-ee44-4621-a5d5-829ee7926d59",
+      "commitTimeStamp": "2025-11-19T16:50:23.5126167Z",
+      "nuget:id": "cloudscribe.Forms.Bootstrap4",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.50.23/soenneker.redis.lock.4.0.2543.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bca3ef8-ee44-4621-a5d5-829ee7926d59",
+      "commitTimeStamp": "2025-11-19T16:50:23.5126167Z",
+      "nuget:id": "Soenneker.Redis.Lock",
+      "nuget:version": "4.0.2543"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.50.23/cloudscribe.membership.data.efcore.sqlite.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bca3ef8-ee44-4621-a5d5-829ee7926d59",
+      "commitTimeStamp": "2025-11-19T16:50:23.5126167Z",
+      "nuget:id": "cloudscribe.Membership.Data.EFCore.SQLite",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.49.29/pulumi.xyz.1.1.284.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "571f7d53-3d80-4a0f-a476-2147cc83cf08",
+      "commitTimeStamp": "2025-11-19T16:49:29.8757561Z",
+      "nuget:id": "Pulumi.Xyz",
+      "nuget:version": "1.1.284"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.49.29/madhyam.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "571f7d53-3d80-4a0f-a476-2147cc83cf08",
+      "commitTimeStamp": "2025-11-19T16:49:29.8757561Z",
+      "nuget:id": "Madhyam",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.48.51/hebi.c.2.22.1-dev251119162.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a0b831e7-245c-49ff-b1ca-39c749ab8c24",
+      "commitTimeStamp": "2025-11-19T16:48:51.5987739Z",
+      "nuget:id": "HEBI.C",
+      "nuget:version": "2.22.1-dev251119162"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.48.51/namotion.interceptor.graphql.0.0.49.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a0b831e7-245c-49ff-b1ca-39c749ab8c24",
+      "commitTimeStamp": "2025-11-19T16:48:51.5987739Z",
+      "nuget:id": "Namotion.Interceptor.GraphQL",
+      "nuget:version": "0.0.49"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.48.51/softure.common.stronglytypedidentifiers.0.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a0b831e7-245c-49ff-b1ca-39c749ab8c24",
+      "commitTimeStamp": "2025-11-19T16:48:51.5987739Z",
+      "nuget:id": "SOFTURE.Common.StronglyTypedIdentifiers",
+      "nuget:version": "0.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.52/namotion.interceptor.sources.0.0.49.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a1f29eb-cdda-450f-811a-b49f786fc984",
+      "commitTimeStamp": "2025-11-19T16:47:52.7786147Z",
+      "nuget:id": "Namotion.Interceptor.Sources",
+      "nuget:version": "0.0.49"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.52/softure.common.observability.0.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a1f29eb-cdda-450f-811a-b49f786fc984",
+      "commitTimeStamp": "2025-11-19T16:47:52.7786147Z",
+      "nuget:id": "SOFTURE.Common.Observability",
+      "nuget:version": "0.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.52/namotion.interceptor.validation.0.0.49.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a1f29eb-cdda-450f-811a-b49f786fc984",
+      "commitTimeStamp": "2025-11-19T16:47:52.7786147Z",
+      "nuget:id": "Namotion.Interceptor.Validation",
+      "nuget:version": "0.0.49"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.52/namotion.interceptor.hosting.0.0.49.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a1f29eb-cdda-450f-811a-b49f786fc984",
+      "commitTimeStamp": "2025-11-19T16:47:52.7786147Z",
+      "nuget:id": "Namotion.Interceptor.Hosting",
+      "nuget:version": "0.0.49"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.52/namotion.interceptor.registry.0.0.49.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a1f29eb-cdda-450f-811a-b49f786fc984",
+      "commitTimeStamp": "2025-11-19T16:47:52.7786147Z",
+      "nuget:id": "Namotion.Interceptor.Registry",
+      "nuget:version": "0.0.49"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.52/jdeck.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a1f29eb-cdda-450f-811a-b49f786fc984",
+      "commitTimeStamp": "2025-11-19T16:47:52.7786147Z",
+      "nuget:id": "JDeck",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.52/cloudscribe.emaillist.data.efcore.postgresql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a1f29eb-cdda-450f-811a-b49f786fc984",
+      "commitTimeStamp": "2025-11-19T16:47:52.7786147Z",
+      "nuget:id": "cloudscribe.EmailList.Data.EFCore.PostgreSql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.52/softure.common.resilience.0.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a1f29eb-cdda-450f-811a-b49f786fc984",
+      "commitTimeStamp": "2025-11-19T16:47:52.7786147Z",
+      "nuget:id": "SOFTURE.Common.Resilience",
+      "nuget:version": "0.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.52/softure.common.logging.0.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a1f29eb-cdda-450f-811a-b49f786fc984",
+      "commitTimeStamp": "2025-11-19T16:47:52.7786147Z",
+      "nuget:id": "SOFTURE.Common.Logging",
+      "nuget:version": "0.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.52/cloudscribe.email.templating.data.efcore.sqlite.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a1f29eb-cdda-450f-811a-b49f786fc984",
+      "commitTimeStamp": "2025-11-19T16:47:52.7786147Z",
+      "nuget:id": "cloudscribe.Email.Templating.Data.EFCore.SQLite",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.52/namotion.interceptor.dynamic.0.0.49.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a1f29eb-cdda-450f-811a-b49f786fc984",
+      "commitTimeStamp": "2025-11-19T16:47:52.7786147Z",
+      "nuget:id": "Namotion.Interceptor.Dynamic",
+      "nuget:version": "0.0.49"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/cloudscribe.emaillist.data.nodb.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "cloudscribe.EmailList.Data.NoDb",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/mks.translates.core.9.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "MKS.Translates.Core",
+      "nuget:version": "9.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/nserfdiscovery.yarp.0.1.5-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "NSerfDiscovery.Yarp",
+      "nuget:version": "0.1.5-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/cloudscribe.emailqueue.data.efcore.mssql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "cloudscribe.EmailQueue.Data.EFCore.MSSQL",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/cloudscribe.emailqueue.data.efcore.postgresql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "cloudscribe.EmailQueue.Data.EFCore.PostgreSql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/softure.messagebroker.rabbit.0.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "SOFTURE.MessageBroker.Rabbit",
+      "nuget:version": "0.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/namotion.interceptor.0.0.49.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "Namotion.Interceptor",
+      "nuget:version": "0.0.49"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/namotion.interceptor.mqtt.0.0.49.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "Namotion.Interceptor.Mqtt",
+      "nuget:version": "0.0.49"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/cloudscribe.email.templating.services.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "cloudscribe.Email.Templating.Services",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/enginepseudo3d.animationlib.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "EnginePseudo3D.AnimationLib",
+      "nuget:version": "2.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/mks.translates.generator.9.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "MKS.Translates.Generator",
+      "nuget:version": "9.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/namotion.interceptor.blazor.0.0.49.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "Namotion.Interceptor.Blazor",
+      "nuget:version": "0.0.49"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/mks.translates.9.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "MKS.Translates",
+      "nuget:version": "9.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/softure.common.authentication.0.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "SOFTURE.Common.Authentication",
+      "nuget:version": "0.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/namotion.interceptor.aspnetcore.0.0.49.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "Namotion.Interceptor.AspNetCore",
+      "nuget:version": "0.0.49"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/namotion.interceptor.generator.0.0.49.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "Namotion.Interceptor.Generator",
+      "nuget:version": "0.0.49"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/namotion.interceptor.opcua.0.0.49.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "Namotion.Interceptor.OpcUa",
+      "nuget:version": "0.0.49"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/namotion.interceptor.tracking.0.0.49.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "Namotion.Interceptor.Tracking",
+      "nuget:version": "0.0.49"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.47.00/cloudscribe.emaillist.kvpuserproperties.integration.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9e02243-4b34-4140-8410-8376557c382d",
+      "commitTimeStamp": "2025-11-19T16:47:00.6815392Z",
+      "nuget:id": "cloudscribe.EmailList.KvpUserProperties.Integration",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.emaillist.models.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.EmailList.Models",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.emailqueue.models.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.EmailQueue.Models",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.emaillist.views.bootstrap5.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.EmailList.Views.Bootstrap5",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.emaillist.web.mvc.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.EmailList.Web.Mvc",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.email.templating.data.efcore.mssql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.Email.Templating.Data.EFCore.MSSQL",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.email.templating.data.efcore.postgresql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.Email.Templating.Data.EFCore.PostgreSql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/softure.common.correlation.0.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "SOFTURE.Common.Correlation",
+      "nuget:version": "0.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.emaillist.coreintegration.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.EmailList.CoreIntegration",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.email.templating.web.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.Email.Templating.Web",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.emailqueue.services.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.EmailQueue.Services",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.email.templating.data.efcore.common.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.Email.Templating.Data.EFCore.Common",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.emailqueue.data.efcore.sqlite.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.EmailQueue.Data.EFCore.SQLite",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/softure.common.cqrs.0.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "SOFTURE.Common.CQRS",
+      "nuget:version": "0.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.emaillist.data.efcore.sqlite.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.EmailList.Data.EFCore.SQLite",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/softure.common.healthcheck.0.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "SOFTURE.Common.HealthCheck",
+      "nuget:version": "0.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.emaillist.data.efcore.mssql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.EmailList.Data.EFCore.MSSQL",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.emaillist.data.efcore.common.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.EmailList.Data.EFCore.Common",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.emailqueue.data.efcore.common.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.EmailQueue.Data.EFCore.Common",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.emailqueue.coreintegration.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.EmailQueue.CoreIntegration",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.46.20/cloudscribe.emailqueue.data.efcore.mysql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3b07303-3f99-4d00-8a44-62e811e3aeed",
+      "commitTimeStamp": "2025-11-19T16:46:20.8674849Z",
+      "nuget:id": "cloudscribe.EmailQueue.Data.EFCore.MySql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.45.43/axioma.public.apiclient.6.1.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f9deafab-3d82-4cca-8524-9e7a9ba90f81",
+      "commitTimeStamp": "2025-11-19T16:45:43.4996685Z",
+      "nuget:id": "Axioma.Public.ApiClient",
+      "nuget:version": "6.1.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.45.43/cloudscribe.email.templating.data.efcore.mysql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f9deafab-3d82-4cca-8524-9e7a9ba90f81",
+      "commitTimeStamp": "2025-11-19T16:45:43.4996685Z",
+      "nuget:id": "cloudscribe.Email.Templating.Data.EFCore.MySql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.45.43/cloudscribe.emailqueue.data.nodb.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f9deafab-3d82-4cca-8524-9e7a9ba90f81",
+      "commitTimeStamp": "2025-11-19T16:45:43.4996685Z",
+      "nuget:id": "cloudscribe.EmailQueue.Data.NoDb",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.45.43/cloudscribe.emaillist.views.bootstrap4.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f9deafab-3d82-4cca-8524-9e7a9ba90f81",
+      "commitTimeStamp": "2025-11-19T16:45:43.4996685Z",
+      "nuget:id": "cloudscribe.EmailList.Views.Bootstrap4",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.45.43/cloudscribe.email.templating.models.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f9deafab-3d82-4cca-8524-9e7a9ba90f81",
+      "commitTimeStamp": "2025-11-19T16:45:43.4996685Z",
+      "nuget:id": "cloudscribe.Email.Templating.Models",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.45.43/cloudscribe.emaillist.data.efcore.mysql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f9deafab-3d82-4cca-8524-9e7a9ba90f81",
+      "commitTimeStamp": "2025-11-19T16:45:43.4996685Z",
+      "nuget:id": "cloudscribe.EmailList.Data.EFCore.MySql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.45.43/cloudscribe.email.templating.data.nodb.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f9deafab-3d82-4cca-8524-9e7a9ba90f81",
+      "commitTimeStamp": "2025-11-19T16:45:43.4996685Z",
+      "nuget:id": "cloudscribe.Email.Templating.Data.NoDb",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.44/axioma.public.persistence.6.1.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "99a5a1c7-c778-4da2-a56e-03a9e540b5f5",
+      "commitTimeStamp": "2025-11-19T16:43:44.2927722Z",
+      "nuget:id": "Axioma.Public.Persistence",
+      "nuget:version": "6.1.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.44/axioma.public.recaptcha.6.1.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "99a5a1c7-c778-4da2-a56e-03a9e540b5f5",
+      "commitTimeStamp": "2025-11-19T16:43:44.2927722Z",
+      "nuget:id": "Axioma.Public.Recaptcha",
+      "nuget:version": "6.1.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.44/axioma.public.emailservices.6.1.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "99a5a1c7-c778-4da2-a56e-03a9e540b5f5",
+      "commitTimeStamp": "2025-11-19T16:43:44.2927722Z",
+      "nuget:id": "Axioma.Public.EmailServices",
+      "nuget:version": "6.1.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.44/pulumi.providerboilerplate.0.0.102-alpha.1763569842.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "99a5a1c7-c778-4da2-a56e-03a9e540b5f5",
+      "commitTimeStamp": "2025-11-19T16:43:44.2927722Z",
+      "nuget:id": "Pulumi.ProviderBoilerplate",
+      "nuget:version": "0.0.102-alpha.1763569842"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.44/axioma.public.automapper.6.1.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "99a5a1c7-c778-4da2-a56e-03a9e540b5f5",
+      "commitTimeStamp": "2025-11-19T16:43:44.2927722Z",
+      "nuget:id": "Axioma.Public.AutoMapper",
+      "nuget:version": "6.1.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.44/axioma.public.utils.6.1.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "99a5a1c7-c778-4da2-a56e-03a9e540b5f5",
+      "commitTimeStamp": "2025-11-19T16:43:44.2927722Z",
+      "nuget:id": "Axioma.Public.Utils",
+      "nuget:version": "6.1.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.07/ustinovadiana.datagridview.services.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4f2ff3e-80d6-4160-833f-b390f29d6173",
+      "commitTimeStamp": "2025-11-19T16:43:07.8803941Z",
+      "nuget:id": "ustinovadiana.DataGridView.Services",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.07/axioma.public.services.sqlserver.6.1.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4f2ff3e-80d6-4160-833f-b390f29d6173",
+      "commitTimeStamp": "2025-11-19T16:43:07.8803941Z",
+      "nuget:id": "Axioma.Public.Services.SqlServer",
+      "nuget:version": "6.1.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.07/axioma.public.model.6.1.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4f2ff3e-80d6-4160-833f-b390f29d6173",
+      "commitTimeStamp": "2025-11-19T16:43:07.8803941Z",
+      "nuget:id": "Axioma.Public.Model",
+      "nuget:version": "6.1.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.07/axioma.public.testing.xunit.6.1.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4f2ff3e-80d6-4160-833f-b390f29d6173",
+      "commitTimeStamp": "2025-11-19T16:43:07.8803941Z",
+      "nuget:id": "Axioma.Public.Testing.xUnit",
+      "nuget:version": "6.1.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.07/axioma.public.entities.6.1.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4f2ff3e-80d6-4160-833f-b390f29d6173",
+      "commitTimeStamp": "2025-11-19T16:43:07.8803941Z",
+      "nuget:id": "Axioma.Public.Entities",
+      "nuget:version": "6.1.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.07/virtocommerce.paymentmodule.data.postgresql.3.811.0-alpha.255-vcst-3387.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4f2ff3e-80d6-4160-833f-b390f29d6173",
+      "commitTimeStamp": "2025-11-19T16:43:07.8803941Z",
+      "nuget:id": "VirtoCommerce.PaymentModule.Data.PostgreSql",
+      "nuget:version": "3.811.0-alpha.255-vcst-3387"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.07/axioma.public.web.6.1.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4f2ff3e-80d6-4160-833f-b390f29d6173",
+      "commitTimeStamp": "2025-11-19T16:43:07.8803941Z",
+      "nuget:id": "Axioma.Public.Web",
+      "nuget:version": "6.1.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.07/virtocommerce.paymentmodule.data.3.811.0-alpha.255-vcst-3387.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4f2ff3e-80d6-4160-833f-b390f29d6173",
+      "commitTimeStamp": "2025-11-19T16:43:07.8803941Z",
+      "nuget:id": "VirtoCommerce.PaymentModule.Data",
+      "nuget:version": "3.811.0-alpha.255-vcst-3387"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.07/virtocommerce.paymentmodule.data.sqlserver.3.811.0-alpha.255-vcst-3387.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4f2ff3e-80d6-4160-833f-b390f29d6173",
+      "commitTimeStamp": "2025-11-19T16:43:07.8803941Z",
+      "nuget:id": "VirtoCommerce.PaymentModule.Data.SqlServer",
+      "nuget:version": "3.811.0-alpha.255-vcst-3387"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.07/virtocommerce.paymentmodule.data.mysql.3.811.0-alpha.255-vcst-3387.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4f2ff3e-80d6-4160-833f-b390f29d6173",
+      "commitTimeStamp": "2025-11-19T16:43:07.8803941Z",
+      "nuget:id": "VirtoCommerce.PaymentModule.Data.MySql",
+      "nuget:version": "3.811.0-alpha.255-vcst-3387"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.07/axioma.public.services.6.1.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4f2ff3e-80d6-4160-833f-b390f29d6173",
+      "commitTimeStamp": "2025-11-19T16:43:07.8803941Z",
+      "nuget:id": "Axioma.Public.Services",
+      "nuget:version": "6.1.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.43.07/cloudscribe.userproperties.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f4f2ff3e-80d6-4160-833f-b390f29d6173",
+      "commitTimeStamp": "2025-11-19T16:43:07.8803941Z",
+      "nuget:id": "cloudscribe.UserProperties",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.42.30/cloudscribe.kvp.views.bs5.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6afa0999-9b25-48c6-80c8-3a2ea82555b3",
+      "commitTimeStamp": "2025-11-19T16:42:30.1619913Z",
+      "nuget:id": "cloudscribe.Kvp.Views.BS5",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.42.30/cloudscribe.kvp.storage.efcore.common.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6afa0999-9b25-48c6-80c8-3a2ea82555b3",
+      "commitTimeStamp": "2025-11-19T16:42:30.1619913Z",
+      "nuget:id": "cloudscribe.Kvp.Storage.EFCore.Common",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.42.30/microsoft.graph.beta.5.126.0-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6afa0999-9b25-48c6-80c8-3a2ea82555b3",
+      "commitTimeStamp": "2025-11-19T16:42:30.1619913Z",
+      "nuget:id": "Microsoft.Graph.Beta",
+      "nuget:version": "5.126.0-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.42.30/wemogy.core.5.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6afa0999-9b25-48c6-80c8-3a2ea82555b3",
+      "commitTimeStamp": "2025-11-19T16:42:30.1619913Z",
+      "nuget:id": "Wemogy.Core",
+      "nuget:version": "5.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.42.30/softure.settings.0.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6afa0999-9b25-48c6-80c8-3a2ea82555b3",
+      "commitTimeStamp": "2025-11-19T16:42:30.1619913Z",
+      "nuget:id": "SOFTURE.Settings",
+      "nuget:version": "0.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.41.52/softure.domain.0.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92619fb9-c6c5-4400-a494-799cec36eeb6",
+      "commitTimeStamp": "2025-11-19T16:41:52.7553788Z",
+      "nuget:id": "SOFTURE.Domain",
+      "nuget:version": "0.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.41.52/cloudscribe.kvp.storage.efcore.pgsql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92619fb9-c6c5-4400-a494-799cec36eeb6",
+      "commitTimeStamp": "2025-11-19T16:41:52.7553788Z",
+      "nuget:id": "cloudscribe.Kvp.Storage.EFCore.pgsql",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.41.52/softure.contract.common.0.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92619fb9-c6c5-4400-a494-799cec36eeb6",
+      "commitTimeStamp": "2025-11-19T16:41:52.7553788Z",
+      "nuget:id": "SOFTURE.Contract.Common",
+      "nuget:version": "0.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.41.52/cloudscribe.kvp.storage.nodb.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92619fb9-c6c5-4400-a494-799cec36eeb6",
+      "commitTimeStamp": "2025-11-19T16:41:52.7553788Z",
+      "nuget:id": "cloudscribe.Kvp.Storage.NoDb",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.41.52/cloudscribe.kvp.storage.efcore.mssql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92619fb9-c6c5-4400-a494-799cec36eeb6",
+      "commitTimeStamp": "2025-11-19T16:41:52.7553788Z",
+      "nuget:id": "cloudscribe.Kvp.Storage.EFCore.MSSQL",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.41.52/softure.language.common.0.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92619fb9-c6c5-4400-a494-799cec36eeb6",
+      "commitTimeStamp": "2025-11-19T16:41:52.7553788Z",
+      "nuget:id": "SOFTURE.Language.Common",
+      "nuget:version": "0.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.41.52/pepix.api.contracts.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92619fb9-c6c5-4400-a494-799cec36eeb6",
+      "commitTimeStamp": "2025-11-19T16:41:52.7553788Z",
+      "nuget:id": "PepiX.API.Contracts",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.41.52/axioma.public.security.6.1.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92619fb9-c6c5-4400-a494-799cec36eeb6",
+      "commitTimeStamp": "2025-11-19T16:41:52.7553788Z",
+      "nuget:id": "Axioma.Public.Security",
+      "nuget:version": "6.1.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.41.52/cloudscribe.kvp.storage.efcore.sqlite.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92619fb9-c6c5-4400-a494-799cec36eeb6",
+      "commitTimeStamp": "2025-11-19T16:41:52.7553788Z",
+      "nuget:id": "cloudscribe.Kvp.Storage.EFCore.SQLite",
+      "nuget:version": "8.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.41.52/softure.results.0.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92619fb9-c6c5-4400-a494-799cec36eeb6",
+      "commitTimeStamp": "2025-11-19T16:41:52.7553788Z",
+      "nuget:id": "SOFTURE.Results",
+      "nuget:version": "0.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.19.16.41.52/cloudscribe.kvp.storage.efcore.mysql.8.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92619fb9-c6c5-4400-a494-799cec36eeb6",
+      "commitTimeStamp": "2025-11-19T16:41:52.7553788Z",
+      "nuget:id": "cloudscribe.Kvp.Storage.EFCore.MySql",
+      "nuget:version": "8.6.0"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
