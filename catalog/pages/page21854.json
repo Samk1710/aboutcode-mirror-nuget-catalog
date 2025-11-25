@@ -1,0 +1,537 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21854.json",
+  "@type": "CatalogPage",
+  "commitId": "bd429e94-a1df-447c-9fae-f6d3b3944c7c",
+  "commitTimeStamp": "2025-11-25T03:29:57.1801927Z",
+  "count": 63,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.57/xdoc.pdf.framework.source.edit.password.open.file.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd429e94-a1df-447c-9fae-f6d3b3944c7c",
+      "commitTimeStamp": "2025-11-25T03:29:57.1801927Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Password.Open.File",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.57/credfeto.services.startup.1.1.137.1327-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd429e94-a1df-447c-9fae-f6d3b3944c7c",
+      "commitTimeStamp": "2025-11-25T03:29:57.1801927Z",
+      "nuget:id": "Credfeto.Services.Startup",
+      "nuget:version": "1.1.137.1327-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.57/credfeto.package.push.linux-arm64.1.6.177.1532-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd429e94-a1df-447c-9fae-f6d3b3944c7c",
+      "commitTimeStamp": "2025-11-25T03:29:57.1801927Z",
+      "nuget:id": "Credfeto.Package.Push.linux-arm64",
+      "nuget:version": "1.6.177.1532-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.57/xdoc.pdf.framework.source.edit.redact.text.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd429e94-a1df-447c-9fae-f6d3b3944c7c",
+      "commitTimeStamp": "2025-11-25T03:29:57.1801927Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Redact.Text",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.20/xdoc.pdf.framework.source.edit.redact.image.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e11f14-46b1-4ebf-a25a-2694987d1b65",
+      "commitTimeStamp": "2025-11-25T03:29:20.3160376Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Redact.Image",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.20/credfeto.enumeration.source.generation.1.2.134.1546-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e11f14-46b1-4ebf-a25a-2694987d1b65",
+      "commitTimeStamp": "2025-11-25T03:29:20.3160376Z",
+      "nuget:id": "Credfeto.Enumeration.Source.Generation",
+      "nuget:version": "1.2.134.1546-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.20/credfeto.package.push.win-x64.1.6.177.1532-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e11f14-46b1-4ebf-a25a-2694987d1b65",
+      "commitTimeStamp": "2025-11-25T03:29:20.3160376Z",
+      "nuget:id": "Credfeto.Package.Push.win-x64",
+      "nuget:version": "1.6.177.1532-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.20/credfeto.package.push.win-arm64.1.6.177.1532-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e11f14-46b1-4ebf-a25a-2694987d1b65",
+      "commitTimeStamp": "2025-11-25T03:29:20.3160376Z",
+      "nuget:id": "Credfeto.Package.Push.win-arm64",
+      "nuget:version": "1.6.177.1532-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.20/credfeto.enumeration.source.generation.attributes.1.2.134.1546-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e11f14-46b1-4ebf-a25a-2694987d1b65",
+      "commitTimeStamp": "2025-11-25T03:29:20.3160376Z",
+      "nuget:id": "Credfeto.Enumeration.Source.Generation.Attributes",
+      "nuget:version": "1.2.134.1546-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.20/xdoc.pdf.framework.source.edit.page.thumbnail.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e11f14-46b1-4ebf-a25a-2694987d1b65",
+      "commitTimeStamp": "2025-11-25T03:29:20.3160376Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Page.Thumbnail",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.20/credfeto.package.push.osx-x64.1.6.177.1532-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e11f14-46b1-4ebf-a25a-2694987d1b65",
+      "commitTimeStamp": "2025-11-25T03:29:20.3160376Z",
+      "nuget:id": "Credfeto.Package.Push.osx-x64",
+      "nuget:version": "1.6.177.1532-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.20/xdoc.pdf.framework.source.edit.printing.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e11f14-46b1-4ebf-a25a-2694987d1b65",
+      "commitTimeStamp": "2025-11-25T03:29:20.3160376Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Printing",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.20/credfeto.package.push.1.6.177.1532-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e11f14-46b1-4ebf-a25a-2694987d1b65",
+      "commitTimeStamp": "2025-11-25T03:29:20.3160376Z",
+      "nuget:id": "Credfeto.Package.Push",
+      "nuget:version": "1.6.177.1532-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.20/credfeto.date.1.1.143.1414-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e11f14-46b1-4ebf-a25a-2694987d1b65",
+      "commitTimeStamp": "2025-11-25T03:29:20.3160376Z",
+      "nuget:id": "Credfeto.Date",
+      "nuget:version": "1.1.143.1414-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.20/xdoc.pdf.framework.source.edit.page.reposition.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e11f14-46b1-4ebf-a25a-2694987d1b65",
+      "commitTimeStamp": "2025-11-25T03:29:20.3160376Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Page.Reposition",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.20/crudql.service.0.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e11f14-46b1-4ebf-a25a-2694987d1b65",
+      "commitTimeStamp": "2025-11-25T03:29:20.3160376Z",
+      "nuget:id": "CrudQL.Service",
+      "nuget:version": "0.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.20/credfeto.date.interfaces.1.1.143.1414-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e11f14-46b1-4ebf-a25a-2694987d1b65",
+      "commitTimeStamp": "2025-11-25T03:29:20.3160376Z",
+      "nuget:id": "Credfeto.Date.Interfaces",
+      "nuget:version": "1.1.143.1414-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.29.20/credfeto.package.push.linux-x64.1.6.177.1532-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e11f14-46b1-4ebf-a25a-2694987d1b65",
+      "commitTimeStamp": "2025-11-25T03:29:20.3160376Z",
+      "nuget:id": "Credfeto.Package.Push.linux-x64",
+      "nuget:version": "1.6.177.1532-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.44/credfeto.changelog.cmd.linux-arm64.1.10.194.1542-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf2e4208-0e46-4833-a8ce-b931b0ea3cb4",
+      "commitTimeStamp": "2025-11-25T03:28:44.4342386Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.linux-arm64",
+      "nuget:version": "1.10.194.1542-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.44/credfeto.changelog.cmd.linux-x64.1.10.194.1542-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf2e4208-0e46-4833-a8ce-b931b0ea3cb4",
+      "commitTimeStamp": "2025-11-25T03:28:44.4342386Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.linux-x64",
+      "nuget:version": "1.10.194.1542-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.44/credfeto.changelog.cmd.osx-x64.1.10.194.1542-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf2e4208-0e46-4833-a8ce-b931b0ea3cb4",
+      "commitTimeStamp": "2025-11-25T03:28:44.4342386Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.osx-x64",
+      "nuget:version": "1.10.194.1542-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.44/credfeto.package.push.osx-arm64.1.6.177.1532-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf2e4208-0e46-4833-a8ce-b931b0ea3cb4",
+      "commitTimeStamp": "2025-11-25T03:28:44.4342386Z",
+      "nuget:id": "Credfeto.Package.Push.osx-arm64",
+      "nuget:version": "1.6.177.1532-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.44/credfeto.changelog.cmd.osx-arm64.1.10.194.1542-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf2e4208-0e46-4833-a8ce-b931b0ea3cb4",
+      "commitTimeStamp": "2025-11-25T03:28:44.4342386Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.osx-arm64",
+      "nuget:version": "1.10.194.1542-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.44/xdoc.pdf.framework.source.edit.page.size.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf2e4208-0e46-4833-a8ce-b931b0ea3cb4",
+      "commitTimeStamp": "2025-11-25T03:28:44.4342386Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Page.Size",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.44/xdoc.pdf.framework.source.edit.page.rotate.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf2e4208-0e46-4833-a8ce-b931b0ea3cb4",
+      "commitTimeStamp": "2025-11-25T03:28:44.4342386Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Page.Rotate",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.44/xdoc.pdf.framework.source.edit.password.file.permission.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf2e4208-0e46-4833-a8ce-b931b0ea3cb4",
+      "commitTimeStamp": "2025-11-25T03:28:44.4342386Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Password.File.Permission",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.44/credfeto.changelog.cmd.1.10.194.1542-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf2e4208-0e46-4833-a8ce-b931b0ea3cb4",
+      "commitTimeStamp": "2025-11-25T03:28:44.4342386Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd",
+      "nuget:version": "1.10.194.1542-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.44/credfeto.changelog.cmd.win-arm64.1.10.194.1542-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf2e4208-0e46-4833-a8ce-b931b0ea3cb4",
+      "commitTimeStamp": "2025-11-25T03:28:44.4342386Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.win-arm64",
+      "nuget:version": "1.10.194.1542-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.44/credfeto.changelog.cmd.win-x64.1.10.194.1542-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf2e4208-0e46-4833-a8ce-b931b0ea3cb4",
+      "commitTimeStamp": "2025-11-25T03:28:44.4342386Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.win-x64",
+      "nuget:version": "1.10.194.1542-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.09/pnp.core.auth.1.15.215-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc5a7e73-aa03-4c17-9852-8b270e919f79",
+      "commitTimeStamp": "2025-11-25T03:28:09.0555359Z",
+      "nuget:id": "PnP.Core.Auth",
+      "nuget:version": "1.15.215-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.09/pnp.core.1.15.215-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc5a7e73-aa03-4c17-9852-8b270e919f79",
+      "commitTimeStamp": "2025-11-25T03:28:09.0555359Z",
+      "nuget:id": "PnP.Core",
+      "nuget:version": "1.15.215-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.09/xdoc.pdf.framework.source.edit.page.header.footer.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc5a7e73-aa03-4c17-9852-8b270e919f79",
+      "commitTimeStamp": "2025-11-25T03:28:09.0555359Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Page.Header.Footer",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.09/pnp.framework.1.18.214-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc5a7e73-aa03-4c17-9852-8b270e919f79",
+      "commitTimeStamp": "2025-11-25T03:28:09.0555359Z",
+      "nuget:id": "PnP.Framework",
+      "nuget:version": "1.18.214-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.09/credfeto.changelog.1.10.194.1542-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc5a7e73-aa03-4c17-9852-8b270e919f79",
+      "commitTimeStamp": "2025-11-25T03:28:09.0555359Z",
+      "nuget:id": "Credfeto.ChangeLog",
+      "nuget:version": "1.10.194.1542-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.09/xdoc.pdf.framework.source.edit.page.number.count.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc5a7e73-aa03-4c17-9852-8b270e919f79",
+      "commitTimeStamp": "2025-11-25T03:28:09.0555359Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Page.Number.Count",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.09/pnp.core.admin.1.15.215-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc5a7e73-aa03-4c17-9852-8b270e919f79",
+      "commitTimeStamp": "2025-11-25T03:28:09.0555359Z",
+      "nuget:id": "PnP.Core.Admin",
+      "nuget:version": "1.15.215-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.28.09/xdoc.pdf.framework.source.edit.page.replace.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc5a7e73-aa03-4c17-9852-8b270e919f79",
+      "commitTimeStamp": "2025-11-25T03:28:09.0555359Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Page.Replace",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.27.32/xdoc.pdf.framework.source.edit.markup.text.box.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eed6d395-831f-4360-81ba-87dcf1c88d74",
+      "commitTimeStamp": "2025-11-25T03:27:32.0904345Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Markup.Text.Box",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.27.32/xdoc.pdf.framework.source.edit.page.crop.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eed6d395-831f-4360-81ba-87dcf1c88d74",
+      "commitTimeStamp": "2025-11-25T03:27:32.0904345Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Page.Crop",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.27.32/xdoc.pdf.framework.source.edit.page.background.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eed6d395-831f-4360-81ba-87dcf1c88d74",
+      "commitTimeStamp": "2025-11-25T03:27:32.0904345Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Page.Background",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.27.32/xdoc.pdf.framework.source.edit.page.extract.copy.paste.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eed6d395-831f-4360-81ba-87dcf1c88d74",
+      "commitTimeStamp": "2025-11-25T03:27:32.0904345Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Page.Extract.Copy.Paste",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.27.32/xdoc.pdf.framework.source.edit.page.add.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eed6d395-831f-4360-81ba-87dcf1c88d74",
+      "commitTimeStamp": "2025-11-25T03:27:32.0904345Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Page.Add",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.27.32/xdoc.pdf.framework.source.edit.page.delete.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eed6d395-831f-4360-81ba-87dcf1c88d74",
+      "commitTimeStamp": "2025-11-25T03:27:32.0904345Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Page.Delete",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.55/xdoc.pdf.framework.source.edit.markup.text.comment.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d676acdb-df00-49d1-9237-bad72f54c972",
+      "commitTimeStamp": "2025-11-25T03:26:55.0921197Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Markup.Text.Comment",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.55/modulytics.sharedkernel.endpoints.1.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d676acdb-df00-49d1-9237-bad72f54c972",
+      "commitTimeStamp": "2025-11-25T03:26:55.0921197Z",
+      "nuget:id": "Modulytics.SharedKernel.Endpoints",
+      "nuget:version": "1.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.55/xdoc.pdf.framework.source.edit.markup.text.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d676acdb-df00-49d1-9237-bad72f54c972",
+      "commitTimeStamp": "2025-11-25T03:26:55.0921197Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Markup.Text",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.55/modulytics.sharedkernel.shared.1.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d676acdb-df00-49d1-9237-bad72f54c972",
+      "commitTimeStamp": "2025-11-25T03:26:55.0921197Z",
+      "nuget:id": "Modulytics.SharedKernel.Shared",
+      "nuget:version": "1.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.55/modulytics.sharedkernel.persistence.1.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d676acdb-df00-49d1-9237-bad72f54c972",
+      "commitTimeStamp": "2025-11-25T03:26:55.0921197Z",
+      "nuget:id": "Modulytics.SharedKernel.Persistence",
+      "nuget:version": "1.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.55/modulytics.sharedkernel.infrastructure.1.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d676acdb-df00-49d1-9237-bad72f54c972",
+      "commitTimeStamp": "2025-11-25T03:26:55.0921197Z",
+      "nuget:id": "Modulytics.SharedKernel.Infrastructure",
+      "nuget:version": "1.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.55/modulytics.sharedkernel.authorization.1.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d676acdb-df00-49d1-9237-bad72f54c972",
+      "commitTimeStamp": "2025-11-25T03:26:55.0921197Z",
+      "nuget:id": "Modulytics.SharedKernel.Authorization",
+      "nuget:version": "1.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.55/xdoc.pdf.framework.source.edit.metadata.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d676acdb-df00-49d1-9237-bad72f54c972",
+      "commitTimeStamp": "2025-11-25T03:26:55.0921197Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Metadata",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.55/modulytics.sharedkernel.application.1.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d676acdb-df00-49d1-9237-bad72f54c972",
+      "commitTimeStamp": "2025-11-25T03:26:55.0921197Z",
+      "nuget:id": "Modulytics.SharedKernel.Application",
+      "nuget:version": "1.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.55/xdoc.pdf.framework.source.edit.markup.text.callout.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d676acdb-df00-49d1-9237-bad72f54c972",
+      "commitTimeStamp": "2025-11-25T03:26:55.0921197Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Markup.Text.Callout",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.18/xdoc.pdf.framework.source.edit.markup.sticky.note.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d5f27ce-4796-4fa0-96bc-f4e6346104dc",
+      "commitTimeStamp": "2025-11-25T03:26:18.7477679Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Markup.Sticky.Note",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.18/xdoc.pdf.framework.source.edit.markup.stamp.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d5f27ce-4796-4fa0-96bc-f4e6346104dc",
+      "commitTimeStamp": "2025-11-25T03:26:18.7477679Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Markup.Stamp",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.18/credfeto.package.update.osx-x64.1.10.217.1955-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d5f27ce-4796-4fa0-96bc-f4e6346104dc",
+      "commitTimeStamp": "2025-11-25T03:26:18.7477679Z",
+      "nuget:id": "Credfeto.Package.Update.osx-x64",
+      "nuget:version": "1.10.217.1955-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.18/xdoc.pdf.framework.source.edit.markup.read.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d5f27ce-4796-4fa0-96bc-f4e6346104dc",
+      "commitTimeStamp": "2025-11-25T03:26:18.7477679Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Markup.Read",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.18/credfeto.package.update.linux-arm64.1.10.217.1955-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d5f27ce-4796-4fa0-96bc-f4e6346104dc",
+      "commitTimeStamp": "2025-11-25T03:26:18.7477679Z",
+      "nuget:id": "Credfeto.Package.Update.linux-arm64",
+      "nuget:version": "1.10.217.1955-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.18/modulytics.sharedkernel.domain.1.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d5f27ce-4796-4fa0-96bc-f4e6346104dc",
+      "commitTimeStamp": "2025-11-25T03:26:18.7477679Z",
+      "nuget:id": "Modulytics.SharedKernel.Domain",
+      "nuget:version": "1.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.26.18/xdoc.pdf.framework.source.edit.image.copy.paste.cut.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d5f27ce-4796-4fa0-96bc-f4e6346104dc",
+      "commitTimeStamp": "2025-11-25T03:26:18.7477679Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Image.Copy.Paste.Cut",
+      "nuget:version": "12.3.5.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.25.41/credfeto.package.update.win-x64.1.10.217.1955-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab24aaff-53bd-4761-aa15-455065731efa",
+      "commitTimeStamp": "2025-11-25T03:25:41.8240461Z",
+      "nuget:id": "Credfeto.Package.Update.win-x64",
+      "nuget:version": "1.10.217.1955-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.25.41/modulytics.sharedkernel.authentication.1.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab24aaff-53bd-4761-aa15-455065731efa",
+      "commitTimeStamp": "2025-11-25T03:25:41.8240461Z",
+      "nuget:id": "Modulytics.SharedKernel.Authentication",
+      "nuget:version": "1.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.25.03.25.41/xdoc.pdf.framework.source.edit.markup.path.12.3.5.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab24aaff-53bd-4761-aa15-455065731efa",
+      "commitTimeStamp": "2025-11-25T03:25:41.8240461Z",
+      "nuget:id": "XDoc.PDF.Framework.Source.Edit.Markup.Path",
+      "nuget:version": "12.3.5.24"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
