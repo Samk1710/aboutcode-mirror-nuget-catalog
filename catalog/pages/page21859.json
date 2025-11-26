@@ -1,0 +1,2977 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21859.json",
+  "@type": "CatalogPage",
+  "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+  "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+  "count": 368,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.psi.features.cpp.src.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Psi.Features.Cpp.Src.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.platform.visualstudio.justvs15.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs15",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/virtocommerce.platform.distributedlock.3.917.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "VirtoCommerce.Platform.DistributedLock",
+      "nuget:version": "3.917.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.platform.visualstudio.sincevs12.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs12",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.platform.visualstudio.justvs17.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs17",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.psi.features.uiinteractive.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Psi.Features.UIInteractive.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.platform.visualstudio.vsproduct.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.VsProduct",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.platform.visualstudio.sincevs16roslynsourcegeneratorsaware.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs16RoslynSourceGeneratorsAware",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.psi.features.visualstudio.sincevs17.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.SinceVs17",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.platform.visualstudio.sincevs18.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs18",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.psi.features.uiinteractive.solutionanalysis.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Psi.Features.UIInteractive.SolutionAnalysis",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.platform.visualstudio.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.psi.features.uiinteractive.livetemplates.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Psi.Features.UIInteractive.LiveTemplates",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.platform.uiinteractive.text.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Platform.UIInteractive.Text",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.psi.features.visualstudio.backend.outofprocess.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.Backend.OutOfProcess",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.platform.visualstudio.sincevs14.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs14",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.platform.visualstudio.sincevs14roslynaware.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs14RoslynAware",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/virtocommerce.testing.3.917.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "VirtoCommerce.Testing",
+      "nuget:version": "3.917.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/jetbrains.psi.features.visualstudio.debugger.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.Debugger",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.09.22/virtocommerce.platform.data.sqlserver.3.917.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1506bbd-1540-4142-b788-335a2f452cd7",
+      "commitTimeStamp": "2025-11-26T16:09:22.3160912Z",
+      "nuget:id": "VirtoCommerce.Platform.Data.SqlServer",
+      "nuget:version": "3.917.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.platform.visualstudio.sincevs17.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs17",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.platform.visualstudio.justvs11.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs11",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.platform.installer.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Platform.Installer",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.psi.features.visualstudio.sincevs14roslynaware.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.SinceVs14RoslynAware",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.psi.features.visualstudio.sincevs11.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.SinceVs11",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.platform.visualstudio.protocol.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.Protocol",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/virtocommerce.platform.data.postgresql.3.917.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "VirtoCommerce.Platform.Data.PostgreSql",
+      "nuget:version": "3.917.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.platform.core.clrstack.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Platform.Core.ClrStack",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.platform.standalone.wpf.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Platform.Standalone.WPF",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.psi.features.visualstudio.backend.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.Backend",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.platform.visualstudio.sincevs10.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs10",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.platform.visualstudio.justvs18.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs18",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/virtocommerce.platform.security.3.917.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "VirtoCommerce.Platform.Security",
+      "nuget:version": "3.917.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.psi.features.uiinteractive.features.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Psi.Features.UIInteractive.Features",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.platform.visualstudio.sincevs16roslynaware.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs16RoslynAware",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.psi.features.visualstudio.justvs12.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.JustVs12",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.psi.features.uiinteractive.refactorings.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Psi.Features.UIInteractive.Refactorings",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.psi.features.visualstudio.unittesting.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.UnitTesting",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.platform.uiinteractive.ide.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Platform.UIInteractive.Ide",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.43/jetbrains.rider.xamlhotreload.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "18c34007-95ff-4dbe-aad0-d7a8c2cc6f4b",
+      "commitTimeStamp": "2025-11-26T16:08:43.0813407Z",
+      "nuget:id": "JetBrains.Rider.XamlHotReload",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.rider.external.iis.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Rider.External.Iis",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/shiftsoftware.shiftidentity.data.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "ShiftSoftware.ShiftIdentity.Data",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.resharperautomationtools.src.inspectandcleanuptoolcommon.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.ReSharperAutomationTools.src.InspectAndCleanupToolCommon",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.psi.features.src.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Psi.Features.src",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.rider.ridersdk.internal.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Rider.RiderSdk.Internal",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.resharperautomationtools.src.roslyn.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.ReSharperAutomationTools.src.Roslyn",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.rider.native.core.windows-x86.release.252.0.20251120.150341.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Rider.Native.Core.windows-x86.Release",
+      "nuget:version": "252.0.20251120.150341"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.psi.features.solutionbuilder.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Psi.Features.SolutionBuilder",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.rider.browserhotreload.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Rider.BrowserHotReload",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.rider.external.wcf.svcutil.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Rider.External.Wcf.SvcUtil",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.rider.native.core.windows-arm64.release.252.0.20251120.150327.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Rider.Native.Core.windows-arm64.Release",
+      "nuget:version": "252.0.20251120.150327"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.rider.external.templating.templateengine.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Rider.External.Templating.TemplateEngine",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/shiftsoftware.shiftidentity.aspnetcore.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "ShiftSoftware.ShiftIdentity.AspNetCore",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.rider.rider.backend.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Rider.Rider.Backend",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.psi.features.unittesting.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Psi.Features.UnitTesting",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.psi.features.web.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Psi.Features.Web.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.rider.native.core.windows-x64.release.252.0.20251120.150352.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Rider.Native.Core.windows-x64.Release",
+      "nuget:version": "252.0.20251120.150352"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.rider.rdbackend.common.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Rider.RdBackend.Common",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.psi.features.test.framework.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Psi.Features.test.Framework",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.08.03/jetbrains.psi.features.tasks.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3d02a06-e789-4e17-aad6-721410311108",
+      "commitTimeStamp": "2025-11-26T16:08:03.8724767Z",
+      "nuget:id": "JetBrains.Psi.Features.Tasks",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/virtocommerce.platform.data.mysql.3.917.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "VirtoCommerce.Platform.Data.MySql",
+      "nuget:version": "3.917.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.platform.tests.framework.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Platform.Tests.Framework",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.platform.core.symbols.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Platform.Core.Symbols",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.psi.features.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Psi.Features.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.platform.interop.dotmemoryunit.interop.console.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Platform.Interop.dotMemoryUnit.Interop.Console",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.psi.features.ai.src.web.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Psi.Features.AI.Src.Web",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.platform.core.iisexpress.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Platform.Core.IisExpress",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.platform.core.viewmodels.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Platform.Core.ViewModels",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/shiftsoftware.shiftentity.web.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "ShiftSoftware.ShiftEntity.Web",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.debugger.tools.processenumerator.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Debugger.Tools.ProcessEnumerator.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.platform.core.ide.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Platform.Core.Ide",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.psi.features.ai.src.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Psi.Features.AI.Src.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.platform.core.text.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Platform.Core.Text",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.platform.interop.commandline.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Platform.Interop.CommandLine",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.platform.core.msbuild.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Platform.Core.MsBuild",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.platform.interop.dotmemoryunit.interop.ide.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Platform.Interop.dotMemoryUnit.Interop.Ide",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.platform.sdk.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Platform.Sdk",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.platform.rdprotocol.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Platform.RdProtocol",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.platform.core.componentmodel.legacy.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Platform.Core.ComponentModel.Legacy",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.07.24/jetbrains.platform.core.shell.252.0.20251120.145830.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe90ca2a-4fe0-4d78-9d74-fe62376ba570",
+      "commitTimeStamp": "2025-11-26T16:07:24.4088997Z",
+      "nuget:id": "JetBrains.Platform.Core.Shell",
+      "nuget:version": "252.0.20251120.145830"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/jetbrains.debugger.debugger.worker.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "JetBrains.Debugger.Debugger.Worker",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/shiftsoftwarelocalization.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "ShiftSoftwareLocalization",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/shiftsoftware.shiftidentity.azurefunctions.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "ShiftSoftware.ShiftIdentity.AzureFunctions",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/parquet.net.data.analysis.5.4.0-pre.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "Parquet.Net.Data.Analysis",
+      "nuget:version": "5.4.0-pre.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/shiftsoftware.shiftentity.functions.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "ShiftSoftware.ShiftEntity.Functions",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/shiftsoftware.shiftentity.efcore.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "ShiftSoftware.ShiftEntity.EFCore",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/shiftsoftware.shiftblazor.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "ShiftSoftware.ShiftBlazor",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/shiftsoftware.shiftentity.print.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "ShiftSoftware.ShiftEntity.Print",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/jetbrains.debugger.debugger.host.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "JetBrains.Debugger.Debugger.Host",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/jetbrains.debugger.libs.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "JetBrains.Debugger.Libs",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/shiftsoftware.shiftframeworktestingtools.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "ShiftSoftware.ShiftFrameworkTestingTools",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/shiftsoftware.shifttemplates.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "ShiftSoftware.ShiftTemplates",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/jetbrains.debugger.debugger.browserhub.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "JetBrains.Debugger.Debugger.BrowserHub",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/shiftsoftware.shiftentity.cosmosdbreplication.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "ShiftSoftware.ShiftEntity.CosmosDbReplication",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/baubit.identity.2025.48.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "Baubit.Identity",
+      "nuget:version": "2025.48.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/parquet.net.5.4.0-pre.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "Parquet.Net",
+      "nuget:version": "5.4.0-pre.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/jetbrains.debugger.debugger.host.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "JetBrains.Debugger.Debugger.Host.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/shiftsoftware.shiftidentity.core.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "ShiftSoftware.ShiftIdentity.Core",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/jetbrains.debugger.debugger.worker.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "JetBrains.Debugger.Debugger.Worker.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.46/shiftsoftware.shiftentity.model.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "075e67e5-0971-4050-a64f-4f642c723ef4",
+      "commitTimeStamp": "2025-11-26T16:06:46.9221576Z",
+      "nuget:id": "ShiftSoftware.ShiftEntity.Model",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.09/shiftsoftware.shiftidentity.dashboard.aspnetcore.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b97ec09-5f07-4778-b21e-2866e3c0c8c7",
+      "commitTimeStamp": "2025-11-26T16:06:09.1979328Z",
+      "nuget:id": "ShiftSoftware.ShiftIdentity.Dashboard.AspNetCore",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.09/shiftsoftware.shiftidentity.blazor.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b97ec09-5f07-4778-b21e-2866e3c0c8c7",
+      "commitTimeStamp": "2025-11-26T16:06:09.1979328Z",
+      "nuget:id": "ShiftSoftware.ShiftIdentity.Blazor",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.09/shiftsoftware.shiftentity.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b97ec09-5f07-4778-b21e-2866e3c0c8c7",
+      "commitTimeStamp": "2025-11-26T16:06:09.1979328Z",
+      "nuget:id": "ShiftSoftware.ShiftEntity",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.06.09/shiftsoftware.shiftidentity.dashboard.blazor.2025.11.26.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b97ec09-5f07-4778-b21e-2866e3c0c8c7",
+      "commitTimeStamp": "2025-11-26T16:06:09.1979328Z",
+      "nuget:id": "ShiftSoftware.ShiftIdentity.Dashboard.Blazor",
+      "nuget:version": "2025.11.26.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.05.32/jetbrains.platform.visualstudio.justvs16.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f2e93b19-bede-4f77-b1d7-da74c5ba8826",
+      "commitTimeStamp": "2025-11-26T16:05:32.9421331Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs16",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.54/jetbrains.psi.features.visualstudio.vsproduct.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dbff2-cbd6-4c06-9a6b-f8e102c8e4f7",
+      "commitTimeStamp": "2025-11-26T16:04:54.9090645Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.VsProduct",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.54/jetbrains.psi.features.diagramming.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dbff2-cbd6-4c06-9a6b-f8e102c8e4f7",
+      "commitTimeStamp": "2025-11-26T16:04:54.9090645Z",
+      "nuget:id": "JetBrains.Psi.Features.Diagramming",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.54/jetbrains.psi.features.uiinteractive.solutionbuilder.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dbff2-cbd6-4c06-9a6b-f8e102c8e4f7",
+      "commitTimeStamp": "2025-11-26T16:04:54.9090645Z",
+      "nuget:id": "JetBrains.Psi.Features.UIInteractive.SolutionBuilder",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.54/jetbrains.platform.visualstudio.sincevs09.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dbff2-cbd6-4c06-9a6b-f8e102c8e4f7",
+      "commitTimeStamp": "2025-11-26T16:04:54.9090645Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs09",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.54/jetbrains.platform.visualstudio.sincevs15.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dbff2-cbd6-4c06-9a6b-f8e102c8e4f7",
+      "commitTimeStamp": "2025-11-26T16:04:54.9090645Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs15",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.54/jetbrains.platform.visualstudio.vscttoctocompiler.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dbff2-cbd6-4c06-9a6b-f8e102c8e4f7",
+      "commitTimeStamp": "2025-11-26T16:04:54.9090645Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.VsctToCtoCompiler",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.54/jetbrains.psi.features.visualstudio.debuggervisualizers.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dbff2-cbd6-4c06-9a6b-f8e102c8e4f7",
+      "commitTimeStamp": "2025-11-26T16:04:54.9090645Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.DebuggerVisualizers",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.54/jetbrains.platform.uiinteractive.wpf.symbols.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dbff2-cbd6-4c06-9a6b-f8e102c8e4f7",
+      "commitTimeStamp": "2025-11-26T16:04:54.9090645Z",
+      "nuget:id": "JetBrains.Platform.UIInteractive.Wpf.Symbols",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.54/jetbrains.platform.standalone.shell.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dbff2-cbd6-4c06-9a6b-f8e102c8e4f7",
+      "commitTimeStamp": "2025-11-26T16:04:54.9090645Z",
+      "nuget:id": "JetBrains.Platform.Standalone.Shell",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.54/jetbrains.platform.visualstudio.anyend.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dbff2-cbd6-4c06-9a6b-f8e102c8e4f7",
+      "commitTimeStamp": "2025-11-26T16:04:54.9090645Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.AnyEnd",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.platform.visualstudio.sincevs15roslynaware.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs15RoslynAware",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.platform.visualstudio.sincevs16.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs16",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.platform.standalone.textcontrol.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Platform.Standalone.TextControl",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.psi.features.visualstudio.justvs10.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.JustVs10",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.platform.uiinteractive.shell.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Platform.UIInteractive.Shell",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.platform.visualstudio.util.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.Util",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.platform.visualstudio.justvs15.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs15",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.psi.features.visualstudio.sincevs16roslynaware.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.SinceVs16RoslynAware",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.platform.visualstudio.backend.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.Backend",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.platform.visualstudio.sincevs11.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs11",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.platform.uiinteractive.common.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Platform.UIInteractive.Common",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.psi.features.visualstudio._core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio._Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.psi.features.visualstudio.protocol.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.Protocol",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.psi.features.visualstudio.sincevs16.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.SinceVs16",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.platform.visualstudio.justvs12.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs12",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.psi.features.visualstudio.sincevs15.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.SinceVs15",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.platform.visualstudio.justvs10.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs10",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.psi.features.visualstudio.sincevs10.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.SinceVs10",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.resharper.sdk.internal.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.ReSharper.SDK.Internal",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.04.18/jetbrains.psi.features.visualstudio.sincevs12.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f25798a0-c93a-4d13-95fa-7598c0db3c44",
+      "commitTimeStamp": "2025-11-26T16:04:18.2322048Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.SinceVs12",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.03.40/jetbrains.resharper.sdk.tests.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c72409f-0f16-41bf-a90d-ae0548b10a34",
+      "commitTimeStamp": "2025-11-26T16:03:40.4334967Z",
+      "nuget:id": "JetBrains.ReSharper.SDK.Tests",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.03.40/jetbrains.platform.visualstudio.justvs14.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c72409f-0f16-41bf-a90d-ae0548b10a34",
+      "commitTimeStamp": "2025-11-26T16:03:40.4334967Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs14",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.03.40/jetbrains.psi.features.visualstudio.backend.outofprocess.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c72409f-0f16-41bf-a90d-ae0548b10a34",
+      "commitTimeStamp": "2025-11-26T16:03:40.4334967Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.Backend.OutOfProcess",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.03.40/jetbrains.platform.visualstudio.vsproduct.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c72409f-0f16-41bf-a90d-ae0548b10a34",
+      "commitTimeStamp": "2025-11-26T16:03:40.4334967Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.VsProduct",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.03.40/jetbrains.platform.visualstudio.backend.outofprocess.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c72409f-0f16-41bf-a90d-ae0548b10a34",
+      "commitTimeStamp": "2025-11-26T16:03:40.4334967Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.Backend.OutOfProcess",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.03.40/jetbrains.psi.features.web.uiinteractive.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c72409f-0f16-41bf-a90d-ae0548b10a34",
+      "commitTimeStamp": "2025-11-26T16:03:40.4334967Z",
+      "nuget:id": "JetBrains.Psi.Features.Web.UIInteractive",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.03.40/jetbrains.psi.features.uiinteractive.livetemplates.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c72409f-0f16-41bf-a90d-ae0548b10a34",
+      "commitTimeStamp": "2025-11-26T16:03:40.4334967Z",
+      "nuget:id": "JetBrains.Psi.Features.UIInteractive.LiveTemplates",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.03.02/jetbrains.platform.visualstudio.sincevs16roslynsourcegeneratorsaware.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e45b3ec6-6d7b-4157-9b52-bad492e3f603",
+      "commitTimeStamp": "2025-11-26T16:03:02.9320488Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs16RoslynSourceGeneratorsAware",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.03.02/jetbrains.psi.features.cpp.src.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e45b3ec6-6d7b-4157-9b52-bad492e3f603",
+      "commitTimeStamp": "2025-11-26T16:03:02.9320488Z",
+      "nuget:id": "JetBrains.Psi.Features.Cpp.Src.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.03.02/jetbrains.psi.features.visualstudio.externalsources.vs.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e45b3ec6-6d7b-4157-9b52-bad492e3f603",
+      "commitTimeStamp": "2025-11-26T16:03:02.9320488Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.ExternalSources.VS",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.03.02/jetbrains.psi.features.visualstudio.sincevs14.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e45b3ec6-6d7b-4157-9b52-bad492e3f603",
+      "commitTimeStamp": "2025-11-26T16:03:02.9320488Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.SinceVs14",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.03.02/jetbrains.resharper.sdk.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e45b3ec6-6d7b-4157-9b52-bad492e3f603",
+      "commitTimeStamp": "2025-11-26T16:03:02.9320488Z",
+      "nuget:id": "JetBrains.ReSharper.SDK",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.03.02/jetbrains.psi.features.visualstudio.respeller.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e45b3ec6-6d7b-4157-9b52-bad492e3f603",
+      "commitTimeStamp": "2025-11-26T16:03:02.9320488Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.ReSpeller",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.02.25/minifox.web.8.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cfba8eef-dc83-42eb-8797-8521134a19d9",
+      "commitTimeStamp": "2025-11-26T16:02:25.6427303Z",
+      "nuget:id": "MiniFox.Web",
+      "nuget:version": "8.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.01.49/jetbrains.platform.visualstudio.justvs17.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "77d2703f-3e4d-4099-afa5-2c7facff16ee",
+      "commitTimeStamp": "2025-11-26T16:01:49.5331087Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs17",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.01.49/jsonhcs.4.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "77d2703f-3e4d-4099-afa5-2c7facff16ee",
+      "commitTimeStamp": "2025-11-26T16:01:49.5331087Z",
+      "nuget:id": "JsonhCs",
+      "nuget:version": "4.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.01.12/jetbrains.platform.visualstudio.sincevs14roslynaware.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fef1e036-f01d-475b-9c10-b82818115fcb",
+      "commitTimeStamp": "2025-11-26T16:01:12.4982937Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs14RoslynAware",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.01.12/igniteui.blazor.lite.0.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fef1e036-f01d-475b-9c10-b82818115fcb",
+      "commitTimeStamp": "2025-11-26T16:01:12.4982937Z",
+      "nuget:id": "IgniteUI.Blazor.Lite",
+      "nuget:version": "0.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.00.35/jetbrains.platform.uiinteractive.text.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "13f43b6f-7034-48e6-9502-edccb5722617",
+      "commitTimeStamp": "2025-11-26T16:00:35.9023267Z",
+      "nuget:id": "JetBrains.Platform.UIInteractive.Text",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.00.35/jetbrains.psi.features.visualstudio.sincevs17.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "13f43b6f-7034-48e6-9502-edccb5722617",
+      "commitTimeStamp": "2025-11-26T16:00:35.9023267Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.SinceVs17",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.00.35/jetbrains.platform.visualstudio.sincevs12.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "13f43b6f-7034-48e6-9502-edccb5722617",
+      "commitTimeStamp": "2025-11-26T16:00:35.9023267Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs12",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.00.35/jetbrains.psi.features.uiinteractive.solutionanalysis.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "13f43b6f-7034-48e6-9502-edccb5722617",
+      "commitTimeStamp": "2025-11-26T16:00:35.9023267Z",
+      "nuget:id": "JetBrains.Psi.Features.UIInteractive.SolutionAnalysis",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.00.35/nil.js.2.6.1710.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "13f43b6f-7034-48e6-9502-edccb5722617",
+      "commitTimeStamp": "2025-11-26T16:00:35.9023267Z",
+      "nuget:id": "NiL.JS",
+      "nuget:version": "2.6.1710"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.16.00.35/jetbrains.platform.visualstudio.sincevs18.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "13f43b6f-7034-48e6-9502-edccb5722617",
+      "commitTimeStamp": "2025-11-26T16:00:35.9023267Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs18",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.58/jetbrains.psi.features.visualstudio.sincevs14roslynaware.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "baa4eb5a-7ea5-4d68-a200-12289090a719",
+      "commitTimeStamp": "2025-11-26T15:59:58.0225514Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.SinceVs14RoslynAware",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.58/jetbrains.platform.visualstudio.justvs18.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "baa4eb5a-7ea5-4d68-a200-12289090a719",
+      "commitTimeStamp": "2025-11-26T15:59:58.0225514Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs18",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.58/jetbrains.platform.visualstudio.sincevs10.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "baa4eb5a-7ea5-4d68-a200-12289090a719",
+      "commitTimeStamp": "2025-11-26T15:59:58.0225514Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs10",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.58/jetbrains.psi.features.uiinteractive.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "baa4eb5a-7ea5-4d68-a200-12289090a719",
+      "commitTimeStamp": "2025-11-26T15:59:58.0225514Z",
+      "nuget:id": "JetBrains.Psi.Features.UIInteractive.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.58/jetbrains.platform.visualstudio.sincevs14.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "baa4eb5a-7ea5-4d68-a200-12289090a719",
+      "commitTimeStamp": "2025-11-26T15:59:58.0225514Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs14",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.58/jetbrains.platform.visualstudio.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "baa4eb5a-7ea5-4d68-a200-12289090a719",
+      "commitTimeStamp": "2025-11-26T15:59:58.0225514Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.58/jetbrains.psi.features.visualstudio.backend.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "baa4eb5a-7ea5-4d68-a200-12289090a719",
+      "commitTimeStamp": "2025-11-26T15:59:58.0225514Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.Backend",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.58/jetbrains.psi.features.uiinteractive.features.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "baa4eb5a-7ea5-4d68-a200-12289090a719",
+      "commitTimeStamp": "2025-11-26T15:59:58.0225514Z",
+      "nuget:id": "JetBrains.Psi.Features.UIInteractive.Features",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.22/jetbrains.psi.features.uiinteractive.refactorings.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3306edab-4d2d-446b-a3c6-518d3ba405d9",
+      "commitTimeStamp": "2025-11-26T15:59:22.181306Z",
+      "nuget:id": "JetBrains.Psi.Features.UIInteractive.Refactorings",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.22/jetbrains.psi.features.visualstudio.justvs12.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3306edab-4d2d-446b-a3c6-518d3ba405d9",
+      "commitTimeStamp": "2025-11-26T15:59:22.181306Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.JustVs12",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.22/jetbrains.platform.visualstudio.protocol.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3306edab-4d2d-446b-a3c6-518d3ba405d9",
+      "commitTimeStamp": "2025-11-26T15:59:22.181306Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.Protocol",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.22/jetbrains.platform.visualstudio.sincevs17.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3306edab-4d2d-446b-a3c6-518d3ba405d9",
+      "commitTimeStamp": "2025-11-26T15:59:22.181306Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs17",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.22/jetbrains.platform.visualstudio.sincevs16roslynaware.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3306edab-4d2d-446b-a3c6-518d3ba405d9",
+      "commitTimeStamp": "2025-11-26T15:59:22.181306Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs16RoslynAware",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.22/jetbrains.platform.standalone.wpf.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3306edab-4d2d-446b-a3c6-518d3ba405d9",
+      "commitTimeStamp": "2025-11-26T15:59:22.181306Z",
+      "nuget:id": "JetBrains.Platform.Standalone.WPF",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.22/jetbrains.psi.features.visualstudio.unittesting.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3306edab-4d2d-446b-a3c6-518d3ba405d9",
+      "commitTimeStamp": "2025-11-26T15:59:22.181306Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.UnitTesting",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.22/jetbrains.platform.visualstudio.justvs11.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3306edab-4d2d-446b-a3c6-518d3ba405d9",
+      "commitTimeStamp": "2025-11-26T15:59:22.181306Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs11",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.22/jetbrains.platform.uiinteractive.ide.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3306edab-4d2d-446b-a3c6-518d3ba405d9",
+      "commitTimeStamp": "2025-11-26T15:59:22.181306Z",
+      "nuget:id": "JetBrains.Platform.UIInteractive.Ide",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.22/jetbrains.platform.installer.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3306edab-4d2d-446b-a3c6-518d3ba405d9",
+      "commitTimeStamp": "2025-11-26T15:59:22.181306Z",
+      "nuget:id": "JetBrains.Platform.Installer",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.22/jetbrains.psi.features.visualstudio.sincevs11.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3306edab-4d2d-446b-a3c6-518d3ba405d9",
+      "commitTimeStamp": "2025-11-26T15:59:22.181306Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.SinceVs11",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.59.22/jetbrains.psi.features.visualstudio.debugger.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3306edab-4d2d-446b-a3c6-518d3ba405d9",
+      "commitTimeStamp": "2025-11-26T15:59:22.181306Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.Debugger",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.58.46/jetbrains.platform.core.clrstack.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bd32f0c-edd8-4165-be87-6b4739cae227",
+      "commitTimeStamp": "2025-11-26T15:58:46.3212565Z",
+      "nuget:id": "JetBrains.Platform.Core.ClrStack",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.58.46/jetbrains.rider.native.core.windows-x64.release.252.0.20251120.150352.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bd32f0c-edd8-4165-be87-6b4739cae227",
+      "commitTimeStamp": "2025-11-26T15:58:46.3212565Z",
+      "nuget:id": "JetBrains.Rider.Native.Core.windows-x64.Release",
+      "nuget:version": "252.0.20251120.150352"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.58.46/jetbrains.resharperautomationtools.src.roslyn.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bd32f0c-edd8-4165-be87-6b4739cae227",
+      "commitTimeStamp": "2025-11-26T15:58:46.3212565Z",
+      "nuget:id": "JetBrains.ReSharperAutomationTools.src.Roslyn",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.58.46/ipercube.nut.ups.query.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bd32f0c-edd8-4165-be87-6b4739cae227",
+      "commitTimeStamp": "2025-11-26T15:58:46.3212565Z",
+      "nuget:id": "Ipercube.NUT.Ups.Query",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.58.07/jetbrains.rider.sdk.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "133138b3-f6d9-482e-81e5-076b56f57b59",
+      "commitTimeStamp": "2025-11-26T15:58:07.6557817Z",
+      "nuget:id": "JetBrains.Rider.SDK",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.58.07/jetbrains.dottrace.commandlinetools.linux-arm.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "133138b3-f6d9-482e-81e5-076b56f57b59",
+      "commitTimeStamp": "2025-11-26T15:58:07.6557817Z",
+      "nuget:id": "JetBrains.dotTrace.CommandLineTools.linux-arm",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.58.07/jetbrains.rider.rider.backend.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "133138b3-f6d9-482e-81e5-076b56f57b59",
+      "commitTimeStamp": "2025-11-26T15:58:07.6557817Z",
+      "nuget:id": "JetBrains.Rider.Rider.Backend",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.58.07/jetbrains.psi.features.tasks.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "133138b3-f6d9-482e-81e5-076b56f57b59",
+      "commitTimeStamp": "2025-11-26T15:58:07.6557817Z",
+      "nuget:id": "JetBrains.Psi.Features.Tasks",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.58.07/jetbrains.dottrace.globaltools.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "133138b3-f6d9-482e-81e5-076b56f57b59",
+      "commitTimeStamp": "2025-11-26T15:58:07.6557817Z",
+      "nuget:id": "JetBrains.dotTrace.GlobalTools",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.58.07/jetbrains.rider.native.core.windows-x86.release.252.0.20251120.150341.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "133138b3-f6d9-482e-81e5-076b56f57b59",
+      "commitTimeStamp": "2025-11-26T15:58:07.6557817Z",
+      "nuget:id": "JetBrains.Rider.Native.Core.windows-x86.Release",
+      "nuget:version": "252.0.20251120.150341"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.58.07/jetbrains.rider.rdbackend.common.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "133138b3-f6d9-482e-81e5-076b56f57b59",
+      "commitTimeStamp": "2025-11-26T15:58:07.6557817Z",
+      "nuget:id": "JetBrains.Rider.RdBackend.Common",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.58.07/jetbrains.rider.xamlhotreload.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "133138b3-f6d9-482e-81e5-076b56f57b59",
+      "commitTimeStamp": "2025-11-26T15:58:07.6557817Z",
+      "nuget:id": "JetBrains.Rider.XamlHotReload",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.58.07/jetbrains.platform.tests.framework.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "133138b3-f6d9-482e-81e5-076b56f57b59",
+      "commitTimeStamp": "2025-11-26T15:58:07.6557817Z",
+      "nuget:id": "JetBrains.Platform.Tests.Framework",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.58.07/jetbrains.rider.native.core.windows-arm64.release.252.0.20251120.150327.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "133138b3-f6d9-482e-81e5-076b56f57b59",
+      "commitTimeStamp": "2025-11-26T15:58:07.6557817Z",
+      "nuget:id": "JetBrains.Rider.Native.Core.windows-arm64.Release",
+      "nuget:version": "252.0.20251120.150327"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.58.07/jetbrains.rider.external.wcf.svcutil.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "133138b3-f6d9-482e-81e5-076b56f57b59",
+      "commitTimeStamp": "2025-11-26T15:58:07.6557817Z",
+      "nuget:id": "JetBrains.Rider.External.Wcf.SvcUtil",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.dottrace.commandlinetools.linux-x64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.dotTrace.CommandLineTools.linux-x64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.rider.sdk.tests.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.Rider.SDK.Tests",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.psi.features.test.framework.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.Psi.Features.test.Framework",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.rider.ridersdk.internal.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.Rider.RiderSdk.Internal",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/coredatabase.2025.11.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "CoreDatabase",
+      "nuget:version": "2025.11.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.dottrace.commandlinetools.macos-arm64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.dotTrace.CommandLineTools.macos-arm64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.platform.interop.commandline.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.Platform.Interop.CommandLine",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.psi.features.web.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.Psi.Features.Web.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.resharper.commandlinetools.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.ReSharper.CommandLineTools",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.resharper.globaltools.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.ReSharper.GlobalTools",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.dottrace.commandlinetools.windows-arm64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.dotTrace.CommandLineTools.windows-arm64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.dottrace.commandlinetools.linux-musl-x64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.dotTrace.CommandLineTools.linux-musl-x64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.psi.features.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.Psi.Features.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.psi.features.src.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.Psi.Features.src",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.psi.features.solutionbuilder.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.Psi.Features.SolutionBuilder",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.platform.core.viewmodels.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.Platform.Core.ViewModels",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.psi.features.unittesting.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.Psi.Features.UnitTesting",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.dottrace.commandlinetools.linux-musl-arm64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.dotTrace.CommandLineTools.linux-musl-arm64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.rider.external.templating.templateengine.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.Rider.External.Templating.TemplateEngine",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.57.23/jetbrains.psi.features.ai.src.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3fca201e-e444-4ba4-8bbe-5bd74c07da5e",
+      "commitTimeStamp": "2025-11-26T15:57:23.2934431Z",
+      "nuget:id": "JetBrains.Psi.Features.AI.Src.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.debugger.libs.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.Debugger.Libs",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.psi.features.ai.src.web.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.Psi.Features.AI.Src.Web",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.platform.core.ide.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.Platform.Core.Ide",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.resharperautomationtools.src.inspectandcleanuptoolcommon.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.ReSharperAutomationTools.src.InspectAndCleanupToolCommon",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.platform.rdprotocol.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.Platform.RdProtocol",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.platform.core.iisexpress.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.Platform.Core.IisExpress",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.dotmemory.console.macos-arm64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.dotMemory.Console.macos-arm64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.rider.browserhotreload.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.Rider.BrowserHotReload",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.rider.external.iis.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.Rider.External.Iis",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.platform.interop.dotmemoryunit.interop.ide.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.Platform.Interop.dotMemoryUnit.Interop.Ide",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.platform.interop.dotmemoryunit.interop.console.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.Platform.Interop.dotMemoryUnit.Interop.Console",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.dotmemory.console.linux-musl-x64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.dotMemory.Console.linux-musl-x64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.platform.core.text.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.Platform.Core.Text",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/fmglib.mauimarkup.template.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "FmgLib.MauiMarkup.Template",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.platform.core.shell.252.0.20251120.145830.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.Platform.Core.Shell",
+      "nuget:version": "252.0.20251120.145830"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.dottrace.commandlinetools.macos-x64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.dotTrace.CommandLineTools.macos-x64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.dottrace.commandlinetools.linux-arm64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.dotTrace.CommandLineTools.linux-arm64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.44/jetbrains.platform.core.msbuild.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "efed5eb3-81fc-41f4-b882-7362ad7d89c4",
+      "commitTimeStamp": "2025-11-26T15:56:44.7156826Z",
+      "nuget:id": "JetBrains.Platform.Core.MsBuild",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.04/jetbrains.debugger.debugger.worker.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b710a15-e085-4b23-891a-3d26a8c2cd10",
+      "commitTimeStamp": "2025-11-26T15:56:04.8063352Z",
+      "nuget:id": "JetBrains.Debugger.Debugger.Worker.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.04/jetbrains.debugger.debugger.host.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b710a15-e085-4b23-891a-3d26a8c2cd10",
+      "commitTimeStamp": "2025-11-26T15:56:04.8063352Z",
+      "nuget:id": "JetBrains.Debugger.Debugger.Host",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.04/jetbrains.platform.sdk.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b710a15-e085-4b23-891a-3d26a8c2cd10",
+      "commitTimeStamp": "2025-11-26T15:56:04.8063352Z",
+      "nuget:id": "JetBrains.Platform.Sdk",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.04/jetbrains.dotmemory.console.macos-x64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b710a15-e085-4b23-891a-3d26a8c2cd10",
+      "commitTimeStamp": "2025-11-26T15:56:04.8063352Z",
+      "nuget:id": "JetBrains.dotMemory.Console.macos-x64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.04/jetbrains.dottrace.commandlinetools.windows-x64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b710a15-e085-4b23-891a-3d26a8c2cd10",
+      "commitTimeStamp": "2025-11-26T15:56:04.8063352Z",
+      "nuget:id": "JetBrains.dotTrace.CommandLineTools.windows-x64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.04/jetbrains.debugger.debugger.browserhub.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b710a15-e085-4b23-891a-3d26a8c2cd10",
+      "commitTimeStamp": "2025-11-26T15:56:04.8063352Z",
+      "nuget:id": "JetBrains.Debugger.Debugger.BrowserHub",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.04/jetbrains.dotmemory.console.linux-musl-arm64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b710a15-e085-4b23-891a-3d26a8c2cd10",
+      "commitTimeStamp": "2025-11-26T15:56:04.8063352Z",
+      "nuget:id": "JetBrains.dotMemory.Console.linux-musl-arm64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.04/jetbrains.dotmemory.console.linux-arm.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b710a15-e085-4b23-891a-3d26a8c2cd10",
+      "commitTimeStamp": "2025-11-26T15:56:04.8063352Z",
+      "nuget:id": "JetBrains.dotMemory.Console.linux-arm",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.04/jetbrains.platform.core.componentmodel.legacy.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b710a15-e085-4b23-891a-3d26a8c2cd10",
+      "commitTimeStamp": "2025-11-26T15:56:04.8063352Z",
+      "nuget:id": "JetBrains.Platform.Core.ComponentModel.Legacy",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.04/jetbrains.dotmemory.console.linux-arm64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b710a15-e085-4b23-891a-3d26a8c2cd10",
+      "commitTimeStamp": "2025-11-26T15:56:04.8063352Z",
+      "nuget:id": "JetBrains.dotMemory.Console.linux-arm64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.56.04/jetbrains.dottrace.commandlinetools.windows-x86.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b710a15-e085-4b23-891a-3d26a8c2cd10",
+      "commitTimeStamp": "2025-11-26T15:56:04.8063352Z",
+      "nuget:id": "JetBrains.dotTrace.CommandLineTools.windows-x86",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.55.28/jetbrains.dotmemory.console.linux-x64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "50408c3f-1ba9-4a9e-a99e-b511d35e4a3a",
+      "commitTimeStamp": "2025-11-26T15:55:28.0380454Z",
+      "nuget:id": "JetBrains.dotMemory.Console.linux-x64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.55.28/jetbrains.debugger.debugger.host.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "50408c3f-1ba9-4a9e-a99e-b511d35e4a3a",
+      "commitTimeStamp": "2025-11-26T15:55:28.0380454Z",
+      "nuget:id": "JetBrains.Debugger.Debugger.Host.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.55.28/jetbrains.platform.core.symbols.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "50408c3f-1ba9-4a9e-a99e-b511d35e4a3a",
+      "commitTimeStamp": "2025-11-26T15:55:28.0380454Z",
+      "nuget:id": "JetBrains.Platform.Core.Symbols",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.55.28/coreutilerias.2025.11.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "50408c3f-1ba9-4a9e-a99e-b511d35e4a3a",
+      "commitTimeStamp": "2025-11-26T15:55:28.0380454Z",
+      "nuget:id": "CoreUtilerias",
+      "nuget:version": "2025.11.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.55.28/jetbrains.debugger.tools.processenumerator.core.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "50408c3f-1ba9-4a9e-a99e-b511d35e4a3a",
+      "commitTimeStamp": "2025-11-26T15:55:28.0380454Z",
+      "nuget:id": "JetBrains.Debugger.Tools.ProcessEnumerator.Core",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.55.28/jetbrains.debugger.debugger.worker.252.0.20251120.150646.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "50408c3f-1ba9-4a9e-a99e-b511d35e4a3a",
+      "commitTimeStamp": "2025-11-26T15:55:28.0380454Z",
+      "nuget:id": "JetBrains.Debugger.Debugger.Worker",
+      "nuget:version": "252.0.20251120.150646"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.54.50/jetbrains.dotcover.commandlinetools.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "133dfade-2745-4e65-b035-6f2203ef3131",
+      "commitTimeStamp": "2025-11-26T15:54:50.508331Z",
+      "nuget:id": "JetBrains.dotCover.CommandLineTools",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.54.50/jetbrains.dotmemory.console.windows-arm64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "133dfade-2745-4e65-b035-6f2203ef3131",
+      "commitTimeStamp": "2025-11-26T15:54:50.508331Z",
+      "nuget:id": "JetBrains.dotMemory.Console.windows-arm64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.54.14/fmglib.mauimarkup.template.10.0.0-preview.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "44644365-1428-4ff4-9126-f4352416478d",
+      "commitTimeStamp": "2025-11-26T15:54:14.8985913Z",
+      "nuget:id": "FmgLib.MauiMarkup.Template",
+      "nuget:version": "10.0.0-preview.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.54.14/jetbrains.dotmemory.console.windows-x64.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "44644365-1428-4ff4-9126-f4352416478d",
+      "commitTimeStamp": "2025-11-26T15:54:14.8985913Z",
+      "nuget:id": "JetBrains.dotMemory.Console.windows-x64",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.54.14/infinilore.infiniframe.shared.0.1.0-preview.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "44644365-1428-4ff4-9126-f4352416478d",
+      "commitTimeStamp": "2025-11-26T15:54:14.8985913Z",
+      "nuget:id": "InfiniLore.InfiniFrame.Shared",
+      "nuget:version": "0.1.0-preview.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.54.14/infinilore.infiniframe.blazor.0.1.0-preview.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "44644365-1428-4ff4-9126-f4352416478d",
+      "commitTimeStamp": "2025-11-26T15:54:14.8985913Z",
+      "nuget:id": "InfiniLore.InfiniFrame.Blazor",
+      "nuget:version": "0.1.0-preview.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.54.14/fmglib.mauimarkup.template.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "44644365-1428-4ff4-9126-f4352416478d",
+      "commitTimeStamp": "2025-11-26T15:54:14.8985913Z",
+      "nuget:id": "FmgLib.MauiMarkup.Template",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.54.14/jetbrains.dotmemory.console.windows-x86.2025.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "44644365-1428-4ff4-9126-f4352416478d",
+      "commitTimeStamp": "2025-11-26T15:54:14.8985913Z",
+      "nuget:id": "JetBrains.dotMemory.Console.windows-x86",
+      "nuget:version": "2025.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.54.14/cubido.templates.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "44644365-1428-4ff4-9126-f4352416478d",
+      "commitTimeStamp": "2025-11-26T15:54:14.8985913Z",
+      "nuget:id": "Cubido.Templates",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.54.14/fmglib.mauimarkup.template.10.0.0-preview.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "44644365-1428-4ff4-9126-f4352416478d",
+      "commitTimeStamp": "2025-11-26T15:54:14.8985913Z",
+      "nuget:id": "FmgLib.MauiMarkup.Template",
+      "nuget:version": "10.0.0-preview.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.54.14/infinilore.infiniframe.js.0.1.0-preview.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "44644365-1428-4ff4-9126-f4352416478d",
+      "commitTimeStamp": "2025-11-26T15:54:14.8985913Z",
+      "nuget:id": "InfiniLore.InfiniFrame.Js",
+      "nuget:version": "0.1.0-preview.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.53.38/fels%C3%B6kning.ycombinator.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "abc4232b-09db-464d-8cf6-2b27b22d746c",
+      "commitTimeStamp": "2025-11-26T15:53:38.2225488Z",
+      "nuget:id": "Fels\u00f6kning.YCombinator",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.53.38/infinilore.infiniframe.webserver.0.1.0-preview.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "abc4232b-09db-464d-8cf6-2b27b22d746c",
+      "commitTimeStamp": "2025-11-26T15:53:38.2225488Z",
+      "nuget:id": "InfiniLore.InfiniFrame.WebServer",
+      "nuget:version": "0.1.0-preview.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.53.38/ww.cad_net6.0.6.0.2025.11262-trial.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "abc4232b-09db-464d-8cf6-2b27b22d746c",
+      "commitTimeStamp": "2025-11-26T15:53:38.2225488Z",
+      "nuget:id": "WW.Cad_Net6.0",
+      "nuget:version": "6.0.2025.11262-trial"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.53.38/infinilore.infiniframe.0.1.0-preview.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "abc4232b-09db-464d-8cf6-2b27b22d746c",
+      "commitTimeStamp": "2025-11-26T15:53:38.2225488Z",
+      "nuget:id": "InfiniLore.InfiniFrame",
+      "nuget:version": "0.1.0-preview.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.53.38/infinilore.infiniframe.blazorwebview.0.1.0-preview.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "abc4232b-09db-464d-8cf6-2b27b22d746c",
+      "commitTimeStamp": "2025-11-26T15:53:38.2225488Z",
+      "nuget:id": "InfiniLore.InfiniFrame.BlazorWebView",
+      "nuget:version": "0.1.0-preview.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.52.25/ww_net6.0.6.0.2025.11262-trial.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bfc17d4-41b9-4aff-863f-860436e30153",
+      "commitTimeStamp": "2025-11-26T15:52:25.4513757Z",
+      "nuget:id": "WW_Net6.0",
+      "nuget:version": "6.0.2025.11262-trial"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.51.13/xtraq.1.0.0-rc.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e73414b9-da56-4370-a9b2-9bfff290a27c",
+      "commitTimeStamp": "2025-11-26T15:51:13.8107829Z",
+      "nuget:id": "xtraq",
+      "nuget:version": "1.0.0-rc.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.50.37/cubido.templates.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7424d9d-ae4c-460d-858d-7bc5a5f68290",
+      "commitTimeStamp": "2025-11-26T15:50:37.8623545Z",
+      "nuget:id": "Cubido.Templates",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.50.00/vaelastrasz.library.6.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "234c19ca-9da5-4c04-b7f7-b8afb1d8c718",
+      "commitTimeStamp": "2025-11-26T15:50:00.3356439Z",
+      "nuget:id": "Vaelastrasz.Library",
+      "nuget:version": "6.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.49.23/most.foundation.1.6.90.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2e7cea8f-ecd5-4319-a9d1-35a4500d3175",
+      "commitTimeStamp": "2025-11-26T15:49:23.8019979Z",
+      "nuget:id": "Most.Foundation",
+      "nuget:version": "1.6.90"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.48.12/fmglib.mauimarkup.template.10.0.0-preview.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "836ac81b-d315-4d7e-938d-08ddf696000c",
+      "commitTimeStamp": "2025-11-26T15:48:12.0094349Z",
+      "nuget:id": "FmgLib.MauiMarkup.Template",
+      "nuget:version": "10.0.0-preview.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.47.35/ccf.ck.libs.sendemailextended.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ccc9706-35a8-4365-9c90-bcfb3b98247e",
+      "commitTimeStamp": "2025-11-26T15:47:35.9576166Z",
+      "nuget:id": "Ccf.Ck.Libs.SendEmailExtended",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.47.35/userapp.service.1.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ccc9706-35a8-4365-9c90-bcfb3b98247e",
+      "commitTimeStamp": "2025-11-26T15:47:35.9576166Z",
+      "nuget:id": "UserApp.Service",
+      "nuget:version": "1.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.46.59/ww.cad.avalonia_net8.0.8.0.2025.11262-trial.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7771c90c-fec5-45cc-b21a-b8c75b5dd023",
+      "commitTimeStamp": "2025-11-26T15:46:59.4035614Z",
+      "nuget:id": "WW.Cad.Avalonia_Net8.0",
+      "nuget:version": "8.0.2025.11262-trial"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.46.23/hopex.applicationserver.tool.62.1.0.116.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4e2ce10f-f833-4ad9-aa19-a4e9f040f215",
+      "commitTimeStamp": "2025-11-26T15:46:23.2312738Z",
+      "nuget:id": "Hopex.ApplicationServer.Tool",
+      "nuget:version": "62.1.0.116"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.46.23/ww.cad_net8.0.8.0.2025.11262-trial.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4e2ce10f-f833-4ad9-aa19-a4e9f040f215",
+      "commitTimeStamp": "2025-11-26T15:46:23.2312738Z",
+      "nuget:id": "WW.Cad_Net8.0",
+      "nuget:version": "8.0.2025.11262-trial"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.46.23/computec.processforce.database.3.2511.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4e2ce10f-f833-4ad9-aa19-a4e9f040f215",
+      "commitTimeStamp": "2025-11-26T15:46:23.2312738Z",
+      "nuget:id": "CompuTec.ProcessForce.Database",
+      "nuget:version": "3.2511.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.46.23/ww_net8.0.8.0.2025.11262-trial.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4e2ce10f-f833-4ad9-aa19-a4e9f040f215",
+      "commitTimeStamp": "2025-11-26T15:46:23.2312738Z",
+      "nuget:id": "WW_Net8.0",
+      "nuget:version": "8.0.2025.11262-trial"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.45.46/computec.processforce.webentities.3.2511.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf128e72-9472-4705-8b65-b6638be0c83c",
+      "commitTimeStamp": "2025-11-26T15:45:46.6105564Z",
+      "nuget:id": "CompuTec.ProcessForce.WebEntities",
+      "nuget:version": "3.2511.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.45.46/computec.processforce.api.3.2511.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf128e72-9472-4705-8b65-b6638be0c83c",
+      "commitTimeStamp": "2025-11-26T15:45:46.6105564Z",
+      "nuget:id": "CompuTec.ProcessForce.API",
+      "nuget:version": "3.2511.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.45.46/dips.mobile.ui.54.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf128e72-9472-4705-8b65-b6638be0c83c",
+      "commitTimeStamp": "2025-11-26T15:45:46.6105564Z",
+      "nuget:id": "DIPS.Mobile.UI",
+      "nuget:version": "54.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.45.10/hopex.applicationserver.sitemodule.62.1.0.116.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad4d130-7ffb-40af-acd9-63da525754a7",
+      "commitTimeStamp": "2025-11-26T15:45:10.6321742Z",
+      "nuget:id": "Hopex.ApplicationServer.SiteModule",
+      "nuget:version": "62.1.0.116"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.45.10/computec.processforce.scheduling.3.2511.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad4d130-7ffb-40af-acd9-63da525754a7",
+      "commitTimeStamp": "2025-11-26T15:45:10.6321742Z",
+      "nuget:id": "CompuTec.ProcessForce.Scheduling",
+      "nuget:version": "3.2511.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.45.10/hopex.applicationserver.extensions.commandline.62.1.0.116.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad4d130-7ffb-40af-acd9-63da525754a7",
+      "commitTimeStamp": "2025-11-26T15:45:10.6321742Z",
+      "nuget:id": "Hopex.ApplicationServer.Extensions.Commandline",
+      "nuget:version": "62.1.0.116"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.45.10/acontplus.notifications.1.4.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad4d130-7ffb-40af-acd9-63da525754a7",
+      "commitTimeStamp": "2025-11-26T15:45:10.6321742Z",
+      "nuget:id": "Acontplus.Notifications",
+      "nuget:version": "1.4.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.44.34/hopex.applicationserver.extensions.forms.62.1.0.116.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "127f7147-75c4-4117-bbfc-157afd9af7a1",
+      "commitTimeStamp": "2025-11-26T15:44:34.6096544Z",
+      "nuget:id": "Hopex.ApplicationServer.Extensions.Forms",
+      "nuget:version": "62.1.0.116"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.44.34/hopex.applicationserver.extensions.package.62.1.0.116.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "127f7147-75c4-4117-bbfc-157afd9af7a1",
+      "commitTimeStamp": "2025-11-26T15:44:34.6096544Z",
+      "nuget:id": "Hopex.ApplicationServer.Extensions.Package",
+      "nuget:version": "62.1.0.116"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.44.34/acontplus.infrastructure.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "127f7147-75c4-4117-bbfc-157afd9af7a1",
+      "commitTimeStamp": "2025-11-26T15:44:34.6096544Z",
+      "nuget:id": "Acontplus.Infrastructure",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.44.34/hopex.applicationserver.extensions.webservices.62.1.0.116.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "127f7147-75c4-4117-bbfc-157afd9af7a1",
+      "commitTimeStamp": "2025-11-26T15:44:34.6096544Z",
+      "nuget:id": "Hopex.ApplicationServer.Extensions.WebServices",
+      "nuget:version": "62.1.0.116"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.43.58/opendatahub-ltsapi-importer.3.8.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "031c0621-1cba-47b9-80de-60d8ceee55bc",
+      "commitTimeStamp": "2025-11-26T15:43:58.4196514Z",
+      "nuget:id": "opendatahub-ltsapi-importer",
+      "nuget:version": "3.8.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.43.58/hopex.applicationserver.commons.62.1.0.116.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "031c0621-1cba-47b9-80de-60d8ceee55bc",
+      "commitTimeStamp": "2025-11-26T15:43:58.4196514Z",
+      "nuget:id": "Hopex.ApplicationServer.Commons",
+      "nuget:version": "62.1.0.116"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.43.22/davasorus.utility.json.createjson.2025.4.2.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7ee4da80-f408-4757-94b6-abe770dd50b9",
+      "commitTimeStamp": "2025-11-26T15:43:22.7095409Z",
+      "nuget:id": "Davasorus.Utility.Json.CreateJson",
+      "nuget:version": "2025.4.2.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.42.46/minimutex.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a5265ec-0f59-408c-94f1-d4b58a9fd77d",
+      "commitTimeStamp": "2025-11-26T15:42:46.3822549Z",
+      "nuget:id": "MiniMutex",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.42.46/davasorus.utility.orifdidcopy.directorysearchcompression.2025.4.2.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a5265ec-0f59-408c-94f1-d4b58a9fd77d",
+      "commitTimeStamp": "2025-11-26T15:42:46.3822549Z",
+      "nuget:id": "Davasorus.Utility.oriFDIDCopy.directorySearchCompression",
+      "nuget:version": "2025.4.2.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.42.46/tx.fbx.1.1.6.20.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a5265ec-0f59-408c-94f1-d4b58a9fd77d",
+      "commitTimeStamp": "2025-11-26T15:42:46.3822549Z",
+      "nuget:id": "Tx.Fbx",
+      "nuget:version": "1.1.6.20"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.42.09/mockforge.2.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "93b84cae-a8ba-4098-9920-e262428c32c6",
+      "commitTimeStamp": "2025-11-26T15:42:09.6685646Z",
+      "nuget:id": "MockForge",
+      "nuget:version": "2.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.42.09/grindcore.0.6.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "93b84cae-a8ba-4098-9920-e262428c32c6",
+      "commitTimeStamp": "2025-11-26T15:42:09.6685646Z",
+      "nuget:id": "GrindCore",
+      "nuget:version": "0.6.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.41.32/lognpoolinglib.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "32834d71-0512-4403-8a09-6dbf1f317277",
+      "commitTimeStamp": "2025-11-26T15:41:32.3401942Z",
+      "nuget:id": "LognPoolingLib",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.41.32/pyro.icore.1.9.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "32834d71-0512-4403-8a09-6dbf1f317277",
+      "commitTimeStamp": "2025-11-26T15:41:32.3401942Z",
+      "nuget:id": "Pyro.ICore",
+      "nuget:version": "1.9.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.40.57/pyro.core.dataaccess.1.9.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d520537-6da1-47e7-884f-34b1dc395884",
+      "commitTimeStamp": "2025-11-26T15:40:57.0091415Z",
+      "nuget:id": "Pyro.Core.DataAccess",
+      "nuget:version": "1.9.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.40.57/pyro.core.httpclient.1.9.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d520537-6da1-47e7-884f-34b1dc395884",
+      "commitTimeStamp": "2025-11-26T15:40:57.0091415Z",
+      "nuget:id": "Pyro.Core.HttpClient",
+      "nuget:version": "1.9.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.40.57/pyro.core.shortener.1.9.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d520537-6da1-47e7-884f-34b1dc395884",
+      "commitTimeStamp": "2025-11-26T15:40:57.0091415Z",
+      "nuget:id": "Pyro.Core.Shortener",
+      "nuget:version": "1.9.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.40.57/lucene.net.indexprovider.1.0.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d520537-6da1-47e7-884f-34b1dc395884",
+      "commitTimeStamp": "2025-11-26T15:40:57.0091415Z",
+      "nuget:id": "Lucene.Net.IndexProvider",
+      "nuget:version": "1.0.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.40.57/pyro.core.1.9.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d520537-6da1-47e7-884f-34b1dc395884",
+      "commitTimeStamp": "2025-11-26T15:40:57.0091415Z",
+      "nuget:id": "Pyro.Core",
+      "nuget:version": "1.9.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.40.57/pyro.core.ientities.1.9.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d520537-6da1-47e7-884f-34b1dc395884",
+      "commitTimeStamp": "2025-11-26T15:40:57.0091415Z",
+      "nuget:id": "Pyro.Core.IEntities",
+      "nuget:version": "1.9.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.40.57/pyro.core.enums.1.9.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d520537-6da1-47e7-884f-34b1dc395884",
+      "commitTimeStamp": "2025-11-26T15:40:57.0091415Z",
+      "nuget:id": "Pyro.Core.Enums",
+      "nuget:version": "1.9.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.40.57/pyro.core.entities.1.9.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d520537-6da1-47e7-884f-34b1dc395884",
+      "commitTimeStamp": "2025-11-26T15:40:57.0091415Z",
+      "nuget:id": "Pyro.Core.Entities",
+      "nuget:version": "1.9.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.40.57/pyro.google.1.9.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d520537-6da1-47e7-884f-34b1dc395884",
+      "commitTimeStamp": "2025-11-26T15:40:57.0091415Z",
+      "nuget:id": "Pyro.Google",
+      "nuget:version": "1.9.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.40.57/pyro.core.idataaccess.1.9.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3d520537-6da1-47e7-884f-34b1dc395884",
+      "commitTimeStamp": "2025-11-26T15:40:57.0091415Z",
+      "nuget:id": "Pyro.Core.IDataAccess",
+      "nuget:version": "1.9.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.40.21/shippingproapicollection.1.1.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4970a6aa-6362-4801-bef2-10ec918a405e",
+      "commitTimeStamp": "2025-11-26T15:40:21.031174Z",
+      "nuget:id": "ShippingProAPICollection",
+      "nuget:version": "1.1.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.38.32/scama01.soundflow.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "367b5c60-c13e-4f1d-a66e-9819cc5b81de",
+      "commitTimeStamp": "2025-11-26T15:38:32.9307608Z",
+      "nuget:id": "scama01.SoundFlow",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.37.56/uno.ui.hotdesign.1.18.0-dev.304.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ac0be8f9-ab5c-4270-a716-29b67c42b1e9",
+      "commitTimeStamp": "2025-11-26T15:37:56.5628721Z",
+      "nuget:id": "Uno.UI.HotDesign",
+      "nuget:version": "1.18.0-dev.304"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.37.21/nruuvitag.publisher.mqtt.5.0.0-pre.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f391e1e7-f936-4ddf-af24-3480c9e59042",
+      "commitTimeStamp": "2025-11-26T15:37:21.0882Z",
+      "nuget:id": "NRuuviTag.Publisher.Mqtt",
+      "nuget:version": "5.0.0-pre.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.37.21/nruuvitag.listener.linux.5.0.0-pre.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f391e1e7-f936-4ddf-af24-3480c9e59042",
+      "commitTimeStamp": "2025-11-26T15:37:21.0882Z",
+      "nuget:id": "NRuuviTag.Listener.Linux",
+      "nuget:version": "5.0.0-pre.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.36.44/fels%C3%B6kning.ireland.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ffdb68e8-a382-4738-82c6-e57af802e3dd",
+      "commitTimeStamp": "2025-11-26T15:36:44.9597274Z",
+      "nuget:id": "Fels\u00f6kning.Ireland",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.36.44/nruuvitag.opentelemetry.5.0.0-pre.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ffdb68e8-a382-4738-82c6-e57af802e3dd",
+      "commitTimeStamp": "2025-11-26T15:36:44.9597274Z",
+      "nuget:id": "NRuuviTag.OpenTelemetry",
+      "nuget:version": "5.0.0-pre.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.36.44/nruuvitag.core.5.0.0-pre.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ffdb68e8-a382-4738-82c6-e57af802e3dd",
+      "commitTimeStamp": "2025-11-26T15:36:44.9597274Z",
+      "nuget:id": "NRuuviTag.Core",
+      "nuget:version": "5.0.0-pre.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.36.44/nruuvitag.listener.windows.5.0.0-pre.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ffdb68e8-a382-4738-82c6-e57af802e3dd",
+      "commitTimeStamp": "2025-11-26T15:36:44.9597274Z",
+      "nuget:id": "NRuuviTag.Listener.Windows",
+      "nuget:version": "5.0.0-pre.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.36.44/nruuvitag.publisher.http.5.0.0-pre.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ffdb68e8-a382-4738-82c6-e57af802e3dd",
+      "commitTimeStamp": "2025-11-26T15:36:44.9597274Z",
+      "nuget:id": "NRuuviTag.Publisher.Http",
+      "nuget:version": "5.0.0-pre.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.36.44/nruuvitag.publisher.azureeventhubs.5.0.0-pre.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ffdb68e8-a382-4738-82c6-e57af802e3dd",
+      "commitTimeStamp": "2025-11-26T15:36:44.9597274Z",
+      "nuget:id": "NRuuviTag.Publisher.AzureEventHubs",
+      "nuget:version": "5.0.0-pre.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.36.44/ror2bepinexpack.1.37.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ffdb68e8-a382-4738-82c6-e57af802e3dd",
+      "commitTimeStamp": "2025-11-26T15:36:44.9597274Z",
+      "nuget:id": "RoR2BepInExPack",
+      "nuget:version": "1.37.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.36.44/reheecmf.authenticationmodule.8.0.3-p023.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ffdb68e8-a382-4738-82c6-e57af802e3dd",
+      "commitTimeStamp": "2025-11-26T15:36:44.9597274Z",
+      "nuget:id": "ReheeCmf.AuthenticationModule",
+      "nuget:version": "8.0.3-p023"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.36.07/buildenator.abstraction.moq.8.5.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3a6a7d09-f50f-4f72-9001-e629eb22c26c",
+      "commitTimeStamp": "2025-11-26T15:36:07.6717988Z",
+      "nuget:id": "Buildenator.Abstraction.Moq",
+      "nuget:version": "8.5.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.36.07/reheecmf.entitymodule.8.0.3-p023.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3a6a7d09-f50f-4f72-9001-e629eb22c26c",
+      "commitTimeStamp": "2025-11-26T15:36:07.6717988Z",
+      "nuget:id": "ReheeCmf.EntityModule",
+      "nuget:version": "8.0.3-p023"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.36.07/reheecmf.servers.8.0.3-p023.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3a6a7d09-f50f-4f72-9001-e629eb22c26c",
+      "commitTimeStamp": "2025-11-26T15:36:07.6717988Z",
+      "nuget:id": "ReheeCmf.Servers",
+      "nuget:version": "8.0.3-p023"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.36.07/goc.ews.core.2.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3a6a7d09-f50f-4f72-9001-e629eb22c26c",
+      "commitTimeStamp": "2025-11-26T15:36:07.6717988Z",
+      "nuget:id": "GoC.EWS.Core",
+      "nuget:version": "2.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.36.07/reheecmf.modules.8.0.3-p023.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3a6a7d09-f50f-4f72-9001-e629eb22c26c",
+      "commitTimeStamp": "2025-11-26T15:36:07.6717988Z",
+      "nuget:id": "ReheeCmf.Modules",
+      "nuget:version": "8.0.3-p023"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.35.30/buildenator.abstraction.8.5.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc32b21e-fadf-4e6d-95d1-f7c9c5ce4c65",
+      "commitTimeStamp": "2025-11-26T15:35:30.7552108Z",
+      "nuget:id": "Buildenator.Abstraction",
+      "nuget:version": "8.5.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.35.30/reheecmf.apimodule.8.0.3-p023.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc32b21e-fadf-4e6d-95d1-f7c9c5ce4c65",
+      "commitTimeStamp": "2025-11-26T15:35:30.7552108Z",
+      "nuget:id": "ReheeCmf.ApiModule",
+      "nuget:version": "8.0.3-p023"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.35.30/reheecmf.odatas.8.0.3-p023.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc32b21e-fadf-4e6d-95d1-f7c9c5ce4c65",
+      "commitTimeStamp": "2025-11-26T15:35:30.7552108Z",
+      "nuget:id": "ReheeCmf.ODatas",
+      "nuget:version": "8.0.3-p023"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.35.30/buildenator.abstraction.autofixture.8.5.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc32b21e-fadf-4e6d-95d1-f7c9c5ce4c65",
+      "commitTimeStamp": "2025-11-26T15:35:30.7552108Z",
+      "nuget:id": "Buildenator.Abstraction.AutoFixture",
+      "nuget:version": "8.5.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.35.30/reheecmf.caches.8.0.3-p023.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc32b21e-fadf-4e6d-95d1-f7c9c5ce4c65",
+      "commitTimeStamp": "2025-11-26T15:35:30.7552108Z",
+      "nuget:id": "ReheeCmf.Caches",
+      "nuget:version": "8.0.3-p023"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.35.30/reheecmf.utility.8.0.3-p023.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc32b21e-fadf-4e6d-95d1-f7c9c5ce4c65",
+      "commitTimeStamp": "2025-11-26T15:35:30.7552108Z",
+      "nuget:id": "ReheeCmf.Utility",
+      "nuget:version": "8.0.3-p023"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.35.30/reheecmf.filemodule.8.0.3-p023.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc32b21e-fadf-4e6d-95d1-f7c9c5ce4c65",
+      "commitTimeStamp": "2025-11-26T15:35:30.7552108Z",
+      "nuget:id": "ReheeCmf.FileModule",
+      "nuget:version": "8.0.3-p023"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.35.30/buildenator.8.5.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc32b21e-fadf-4e6d-95d1-f7c9c5ce4c65",
+      "commitTimeStamp": "2025-11-26T15:35:30.7552108Z",
+      "nuget:id": "Buildenator",
+      "nuget:version": "8.5.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.35.30/fels%C3%B6kning.ripestat.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc32b21e-fadf-4e6d-95d1-f7c9c5ce4c65",
+      "commitTimeStamp": "2025-11-26T15:35:30.7552108Z",
+      "nuget:id": "Fels\u00f6kning.RipeStat",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.54/reheecmf.contextmodule.8.0.3-p023.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1763dc62-5c4a-41c7-940a-98f7770be413",
+      "commitTimeStamp": "2025-11-26T15:34:54.0175012Z",
+      "nuget:id": "ReheeCmf.ContextModule",
+      "nuget:version": "8.0.3-p023"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.54/zafiro.filesystem.local.42.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1763dc62-5c4a-41c7-940a-98f7770be413",
+      "commitTimeStamp": "2025-11-26T15:34:54.0175012Z",
+      "nuget:id": "Zafiro.FileSystem.Local",
+      "nuget:version": "42.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.54/reheecmf.usermanagementmodule.8.0.3-p023.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1763dc62-5c4a-41c7-940a-98f7770be413",
+      "commitTimeStamp": "2025-11-26T15:34:54.0175012Z",
+      "nuget:id": "ReheeCmf.UserManagementModule",
+      "nuget:version": "8.0.3-p023"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.54/reheecmf.contextcomponent.8.0.3-p023.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1763dc62-5c4a-41c7-940a-98f7770be413",
+      "commitTimeStamp": "2025-11-26T15:34:54.0175012Z",
+      "nuget:id": "ReheeCmf.ContextComponent",
+      "nuget:version": "8.0.3-p023"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.54/zafiro.ui.42.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1763dc62-5c4a-41c7-940a-98f7770be413",
+      "commitTimeStamp": "2025-11-26T15:34:54.0175012Z",
+      "nuget:id": "Zafiro.UI",
+      "nuget:version": "42.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.54/xfeextension.netcore.memoryeditor.2.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1763dc62-5c4a-41c7-940a-98f7770be413",
+      "commitTimeStamp": "2025-11-26T15:34:54.0175012Z",
+      "nuget:id": "XFEExtension.NetCore.MemoryEditor",
+      "nuget:version": "2.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.17/zafiro.filesystem.mutable.42.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7fa58763-6459-4b3f-a484-fb6181586818",
+      "commitTimeStamp": "2025-11-26T15:34:17.6807263Z",
+      "nuget:id": "Zafiro.FileSystem.Mutable",
+      "nuget:version": "42.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.17/zafiro.filesystem.seaweedfs.42.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7fa58763-6459-4b3f-a484-fb6181586818",
+      "commitTimeStamp": "2025-11-26T15:34:17.6807263Z",
+      "nuget:id": "Zafiro.FileSystem.SeaweedFS",
+      "nuget:version": "42.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.17/zafiro.filesystem.core.42.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7fa58763-6459-4b3f-a484-fb6181586818",
+      "commitTimeStamp": "2025-11-26T15:34:17.6807263Z",
+      "nuget:id": "Zafiro.FileSystem.Core",
+      "nuget:version": "42.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.17/com.ultracart.admin.v2.4.1.33.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7fa58763-6459-4b3f-a484-fb6181586818",
+      "commitTimeStamp": "2025-11-26T15:34:17.6807263Z",
+      "nuget:id": "com.ultracart.admin.v2",
+      "nuget:version": "4.1.33"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.17/zafiro.filesystem.dynamic.42.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7fa58763-6459-4b3f-a484-fb6181586818",
+      "commitTimeStamp": "2025-11-26T15:34:17.6807263Z",
+      "nuget:id": "Zafiro.FileSystem.Dynamic",
+      "nuget:version": "42.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.17/ccf.ck.libs.web.bundling.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7fa58763-6459-4b3f-a484-fb6181586818",
+      "commitTimeStamp": "2025-11-26T15:34:17.6807263Z",
+      "nuget:id": "Ccf.Ck.Libs.Web.Bundling",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.17/fels%C3%B6kning.unitedstates.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7fa58763-6459-4b3f-a484-fb6181586818",
+      "commitTimeStamp": "2025-11-26T15:34:17.6807263Z",
+      "nuget:id": "Fels\u00f6kning.UnitedStates",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.17/zafiro.divinebytes.42.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7fa58763-6459-4b3f-a484-fb6181586818",
+      "commitTimeStamp": "2025-11-26T15:34:17.6807263Z",
+      "nuget:id": "Zafiro.DivineBytes",
+      "nuget:version": "42.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.17/zafiro.42.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7fa58763-6459-4b3f-a484-fb6181586818",
+      "commitTimeStamp": "2025-11-26T15:34:17.6807263Z",
+      "nuget:id": "Zafiro",
+      "nuget:version": "42.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.34.17/zafiro.filesystem.seaweedfs.filer.client.42.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7fa58763-6459-4b3f-a484-fb6181586818",
+      "commitTimeStamp": "2025-11-26T15:34:17.6807263Z",
+      "nuget:id": "Zafiro.FileSystem.SeaweedFS.Filer.Client",
+      "nuget:version": "42.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.33.40/sfa.das.payments.fundingsource.model.1.2.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05e9a975-7398-44fc-b0e4-0f5e41c0e1d0",
+      "commitTimeStamp": "2025-11-26T15:33:40.4130195Z",
+      "nuget:id": "SFA.DAS.Payments.FundingSource.Model",
+      "nuget:version": "1.2.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.32.27/sfa.das.payments.fundingsource.messages.1.2.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b316dffc-e21a-4b6d-a4f9-41de1ed159ff",
+      "commitTimeStamp": "2025-11-26T15:32:27.079706Z",
+      "nuget:id": "SFA.DAS.Payments.FundingSource.Messages",
+      "nuget:version": "1.2.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.32.27/sfa.das.payments.fundingsource.messages.internal.1.2.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b316dffc-e21a-4b6d-a4f9-41de1ed159ff",
+      "commitTimeStamp": "2025-11-26T15:32:27.079706Z",
+      "nuget:id": "SFA.DAS.Payments.FundingSource.Messages.Internal",
+      "nuget:version": "1.2.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.32.27/gs2.csharp.sdk.2025.10.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b316dffc-e21a-4b6d-a4f9-41de1ed159ff",
+      "commitTimeStamp": "2025-11-26T15:32:27.079706Z",
+      "nuget:id": "GS2.CSharp.Sdk",
+      "nuget:version": "2025.10.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.31.50/coflnet.sky.crafts.client.0.10.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57c8b7f6-1b50-4dee-8000-ebbd35f85ada",
+      "commitTimeStamp": "2025-11-26T15:31:50.9799729Z",
+      "nuget:id": "Coflnet.Sky.Crafts.Client",
+      "nuget:version": "0.10.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.31.14/common.messaging.lib.2.2.18.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "faa3c0f6-97b8-4f66-801f-a55a6ad966cf",
+      "commitTimeStamp": "2025-11-26T15:31:14.2173742Z",
+      "nuget:id": "Common.Messaging.Lib",
+      "nuget:version": "2.2.18"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.31.14/rocratepcc.0.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "faa3c0f6-97b8-4f66-801f-a55a6ad966cf",
+      "commitTimeStamp": "2025-11-26T15:31:14.2173742Z",
+      "nuget:id": "ROCratePCC",
+      "nuget:version": "0.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.31.14/opendatahub-ltsapi-importer.3.8.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "faa3c0f6-97b8-4f66-801f-a55a6ad966cf",
+      "commitTimeStamp": "2025-11-26T15:31:14.2173742Z",
+      "nuget:id": "opendatahub-ltsapi-importer",
+      "nuget:version": "3.8.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.30.39/rocratepcc.javascript.0.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "858e864f-8a0a-4885-841f-ffc20ded4975",
+      "commitTimeStamp": "2025-11-26T15:30:39.2062762Z",
+      "nuget:id": "ROCratePCC.Javascript",
+      "nuget:version": "0.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.30.39/rocratepcc.python.0.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "858e864f-8a0a-4885-841f-ffc20ded4975",
+      "commitTimeStamp": "2025-11-26T15:30:39.2062762Z",
+      "nuget:id": "ROCratePCC.Python",
+      "nuget:version": "0.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.28.52/cratis.applications.entityframeworkcore.17.25.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a198a02-94aa-4dad-966e-99ed2ea243d4",
+      "commitTimeStamp": "2025-11-26T15:28:52.8046167Z",
+      "nuget:id": "Cratis.Applications.EntityFrameworkCore",
+      "nuget:version": "17.25.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.28.17/fmglib.mauimarkup.template.10.0.0-preview.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "84eaa598-469d-407d-b014-ba55b59ae665",
+      "commitTimeStamp": "2025-11-26T15:28:17.2884361Z",
+      "nuget:id": "FmgLib.MauiMarkup.Template",
+      "nuget:version": "10.0.0-preview.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.27.41/zafiro.avalonia.dataviz.43.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fafd0620-8edd-4f92-8936-cff3a8ea8416",
+      "commitTimeStamp": "2025-11-26T15:27:41.8486344Z",
+      "nuget:id": "Zafiro.Avalonia.DataViz",
+      "nuget:version": "43.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.27.41/zafiro.avalonia.generators.43.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fafd0620-8edd-4f92-8936-cff3a8ea8416",
+      "commitTimeStamp": "2025-11-26T15:27:41.8486344Z",
+      "nuget:id": "Zafiro.Avalonia.Generators",
+      "nuget:version": "43.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.27.41/zafiro.avalonia.icons.projektanker.43.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fafd0620-8edd-4f92-8936-cff3a8ea8416",
+      "commitTimeStamp": "2025-11-26T15:27:41.8486344Z",
+      "nuget:id": "Zafiro.Avalonia.Icons.Projektanker",
+      "nuget:version": "43.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.26.15.27.41/zafiro.avalonia.43.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fafd0620-8edd-4f92-8936-cff3a8ea8416",
+      "commitTimeStamp": "2025-11-26T15:27:41.8486344Z",
+      "nuget:id": "Zafiro.Avalonia",
+      "nuget:version": "43.0.1"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
