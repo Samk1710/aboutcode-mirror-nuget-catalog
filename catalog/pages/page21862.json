@@ -1,0 +1,2433 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21862.json",
+  "@type": "CatalogPage",
+  "commitId": "bc3e6d26-0014-4155-9f67-6bfd1f5496b7",
+  "commitTimeStamp": "2025-11-27T18:08:55.5376829Z",
+  "count": 300,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.18.08.55/aquarius.one.models.csharp.7.13.0-pa-3305.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bc3e6d26-0014-4155-9f67-6bfd1f5496b7",
+      "commitTimeStamp": "2025-11-27T18:08:55.5376829Z",
+      "nuget:id": "Aquarius.ONE.Models.CSharp",
+      "nuget:version": "7.13.0-PA-3305"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.18.08.18/randamedialabgroup.mauipdfgenerator.1.5.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1146f8f2-9454-43c2-8431-6bc11b030557",
+      "commitTimeStamp": "2025-11-27T18:08:18.3643893Z",
+      "nuget:id": "RandAMediaLabGroup.MauiPdfGenerator",
+      "nuget:version": "1.5.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.18.07.05/jari.madarak.shared.1.697.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "610dd0dc-1b68-48b2-9b85-da7837ffd364",
+      "commitTimeStamp": "2025-11-27T18:07:05.4405051Z",
+      "nuget:id": "Jari.Madarak.Shared",
+      "nuget:version": "1.697.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.18.05.52/energinet.datahub.processmanager.orchestrations.abstractions.2.26.14-alpha-337.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "50183ed4-d0f1-48a9-bae7-e57780d5c26a",
+      "commitTimeStamp": "2025-11-27T18:05:52.5093033Z",
+      "nuget:id": "Energinet.DataHub.ProcessManager.Orchestrations.Abstractions",
+      "nuget:version": "2.26.14-alpha-337"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.18.05.16/opss.designsystem.frontend.blazor.components.0.35.5-rc-dfedbf01fe1c6f04aa0dfae3a17df7ad4527cef7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "20186be6-abda-47d6-a534-70abbed62466",
+      "commitTimeStamp": "2025-11-27T18:05:16.1119266Z",
+      "nuget:id": "Opss.DesignSystem.Frontend.Blazor.Components",
+      "nuget:version": "0.35.5-rc-dfedbf01fe1c6f04aa0dfae3a17df7ad4527cef7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.18.04.39/lprun.9.4.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0c05b019-ce24-4d09-ada1-1773539e2dba",
+      "commitTimeStamp": "2025-11-27T18:04:39.2330064Z",
+      "nuget:id": "LPRun",
+      "nuget:version": "9.4.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.18.04.39/qawolf-socket-nuget.0.0.113.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0c05b019-ce24-4d09-ada1-1773539e2dba",
+      "commitTimeStamp": "2025-11-27T18:04:39.2330064Z",
+      "nuget:id": "qawolf-socket-nuget",
+      "nuget:version": "0.0.113"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.18.04.39/toucanhub.sdk.contracts.0.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0c05b019-ce24-4d09-ada1-1773539e2dba",
+      "commitTimeStamp": "2025-11-27T18:04:39.2330064Z",
+      "nuget:id": "ToucanHub.Sdk.Contracts",
+      "nuget:version": "0.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.18.04.01/onionsharp.1.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bb2f6f05-f9bf-4d42-a97e-81058c4816ac",
+      "commitTimeStamp": "2025-11-27T18:04:01.7768511Z",
+      "nuget:id": "OnionSharp",
+      "nuget:version": "1.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.18.03.26/energycap.sdk.8.2511.6509-develop-20251127-1235.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fa4e5469-b26e-4b1a-915b-9619eb79fcdc",
+      "commitTimeStamp": "2025-11-27T18:03:26.2547862Z",
+      "nuget:id": "EnergyCap.Sdk",
+      "nuget:version": "8.2511.6509-develop-20251127-1235"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.18.03.26/vebuild.link.msvc.1.0.0-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fa4e5469-b26e-4b1a-915b-9619eb79fcdc",
+      "commitTimeStamp": "2025-11-27T18:03:26.2547862Z",
+      "nuget:id": "VEBuild.link.msvc",
+      "nuget:version": "1.0.0-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.18.02.50/fast.openapi.3.5.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d61323a-5159-4696-8ad4-83f7ccae274e",
+      "commitTimeStamp": "2025-11-27T18:02:50.4416246Z",
+      "nuget:id": "Fast.OpenApi",
+      "nuget:version": "3.5.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.18.01.37/blazordeployservice.1.0.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "32f764b4-827b-4f90-bea4-b892f9dd26d2",
+      "commitTimeStamp": "2025-11-27T18:01:37.9878112Z",
+      "nuget:id": "BlazorDeployService",
+      "nuget:version": "1.0.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.59.47/soenneker.cloudflare.utils.client.4.0.390.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb9c677f-f1e0-476d-a12c-054223e3ca12",
+      "commitTimeStamp": "2025-11-27T17:59:47.7133687Z",
+      "nuget:id": "Soenneker.Cloudflare.Utils.Client",
+      "nuget:version": "4.0.390"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.54.57/vebuild.link.1.0.0-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca1788b2-4695-4bd3-8f89-f61aaef15475",
+      "commitTimeStamp": "2025-11-27T17:54:57.4391108Z",
+      "nuget:id": "VEBuild.Link",
+      "nuget:version": "1.0.0-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.54.57/virtocommerce.storemodule.data.mysql.3.823.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ca1788b2-4695-4bd3-8f89-f61aaef15475",
+      "commitTimeStamp": "2025-11-27T17:54:57.4391108Z",
+      "nuget:id": "VirtoCommerce.StoreModule.Data.MySql",
+      "nuget:version": "3.823.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.54.22/virtocommerce.storemodule.core.3.823.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "45d59556-04a3-4ceb-a7d3-5998fa52d9ac",
+      "commitTimeStamp": "2025-11-27T17:54:22.9076409Z",
+      "nuget:id": "VirtoCommerce.StoreModule.Core",
+      "nuget:version": "3.823.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.54.22/virtocommerce.storemodule.data.3.823.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "45d59556-04a3-4ceb-a7d3-5998fa52d9ac",
+      "commitTimeStamp": "2025-11-27T17:54:22.9076409Z",
+      "nuget:id": "VirtoCommerce.StoreModule.Data",
+      "nuget:version": "3.823.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.54.22/virtocommerce.storemodule.data.postgresql.3.823.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "45d59556-04a3-4ceb-a7d3-5998fa52d9ac",
+      "commitTimeStamp": "2025-11-27T17:54:22.9076409Z",
+      "nuget:id": "VirtoCommerce.StoreModule.Data.PostgreSql",
+      "nuget:version": "3.823.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.54.22/virtocommerce.storemodule.data.sqlserver.3.823.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "45d59556-04a3-4ceb-a7d3-5998fa52d9ac",
+      "commitTimeStamp": "2025-11-27T17:54:22.9076409Z",
+      "nuget:id": "VirtoCommerce.StoreModule.Data.SqlServer",
+      "nuget:version": "3.823.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.53.10/itmakers.infraestructurebase.1.2.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9343494a-1476-4f79-8797-490a8a20b9a9",
+      "commitTimeStamp": "2025-11-27T17:53:10.6643705Z",
+      "nuget:id": "ITMakers.InfraestructureBase",
+      "nuget:version": "1.2.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.52.33/silksong.unityhelper.1.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5817454d-3353-40a8-b198-7d96ecd27ecb",
+      "commitTimeStamp": "2025-11-27T17:52:33.7262658Z",
+      "nuget:id": "Silksong.UnityHelper",
+      "nuget:version": "1.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.50.10/rusklimat.common.services.2.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "21ef4b87-e884-425b-845d-94aa7b62fdd4",
+      "commitTimeStamp": "2025-11-27T17:50:10.4035726Z",
+      "nuget:id": "Rusklimat.Common.Services",
+      "nuget:version": "2.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.50.10/arebis.core.aspnet.mvc.8.2.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "21ef4b87-e884-425b-845d-94aa7b62fdd4",
+      "commitTimeStamp": "2025-11-27T17:50:10.4035726Z",
+      "nuget:id": "Arebis.Core.AspNet.Mvc",
+      "nuget:version": "8.2.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.49.33/zstack.musicdecryptlib.0.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9b57b962-300d-4fb6-9d92-6adec138be6f",
+      "commitTimeStamp": "2025-11-27T17:49:33.0003411Z",
+      "nuget:id": "ZStack.MusicDecryptLib",
+      "nuget:version": "0.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.48.55/vebuild.cpp.msvc.1.0.0-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "01ff6fbd-05e4-4ebe-9d8e-172873f11437",
+      "commitTimeStamp": "2025-11-27T17:48:55.2389636Z",
+      "nuget:id": "VEBuild.Cpp.Msvc",
+      "nuget:version": "1.0.0-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.48.55/csnakes.stage.2.0.0-beta.298.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "01ff6fbd-05e4-4ebe-9d8e-172873f11437",
+      "commitTimeStamp": "2025-11-27T17:48:55.2389636Z",
+      "nuget:id": "CSnakes.Stage",
+      "nuget:version": "2.0.0-beta.298"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.48.55/csnakes.runtime.2.0.0-beta.298.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "01ff6fbd-05e4-4ebe-9d8e-172873f11437",
+      "commitTimeStamp": "2025-11-27T17:48:55.2389636Z",
+      "nuget:id": "CSnakes.Runtime",
+      "nuget:version": "2.0.0-beta.298"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.48.17/alibabacloud.sdk.polardb20170801.6.1.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "90dcf2b2-ed2b-4f03-b4f2-5751b69d2bed",
+      "commitTimeStamp": "2025-11-27T17:48:17.8178506Z",
+      "nuget:id": "AlibabaCloud.SDK.Polardb20170801",
+      "nuget:version": "6.1.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.47.41/alibabacloud.sdk.cas20200630.1.2.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2bd19937-7e54-410f-b9c5-5c946159c70a",
+      "commitTimeStamp": "2025-11-27T17:47:41.5519562Z",
+      "nuget:id": "AlibabaCloud.SDK.Cas20200630",
+      "nuget:version": "1.2.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.47.05/onionsharp.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5940fb6a-f645-4ccd-b0b4-3d329b014ded",
+      "commitTimeStamp": "2025-11-27T17:47:05.536699Z",
+      "nuget:id": "OnionSharp",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.46.29/alibabacloud.sdk.alikafka20190916.2.14.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b687e14d-7cf5-4c9e-a225-55e5e7c3025e",
+      "commitTimeStamp": "2025-11-27T17:46:29.3813208Z",
+      "nuget:id": "AlibabaCloud.SDK.Alikafka20190916",
+      "nuget:version": "2.14.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.45.53/netigent.utils.filestoreio.1.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "32488aa4-d392-479e-ba3d-b60e81ef98b4",
+      "commitTimeStamp": "2025-11-27T17:45:53.7091669Z",
+      "nuget:id": "Netigent.Utils.FileStoreIO",
+      "nuget:version": "1.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.43.29/alibabacloud.sdk.dysmsapi20170525.4.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d92da184-c620-401e-9207-7a63544ddcd7",
+      "commitTimeStamp": "2025-11-27T17:43:29.2321513Z",
+      "nuget:id": "AlibabaCloud.SDK.Dysmsapi20170525",
+      "nuget:version": "4.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.43.29/alibabacloud.sdk.cms20240330.3.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d92da184-c620-401e-9207-7a63544ddcd7",
+      "commitTimeStamp": "2025-11-27T17:43:29.2321513Z",
+      "nuget:id": "AlibabaCloud.SDK.Cms20240330",
+      "nuget:version": "3.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.43.29/qawolf-socket-nuget.0.0.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d92da184-c620-401e-9207-7a63544ddcd7",
+      "commitTimeStamp": "2025-11-27T17:43:29.2321513Z",
+      "nuget:id": "qawolf-socket-nuget",
+      "nuget:version": "0.0.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.43.29/awslambda.host.envelopes.kinesis.1.0.1-beta.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d92da184-c620-401e-9207-7a63544ddcd7",
+      "commitTimeStamp": "2025-11-27T17:43:29.2321513Z",
+      "nuget:id": "AwsLambda.Host.Envelopes.Kinesis",
+      "nuget:version": "1.0.1-beta.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.42.52/mongodb.bson.3.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8c127c7f-d34f-4258-97ca-c9802e37f8d2",
+      "commitTimeStamp": "2025-11-27T17:42:52.2710548Z",
+      "nuget:id": "MongoDB.Bson",
+      "nuget:version": "3.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.42.52/mongodb.driver.3.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8c127c7f-d34f-4258-97ca-c9802e37f8d2",
+      "commitTimeStamp": "2025-11-27T17:42:52.2710548Z",
+      "nuget:id": "MongoDB.Driver",
+      "nuget:version": "3.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.42.15/mongodb.driver.authentication.aws.3.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc0c1268-0b34-49ae-82b0-d8ce4be96c59",
+      "commitTimeStamp": "2025-11-27T17:42:15.5611483Z",
+      "nuget:id": "MongoDB.Driver.Authentication.AWS",
+      "nuget:version": "3.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.42.15/mongodb.driver.encryption.3.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc0c1268-0b34-49ae-82b0-d8ce4be96c59",
+      "commitTimeStamp": "2025-11-27T17:42:15.5611483Z",
+      "nuget:id": "MongoDB.Driver.Encryption",
+      "nuget:version": "3.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.40.26/tickerq.utilities.9.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3573d129-7529-4cf5-a931-ed80a3a89ae2",
+      "commitTimeStamp": "2025-11-27T17:40:26.2188524Z",
+      "nuget:id": "TickerQ.Utilities",
+      "nuget:version": "9.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.40.26/tickerq.entityframeworkcore.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3573d129-7529-4cf5-a931-ed80a3a89ae2",
+      "commitTimeStamp": "2025-11-27T17:40:26.2188524Z",
+      "nuget:id": "TickerQ.EntityFrameworkCore",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.40.26/tickerq.utilities.8.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3573d129-7529-4cf5-a931-ed80a3a89ae2",
+      "commitTimeStamp": "2025-11-27T17:40:26.2188524Z",
+      "nuget:id": "TickerQ.Utilities",
+      "nuget:version": "8.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.39.50/tickerq.caching.stackexchangeredis.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f759b52-6043-4240-a3af-61fe9f394b02",
+      "commitTimeStamp": "2025-11-27T17:39:50.3318517Z",
+      "nuget:id": "TickerQ.Caching.StackExchangeRedis",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.39.50/tickerq.dashboard.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f759b52-6043-4240-a3af-61fe9f394b02",
+      "commitTimeStamp": "2025-11-27T17:39:50.3318517Z",
+      "nuget:id": "TickerQ.Dashboard",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.39.50/tickerq.9.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f759b52-6043-4240-a3af-61fe9f394b02",
+      "commitTimeStamp": "2025-11-27T17:39:50.3318517Z",
+      "nuget:id": "TickerQ",
+      "nuget:version": "9.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.39.50/tickerq.instrumentation.opentelemetry.8.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f759b52-6043-4240-a3af-61fe9f394b02",
+      "commitTimeStamp": "2025-11-27T17:39:50.3318517Z",
+      "nuget:id": "TickerQ.Instrumentation.OpenTelemetry",
+      "nuget:version": "8.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.39.50/tickerq.8.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f759b52-6043-4240-a3af-61fe9f394b02",
+      "commitTimeStamp": "2025-11-27T17:39:50.3318517Z",
+      "nuget:id": "TickerQ",
+      "nuget:version": "8.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.39.50/tickerq.utilities.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f759b52-6043-4240-a3af-61fe9f394b02",
+      "commitTimeStamp": "2025-11-27T17:39:50.3318517Z",
+      "nuget:id": "TickerQ.Utilities",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.39.50/tickerq.entityframeworkcore.9.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f759b52-6043-4240-a3af-61fe9f394b02",
+      "commitTimeStamp": "2025-11-27T17:39:50.3318517Z",
+      "nuget:id": "TickerQ.EntityFrameworkCore",
+      "nuget:version": "9.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.39.50/tickerq.dashboard.8.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f759b52-6043-4240-a3af-61fe9f394b02",
+      "commitTimeStamp": "2025-11-27T17:39:50.3318517Z",
+      "nuget:id": "TickerQ.Dashboard",
+      "nuget:version": "8.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.39.50/tickerq.caching.stackexchangeredis.8.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f759b52-6043-4240-a3af-61fe9f394b02",
+      "commitTimeStamp": "2025-11-27T17:39:50.3318517Z",
+      "nuget:id": "TickerQ.Caching.StackExchangeRedis",
+      "nuget:version": "8.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.39.50/tickerq.instrumentation.opentelemetry.9.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f759b52-6043-4240-a3af-61fe9f394b02",
+      "commitTimeStamp": "2025-11-27T17:39:50.3318517Z",
+      "nuget:id": "TickerQ.Instrumentation.OpenTelemetry",
+      "nuget:version": "9.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.39.50/tickerq.caching.stackexchangeredis.9.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f759b52-6043-4240-a3af-61fe9f394b02",
+      "commitTimeStamp": "2025-11-27T17:39:50.3318517Z",
+      "nuget:id": "TickerQ.Caching.StackExchangeRedis",
+      "nuget:version": "9.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.39.50/tickerq.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f759b52-6043-4240-a3af-61fe9f394b02",
+      "commitTimeStamp": "2025-11-27T17:39:50.3318517Z",
+      "nuget:id": "TickerQ",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.39.50/tickerq.instrumentation.opentelemetry.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f759b52-6043-4240-a3af-61fe9f394b02",
+      "commitTimeStamp": "2025-11-27T17:39:50.3318517Z",
+      "nuget:id": "TickerQ.Instrumentation.OpenTelemetry",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.39.50/tickerq.entityframeworkcore.8.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f759b52-6043-4240-a3af-61fe9f394b02",
+      "commitTimeStamp": "2025-11-27T17:39:50.3318517Z",
+      "nuget:id": "TickerQ.EntityFrameworkCore",
+      "nuget:version": "8.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.39.15/tickerq.dashboard.9.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d997e72b-0e53-4eaa-a7b2-441262431878",
+      "commitTimeStamp": "2025-11-27T17:39:15.0001934Z",
+      "nuget:id": "TickerQ.Dashboard",
+      "nuget:version": "9.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.38.38/blazordeployservice.1.0.33.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68a6bdac-a43d-40c4-a883-445c197a333c",
+      "commitTimeStamp": "2025-11-27T17:38:38.4606085Z",
+      "nuget:id": "BlazorDeployService",
+      "nuget:version": "1.0.33"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.37.24/myth.flow.4.1.0-preview.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "637f182c-8f15-4382-9d52-6193e86424ee",
+      "commitTimeStamp": "2025-11-27T17:37:24.9980753Z",
+      "nuget:id": "Myth.Flow",
+      "nuget:version": "4.1.0-preview.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.37.24/myth.tool.4.1.0-preview.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "637f182c-8f15-4382-9d52-6193e86424ee",
+      "commitTimeStamp": "2025-11-27T17:37:24.9980753Z",
+      "nuget:id": "Myth.Tool",
+      "nuget:version": "4.1.0-preview.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.37.24/myth.rest.4.1.0-preview.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "637f182c-8f15-4382-9d52-6193e86424ee",
+      "commitTimeStamp": "2025-11-27T17:37:24.9980753Z",
+      "nuget:id": "Myth.Rest",
+      "nuget:version": "4.1.0-preview.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.37.24/vebuild.cpp.1.0.0-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "637f182c-8f15-4382-9d52-6193e86424ee",
+      "commitTimeStamp": "2025-11-27T17:37:24.9980753Z",
+      "nuget:id": "VEBuild.Cpp",
+      "nuget:version": "1.0.0-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.37.24/myth.testing.4.1.0-preview.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "637f182c-8f15-4382-9d52-6193e86424ee",
+      "commitTimeStamp": "2025-11-27T17:37:24.9980753Z",
+      "nuget:id": "Myth.Testing",
+      "nuget:version": "4.1.0-preview.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.37.24/myth.specification.4.1.0-preview.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "637f182c-8f15-4382-9d52-6193e86424ee",
+      "commitTimeStamp": "2025-11-27T17:37:24.9980753Z",
+      "nuget:id": "Myth.Specification",
+      "nuget:version": "4.1.0-preview.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.37.24/myth.dependencyinjection.4.1.0-preview.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "637f182c-8f15-4382-9d52-6193e86424ee",
+      "commitTimeStamp": "2025-11-27T17:37:24.9980753Z",
+      "nuget:id": "Myth.DependencyInjection",
+      "nuget:version": "4.1.0-preview.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.36.47/myth.guard.4.1.0-preview.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "77aa571d-d7b5-4f91-80b5-6213f1faf057",
+      "commitTimeStamp": "2025-11-27T17:36:47.4977569Z",
+      "nuget:id": "Myth.Guard",
+      "nuget:version": "4.1.0-preview.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.36.47/myth.morph.4.1.0-preview.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "77aa571d-d7b5-4f91-80b5-6213f1faf057",
+      "commitTimeStamp": "2025-11-27T17:36:47.4977569Z",
+      "nuget:id": "Myth.Morph",
+      "nuget:version": "4.1.0-preview.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.36.47/myth.repository.4.1.0-preview.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "77aa571d-d7b5-4f91-80b5-6213f1faf057",
+      "commitTimeStamp": "2025-11-27T17:36:47.4977569Z",
+      "nuget:id": "Myth.Repository",
+      "nuget:version": "4.1.0-preview.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.36.47/myth.flow.actions.4.1.0-preview.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "77aa571d-d7b5-4f91-80b5-6213f1faf057",
+      "commitTimeStamp": "2025-11-27T17:36:47.4977569Z",
+      "nuget:id": "Myth.Flow.Actions",
+      "nuget:version": "4.1.0-preview.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.36.47/myth.commons.4.1.0-preview.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "77aa571d-d7b5-4f91-80b5-6213f1faf057",
+      "commitTimeStamp": "2025-11-27T17:36:47.4977569Z",
+      "nuget:id": "Myth.Commons",
+      "nuget:version": "4.1.0-preview.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.36.47/myth.repository.entityframework.4.1.0-preview.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "77aa571d-d7b5-4f91-80b5-6213f1faf057",
+      "commitTimeStamp": "2025-11-27T17:36:47.4977569Z",
+      "nuget:id": "Myth.Repository.EntityFramework",
+      "nuget:version": "4.1.0-preview.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.34.58/ntx20.0.2.3-c6x0b57657.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "433fc88f-19fa-46c4-ba4e-8edf64f440fe",
+      "commitTimeStamp": "2025-11-27T17:34:58.1540157Z",
+      "nuget:id": "ntx20",
+      "nuget:version": "0.2.3-c6x0b57657"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.34.58/bim4production.api.clients.2025.47.0-alpha.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "433fc88f-19fa-46c4-ba4e-8edf64f440fe",
+      "commitTimeStamp": "2025-11-27T17:34:58.1540157Z",
+      "nuget:id": "Bim4Production.Api.Clients",
+      "nuget:version": "2025.47.0-alpha.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.34.58/onionsharp.1.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "433fc88f-19fa-46c4-ba4e-8edf64f440fe",
+      "commitTimeStamp": "2025-11-27T17:34:58.1540157Z",
+      "nuget:id": "OnionSharp",
+      "nuget:version": "1.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.34.20/soenneker.telnyx.clientutil.4.0.274.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b19c2e2d-3f42-4a19-8ef5-60ed8da0b898",
+      "commitTimeStamp": "2025-11-27T17:34:20.2264233Z",
+      "nuget:id": "Soenneker.Telnyx.ClientUtil",
+      "nuget:version": "4.0.274"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.34.20/ugestor.service.4.1.14.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b19c2e2d-3f42-4a19-8ef5-60ed8da0b898",
+      "commitTimeStamp": "2025-11-27T17:34:20.2264233Z",
+      "nuget:id": "UGestor.Service",
+      "nuget:version": "4.1.14.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.33.43/kdyf.operations.2.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "08dc5d77-fb01-462e-acc5-cd64a3d8b234",
+      "commitTimeStamp": "2025-11-27T17:33:43.5384753Z",
+      "nuget:id": "kdyf.Operations",
+      "nuget:version": "2.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.33.06/uno.ui.hotdesign.1.18.0-dev.312.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "562d075f-1879-40cf-b80c-3503e37212e8",
+      "commitTimeStamp": "2025-11-27T17:33:06.5538379Z",
+      "nuget:id": "Uno.UI.HotDesign",
+      "nuget:version": "1.18.0-dev.312"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.32.29/coflnet.sky.playerstate.client.0.11.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcc7a075-379a-4a77-97f3-7ae5ec15a58c",
+      "commitTimeStamp": "2025-11-27T17:32:29.6343626Z",
+      "nuget:id": "Coflnet.Sky.PlayerState.Client",
+      "nuget:version": "0.11.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.31.53/winuiessential.winui3.1.3.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f348a033-0196-4cf8-90da-a34c8673b459",
+      "commitTimeStamp": "2025-11-27T17:31:53.9152648Z",
+      "nuget:id": "WinUIEssential.WinUI3",
+      "nuget:version": "1.3.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.30.05/ua.azure.storage.4.7.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bbe33798-1f0e-4580-9b1c-0f079798aec4",
+      "commitTimeStamp": "2025-11-27T17:30:05.9574884Z",
+      "nuget:id": "UA.Azure.Storage",
+      "nuget:version": "4.7.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.29.29/ua.tenet.web.4.7.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9d9fab0e-d21e-4bec-b6d0-5b1a49866ffd",
+      "commitTimeStamp": "2025-11-27T17:29:29.1231631Z",
+      "nuget:id": "UA.Tenet.Web",
+      "nuget:version": "4.7.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.29.29/dsharpplus.voicenext.5.0.0-nightly-02561.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9d9fab0e-d21e-4bec-b6d0-5b1a49866ffd",
+      "commitTimeStamp": "2025-11-27T17:29:29.1231631Z",
+      "nuget:id": "DSharpPlus.VoiceNext",
+      "nuget:version": "5.0.0-nightly-02561"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.28.52/hopex.applicationserver.tool.62.1.0.118.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "250c5b83-4e48-41cc-9321-a52c4b4c8cf2",
+      "commitTimeStamp": "2025-11-27T17:28:52.0913601Z",
+      "nuget:id": "Hopex.ApplicationServer.Tool",
+      "nuget:version": "62.1.0.118"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.28.52/ua.tenet.4.7.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "250c5b83-4e48-41cc-9321-a52c4b4c8cf2",
+      "commitTimeStamp": "2025-11-27T17:28:52.0913601Z",
+      "nuget:id": "UA.Tenet",
+      "nuget:version": "4.7.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.28.52/dsharpplus.commandsnext.5.0.0-nightly-02561.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "250c5b83-4e48-41cc-9321-a52c4b4c8cf2",
+      "commitTimeStamp": "2025-11-27T17:28:52.0913601Z",
+      "nuget:id": "DSharpPlus.CommandsNext",
+      "nuget:version": "5.0.0-nightly-02561"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.28.52/dsharpplus.interactivity.5.0.0-nightly-02561.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "250c5b83-4e48-41cc-9321-a52c4b4c8cf2",
+      "commitTimeStamp": "2025-11-27T17:28:52.0913601Z",
+      "nuget:id": "DSharpPlus.Interactivity",
+      "nuget:version": "5.0.0-nightly-02561"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.28.52/dsharpplus.5.0.0-nightly-02561.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "250c5b83-4e48-41cc-9321-a52c4b4c8cf2",
+      "commitTimeStamp": "2025-11-27T17:28:52.0913601Z",
+      "nuget:id": "DSharpPlus",
+      "nuget:version": "5.0.0-nightly-02561"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.28.52/dsharpplus.http.aspnetcore.5.0.0-nightly-02561.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "250c5b83-4e48-41cc-9321-a52c4b4c8cf2",
+      "commitTimeStamp": "2025-11-27T17:28:52.0913601Z",
+      "nuget:id": "DSharpPlus.Http.AspNetCore",
+      "nuget:version": "5.0.0-nightly-02561"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.28.52/dsharpplus.commands.5.0.0-nightly-02561.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "250c5b83-4e48-41cc-9321-a52c4b4c8cf2",
+      "commitTimeStamp": "2025-11-27T17:28:52.0913601Z",
+      "nuget:id": "DSharpPlus.Commands",
+      "nuget:version": "5.0.0-nightly-02561"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.28.52/techslib.extensions.1.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "250c5b83-4e48-41cc-9321-a52c4b4c8cf2",
+      "commitTimeStamp": "2025-11-27T17:28:52.0913601Z",
+      "nuget:id": "TechsLib.Extensions",
+      "nuget:version": "1.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.28.15/hopex.applicationserver.extensions.forms.62.1.0.118.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bdb2c14-8db2-48d9-98ca-cba95fb52a9f",
+      "commitTimeStamp": "2025-11-27T17:28:15.4347967Z",
+      "nuget:id": "Hopex.ApplicationServer.Extensions.Forms",
+      "nuget:version": "62.1.0.118"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.28.15/dsharpplus.slashcommands.5.0.0-nightly-02561.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bdb2c14-8db2-48d9-98ca-cba95fb52a9f",
+      "commitTimeStamp": "2025-11-27T17:28:15.4347967Z",
+      "nuget:id": "DSharpPlus.SlashCommands",
+      "nuget:version": "5.0.0-nightly-02561"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.28.15/hopex.applicationserver.extensions.webservices.62.1.0.118.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bdb2c14-8db2-48d9-98ca-cba95fb52a9f",
+      "commitTimeStamp": "2025-11-27T17:28:15.4347967Z",
+      "nuget:id": "Hopex.ApplicationServer.Extensions.WebServices",
+      "nuget:version": "62.1.0.118"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.28.15/hopex.applicationserver.sitemodule.62.1.0.118.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bdb2c14-8db2-48d9-98ca-cba95fb52a9f",
+      "commitTimeStamp": "2025-11-27T17:28:15.4347967Z",
+      "nuget:id": "Hopex.ApplicationServer.SiteModule",
+      "nuget:version": "62.1.0.118"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.28.15/dsharpplus.analyzers.5.0.0-nightly-02561.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bdb2c14-8db2-48d9-98ca-cba95fb52a9f",
+      "commitTimeStamp": "2025-11-27T17:28:15.4347967Z",
+      "nuget:id": "DSharpPlus.Analyzers",
+      "nuget:version": "5.0.0-nightly-02561"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.28.15/tdsatiss.1.0.26.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bdb2c14-8db2-48d9-98ca-cba95fb52a9f",
+      "commitTimeStamp": "2025-11-27T17:28:15.4347967Z",
+      "nuget:id": "TDSATiss",
+      "nuget:version": "1.0.26.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.27.38/hopex.applicationserver.extensions.commandline.62.1.0.118.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ccc2aaf3-e756-4752-ad46-41d21aec09ee",
+      "commitTimeStamp": "2025-11-27T17:27:38.8991174Z",
+      "nuget:id": "Hopex.ApplicationServer.Extensions.Commandline",
+      "nuget:version": "62.1.0.118"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.27.38/hopex.applicationserver.extensions.package.62.1.0.118.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ccc2aaf3-e756-4752-ad46-41d21aec09ee",
+      "commitTimeStamp": "2025-11-27T17:27:38.8991174Z",
+      "nuget:id": "Hopex.ApplicationServer.Extensions.Package",
+      "nuget:version": "62.1.0.118"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.27.38/sujansolutiondeployer.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ccc2aaf3-e756-4752-ad46-41d21aec09ee",
+      "commitTimeStamp": "2025-11-27T17:27:38.8991174Z",
+      "nuget:id": "SujanSolutionDeployer",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.27.38/hopex.applicationserver.commons.62.1.0.118.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ccc2aaf3-e756-4752-ad46-41d21aec09ee",
+      "commitTimeStamp": "2025-11-27T17:27:38.8991174Z",
+      "nuget:id": "Hopex.ApplicationServer.Commons",
+      "nuget:version": "62.1.0.118"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.26.25/alibabacloud.sdk.vs20181212.3.5.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b69d015-456c-4ff1-a123-111de14f552d",
+      "commitTimeStamp": "2025-11-27T17:26:25.8788174Z",
+      "nuget:id": "AlibabaCloud.SDK.Vs20181212",
+      "nuget:version": "3.5.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.26.25/soenneker.instantly.openapiclient.4.0.130.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b69d015-456c-4ff1-a123-111de14f552d",
+      "commitTimeStamp": "2025-11-27T17:26:25.8788174Z",
+      "nuget:id": "Soenneker.Instantly.OpenApiClient",
+      "nuget:version": "4.0.130"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.25.48/dibix.testing.1.6.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab07be0e-2e24-4c43-92cd-2dfcc0abe82b",
+      "commitTimeStamp": "2025-11-27T17:25:48.8182173Z",
+      "nuget:id": "Dibix.Testing",
+      "nuget:version": "1.6.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.25.48/dibix.worker.abstractions.1.6.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab07be0e-2e24-4c43-92cd-2dfcc0abe82b",
+      "commitTimeStamp": "2025-11-27T17:25:48.8182173Z",
+      "nuget:id": "Dibix.Worker.Abstractions",
+      "nuget:version": "1.6.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.25.48/dibix.sdk.1.6.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab07be0e-2e24-4c43-92cd-2dfcc0abe82b",
+      "commitTimeStamp": "2025-11-27T17:25:48.8182173Z",
+      "nuget:id": "Dibix.Sdk",
+      "nuget:version": "1.6.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.25.48/baubit.identity.2025.48.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab07be0e-2e24-4c43-92cd-2dfcc0abe82b",
+      "commitTimeStamp": "2025-11-27T17:25:48.8182173Z",
+      "nuget:id": "Baubit.Identity",
+      "nuget:version": "2025.48.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.25.48/dibix.http.server.1.6.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab07be0e-2e24-4c43-92cd-2dfcc0abe82b",
+      "commitTimeStamp": "2025-11-27T17:25:48.8182173Z",
+      "nuget:id": "Dibix.Http.Server",
+      "nuget:version": "1.6.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.25.48/ntx20.0.2.3-c5xb6c00eb.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab07be0e-2e24-4c43-92cd-2dfcc0abe82b",
+      "commitTimeStamp": "2025-11-27T17:25:48.8182173Z",
+      "nuget:id": "ntx20",
+      "nuget:version": "0.2.3-c5xb6c00eb"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.25.11/dibix.http.server.aspnet.1.6.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "defc76d6-d28a-461f-a87c-0bbc10881bc1",
+      "commitTimeStamp": "2025-11-27T17:25:11.8648365Z",
+      "nuget:id": "Dibix.Http.Server.AspNet",
+      "nuget:version": "1.6.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.25.11/dibix.http.server.aspnetcore.1.6.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "defc76d6-d28a-461f-a87c-0bbc10881bc1",
+      "commitTimeStamp": "2025-11-27T17:25:11.8648365Z",
+      "nuget:id": "Dibix.Http.Server.AspNetCore",
+      "nuget:version": "1.6.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.25.11/alibabacloud.sdk.appstream-center20210901.4.6.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "defc76d6-d28a-461f-a87c-0bbc10881bc1",
+      "commitTimeStamp": "2025-11-27T17:25:11.8648365Z",
+      "nuget:id": "AlibabaCloud.SDK.Appstream-center20210901",
+      "nuget:version": "4.6.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.25.11/dibix.dapper.1.6.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "defc76d6-d28a-461f-a87c-0bbc10881bc1",
+      "commitTimeStamp": "2025-11-27T17:25:11.8648365Z",
+      "nuget:id": "Dibix.Dapper",
+      "nuget:version": "1.6.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.25.11/dibix.http.client.1.6.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "defc76d6-d28a-461f-a87c-0bbc10881bc1",
+      "commitTimeStamp": "2025-11-27T17:25:11.8648365Z",
+      "nuget:id": "Dibix.Http.Client",
+      "nuget:version": "1.6.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.25.11/soenneker.x.openapiclient.4.0.79.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "defc76d6-d28a-461f-a87c-0bbc10881bc1",
+      "commitTimeStamp": "2025-11-27T17:25:11.8648365Z",
+      "nuget:id": "Soenneker.X.OpenApiClient",
+      "nuget:version": "4.0.79"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.25.11/soenneker.data.email.disposables.4.0.689.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "defc76d6-d28a-461f-a87c-0bbc10881bc1",
+      "commitTimeStamp": "2025-11-27T17:25:11.8648365Z",
+      "nuget:id": "Soenneker.Data.Email.Disposables",
+      "nuget:version": "4.0.689"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.25.11/alibabacloud.sdk.eds-user20210308.1.6.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "defc76d6-d28a-461f-a87c-0bbc10881bc1",
+      "commitTimeStamp": "2025-11-27T17:25:11.8648365Z",
+      "nuget:id": "AlibabaCloud.SDK.Eds-user20210308",
+      "nuget:version": "1.6.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.25.11/dibix.1.6.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "defc76d6-d28a-461f-a87c-0bbc10881bc1",
+      "commitTimeStamp": "2025-11-27T17:25:11.8648365Z",
+      "nuget:id": "Dibix",
+      "nuget:version": "1.6.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/encysoftware.camipc.machineslibrary.bpl.x64.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "EncySoftware.CAMIPC.MachinesLibrary.bpl.x64",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/encysoftware.camapi.geompicker.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "EncySoftware.CAMAPI.GeomPicker.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/nicksoftware.switchboard.analyzers.0.1.0-preview.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "NickSoftware.Switchboard.Analyzers",
+      "nuget:version": "0.1.0-preview.32+1472880"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/nicksoftware.switchboard.0.1.0-preview.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "NickSoftware.Switchboard",
+      "nuget:version": "0.1.0-preview.32+1472880"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/encysoftware.camapi.partstage.bpl.x64.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "EncySoftware.CAMAPI.PartStage.bpl.x64",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/encysoftware.camapi.techoperation.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "EncySoftware.CAMAPI.TechOperation.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/encysoftware.camapi.application.bpl.x64.2.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "EncySoftware.CAMAPI.Application.bpl.x64",
+      "nuget:version": "2.0.8+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/encysoftware.stbaselib.x64.2.0.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "EncySoftware.STBaseLib.x64",
+      "nuget:version": "2.0.11+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/encysoftware.camipc.sdk.bpl.x64.2.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "EncySoftware.CAMIPC.SDK.bpl.x64",
+      "nuget:version": "2.0.12+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/soenneker.cloudflare.openapiclient.4.0.339.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "Soenneker.Cloudflare.OpenApiClient",
+      "nuget:version": "4.0.339"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/encysoftware.camapi.sdk.tlb.2.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "EncySoftware.CAMAPI.SDK.tlb",
+      "nuget:version": "2.0.12+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/encysoftware.camipc.geommodel.bpl.x64.2.2.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "EncySoftware.CAMIPC.GeomModel.bpl.x64",
+      "nuget:version": "2.2.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/encysoftware.camapi.generic.list.delphi.x64.2.0.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "EncySoftware.CAMAPI.Generic.List.Delphi.x64",
+      "nuget:version": "2.0.11+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/nicksoftware.switchboard.sourcegenerators.0.1.0-preview.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "NickSoftware.Switchboard.SourceGenerators",
+      "nuget:version": "0.1.0-preview.32+1472880"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/encysoftware.camipc.ipcinteraction.bpl.x64.2.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "EncySoftware.CAMIPC.IpcInteraction.bpl.x64",
+      "nuget:version": "2.0.4+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/alibabacloud.sdk.ehpcinstant20230701.3.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "AlibabaCloud.SDK.EhpcInstant20230701",
+      "nuget:version": "3.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/encysoftware.camapi.machineslibrary.bpl.x64.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "EncySoftware.CAMAPI.MachinesLibrary.bpl.x64",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/encysoftware.camapi.technologyform.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "EncySoftware.CAMAPI.TechnologyForm.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/encysoftware.camapi.technologist.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "EncySoftware.CAMAPI.Technologist.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.24.35/alibabacloud.sdk.paicopilot20250731.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e1246e79-1763-4f89-8b78-f81d6347f8c8",
+      "commitTimeStamp": "2025-11-27T17:24:35.2235898Z",
+      "nuget:id": "AlibabaCloud.SDK.PAICopilot20250731",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.stlogginginterface.bpl.x64.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.STLoggingInterface.bpl.x64",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.camipc.coordinatesystem.bpl.x64.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.CAMIPC.CoordinateSystem.bpl.x64",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.pathaliasesinterface.bpl.x64.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.PathAliasesInterface.bpl.x64",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.camipc.applicationmainform.bpl.x64.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.CAMIPC.ApplicationMainForm.bpl.x64",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.camapi.applicationmainform.bpl.x64.2.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.CAMAPI.ApplicationMainForm.bpl.x64",
+      "nuget:version": "2.0.8+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.camipc.cloudsapp.bpl.x64.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.CAMIPC.CloudsApp.bpl.x64",
+      "nuget:version": "2.0.2+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/parcelhub.courier.data.access.1.0.157.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "ParcelHub.Courier.Data.Access",
+      "nuget:version": "1.0.157"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.camipc.simulator.bpl.x64.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.CAMIPC.Simulator.bpl.x64",
+      "nuget:version": "2.1.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.camipc.surfacetypes.bpl.x64.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.CAMIPC.SurfaceTypes.bpl.x64",
+      "nuget:version": "2.1.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.camapi.mcdformertypes.bpl.x64.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.CAMAPI.MCDFormerTypes.bpl.x64",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.camipc.extensionmanager.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.CAMIPC.ExtensionManager.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.assemblyloadertypes.bpl.x64.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.AssemblyLoaderTypes.bpl.x64",
+      "nuget:version": "2.0.1+4f729641c7e48beee377a945214d512f1cef4b8e"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.camapi.uidialogs.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.CAMAPI.UIDialogs.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.camapi.toolslist.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.CAMAPI.ToolsList.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.stgeomapitypes.bpl.x64.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.STGeomApiTypes.bpl.x64",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.camapi.simulator.bpl.x64.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.CAMAPI.Simulator.bpl.x64",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.camipc.helper.bpl.x64.2.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.CAMIPC.Helper.bpl.x64",
+      "nuget:version": "2.0.8+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.camapi.meshtypes.bpl.x64.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.CAMAPI.MeshTypes.bpl.x64",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.camipc.project.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.CAMIPC.Project.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.56/encysoftware.camapi.coordinatesystem.bpl.x64.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "da3f17a1-fb11-490a-922c-f5d9e70d5f2f",
+      "commitTimeStamp": "2025-11-27T17:23:56.2150647Z",
+      "nuget:id": "EncySoftware.CAMAPI.CoordinateSystem.bpl.x64",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camapi.techsolvers.bpl.x64.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMAPI.TechSolvers.bpl.x64",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camipc.geomimporter.bpl.x64.2.2.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMIPC.GeomImporter.bpl.x64",
+      "nuget:version": "2.2.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.stcustomproptypes.bpl.x64.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.STCustomPropTypes.bpl.x64",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camipc.modelformertypes.bpl.x64.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMIPC.ModelFormerTypes.bpl.x64",
+      "nuget:version": "2.1.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camipc.tools.bpl.x64.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMIPC.Tools.bpl.x64",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camipc.techoperation.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMIPC.TechOperation.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.appstarterinterface.bpl.x64.2.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.AppStarterInterface.bpl.x64",
+      "nuget:version": "2.0.3+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camapi.delphihelper.x64.2.0.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMAPI.DelphiHelper.x64",
+      "nuget:version": "2.0.11+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camapi.modelformertypes.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMAPI.ModelFormerTypes.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camipc.geomlibrary.bpl.x64.2.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMIPC.GeomLibrary.bpl.x64",
+      "nuget:version": "2.2.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camipc.application.bpl.x64.2.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMIPC.Application.bpl.x64",
+      "nuget:version": "2.0.8+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camipc.partstage.bpl.x64.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMIPC.PartStage.bpl.x64",
+      "nuget:version": "2.1.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camipc.technologist.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMIPC.Technologist.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camapi.geomimporter.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMAPI.GeomImporter.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camapi.utilities.bpl.x64.2.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMAPI.Utilities.bpl.x64",
+      "nuget:version": "2.0.4+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camipc.technologyform.bpl.x64.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMIPC.TechnologyForm.bpl.x64",
+      "nuget:version": "2.0.2+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camipc.toolslist.bpl.x64.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMIPC.ToolsList.bpl.x64",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camipc.functionaltest.bpl.x64.2.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMIPC.FunctionalTest.bpl.x64",
+      "nuget:version": "2.0.3+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camapi.surfacetypes.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMAPI.SurfaceTypes.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.23.20/encysoftware.camipc.snapshot.bpl.x64.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66ccbedc-359b-41e8-817a-ad96a8c77d64",
+      "commitTimeStamp": "2025-11-27T17:23:20.3859604Z",
+      "nuget:id": "EncySoftware.CAMIPC.Snapshot.bpl.x64",
+      "nuget:version": "2.0.2+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camapi.machine.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMAPI.Machine.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camapi.sdk.bpl.x64.2.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMAPI.SDK.bpl.x64",
+      "nuget:version": "2.0.12+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camipc.curvetypes.bpl.x64.2.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMIPC.CurveTypes.bpl.x64",
+      "nuget:version": "2.2.5+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camapi.machine.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMAPI.Machine.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camapi.extensions.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMAPI.Extensions.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camapi.geomlibrary.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMAPI.GeomLibrary.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camipc.ncmaker.bpl.x64.2.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMIPC.NCMaker.bpl.x64",
+      "nuget:version": "2.0.3+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camapi.geommodel.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMAPI.GeomModel.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camipc.primeviewmodel.bpl.x64.2.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMIPC.PrimeViewModel.bpl.x64",
+      "nuget:version": "2.0.4+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camapi.singletons.bpl.x64.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMAPI.Singletons.bpl.x64",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camapi.machineconfiguration.bpl.x64.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMAPI.MachineConfiguration.bpl.x64",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/soenneker.libraries.ffprobe.4.0.732.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "Soenneker.Libraries.ffprobe",
+      "nuget:version": "4.0.732"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camapi.project.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMAPI.Project.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.machinigtoolsimporttypes.bpl.x64.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.MachinigToolsImportTypes.bpl.x64",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camipc.surfacetypes.tlb.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMIPC.SurfaceTypes.tlb",
+      "nuget:version": "2.1.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camipc.mcdformertypes.bpl.x64.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMIPC.MCDFormerTypes.bpl.x64",
+      "nuget:version": "2.1.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camipc.meshtypes.bpl.x64.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMIPC.MeshTypes.bpl.x64",
+      "nuget:version": "2.1.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camipc.extension.plm.bpl.x64.2.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMIPC.Extension.PLM.bpl.x64",
+      "nuget:version": "2.2.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camapi.snapshot.bpl.x64.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMAPI.Snapshot.bpl.x64",
+      "nuget:version": "2.0.2+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.40/encysoftware.camapi.extension.plm.bpl.x64.2.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "92edfbc0-1062-450d-a0a6-4ea1dc743938",
+      "commitTimeStamp": "2025-11-27T17:22:40.9528913Z",
+      "nuget:id": "EncySoftware.CAMAPI.Extension.PLM.bpl.x64",
+      "nuget:version": "2.0.3+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/goreadydatamodelbase.20251127.1717.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "GoReadyDataModelBase",
+      "nuget:version": "20251127.1717.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camipc.technologyform.tlb.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMIPC.TechnologyForm.tlb",
+      "nuget:version": "2.0.2+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camapi.workpiece.bpl.x64.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMAPI.Workpiece.bpl.x64",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camipc.project.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMIPC.Project.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camapi.techoperation.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMAPI.TechOperation.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camipc.applicationmainform.tlb.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMIPC.ApplicationMainForm.tlb",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.stxmlproptypes.bpl.x64.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.STXMLPropTypes.bpl.x64",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camipc.utilities.bpl.x64.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMIPC.Utilities.bpl.x64",
+      "nuget:version": "2.0.2+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.stlogginginterface.tlb.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.STLoggingInterface.tlb",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camipc.workpiece.bpl.x64.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMIPC.Workpiece.bpl.x64",
+      "nuget:version": "2.1.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camipc.machineconfiguration.bpl.x64.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMIPC.MachineConfiguration.bpl.x64",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camipc.toolslist.tlb.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMIPC.ToolsList.tlb",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camipc.sdk.tlb.2.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMIPC.SDK.tlb",
+      "nuget:version": "2.0.12+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camipc.snapshot.tlb.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMIPC.Snapshot.tlb",
+      "nuget:version": "2.0.2+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camipc.machine.bpl.x64.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMIPC.Machine.bpl.x64",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camapi.curvetypes.bpl.x64.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMAPI.CurveTypes.bpl.x64",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camapi.meshtypes.tlb.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMAPI.MeshTypes.tlb",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camipc.ncmaker.tlb.2.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMIPC.NCMaker.tlb",
+      "nuget:version": "2.0.3+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camapi.machineslibrary.tlb.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMAPI.MachinesLibrary.tlb",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.22.03/encysoftware.camipc.cloudsapp.tlb.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8a7aa482-d3ab-40d3-95c0-3841fa4a144f",
+      "commitTimeStamp": "2025-11-27T17:22:03.027071Z",
+      "nuget:id": "EncySoftware.CAMIPC.CloudsApp.tlb",
+      "nuget:version": "2.0.2+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camipc.geomimporter.tlb.2.2.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMIPC.GeomImporter.tlb",
+      "nuget:version": "2.2.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.machinigtoolsimporttypes.tlb.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.MachinigToolsImportTypes.tlb",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camapi.singletons.tlb.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMAPI.Singletons.tlb",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camapi.workpiece.tlb.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMAPI.Workpiece.tlb",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camapi.toolslist.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMAPI.ToolsList.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camapi.geomlibrary.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMAPI.GeomLibrary.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camipc.geommodel.tlb.2.2.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMIPC.GeomModel.tlb",
+      "nuget:version": "2.2.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camipc.geomlibrary.tlb.2.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMIPC.GeomLibrary.tlb",
+      "nuget:version": "2.2.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camipc.helper.tlb.2.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMIPC.Helper.tlb",
+      "nuget:version": "2.0.8+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camipc.machineslibrary.tlb.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMIPC.MachinesLibrary.tlb",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camapi.uidialogs.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMAPI.UIDialogs.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camapi.utilities.tlb.2.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMAPI.Utilities.tlb",
+      "nuget:version": "2.0.4+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camapi.application.tlb.2.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMAPI.Application.tlb",
+      "nuget:version": "2.0.8+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camipc.curvetypes.tlb.2.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMIPC.CurveTypes.tlb",
+      "nuget:version": "2.2.5+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camapi.snapshot.tlb.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMAPI.Snapshot.tlb",
+      "nuget:version": "2.0.2+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camipc.extensionmanager.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMIPC.ExtensionManager.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.sttypes.bpl.x64.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.STTypes.bpl.x64",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camipc.coordinatesystem.tlb.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMIPC.CoordinateSystem.tlb",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/encysoftware.camipc.ipcinteraction.tlb.2.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "EncySoftware.CAMIPC.IpcInteraction.tlb",
+      "nuget:version": "2.0.4+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.21.26/buildbase.dataefcore.6.0.2.380.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2832bc1f-dbc9-413e-9ef3-a46161eb9085",
+      "commitTimeStamp": "2025-11-27T17:21:26.4543443Z",
+      "nuget:id": "BuildBase.DataEFCore",
+      "nuget:version": "6.0.2.380"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camapi.extension.plm.tlb.2.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMAPI.Extension.PLM.tlb",
+      "nuget:version": "2.0.3+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camipc.mcdformertypes.tlb.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMIPC.MCDFormerTypes.tlb",
+      "nuget:version": "2.1.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.stxmlproptypes.tlb.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.STXMLPropTypes.tlb",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camapi.techsolvers.tlb.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMAPI.TechSolvers.tlb",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camipc.utilities.tlb.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMIPC.Utilities.tlb",
+      "nuget:version": "2.0.2+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.assemblyloadertypes.tlb.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.AssemblyLoaderTypes.tlb",
+      "nuget:version": "2.0.1+4f729641c7e48beee377a945214d512f1cef4b8e"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camapi.curvetypes.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMAPI.CurveTypes.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camipc.workpiece.tlb.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMIPC.Workpiece.tlb",
+      "nuget:version": "2.1.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camipc.technologist.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMIPC.Technologist.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camipc.machine.tlb.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMIPC.Machine.tlb",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.stcustomproptypes.tlb.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.STCustomPropTypes.tlb",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camapi.mcdformertypes.tlb.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMAPI.MCDFormerTypes.tlb",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camapi.machineconfiguration.tlb.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMAPI.MachineConfiguration.tlb",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camipc.extension.plm.tlb.2.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMIPC.Extension.PLM.tlb",
+      "nuget:version": "2.2.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camipc.machineconfiguration.net.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMIPC.MachineConfiguration.Net",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/soenneker.libraries.ffplay.4.0.340.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "Soenneker.Libraries.FFplay",
+      "nuget:version": "4.0.340"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camapi.technologist.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMAPI.Technologist.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camapi.geompicker.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMAPI.GeomPicker.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camapi.surfacetypes.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMAPI.SurfaceTypes.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.49/encysoftware.camipc.application.tlb.2.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec871bb0-2c54-4061-b6b5-3dca495e99b8",
+      "commitTimeStamp": "2025-11-27T17:20:49.4381986Z",
+      "nuget:id": "EncySoftware.CAMIPC.Application.tlb",
+      "nuget:version": "2.0.8+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camapi.simulator.tlb.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMAPI.Simulator.tlb",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camipc.partstage.tlb.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMIPC.PartStage.tlb",
+      "nuget:version": "2.1.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camapi.applicationmainform.tlb.2.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMAPI.ApplicationMainForm.tlb",
+      "nuget:version": "2.0.8+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.stgeomapitypes.tlb.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.STGeomApiTypes.tlb",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camapi.technologyform.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMAPI.TechnologyForm.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camapi.project.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMAPI.Project.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.pathaliasesinterface.tlb.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.PathAliasesInterface.tlb",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camipc.toolslist.net.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMIPC.ToolsList.Net",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camipc.meshtypes.tlb.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMIPC.MeshTypes.tlb",
+      "nuget:version": "2.1.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camipc.techoperation.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMIPC.TechOperation.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camipc.functionaltest.tlb.2.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMIPC.FunctionalTest.tlb",
+      "nuget:version": "2.0.3+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camapi.extensions.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMAPI.Extensions.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camapi.partstage.tlb.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMAPI.PartStage.tlb",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camapi.techsolvers.net.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMAPI.TechSolvers.Net",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.appstarterinterface.tlb.2.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.AppStarterInterface.tlb",
+      "nuget:version": "2.0.3+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camapi.geommodel.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMAPI.GeomModel.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camipc.primeviewmodel.tlb.2.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMIPC.PrimeViewModel.tlb",
+      "nuget:version": "2.0.4+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camipc.machineconfiguration.tlb.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMIPC.MachineConfiguration.tlb",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camapi.geomimporter.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMAPI.GeomImporter.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.20.12/encysoftware.camipc.simulator.tlb.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "766fa4b0-b62f-4ebf-a683-41ae9cb0f77f",
+      "commitTimeStamp": "2025-11-27T17:20:12.4128549Z",
+      "nuget:id": "EncySoftware.CAMIPC.Simulator.tlb",
+      "nuget:version": "2.1.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camipc.dotnethelper.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMIPC.DotnetHelper",
+      "nuget:version": "2.0.0+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.pathaliasesinterface.net.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.PathAliasesInterface.Net",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camapi.partstage.net.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMAPI.PartStage.Net",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.assemblyloadertypes.net.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.AssemblyLoaderTypes.Net",
+      "nuget:version": "2.0.1+4f729641c7e48beee377a945214d512f1cef4b8e"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camapi.modelformertypes.tlb.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMAPI.ModelFormerTypes.tlb",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camipc.modelformertypes.tlb.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMIPC.ModelFormerTypes.tlb",
+      "nuget:version": "2.1.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camipc.ncmaker.net.2.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMIPC.NCMaker.Net",
+      "nuget:version": "2.0.3+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camipc.helper.net.2.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMIPC.Helper.Net",
+      "nuget:version": "2.0.8+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.sttypes.tlb.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.STTypes.tlb",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camapi.mcdformertypes.net.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMAPI.MCDFormerTypes.Net",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camipc.extensionmanager.net.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMIPC.ExtensionManager.Net",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camipc.geommodel.net.2.2.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMIPC.GeomModel.Net",
+      "nuget:version": "2.2.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camipc.tools.tlb.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMIPC.Tools.tlb",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camipc.cloudsapp.net.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMIPC.CloudsApp.Net",
+      "nuget:version": "2.0.2+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camapi.toolslist.net.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMAPI.ToolsList.Net",
+      "nuget:version": "2.0.7+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camipc.extension.plm.net.2.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMIPC.Extension.PLM.Net",
+      "nuget:version": "2.2.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camipc.machineslibrary.net.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMIPC.MachinesLibrary.Net",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camipc.functionaltest.net.2.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMIPC.FunctionalTest.Net",
+      "nuget:version": "2.0.3+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.machinigtoolsimporttypes.net.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.MachinigToolsImportTypes.Net",
+      "nuget:version": "2.0.6+71139413e2b534eb844bccb84805b7effb9863a2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.11.27.17.19.35/encysoftware.camapi.coordinatesystem.tlb.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38b26109-d045-4be1-afc8-f2527ce3adda",
+      "commitTimeStamp": "2025-11-27T17:19:35.7059458Z",
+      "nuget:id": "EncySoftware.CAMAPI.CoordinateSystem.tlb",
+      "nuget:version": "2.0.1+71139413e2b534eb844bccb84805b7effb9863a2"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
