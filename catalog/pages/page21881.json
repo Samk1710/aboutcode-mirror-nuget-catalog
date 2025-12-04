@@ -1,0 +1,585 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21881.json",
+  "@type": "CatalogPage",
+  "commitId": "2d06c44f-73ec-47cd-b9e4-5bd43552a765",
+  "commitTimeStamp": "2025-12-04T10:08:34.8848482Z",
+  "count": 69,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.08.34/aerx.memcached.3.2.3-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2d06c44f-73ec-47cd-b9e4-5bd43552a765",
+      "commitTimeStamp": "2025-12-04T10:08:34.8848482Z",
+      "nuget:id": "Aerx.Memcached",
+      "nuget:version": "3.2.3-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.55/azure.resourcemanager.network.1.14.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ea6777cc-2ce8-41a3-9bd2-fe090b9ca635",
+      "commitTimeStamp": "2025-12-04T10:07:55.69801Z",
+      "nuget:id": "Azure.ResourceManager.Network",
+      "nuget:version": "1.14.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.55/aerx.consistenthash.3.2.3-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ea6777cc-2ce8-41a3-9bd2-fe090b9ca635",
+      "commitTimeStamp": "2025-12-04T10:07:55.69801Z",
+      "nuget:id": "Aerx.ConsistentHash",
+      "nuget:version": "3.2.3-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.55/es.fx.ignite.migrations.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ea6777cc-2ce8-41a3-9bd2-fe090b9ca635",
+      "commitTimeStamp": "2025-12-04T10:07:55.69801Z",
+      "nuget:id": "ES.FX.Ignite.Migrations",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.55/es.fx.ignite.swashbuckle.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ea6777cc-2ce8-41a3-9bd2-fe090b9ca635",
+      "commitTimeStamp": "2025-12-04T10:07:55.69801Z",
+      "nuget:id": "ES.FX.Ignite.Swashbuckle",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.55/aerx.memcached.client.3.2.3-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ea6777cc-2ce8-41a3-9bd2-fe090b9ca635",
+      "commitTimeStamp": "2025-12-04T10:07:55.69801Z",
+      "nuget:id": "Aerx.Memcached.Client",
+      "nuget:version": "3.2.3-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.17/es.fx.ignite.spark.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61c51641-298f-4032-aac1-1eef3f19e116",
+      "commitTimeStamp": "2025-12-04T10:07:17.3216651Z",
+      "nuget:id": "ES.FX.Ignite.Spark",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.17/es.fx.ignite.nswag.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61c51641-298f-4032-aac1-1eef3f19e116",
+      "commitTimeStamp": "2025-12-04T10:07:17.3216651Z",
+      "nuget:id": "ES.FX.Ignite.NSwag",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.17/es.fx.ignite.kubernetesclient.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61c51641-298f-4032-aac1-1eef3f19e116",
+      "commitTimeStamp": "2025-12-04T10:07:17.3216651Z",
+      "nuget:id": "ES.FX.Ignite.KubernetesClient",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.17/es.fx.additions.system.text.json.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61c51641-298f-4032-aac1-1eef3f19e116",
+      "commitTimeStamp": "2025-12-04T10:07:17.3216651Z",
+      "nuget:id": "ES.FX.Additions.System.Text.Json",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.17/es.fx.transactionaloutbox.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61c51641-298f-4032-aac1-1eef3f19e116",
+      "commitTimeStamp": "2025-12-04T10:07:17.3216651Z",
+      "nuget:id": "ES.FX.TransactionalOutbox",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.17/es.fx.additions.masstransit.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61c51641-298f-4032-aac1-1eef3f19e116",
+      "commitTimeStamp": "2025-12-04T10:07:17.3216651Z",
+      "nuget:id": "ES.FX.Additions.MassTransit",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.17/es.fx.additions.masstransit.rabbitmq.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61c51641-298f-4032-aac1-1eef3f19e116",
+      "commitTimeStamp": "2025-12-04T10:07:17.3216651Z",
+      "nuget:id": "ES.FX.Additions.MassTransit.RabbitMQ",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.17/es.fx.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61c51641-298f-4032-aac1-1eef3f19e116",
+      "commitTimeStamp": "2025-12-04T10:07:17.3216651Z",
+      "nuget:id": "ES.FX",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.17/es.fx.ignite.opentelemetry.exporter.seq.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61c51641-298f-4032-aac1-1eef3f19e116",
+      "commitTimeStamp": "2025-12-04T10:07:17.3216651Z",
+      "nuget:id": "ES.FX.Ignite.OpenTelemetry.Exporter.Seq",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.17/es.fx.ignite.microsoft.data.sqlclient.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61c51641-298f-4032-aac1-1eef3f19e116",
+      "commitTimeStamp": "2025-12-04T10:07:17.3216651Z",
+      "nuget:id": "ES.FX.Ignite.Microsoft.Data.SqlClient",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.17/es.fx.ignite.serilog.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61c51641-298f-4032-aac1-1eef3f19e116",
+      "commitTimeStamp": "2025-12-04T10:07:17.3216651Z",
+      "nuget:id": "ES.FX.Ignite.Serilog",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.17/es.fx.additions.newtonsoft.json.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61c51641-298f-4032-aac1-1eef3f19e116",
+      "commitTimeStamp": "2025-12-04T10:07:17.3216651Z",
+      "nuget:id": "ES.FX.Additions.Newtonsoft.Json",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.07.17/es.fx.additions.microsoft.extensions.diagnostics.healthchecks.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "61c51641-298f-4032-aac1-1eef3f19e116",
+      "commitTimeStamp": "2025-12-04T10:07:17.3216651Z",
+      "nuget:id": "ES.FX.Additions.Microsoft.Extensions.Diagnostics.HealthChecks",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.transactionaloutbox.entityframeworkcore.sqlserver.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.TransactionalOutbox.EntityFrameworkCore.SqlServer",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.ignite.microsoft.entityframeworkcore.sqlserver.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.Ignite.Microsoft.EntityFrameworkCore.SqlServer",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.ignite.stackexchange.redis.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.Ignite.StackExchange.Redis",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.transactionaloutbox.entityframeworkcore.mysql.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.TransactionalOutbox.EntityFrameworkCore.MySql",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.transactionaloutbox.entityframeworkcore.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.TransactionalOutbox.EntityFrameworkCore",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.additions.mediatr.contracts.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.Additions.MediatR.Contracts",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.additions.fluentvalidation.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.Additions.FluentValidation",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.additions.microsoft.extensions.identity.core.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.Additions.Microsoft.Extensions.Identity.Core",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.additions.microsoft.entityframeworkcore.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.Additions.Microsoft.EntityFrameworkCore",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.additions.microsoft.data.sqlclient.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.Additions.Microsoft.Data.SqlClient",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.additions.microsoft.entityframeworkcore.sqlserver.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.Additions.Microsoft.EntityFrameworkCore.SqlServer",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.hosting.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.Hosting",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.additions.oneof.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.Additions.OneOf",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.transactionaloutbox.masstransit.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.TransactionalOutbox.MassTransit",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.transactionaloutbox.entityframeworkcore.postgresql.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.TransactionalOutbox.EntityFrameworkCore.PostgreSql",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.ignite.azure.common.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.Ignite.Azure.Common",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.ignite.azure.security.keyvault.secrets.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.Ignite.Azure.Security.KeyVault.Secrets",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.migrations.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.Migrations",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.additions.nswag.aspnetcore.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.Additions.NSwag.AspNetCore",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.40/es.fx.additions.masstransit.mediatr.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e87a446-c04f-4525-9c29-6a0adaa07c54",
+      "commitTimeStamp": "2025-12-04T10:06:40.7606861Z",
+      "nuget:id": "ES.FX.Additions.MassTransit.MediatR",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/es.fx.additions.mediatr.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "ES.FX.Additions.MediatR",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/parlem.provisioning.adamo.facade.8.0.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "Parlem.Provisioning.Adamo.Facade",
+      "nuget:version": "8.0.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/es.fx.additions.stackexchange.redis.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "ES.FX.Additions.StackExchange.Redis",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/es.fx.ignite.azure.data.tables.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "ES.FX.Ignite.Azure.Data.Tables",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/es.fx.additions.asp.versioning.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "ES.FX.Additions.Asp.Versioning",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/es.fx.additions.serilog.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "ES.FX.Additions.Serilog",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/es.fx.additions.kubernetesclient.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "ES.FX.Additions.KubernetesClient",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/es.fx.ignite.microsoft.entityframeworkcore.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "ES.FX.Ignite.Microsoft.EntityFrameworkCore",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/es.fx.ignite.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "ES.FX.Ignite",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/es.fx.additions.microsoft.aspnetcore.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "ES.FX.Additions.Microsoft.AspNetCore",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/es.fx.additions.aspnetcore.healthchecks.ui.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "ES.FX.Additions.AspNetCore.HealthChecks.UI",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/es.fx.ignite.azure.storage.blobs.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "ES.FX.Ignite.Azure.Storage.Blobs",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/es.fx.ignite.asp.versioning.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "ES.FX.Ignite.Asp.Versioning",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/es.fx.ignite.fluentvalidation.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "ES.FX.Ignite.FluentValidation",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/es.fx.ignite.azure.storage.queues.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "ES.FX.Ignite.Azure.Storage.Queues",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.06.02/es.fx.ignite.aspnetcore.healthchecks.ui.9.1.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1081d0ae-5093-4742-8e32-331b7dde4d83",
+      "commitTimeStamp": "2025-12-04T10:06:02.6339486Z",
+      "nuget:id": "ES.FX.Ignite.AspNetCore.HealthChecks.UI",
+      "nuget:version": "9.1.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.05.21/flowvisualstudio.3.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "095f6df8-17a5-4ff8-a58d-1e6eaba7a180",
+      "commitTimeStamp": "2025-12-04T10:05:21.8839524Z",
+      "nuget:id": "FlowVisualStudio",
+      "nuget:version": "3.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.05.21/cargowisexubextractor.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "095f6df8-17a5-4ff8-a58d-1e6eaba7a180",
+      "commitTimeStamp": "2025-12-04T10:05:21.8839524Z",
+      "nuget:id": "CargoWiseXUBExtractor",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.04.39/toolssharp.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db070c2e-b2e7-4850-95ab-47d7bf02e6ee",
+      "commitTimeStamp": "2025-12-04T10:04:39.9284234Z",
+      "nuget:id": "ToolsSharp",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.04.39/pulumiverse.scaleway.1.39.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db070c2e-b2e7-4850-95ab-47d7bf02e6ee",
+      "commitTimeStamp": "2025-12-04T10:04:39.9284234Z",
+      "nuget:id": "Pulumiverse.Scaleway",
+      "nuget:version": "1.39.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.04.39/llmtornado.a2a.1.0.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db070c2e-b2e7-4850-95ab-47d7bf02e6ee",
+      "commitTimeStamp": "2025-12-04T10:04:39.9284234Z",
+      "nuget:id": "LlmTornado.A2A",
+      "nuget:version": "1.0.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.04.01/llmtornado.microsoft.extensions.ai.1.1.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8c3b190d-3704-4144-91e6-63ba460daf36",
+      "commitTimeStamp": "2025-12-04T10:04:01.551587Z",
+      "nuget:id": "LlmTornado.Microsoft.Extensions.AI",
+      "nuget:version": "1.1.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.04.01/alpha.google.cloud.spanner.dataprovider.1.0.0-alpha.20251204100036.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8c3b190d-3704-4144-91e6-63ba460daf36",
+      "commitTimeStamp": "2025-12-04T10:04:01.551587Z",
+      "nuget:id": "Alpha.Google.Cloud.Spanner.DataProvider",
+      "nuget:version": "1.0.0-alpha.20251204100036"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.03.23/llmtornado.agents.samples.1.0.18.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "06ce35c4-7419-41aa-a15b-daddbd1aafcc",
+      "commitTimeStamp": "2025-12-04T10:03:23.0226063Z",
+      "nuget:id": "LlmTornado.Agents.Samples",
+      "nuget:version": "1.0.18"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.03.23/llmtornado.3.8.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "06ce35c4-7419-41aa-a15b-daddbd1aafcc",
+      "commitTimeStamp": "2025-12-04T10:03:23.0226063Z",
+      "nuget:id": "LlmTornado",
+      "nuget:version": "3.8.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.03.23/llmtornado.agents.1.0.25.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "06ce35c4-7419-41aa-a15b-daddbd1aafcc",
+      "commitTimeStamp": "2025-12-04T10:03:23.0226063Z",
+      "nuget:id": "LlmTornado.Agents",
+      "nuget:version": "1.0.25"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.02.46/alpha.google.cloud.spannerlib.native.1.0.0-alpha.20251204095325.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7e487d1-8e99-4dbf-927a-a6268db7a673",
+      "commitTimeStamp": "2025-12-04T10:02:46.4527393Z",
+      "nuget:id": "Alpha.Google.Cloud.SpannerLib.Native",
+      "nuget:version": "1.0.0-alpha.20251204095325"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.02.46/llmtornado.mcp.1.1.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7e487d1-8e99-4dbf-927a-a6268db7a673",
+      "commitTimeStamp": "2025-12-04T10:02:46.4527393Z",
+      "nuget:id": "LlmTornado.Mcp",
+      "nuget:version": "1.1.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.02.46/ltc.electronnet.cli.win7.1.0.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7e487d1-8e99-4dbf-927a-a6268db7a673",
+      "commitTimeStamp": "2025-12-04T10:02:46.4527393Z",
+      "nuget:id": "LTC.ElectronNET.CLI.WIN7",
+      "nuget:version": "1.0.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.04.10.02.46/kapela.tools.pluginsmanager.0.10.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a7e487d1-8e99-4dbf-927a-a6268db7a673",
+      "commitTimeStamp": "2025-12-04T10:02:46.4527393Z",
+      "nuget:id": "Kapela.Tools.PluginsManager",
+      "nuget:version": "0.10.2"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
