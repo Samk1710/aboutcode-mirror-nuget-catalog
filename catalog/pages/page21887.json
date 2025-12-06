@@ -1,0 +1,1521 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page21887.json",
+  "@type": "CatalogPage",
+  "commitId": "2ee5d29c-11a0-4674-91d7-4d9469d0bfbc",
+  "commitTimeStamp": "2025-12-06T20:06:58.3199694Z",
+  "count": 186,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.58/annium.data.models.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2ee5d29c-11a0-4674-91d7-4d9469d0bfbc",
+      "commitTimeStamp": "2025-12-06T20:06:58.3199694Z",
+      "nuget:id": "Annium.Data.Models",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.58/annium.core.mapper.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2ee5d29c-11a0-4674-91d7-4d9469d0bfbc",
+      "commitTimeStamp": "2025-12-06T20:06:58.3199694Z",
+      "nuget:id": "Annium.Core.Mapper",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.58/annium.configuration.commandline.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2ee5d29c-11a0-4674-91d7-4d9469d0bfbc",
+      "commitTimeStamp": "2025-12-06T20:06:58.3199694Z",
+      "nuget:id": "Annium.Configuration.CommandLine",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.58/wjb.0.8.0-beta1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2ee5d29c-11a0-4674-91d7-4d9469d0bfbc",
+      "commitTimeStamp": "2025-12-06T20:06:58.3199694Z",
+      "nuget:id": "WJb",
+      "nuget:version": "0.8.0-beta1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.core.dependencyinjection.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Core.DependencyInjection",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.core.runtime.loader.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Core.Runtime.Loader",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.logging.console.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Logging.Console",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.identity.tokens.jwt.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Identity.Tokens.Jwt",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.configuration.abstractions.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Configuration.Abstractions",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.serialization.yaml.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Serialization.Yaml",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.net.base.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Net.Base",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.configuration.json.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Configuration.Json",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.identity.tokens.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Identity.Tokens",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.data.operations.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Data.Operations",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.extensions.pooling.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Extensions.Pooling",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.net.sockets.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Net.Sockets",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.serialization.abstractions.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Serialization.Abstractions",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.analyzers.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Analyzers",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.localization.abstractions.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Localization.Abstractions",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.architecture.base.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Architecture.Base",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.configuration.yaml.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Configuration.Yaml",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.logging.xunit.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Logging.Xunit",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.extensions.arguments.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Extensions.Arguments",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.06.20/annium.data.operations.testing.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33501f98-a0ee-4890-98d9-99a1bf7b153c",
+      "commitTimeStamp": "2025-12-06T20:06:20.8662649Z",
+      "nuget:id": "Annium.Data.Operations.Testing",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.extensions.validation.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Extensions.Validation",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.net.types.serialization.json.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Net.Types.Serialization.Json",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.net.servers.web.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Net.Servers.Web",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.extensions.shell.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Extensions.Shell",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.localization.yaml.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Localization.Yaml",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.data.operations.serialization.json.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Data.Operations.Serialization.Json",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.architecture.cqrs.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Architecture.CQRS",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.extensions.reactive.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Extensions.Reactive",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.execution.flow.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Execution.Flow",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.architecture.http.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Architecture.Http",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.logging.inmemory.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Logging.InMemory",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.extensions.commandline.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Extensions.CommandLine",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.core.entrypoint.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Core.Entrypoint",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.core.mediator.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Core.Mediator",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.net.mail.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Net.Mail",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.net.servers.sockets.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Net.Servers.Sockets",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.execution.background.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Execution.Background",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/befusnet.sql.1.0.8.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "BefusNET.SQL",
+      "nuget:version": "1.0.8.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.graylog.logging.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Graylog.Logging",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.45/annium.net.http.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb9018ea-1b64-4652-aa11-c73700dd2447",
+      "commitTimeStamp": "2025-12-06T20:05:45.2470932Z",
+      "nuget:id": "Annium.Net.Http",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.extensions.jobs.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.Extensions.Jobs",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.data.tables.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.Data.Tables",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.net.websockets.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.Net.WebSockets",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.extensions.workers.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.Extensions.Workers",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.nodatime.serialization.json.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.NodaTime.Serialization.Json",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.data.operations.serialization.messagepack.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.Data.Operations.Serialization.MessagePack",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.core.runtime.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.Core.Runtime",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/befusnet.asp.1.0.8.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "BefusNET.ASP",
+      "nuget:version": "1.0.8.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.architecture.viewmodel.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.Architecture.ViewModel",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.net.types.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.Net.Types",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/befusnet.weather.1.0.8.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "BefusNET.Weather",
+      "nuget:version": "1.0.8.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.serialization.json.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.Serialization.Json",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.seq.logging.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.Seq.Logging",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.architecture.mediator.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.Architecture.Mediator",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.testing.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.Testing",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.logging.microsoft.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.Logging.Microsoft",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.nodatime.extensions.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.NodaTime.Extensions",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.serialization.binarystring.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.Serialization.BinaryString",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.05.09/annium.serialization.messagepack.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5847792b-ab47-4aee-a715-49debb618ede",
+      "commitTimeStamp": "2025-12-06T20:05:09.7354743Z",
+      "nuget:id": "Annium.Serialization.MessagePack",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.04.34/befusnet.excel.1.0.8.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da647f4-5484-4571-900a-6ea0d7d9546f",
+      "commitTimeStamp": "2025-12-06T20:04:34.6455673Z",
+      "nuget:id": "BefusNET.Excel",
+      "nuget:version": "1.0.8.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.04.34/annium.localization.inmemory.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da647f4-5484-4571-900a-6ea0d7d9546f",
+      "commitTimeStamp": "2025-12-06T20:04:34.6455673Z",
+      "nuget:id": "Annium.Localization.InMemory",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.04.34/annium.logging.file.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da647f4-5484-4571-900a-6ea0d7d9546f",
+      "commitTimeStamp": "2025-12-06T20:04:34.6455673Z",
+      "nuget:id": "Annium.Logging.File",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.04.34/befusnet.wpf.1.0.8.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da647f4-5484-4571-900a-6ea0d7d9546f",
+      "commitTimeStamp": "2025-12-06T20:04:34.6455673Z",
+      "nuget:id": "BefusNET.WPF",
+      "nuget:version": "1.0.8.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.04.34/befusnet.gis.1.0.8.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da647f4-5484-4571-900a-6ea0d7d9546f",
+      "commitTimeStamp": "2025-12-06T20:04:34.6455673Z",
+      "nuget:id": "BefusNET.GIS",
+      "nuget:version": "1.0.8.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.04.34/befusnet.azure.1.0.8.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da647f4-5484-4571-900a-6ea0d7d9546f",
+      "commitTimeStamp": "2025-12-06T20:04:34.6455673Z",
+      "nuget:id": "BefusNET.Azure",
+      "nuget:version": "1.0.8.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.04.34/annium.extensions.composition.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da647f4-5484-4571-900a-6ea0d7d9546f",
+      "commitTimeStamp": "2025-12-06T20:04:34.6455673Z",
+      "nuget:id": "Annium.Extensions.Composition",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.04.34/annium.logging.shared.1.1.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da647f4-5484-4571-900a-6ea0d7d9546f",
+      "commitTimeStamp": "2025-12-06T20:04:34.6455673Z",
+      "nuget:id": "Annium.Logging.Shared",
+      "nuget:version": "1.1.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.04.34/befusnet.extensions.1.0.8.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da647f4-5484-4571-900a-6ea0d7d9546f",
+      "commitTimeStamp": "2025-12-06T20:04:34.6455673Z",
+      "nuget:id": "BefusNET.Extensions",
+      "nuget:version": "1.0.8.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.04.34/dotnet-busly.0.30.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da647f4-5484-4571-900a-6ea0d7d9546f",
+      "commitTimeStamp": "2025-12-06T20:04:34.6455673Z",
+      "nuget:id": "dotnet-busly",
+      "nuget:version": "0.30.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.04.34/befusnet.identity.1.0.8.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da647f4-5484-4571-900a-6ea0d7d9546f",
+      "commitTimeStamp": "2025-12-06T20:04:34.6455673Z",
+      "nuget:id": "BefusNET.Identity",
+      "nuget:version": "1.0.8.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.04.34/befusnet.common.1.0.8.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da647f4-5484-4571-900a-6ea0d7d9546f",
+      "commitTimeStamp": "2025-12-06T20:04:34.6455673Z",
+      "nuget:id": "BefusNET.Common",
+      "nuget:version": "1.0.8.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.46/nuvtools.validation.aspnetcore.blazor.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f115f11-802a-4103-8c3d-757ba17c3e43",
+      "commitTimeStamp": "2025-12-06T20:02:46.0923873Z",
+      "nuget:id": "NuvTools.Validation.AspNetCore.Blazor",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.46/annium.execution.background.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f115f11-802a-4103-8c3d-757ba17c3e43",
+      "commitTimeStamp": "2025-12-06T20:02:46.0923873Z",
+      "nuget:id": "Annium.Execution.Background",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.46/annium.identity.tokens.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f115f11-802a-4103-8c3d-757ba17c3e43",
+      "commitTimeStamp": "2025-12-06T20:02:46.0923873Z",
+      "nuget:id": "Annium.Identity.Tokens",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.46/annium.testing.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f115f11-802a-4103-8c3d-757ba17c3e43",
+      "commitTimeStamp": "2025-12-06T20:02:46.0923873Z",
+      "nuget:id": "Annium.Testing",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.46/annium.net.servers.web.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f115f11-802a-4103-8c3d-757ba17c3e43",
+      "commitTimeStamp": "2025-12-06T20:02:46.0923873Z",
+      "nuget:id": "Annium.Net.Servers.Web",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.46/annium.extensions.commandline.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f115f11-802a-4103-8c3d-757ba17c3e43",
+      "commitTimeStamp": "2025-12-06T20:02:46.0923873Z",
+      "nuget:id": "Annium.Extensions.CommandLine",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.extensions.shell.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Extensions.Shell",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.net.types.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Net.Types",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.net.websockets.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Net.WebSockets",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.extensions.pooling.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Extensions.Pooling",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.serialization.json.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Serialization.Json",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.localization.abstractions.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Localization.Abstractions",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.seq.logging.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Seq.Logging",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.logging.microsoft.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Logging.Microsoft",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.core.mediator.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Core.Mediator",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.data.operations.testing.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Data.Operations.Testing",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.data.tables.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Data.Tables",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.core.runtime.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Core.Runtime",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.core.mapper.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Core.Mapper",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.graylog.logging.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Graylog.Logging",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.data.operations.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Data.Operations",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.extensions.validation.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Extensions.Validation",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.configuration.json.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Configuration.Json",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.net.base.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Net.Base",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.net.sockets.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Net.Sockets",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.02.07/annium.localization.inmemory.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1f3c69a9-a920-4a0a-8946-a5ef0f960553",
+      "commitTimeStamp": "2025-12-06T20:02:07.9524718Z",
+      "nuget:id": "Annium.Localization.InMemory",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.net.types.serialization.json.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Net.Types.Serialization.Json",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.identity.tokens.jwt.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Identity.Tokens.Jwt",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.analyzers.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Analyzers",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.logging.xunit.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Logging.Xunit",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.logging.file.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Logging.File",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.configuration.yaml.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Configuration.Yaml",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.data.models.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Data.Models",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.configuration.commandline.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Configuration.CommandLine",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.extensions.jobs.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Extensions.Jobs",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.data.operations.serialization.json.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Data.Operations.Serialization.Json",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.logging.inmemory.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Logging.InMemory",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.architecture.base.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Architecture.Base",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.configuration.abstractions.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Configuration.Abstractions",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.core.runtime.loader.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Core.Runtime.Loader",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.net.http.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Net.Http",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.core.dependencyinjection.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Core.DependencyInjection",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.nodatime.extensions.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.NodaTime.Extensions",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/nuvtools.validation.10.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "NuvTools.Validation",
+      "nuget:version": "10.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.01.31/annium.serialization.abstractions.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b4e8dd4-1230-4403-b5ad-d0ee06a80f9d",
+      "commitTimeStamp": "2025-12-06T20:01:31.7898887Z",
+      "nuget:id": "Annium.Serialization.Abstractions",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.extensions.reactive.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Extensions.Reactive",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.logging.shared.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Logging.Shared",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.serialization.messagepack.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Serialization.MessagePack",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.nodatime.serialization.json.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.NodaTime.Serialization.Json",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.architecture.viewmodel.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Architecture.ViewModel",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.logging.console.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Logging.Console",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.architecture.cqrs.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Architecture.CQRS",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.extensions.arguments.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Extensions.Arguments",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.serialization.binarystring.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Serialization.BinaryString",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.net.servers.sockets.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Net.Servers.Sockets",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.architecture.mediator.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Architecture.Mediator",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.net.mail.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Net.Mail",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.data.operations.serialization.messagepack.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Data.Operations.Serialization.MessagePack",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.extensions.composition.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Extensions.Composition",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.serialization.yaml.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Serialization.Yaml",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.execution.flow.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Execution.Flow",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.extensions.workers.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Extensions.Workers",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.core.entrypoint.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Core.Entrypoint",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.localization.yaml.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Localization.Yaml",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.20.00.56/annium.architecture.http.1.1.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bc3d3ff-0894-407a-ac7d-ccabf6244134",
+      "commitTimeStamp": "2025-12-06T20:00:56.0669606Z",
+      "nuget:id": "Annium.Architecture.Http",
+      "nuget:version": "1.1.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.51.13/h00n.observablevalue.0.1.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "64dabb58-b87e-426d-b26f-dbc85250f972",
+      "commitTimeStamp": "2025-12-06T19:51:13.7330642Z",
+      "nuget:id": "H00N.ObservableValue",
+      "nuget:version": "0.1.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.50.37/dotnetbrightener.infrastructure.appclientmanager.datastorage.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3be4497f-1156-4ed5-8f53-d1fd134dd7d8",
+      "commitTimeStamp": "2025-12-06T19:50:37.1883693Z",
+      "nuget:id": "DotNetBrightener.Infrastructure.AppClientManager.DataStorage",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.48.10/dotnetbrightener.securedapi.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7f28f5ed-3124-40f0-a7b7-872a79fb8263",
+      "commitTimeStamp": "2025-12-06T19:48:10.3684273Z",
+      "nuget:id": "DotNetBrightener.SecuredApi",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.48.10/webgpusharp.0.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7f28f5ed-3124-40f0-a7b7-872a79fb8263",
+      "commitTimeStamp": "2025-12-06T19:48:10.3684273Z",
+      "nuget:id": "WebGPUSharp",
+      "nuget:version": "0.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.plugins.eventpubsub.azureservicebus.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.Plugins.EventPubSub.AzureServiceBus",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.sitesettings.data.mssql.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.SiteSettings.Data.Mssql",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.dataaccess.abstractions.models.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.DataAccess.Abstractions.Models",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.cryptoengine.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.CryptoEngine",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.dataaccess.ef.postgresql.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.DataAccess.EF.PostgreSQL",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.templateengine.data.postgresql.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.TemplateEngine.Data.PostgreSql",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.notificationservice.persistent.sqlserver.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.NotificationService.Persistent.SqlServer",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.webapi.genericcrud.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.WebApi.GenericCRUD",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.notificationservice.provider.sendgrid.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.NotificationService.Provider.Sendgrid",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/mvcfrontendkit.1.0.0-preview.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "MvcFrontendKit",
+      "nuget:version": "1.0.0-preview.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.oauth.integration.google.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.OAuth.Integration.Google",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.templateengine.data.mssql.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.TemplateEngine.Data.Mssql",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.templateengine.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.TemplateEngine",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/mvcfrontendkit.cli.1.0.0-preview.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "MvcFrontendKit.Cli",
+      "nuget:version": "1.0.0-preview.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.core.backgroundtasks.dependencyinjection.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.Core.BackgroundTasks.DependencyInjection",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.oauth.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.OAuth",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.plugins.eventpubsub.dependencyinjection.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.Plugins.EventPubSub.DependencyInjection",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.pushnotification.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.PushNotification",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.pushnotification.firebaseintegration.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.PushNotification.FirebaseIntegration",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.47.32/dotnetbrightener.simpleuploadservice.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef04df85-bd54-45d5-a746-91afb9f94758",
+      "commitTimeStamp": "2025-12-06T19:47:32.9931176Z",
+      "nuget:id": "DotNetBrightener.SimpleUploadService",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.infrastructure.appclientmanager.datastorage.mssql.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.Infrastructure.AppClientManager.DataStorage.Mssql",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.websocketext.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.WebSocketExt",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.linqtosqlbuilder.npgsql.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.LinQToSqlBuilder.Npgsql",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.activitylog.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.ActivityLog",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.infrastructure.appclientmanager.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.Infrastructure.AppClientManager",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.webapp.commonshared.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.WebApp.CommonShared",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.pushnotification.dependencyinjection.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.PushNotification.DependencyInjection",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/vampirecoder.sharedutils.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "VampireCoder.SharedUtils",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.core.backgroundtasks.data.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.Core.BackgroundTasks.Data",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.core.logging.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.Core.Logging",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.multitenancy.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.MultiTenancy",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.linqtosqlbuilder.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.LinQToSqlBuilder",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.friendlyroutinglibrary.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.FriendlyRoutingLibrary",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.dataaccess.datamigration.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.DataAccess.DataMigration",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.infrastructure.appclientmanager.jwtauthentication.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.Infrastructure.AppClientManager.JwtAuthentication",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.infisicalvaultclient.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.InfisicalVaultClient",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.dataaccess.auditing.storage.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.DataAccess.Auditing.Storage",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.notificationservice.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.NotificationService",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.infrastructure.apikeyauthentication.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.Infrastructure.ApiKeyAuthentication",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2025.12.06.19.46.54/dotnetbrightener.oauth.integration.apple.2026.0.1-preview-notification-service-696.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6421669a-47bb-4fd7-a475-09f85356bad5",
+      "commitTimeStamp": "2025-12-06T19:46:54.472488Z",
+      "nuget:id": "DotNetBrightener.OAuth.Integration.Apple",
+      "nuget:version": "2026.0.1-preview-notification-service-696"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
